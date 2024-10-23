@@ -5,5 +5,3 @@ pour la création de site en groupe
 - Yifan MIAO https://github.com/IvanMiao
 - Inês Barreiros https://github.com/ines-02
 
-# this is a test
-
