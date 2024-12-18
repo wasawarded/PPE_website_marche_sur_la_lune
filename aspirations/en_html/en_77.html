@@ -1,0 +1,593 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Exploring Logic Programming for Artificial Intelligence: Alg | 106510</title>
+<meta name="keywords" content="Alireza Alazmi*, "/>
+    
+<meta name="description" content="Logic Programming (LP) stands as a cornerstone in the realm  of Artificial Intelligence (AI), offering powerful tools for knowledge  representation, reason..106510"/>
+<meta name="citation_publisher" content="Hilaris SRL" />
+<meta name="citation_journal_title" content="Avanc&eacute;es en robotique et en automatisation">
+<meta name="citation_title" content="Exploring Logic Programming for Artificial Intelligence: Algorithms and Applications">
+<meta name="citation_author" content="Alireza Alazmi" />
+<meta name="citation_year" content="">
+<meta name="citation_volume" content="13">
+<meta name="citation_issue" content="1">
+<meta name="citation_abstract" content="Logic Programming (LP) stands as a cornerstone in the realm  of Artificial Intelligence (AI), offering powerful tools for knowledge  representation, reasoning and problem-solving. This paper delves into the  intricate landscape of LP within AI, elucidating its foundational principles,  essential algorithms and diverse applications. Beginning with a primer on LP,  we traverse through its historical evolution, highlighting key milestones and  pivotal developments. Subsequently, we dissect fundamental LP paradigms, such  as Prolog, Constraint Logic Programming (CLP) and Answer Set Programming (ASP),  elucidating their unique features and operational mechanisms. The discourse  then shifts towards exploring LP algorithms, including resolution, unification  and constraint propagation, unraveling their roles in facilitating logical  inference and deduction. Through a comprehensive survey of LP applications,  ranging from expert systems and natural language processing to robotics and  bioinformatics, we underscore the versatility and efficacy of LP in addressing  real-world challenges. Moreover, we analyze contemporary trends and emerging  research directions, charting the trajectory of LP's evolution amidst the  ever-expanding landscape of AI. By shedding light on LP's theoretical  underpinnings, algorithmic intricacies and practical implications, this paper  aims to provide a holistic understanding of its significance in shaping the  future of AI.">
+<meta name="citation_abstract_html_url" content="https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html">
+<!-- Bootstrap CSS -->
+<link rel="alternate" href="https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" hreflang="fr-FR"/>
+<link rel="canonical" href="https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html">
+<meta name="google-site-verification" content="oWMEafdcaiOzLHBHrMgGBwtQrvUtl_diAl2cELZt1Ks" />
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<meta name="googlebot" content="INDEX,FOLLOW">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
+<!-- Global CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css">
+<link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="/assets/css/jquery.mCustomScrollbar.min.css">
+<link rel="stylesheet" href="/assets/css/global.css">
+<link rel="stylesheet" href="/assets/css/styles.css">
+<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="/assets/css/author.css">
+<link rel="stylesheet" href="/assets/css/coolautosuggest.css">
+<link rel="icon" href="/assets/img/favicon.ico" type="image/gif" sizes="16x16">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156021785-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CTGFKE6D7B');
+</script></head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light py-3">
+    <div class="container">
+    <a class="navbar-brand d-smd-none" href="https://french.hilarispublisher.com/" title="Cliquez ici"><img src="/assets/img/hilaris-publisher.svg" alt=".." title="Cliquez ici" height="40px"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarJrnlMain" aria-controls="navbarJrnlMain" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarJrnlMain">
+        <div class="navbar-nav mr-auto">
+            <a class="nav-item nav-link" href="https://french.hilarispublisher.com/" title="Cliquez ici">Maison</a>
+            <a class="nav-item nav-link" href="https://french.hilarispublisher.com/open-access-journals.html" title="Cliquez ici">Journaux</a>
+            <div class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="Guidelines" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Lignes directrices et politiques </a>
+                <div class="dropdown-menu" aria-labelledby="Guidelines">
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/editorial-policies.html" title="Editorial Policies">Politiques éditoriales</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/submit-manuscript.html" title="Online Submission">Soumission en ligne</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/manuscript-guidelines.html" title="Manuscript Guidelines">Lignes directrices pour les manuscrits</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/policies.html" title="Policies">Stratégies</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/publication-ethics.html" title="Publication ethics">Éthique de la publication</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/reviewers.html" title="Reviewers">Réviseurs</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/terms-conditions.html" title="Terms and Conditions">Termes et conditions</a>
+                </div>
+            </div>
+
+
+                <div class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="Services" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Prestations de service </a>
+                <div class="dropdown-menu" aria-labelledby="Services">
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/advertisement.html" title="Advertisement">Publicité</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/membership.html" title="Membership">Adhésion</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/reprints.html" title="Reprints">Réimpressions</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/subscription.html" title="Subscription"> Abonnement</a>
+                    
+                </div>
+            </div>
+                    <!-- <a class="nav-link dropdown-toggle" href="#" id="Services" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+                    <div class="dropdown-menu" aria-labelledby="Services">
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/advertisement.html" title="Advertisement">Advertisement</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/membership.html" title="Membership">Membership</a>
+                    <a class="dropdown-item" href="https://french.hilarispublisher.com/reprints.html" title="Reprints">Reprints</a> -->
+
+
+            <a class="nav-item nav-link" href="https://french.hilarispublisher.com/conferences.html" title="Conferences">Conférences</a>
+            <a class="nav-item nav-link" href="https://french.hilarispublisher.com/contact-us.html" title="Contact">Contactez-nous</a>
+        </div>
+        <!-- <form class="form-inline my-2 my-lg-0" method="get" action="https://french.hilarispublisher.com/search-results.php">
+            <div class="input-group">
+                <input class="form-control border-secondary w-100" type="text" name="keyword" id="keyword" required placeholder="Search" aria-label="Search">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary bg-yellow-800-hover" type="submit"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </form> -->
+    </div>
+    </div>
+</nav>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary p-0 mb-3 nav-links-mobile-view">
+    <div class="container mx-3 mx-sm-auto">
+        <a class="navbar-brand d-block d-sm-none" href="#">Menu Journal</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarJrnl" aria-controls="navbarJrnl" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarJrnl">
+            <div class="navbar-nav mr-auto">
+                <a class="nav-item nav-link" href="https://french.hilarispublisher.com/advances-in-robotics-automation.html" title="Journal Home"><i class="fas fa-home pr-2"></i> Journal</a>
+				 <div class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle " href="#" id="EditorialPanel" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Instructions pour les auteurs</a>
+                    <div class="dropdown-menu" aria-labelledby="EditorialPanel">
+                        <a class="dropdown-item" href="https://french.hilarispublisher.com/advances-in-robotics-automation/instructionsforauthors.html" title="Cliquez ici">Instructions pour les auteurs</a>
+						<a class="dropdown-item" href="https://french.hilarispublisher.com/advances-in-robotics-automation/aim-and-scope.html" title="Cliquez ici">Objectif et portée</a>						<a class="dropdown-item" href="https://french.hilarispublisher.com/advances-in-robotics-automation/ethical-malpractices.html" title="Cliquez ici">Déclaration d'éthique et de faute professionnelle dans la publication</a>						<a class="dropdown-item" href="https://french.hilarispublisher.com/advances-in-robotics-automation/peer-review-process.html" title="Cliquez ici">Processus d'examen par les pairs</a>                    </div>
+                </div>
+
+                <a class="nav-link " href="https://french.hilarispublisher.com/advances-in-robotics-automation/submit-manuscript.html" title="Cliquez ici">Soumettre le manuscrit</a>
+                <a class="nav-link " href="https://french.hilarispublisher.com/advances-in-robotics-automation/archive.html" title="Cliquez ici">Archive</a>
+                <a class="nav-link " href="https://french.hilarispublisher.com/advances-in-robotics-automation/guidelines.html" title="Cliquez ici">Des lignes directrices</a>
+                <a class="nav-item nav-link" href="https://french.hilarispublisher.com/advances-in-robotics-automation/contact.html" title="Cliquez ici">Contact</a>
+            </div>
+        </div>
+    </div>
+</nav>
+<header class="container py-3">
+    <div class="row align-items-start">
+        <div class="col-lg-1 col-md-1 d-none d-sm-block">
+            <img src="https://www.hilarispublisher.com/admin/flyers/advances-in-robotics--automation-flyer.jpg" alt=".." title="Cliquez ici" class="img-fluid">
+        </div>
+        <div class="col-lg col-md">
+            <h1 class="h2 text-primary">Avanc&eacute;es en robotique et en automatisation</h1>
+			<div class="row">
+                <div class="col">
+                    <p class="mb-1">ISSN: 2168-9695 </p>                </div>
+                <div class="col">
+                    Accès libre			    </div>
+                <div class="nav-item dropdown multi_lang j_multi_lang">
+                    <a class="nav-link dropdown-toggle" href="#" id="multi_lang" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Language</a>
+                    <div class="dropdown-menu" aria-labelledby="">
+                                                <a class="dropdown-item" href="https://www.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="English">
+                            <img src="https://www.hilarispublisher.com/admin/flags/usa.png">English                        </a>
+                                                <a class="dropdown-item" href="https://spanish.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Spanish">
+                            <img src="https://www.hilarispublisher.com/admin/flags/spain.png">Spanish                        </a>
+                                                <a class="dropdown-item" href="https://chinese.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Chinese">
+                            <img src="https://www.hilarispublisher.com/admin/flags/china.png">Chinese                        </a>
+                                                <a class="dropdown-item" href="https://russian.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Russian">
+                            <img src="https://www.hilarispublisher.com/admin/flags/russia.png">Russian                        </a>
+                                                <a class="dropdown-item" href="https://german.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="German">
+                            <img src="https://www.hilarispublisher.com/admin/flags/germany.png">German                        </a>
+                                                <a class="dropdown-item" href="https://japanese.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Japanese">
+                            <img src="https://www.hilarispublisher.com/admin/flags/japan.png">Japanese                        </a>
+                                                <a class="dropdown-item" href="https://portuguese.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Portuguese">
+                            <img src="https://www.hilarispublisher.com/admin/flags/portugal.png">Portuguese                        </a>
+                                                <a class="dropdown-item" href="https://hindi.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Hindi">
+                            <img src="https://www.hilarispublisher.com/admin/flags/india.png">Hindi                        </a>
+                                                <a class="dropdown-item" href="https://telugu.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Telugu">
+                            <img src="https://www.hilarispublisher.com/admin/flags/india.png">Telugu                        </a>
+                                                <a class="dropdown-item" href="https://tamil.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" title="Tamil">
+                            <img src="https://www.hilarispublisher.com/admin/flags/india.png">Tamil                        </a>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-4">
+            
+			<div class="card bg-amber-400 border-0">
+                <div class="card-body p-2 d-flex align-items-center">
+                    Soumettre le manuscrit                    <a class="animate-icon mx-3 stretched-link" href="https://www.scholarscentral.org/submissions/advances-robotics-automation.html" title="Cliquez ici" target="_blank">
+                        <span target="_blank" class="animate-icon-horizontal">
+                            <i class="material-icons animate-icon-horizontal-wrap animate-icon-left-to-right">arrow_forward</i>
+                            <i class="material-icons animate-icon-horizontal-wrap animate-icon-left-to-right">arrow_forward</i>
+                        </span>
+                    </a>
+                    <img src="/assets/img/manuscript.svg" alt=".." width="50">
+                </div>
+            </div>
+            <div class="mt-2 cu_whatsapp">    
+                       </div>
+
+        </div>
+    </div>
+</header>
+    <section class="container">
+        <div class="row">
+            <div class="col-sm">
+                <h2>Exploring Logic Programming for Artificial Intelligence: Algorithms and Applications</h2>
+                <h3>Abstract</h3>
+                <p><i class="fas fa-user"></i>  Alireza Alazmi*</p>
+			    <p><p>Logic Programming (LP) stands as a cornerstone in the realm  of Artificial Intelligence (AI), offering powerful tools for knowledge  representation, reasoning and problem-solving. This paper delves into the  intricate landscape of LP within AI, elucidating its foundational principles,  essential algorithms and diverse applications. Beginning with a primer on LP,  we traverse through its historical evolution, highlighting key milestones and  pivotal developments. Subsequently, we dissect fundamental LP paradigms, such  as Prolog, Constraint Logic Programming (CLP) and Answer Set Programming (ASP),  elucidating their unique features and operational mechanisms. The discourse  then shifts towards exploring LP algorithms, including resolution, unification  and constraint propagation, unraveling their roles in facilitating logical  inference and deduction. Through a comprehensive survey of LP applications,  ranging from expert systems and natural language processing to robotics and  bioinformatics, we underscore the versatility and efficacy of LP in addressing  real-world challenges. Moreover, we analyze contemporary trends and emerging  research directions, charting the trajectory of LP's evolution amidst the  ever-expanding landscape of AI. By shedding light on LP's theoretical  underpinnings, algorithmic intricacies and practical implications, this paper  aims to provide a holistic understanding of its significance in shaping the  future of AI.</p></p>
+                <div class="alert alert-info text-left"><b>Avertissement:</b> Ce résumé a été traduit à l'aide d'outils d'intelligence artificielle et n'a pas encore été examiné ni vérifié</div> 
+                <div class="row mt-3">
+                    <div class="col-12 col-sm-auto">
+                        <p class="lead">Partagez cet article</p>
+                    </div>
+                    <div class="col-12 col-sm-auto">
+                        <div class="nav social-icons">
+                            <a title="Cliquez ici" target="_blank" href="https://www.facebook.com/sharer.php?u=https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" class="nav-link bg-facebook fab fa-facebook-f text-white">&nbsp;</a>
+                            <a title="Cliquez ici" target="_blank" href="https://twitter.com/share?url=https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" class="nav-link bg-twitter fab fa-twitter text-white">&nbsp;</a>
+                            <a title="Cliquez ici" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" class="nav-link bg-linkedin fab fa-linkedin-in text-white">&nbsp;</a>
+                            <a title="Cliquez ici" target="_blank" href="https://plus.google.com/share?url=https://french.hilarispublisher.com/abstract/exploring-logic-programming-for-artificial-intelligence-algorithms-and-applications-106510.html" class="nav-link bg-googleplus fab fa-google-plus-g text-white">&nbsp;</a>
+                        </div>  
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3">
+             <!--==========relevant topics==================-->
+<div class="mb-3">
+	<h4>Faits saillants de la revue</h4>
+    <nav class="nav flex-column scrollbar a-pl-0" style="max-height:50vh;">
+                <a href="https://french.hilarispublisher.com/scholarly/acs-nano-journals-articles-ppts-list-178.html" class="nav-link" title="ACS Nano" title="Cliquez ici"><i class="far fa-hand-point-right"></i> ACS Nano</a>
+                <a href="https://french.hilarispublisher.com/scholarly/ai-algorithm-journals-articles-ppts-list-902.html" class="nav-link" title="Algorithme d&#39;IA" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Algorithme d&#39;IA</a>
+                <a href="https://french.hilarispublisher.com/scholarly/mobile-device-journals-articles-ppts-list-833.html" class="nav-link" title="Appareil mobile" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Appareil mobile</a>
+                <a href="https://french.hilarispublisher.com/scholarly/automation-journals-articles-ppts-list-173.html" class="nav-link" title="Automatisation" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Automatisation</a>
+                <a href="https://french.hilarispublisher.com/scholarly/biomechanics-journals-articles-ppts-list-1251.html" class="nav-link" title="Biom&eacute;canique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Biom&eacute;canique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/biomechanics-journals-articles-ppts-list-1250.html" class="nav-link" title="Biom&eacute;canique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Biom&eacute;canique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/biomechanics-and-robotics-journals-articles-ppts-list-1252.html" class="nav-link" title="Biom&eacute;canique et robotique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Biom&eacute;canique et robotique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/mobile-repots-journals-articles-ppts-list-280.html" class="nav-link" title="D&eacute;p&ocirc;ts mobiles" title="Cliquez ici"><i class="far fa-hand-point-right"></i> D&eacute;p&ocirc;ts mobiles</a>
+                <a href="https://french.hilarispublisher.com/scholarly/medical-device-journals-articles-ppts-list-270.html" class="nav-link" title="Dispositif m&eacute;dical" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Dispositif m&eacute;dical</a>
+                <a href="https://french.hilarispublisher.com/scholarly/automated-mining-journals-articles-ppts-list-265.html" class="nav-link" title="Exploitation mini&egrave;re automatis&eacute;e" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Exploitation mini&egrave;re automatis&eacute;e</a>
+                <a href="https://french.hilarispublisher.com/scholarly/artificial-intelligence-journals-articles-ppts-list-1240.html" class="nav-link" title="Intelligence artificielle" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Intelligence artificielle</a>
+                <a href="https://french.hilarispublisher.com/scholarly/swarm-intelligence-and-robotics-journals-articles-ppts-list-1241.html" class="nav-link" title="intelligence en essaim et robotique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> intelligence en essaim et robotique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/neural-networks-journals-articles-ppts-list-289.html" class="nav-link" title="Les r&eacute;seaux de neurones" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Les r&eacute;seaux de neurones</a>
+                <a href="https://french.hilarispublisher.com/scholarly/fuzzy-logic-journals-articles-ppts-list-826.html" class="nav-link" title="Logique floue" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Logique floue</a>
+                <a href="https://french.hilarispublisher.com/scholarly/lovotics-journals-articles-ppts-list-1524.html" class="nav-link" title="Lovotiques" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Lovotiques</a>
+                <a href="https://french.hilarispublisher.com/scholarly/advanced-materials-journals-articles-ppts-list-94.html" class="nav-link" title="Mat&eacute;riaux avanc&eacute;s" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Mat&eacute;riaux avanc&eacute;s</a>
+                <a href="https://french.hilarispublisher.com/scholarly/neurorobotics-journals-articles-ppts-list-217.html" class="nav-link" title="Neurorobotique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Neurorobotique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/computational-neuroscience-journals-articles-ppts-list-260.html" class="nav-link" title="Neurosciences computationnelles" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Neurosciences computationnelles</a>
+                <a href="https://french.hilarispublisher.com/scholarly/robotic-rehabilitation-journals-articles-ppts-list-294.html" class="nav-link" title="R&eacute;&eacute;ducation robotique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> R&eacute;&eacute;ducation robotique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/industrial-robotics-journals-articles-ppts-list-169.html" class="nav-link" title="Robotique industrielle" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Robotique industrielle</a>
+                <a href="https://french.hilarispublisher.com/scholarly/intelligent-robotics-journals-articles-ppts-list-307.html" class="nav-link" title="Robotique intelligente" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Robotique intelligente</a>
+                <a href="https://french.hilarispublisher.com/scholarly/medical-robotics-journals-articles-ppts-list-274.html" class="nav-link" title="Robotique m&eacute;dicale" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Robotique m&eacute;dicale</a>
+                <a href="https://french.hilarispublisher.com/scholarly/social-robots-journals-articles-ppts-list-201.html" class="nav-link" title="Robots sociaux" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Robots sociaux</a>
+                <a href="https://french.hilarispublisher.com/scholarly/simulation-journals-articles-ppts-list-184.html" class="nav-link" title="Simulation" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Simulation</a>
+                <a href="https://french.hilarispublisher.com/scholarly/behaviorbased-systems-journals-articles-ppts-list-1242.html" class="nav-link" title="Syst&egrave;mes bas&eacute;s sur le comportement" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Syst&egrave;mes bas&eacute;s sur le comportement</a>
+                <a href="https://french.hilarispublisher.com/scholarly/telerobotics-journals-articles-ppts-list-185.html" class="nav-link" title="T&eacute;l&eacute;robotique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> T&eacute;l&eacute;robotique</a>
+                <a href="https://french.hilarispublisher.com/scholarly/digital-image-processing-journals-articles-ppts-list-257.html" class="nav-link" title="Traitement d&#39;image num&eacute;rique" title="Cliquez ici"><i class="far fa-hand-point-right"></i> Traitement d&#39;image num&eacute;rique</a>
+            </nav>
+</div>
+<!--==========Indexed in==============-->
+<div class="mb-3">
+    <h4>Indexé dans</h4>
+    <nav class="nav flex-column scrollbar a-pl-0" style="max-height:40vh;">
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Index Copernic<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Google Scholar<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Sherpa Rom&eacute;o<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Ouvrir la porte J<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> JournalSeek de g&eacute;namique<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Cl&eacute;s acad&eacute;miques<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> JournalTOC<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Recherche de r&eacute;f&eacute;rence<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Universit&eacute; Hamdard<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> EBSCO AZ<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> OCLC-WorldCat<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Catalogue en ligne SWB<br>
+                 <i class="fa fa-chevron-right" style="font-size: 11px;color: #0056b3;"></i> Publons<br>
+            </nav>
+</div>
+<!--==========USEFUL Links topics==================-->
+<div class=" mb-3">
+<h4>Liens connexes</h4>
+<div class="card-body p-0">
+<nav class="nav flex-column font-size-4 a-py-1">    
+  <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/advances-in-robotics-automation/indexing.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Résumé et indexation</span></a>
+
+<a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/advances-in-robotics-automation/archive.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Table des matières</span></a>
+
+</nav>
+</div>
+</div>
+<!--==========USEFUL Links topics====END============-->
+<div class=" mb-3">
+<h4>Revues en libre accès</h4>
+    <div class="card-body p-0">
+    <nav class="nav flex-column font-size-4 a-py-1">
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/genetics-and-molecular-biology-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Génétique et biologie moléculaire</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/business-and-management-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Gestion dentreprise</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/immunology-and-microbiology-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Immunologie et microbiologie</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/engineering-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Ingénierie</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/neuroscience-and-psychology-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Neurosciences et psychologie</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/clinical-sciences-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Sciences cliniques</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/medical-sciences-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Sciences médicales</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/pharmaceutical-sciences-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Sciences pharmaceutiques</span></a>
+        
+      <a class="nav-item nav-link p-0" href="https://french.hilarispublisher.com/science-and-technology-journals.html" title="Cliquez ici"><span><i class="far fa-hand-point-right"></i></span><span class="cu_posion">Technologie scientifique</span></a>
+        
+    </nav>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">  
+$(window).scroll(function() {    
+    var scroll = $(window).scrollTop();
+    if (scroll >= 1000) {       
+        $(".Information").addClass("Informationstic").fadeIn(1000);
+    }
+    else{
+      $(".Information").removeClass("Informationstic").fadeIn(1000);
+    }
+}); 
+</script>            </div>
+        </div>
+    </section>
+    <footer class="container-fluid bg-grey-300 border-top-1">
+  <div class="row py-3">
+      <div class="col-sm">
+        <h5 class="fweight-600">Catégories</h5>
+        <nav class="nav row a-py-2">
+              
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/genetics-and-molecular-biology-journals.html" title="Génétique et biologie moléculaire">Génétique et biologie moléculaire</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/business-and-management-journals.html" title="Gestion dentreprise">Gestion dentreprise</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/immunology-and-microbiology-journals.html" title="Immunologie et microbiologie">Immunologie et microbiologie</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/engineering-journals.html" title="Ingénierie">Ingénierie</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/neuroscience-and-psychology-journals.html" title="Neurosciences et psychologie">Neurosciences et psychologie</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/clinical-sciences-journals.html" title="Sciences cliniques">Sciences cliniques</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/medical-sciences-journals.html" title="Sciences médicales">Sciences médicales</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/pharmaceutical-sciences-journals.html" title="Sciences pharmaceutiques">Sciences pharmaceutiques</a>
+            
+          <a class="nav-link col-sm-6" href="https://french.hilarispublisher.com/science-and-technology-journals.html" title="Technologie scientifique">Technologie scientifique</a>
+            
+        </nav>
+      </div>
+      <div class="col-sm-3 border-left-1">
+        <h5 class="fweight-600">Des lignes directrices</h5>
+        <ul class="list-unstyled mb-0 a-py-2">
+            <li><a href="https://french.hilarispublisher.com/manuscript-guidelines.html" title="Cliquez ici">Lignes directrices pour les auteurs</a></li>
+            <li><a href="https://french.hilarispublisher.com/editor-guidelines.html" title="Cliquez ici">Directives de léditeur</a></li>
+            <li><a href="https://french.hilarispublisher.com/reviewer-guidelines.html" title="Cliquez ici">Lignes directrices pour les évaluateurs</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-2 border-left-1">
+        <h5 class="fweight-600">À propos de Hilaris</h5>
+        <ul class="list-unstyled mb-0 a-py-2">
+            <li><a href="https://french.hilarispublisher.com/about-us.html" title="Cliquez ici">À propos de nous</a></li>
+            <li><a href="https://french.hilarispublisher.com/open-access.html" title="Cliquez ici">Accès libre</a></li>
+            <li><a href="https://french.hilarispublisher.com/contact-us.html" title="Cliquez ici">Contactez-nous</a></li>
+            <li><a href="https://french.hilarispublisher.com/terms-conditions.html" title="Cliquez ici">Termes</a></li>
+            <li><a href="https://french.hilarispublisher.com/faq.html" title="Cliquez ici">FAQ</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-2 border-left-1">
+        <h5 class="fweight-600">Suivez-nous</h5>
+        <ul class="list-unstyled mb-0 a-py-2 footer_social">
+            <li><a href="https://www.facebook.com/hilarispublisher/" title="Cliquez ici" target="blank"><i class="fab fa-facebook-square"></i></a></li>
+            <li><a href="https://twitter.com/hilarispublish2" title="Cliquez ici" target="blank"><i class="fab fa-twitter-square"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/31133357/admin/" title="Cliquez ici" target="blank"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="https://www.instagram.com/hilaris_publisher/?hl=en" title="Cliquez ici" target="blank"><i class="fa fa-instagram"></i></a></li>
+            <li><a href="#" title="Cliquez ici" target="blank"><i class="fab fa-youtube"></i></a></li>
+        </ul>
+      </div>
+  </div>
+<!--<div><a href="https://www.globaltechsummit.com" class="bell_icon" target="_blank"><img src="https://www.vizagtechsummit.com/images/bellicon.png" alt="Global Tech Summit"></a></div>-->
+  <div class="row">
+    <div class="col-12">
+      <p class="border-top-1 pt-2 text-right">droits d'auteur &copy; 2024 Tous droits réservés par <strong><a href="https://french.hilarispublisher.com/" title="Hilaris">Hilaris SRL</a></strong></p>
+    </div>
+  </div>
+</footer>
+<!--==========================
+Scroll To Top
+============================-->
+<a class="cd-top js-cd-top animate-icon" href="https://french.hilarispublisher.com/submit-manuscript.html" title="Scroll to Top">
+    <span target="_blank" class="animate-icon-vertical">
+        <i class="material-icons animate-icon-vertical-wrap animate-icon-bottom-to-top">arrow_upward</i>
+        <i class="material-icons animate-icon-vertical-wrap animate-icon-bottom-to-top">arrow_upward</i>
+    </span>
+</a>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
+<script src="/assets/js/owl.carousel.min.js"></script>
+<script src="/assets/js/grids.min.js" type="text/javascript"></script>
+<script src="/assets/js/jquery.matchHeight-min.js" type="text/javascript"></script>
+<!--Get the app icon js-->
+<script>
+jQuery(function($) {
+  $(window).scroll(function fix_element() {
+    $('#target').css(
+      $(window).scrollTop() > 100
+        ? { 'position': 'fixed', 'top': '440px' }
+        : { 'position': 'absolute', 'top': '440px' }
+    );
+    return fix_element;
+  }());
+});
+</script>
+<!--Get the app icon js end-->
+<!--==========================
+Scroll To Top
+============================-->
+<script src="/assets/js/scroll-to-top.js"></script>
+<script type="text/javascript">
+    // Equal Height
+    var EqualHeight = function() {
+        "use strict";
+
+        // Handle Equal Height
+        var handleEqualHeight = function() {
+            $(function($) {
+              
+            var i;
+            for (i = 0; i < 5; i++) {
+            //alert(i);
+               $('.equal-height-'+i).responsiveEqualHeightGrid();
+            } 
+            });
+        }
+
+        return {
+            init: function() {
+                handleEqualHeight(); // initial setup for equal height
+            }
+        }
+    }();
+
+    $(document).ready(function() {
+        EqualHeight.init();
+    });
+</script>
+<script>
+    $(function() {
+        $('.match-height').matchHeight({
+            byRow: true,
+            property: 'height',
+            target: null,
+        });
+    });
+</script>
+<script>
+    $(document).ready(function() {
+        $('.subject-carousel').owlCarousel({
+            margin: 20,
+            rewind: true,
+            dots: false,
+            nav: true,
+            autoplay: true,
+            autoplayTimeout: 2000,
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 6
+                }
+            }
+        })
+    });
+</script>
+<script>
+    $('.eb-carousel').owlCarousel({
+        loop: true,
+        margin: 20,
+        dots: false,
+        autoplay: true,
+        autoplayTimeout: 2000,
+        autoplayHoverPause: true,
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 4
+            }
+        }
+    })
+</script>
+<script src="/assets/js/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	// Scrollbar
+	var Scrollbar = function() {
+		"use strict";
+
+		// Handle Scrollbar Linear
+		var handleScrollbarLinear = function() {
+			$(".scrollbar").mCustomScrollbar({
+				theme: "minimal-dark"
+			});
+		}
+
+		return {
+			init: function() {
+				handleScrollbarLinear(); // initial setup for scrollbar linear
+			}
+		}
+	}();
+
+	$(document).ready(function() {
+		Scrollbar.init();
+	}); 
+	
+	/*==========================
+		Bootstrap Popover
+	============================*/
+	$(function () {
+		$('[data-toggle="popover"]').popover()
+	})
+
+	
+</script>
+
+<script src="/assets/js/jquery.malihu.PageScroll2id.min.js" type="text/javascript"></script>
+<script type="text/javascript">(function($){
+        $(window).on("load",function(){
+            $("a[rel='m_PageScroll2id']").mPageScroll2id();
+        });
+    })(jQuery);
+</script>
+<!------autosuggest search---->
+<script type="text/javascript" src="/assets/js/coolautosuggest.js"></script>
+<script language="javascript" type="text/javascript">
+	$("#keyword").coolautosuggest({
+		url: "https://french.hilarispublisher.com/author-names.php?chars=",
+		minChars: 3,
+	});
+</script>
+<!------onspot search---->
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $("#wait").hide();
+    $("#jkeyword").keyup(function()
+    {
+        $("#wait").show();
+        //values of sending variables
+        var jkeyword=$("#jkeyword").val();
+        var dataString = { 'jkeyword':jkeyword };
+
+        $.ajax
+        ({
+        type: "POST",
+        url: "https://french.hilarispublisher.com/journal-search.php",
+        data:dataString,
+        cache: false,
+        success: function(html)
+        {
+        $("#jresult").html(html);
+        $("#wait").hide();}
+        });
+
+    });
+});
+</script>
+<!--<style>
+.bell_icon {
+		position: fixed;
+		border-radius: 3px;
+		right: 0px;
+		bottom: 113px;
+		color: #fff;
+		z-index: 99999;
+}
+.bell_icon img {
+		width: 100%;
+		max-width: 160px;
+		border-radius: 8px;
+}
+</style>-->
+
+<script type="text/javascript">function add_chatinline(){var hccid=53603122;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline(); </script></body>
+</html>

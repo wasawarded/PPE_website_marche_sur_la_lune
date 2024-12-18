@@ -1,0 +1,513 @@
+   #Michelin IT Engineering Blog
+
+   Michelin IT Engineering Blog (BUTTON) (BUTTON)
+
+     * Home
+     * Authors
+     * Open Source
+     * About us
+     * Join us
+
+   (BUTTON)
+   Sign in Subscribe
+
+   Development
+
+Logic Programming loves Data
+
+   How to leverage logic programming to enhance data-driven development
+
+     * Fabien Alberi
+
+Fabien Alberi
+
+   Dec 20, 2023 • 10 min read
+
+   Logic Programming loves Data Photo by Alexander Sinn / Unsplash
+
+   In a previous post we have seen how datalog language - and consequently
+   logic programming - can be convenient in the context of data querying
+   and exploration.
+
+   We will now see how logic programming can be helpful in the context of
+   data transformation. Let's first have a deeper look at logic
+   programming concepts.
+
+What-is Logic Programming ?
+
+   Logic programming is a programming paradigm that is based on formal
+   logic. In logic programming, programs are written in the form of
+   logical statements or rules, which define relationships and constraints
+   between different entities.
+
+   alt text
+
+   Unlike other programming paradigms, such as functional programming and
+   object-oriented programming, which focus on how to achieve a specific
+   task, logic programming is concerned with representing and reasoning
+   about knowledge.
+
+   Programs written in a logic programming language mainly consist of a
+   set of facts, rules and queries.
+
+   Facts describe the problem data, while rules describe the relationships
+   between the data. Queries are statements or questions posed to the
+   system that express a goal or a condition that needs to be satisfied.
+Facts:
+- John is a parent of Jim
+- John is a parent of Ann
+- Mary is a parent of Jim
+- Mary is a parent of Ann
+- John is a male
+- Mary is a female
+
+Rules:
+- A person is a father if they are a parent and male.
+- A person is a mother if they are a parent and female.
+- Two individuals are siblings if they share the same parent.
+
+Queries:
+- Is John the father of Jim? => yes
+- Are Jim and Ann siblings? => yes
+- Is Mary the mother of Jim? => yes
+
+   Logic programming is particularly suited to problems that can be
+   represented as logical relationships. For example, logic programming
+   can be used to solve inference, reasoning, and planning problems.
+
+   This makes it well-suited for applications that require a deep
+   understanding of complex domains, such as natural language processing
+   or expert systems.
+
+Building Blocks
+
+   Here are the key features of the logic programming paradigm.
+     * Declarative Style: Logic programming is declarative, meaning that
+       you specify what you want to achieve rather than how to achieve it.
+     * Logic Rules: Programs consist of a set of logical rules or clauses.
+       These rules are expressed in the form of predicates and facts,
+       which represent relationships between objects or conditions.
+     * Pattern Matching: The evaluation of logical statements often
+       involves pattern matching. The system matches the input against the
+       logical rules to determine if they apply.
+     * Knowledge Representation: Uses a formal language that is precise
+       and unambiguous. This allows for clear and concise descriptions of
+       complex relationships and concepts.
+     * Reasoning and Inference: The interpreter can use the knowledge base
+       to draw conclusions, solve problems, and answer queries. This makes
+       it valuable for applications that require a deep understanding of
+       data and the ability to make logical deductions.
+     * Backtracking: Logic programming often involves a mechanism called
+       backtracking. If a particular path of inference does not lead to a
+       solution, the system can backtrack and explore alternative paths.
+
+Application Domains
+
+   Here are some generic examples of how logic programming can be used:
+     * To represent knowledge about the real world, such as relationships
+       between objects or properties of objects.
+     * To reason about this knowledge, for example to find solutions to
+       problems or to draw conclusions.
+     * To generate code, for example to translate logical rules into
+       programming instructions.
+
+   flowchart.jpg
+
+   Here are some specific domains of application:
+     * Artificial Intelligence: Logic programming is a fundamental
+       building block of artificial intelligence (AI) techniques. It's
+       used in various AI applications, including symbolic reasoning,
+       machine learning, and knowledge engineering.
+     * Natural Language Processing: Logic programming is used in natural
+       language processing (NLP) applications to analyze and understand
+       human language. It helps in tasks like machine translation, text
+       summarization, and question answering.
+     * Expert Systems: Logic programming plays a crucial role in building
+       expert systems, which are computer programs that emulate human
+       expertise in a specific domain. It helps in representing domain
+       knowledge, reasoning about complex problems, and providing expert
+       advice.
+     * Database Management Systems: Logic programming is integrated into
+       some database management systems (DBMS) to provide advanced query
+       capabilities and knowledge-based features. It helps in handling
+       complex queries, managing meta-data, and performing data mining
+       tasks.
+     * Verification and Validation: Logic programming is used in
+       verification and validation of data consistency to ensure its
+       correctness and adherence to specifications. It helps in
+       formalizing requirements, and identifying potential errors.
+
+When to use logic programming ?
+
+   Logic programming has several advantages that it may be advisable to
+   exploit in certain situations.
+
+   Being declarative means that logic programs focus on what the program
+   should do, rather than how it should do it, making them easier to
+   understand, maintain, and modify.
+
+   Furthermore, logic programs are expressive, allowing them to represent
+   complex and abstract concepts in a concise and natural way.
+
+   Additionally, logic programs are flexible and can accommodate different
+   modes of execution, such as forward chaining or backward chaining which
+   are especially useful in rules-engines.
+
+   alt text
+
+Data-driven architecture
+
+   The Data-Driven approach provides several benefits that contribute to
+   the flexibility, adaptability, and efficiency of a system. However it
+   often poses problems of efficiency in terms of developments as
+   structures become more complex and the diversity of models increases.
+
+     Working with complex data structures is like navigating a dense
+     jungle: the built-in tools are your machete, but youll often need a
+     bit of hacking and slashing to find your way through.
+
+   Logic programming can significantly enhance data-driven architectures
+   by providing a declarative and knowledge-driven approach to data
+   processing and analysis. Its ability to represent complex relationships
+   and perform logical reasoning can help extracting meaningful
+   information from vast amounts of data.
+
+   rsz_logic_model_resized.jpg
+
+   Logic programming offers a powerful and versatile approach that makes
+   it a valuable tool for extracting information from data and enabling
+   knowledge-driven decision-making.
+
+Synergy with functional programming
+
+   We have seen logic programming offers a powerful approach for tasks
+   that require extensive knowledge representation, reasoning, and
+   inference.
+
+   On its end, the functional programming emphasizes the concept of pure
+   functions, which are functions that take input values and produce
+   output values without any side effects. This means that a function's
+   output depends solely on its input, and it does not modify any external
+   state or data.
+     * Immutability: Data is treated as immutable, meaning it cannot be
+       changed once created. This ensures data integrity and simplifies
+       reasoning about program behavior.
+     * Expression-oriented: Programs are composed of expressions that
+       evaluate to values, rather than statements that modify state. This
+       emphasizes the declarative nature of functional programming.
+     * Higher-order functions: Functions can take other functions as
+       arguments or return functions as results. This allows for powerful
+       abstractions and concise code.
+
+   Functional programming and logic programming are both declarative
+   programming paradigms that offer unique strengths and applications.
+   Feature Functional Programming Logic Programming
+   Program Structure Functions as the primary building blocks Facts and
+   rules as the foundation
+   Data Paradigm Immutable data Mutable data
+   Programming Style Declarative and expression-oriented Declarative and
+   knowledge-driven
+   Strengths Modularity, predictability, testability Knowledge
+   representation, reasoning, inference
+   Applications Web development, data processing Natural language
+   processing, expert systems
+
+Taking the best of both worlds
+
+   While functional programming and logic programming are two distinct
+   programming paradigms, there are areas of overlap and potential
+   synergies between them.
+     * Declarative Style: Functional Programming emphasizes a declarative
+       style, where programs are written as a series of mathematical-like
+       expressions. Logic Programming also follows a declarative style,
+       where programs describe relationships and constraints rather than a
+       sequence of steps.
+     * Expressiveness: Leveraging the expressiveness of both paradigms can
+       lead to more concise and expressive programs, especially in domains
+       involving complex relationships and constraints.
+
+   Despite the fact functional and logic programming have distinct design
+   principles, their combination or integration can lead to powerful and
+   expressive programming models.
+
+   Therefore, librairies and frameworks of functional languages that
+   incorporate features from logic paradigm (pattern-matching,
+   logic-rules) such as datascript which is based on datalog and prolog
+   principles, continue to be developed and may be very good options to
+   consider.
+
+A closer look to Clojure Libraries
+
+   Let's now dive into implementations in the clojure ecosystem
+
+   See below 3 libraries which incorporates features of logic programming.
+   Each of them offers a different level of abstraction.
+
+1. Core.logic
+
+   A low-level logic programming library for Clojure & ClojureScript.
+   core.logic offers Prolog-like relational programming, constraint logic
+   programming, and nominal logic programming for Clojure.
+ (run* [q]
+   (membero q [1 2 3])
+   (membero q [2 3 4]))
+
+2. Meander
+
+   Meander is a declarative data manipulation toolset created as a library
+   in Clojure. Borrowing ideas from logic programming and term rewriting,
+   Meander allows declarative descriptions of arbitrarily complex data;
+   enabling you to search, match, remember, join, and transform any part
+   of your data directly.
+(defn favorite-food-info [foods-by-name user]
+(m/match {:user user
+          :foods-by-name foods-by-name}
+  {:user
+   {:name ?name
+    :favorite-food {:name ?food}}
+   :foods-by-name {?food {:popularity ?popularity
+                          :calories ?calories}}}
+  {:name ?name
+   :favorite {:food ?food
+              :popularity ?popularity
+              :calories ?calories}}))
+
+3. Clara rules
+
+   Clara-rules is a forward-chaining rules engine written in
+   Clojure(Script) with Java interoperability. It aims to simplify code
+   with a developer-centric approach to expert systems. It implements an
+   higher order machine.
+;; Fact
+[?person <- Person (= first-name "Alice") (= ?last-name last-name)]
+
+;; rule
+(defrule is-older-than
+   [Person (= ?name1 name) (= ?age1 age)]
+   [Person (= ?name2 name) (= ?age2 age)]
+   [:test (> ?age1 ?age2)]
+   =>
+   (println (str ?name1 "is older than" ?name2)))
+
+;; query
+(defquery get-promotions
+  "Query to find promotions for the purchase."
+  [?type]
+  [?promotion <- Promotion (= ?type type)])
+
+   These different implementations make it possible to incorporate
+   principles of logic programming into more global projects based on
+   versatile and commonly used programming languages.
+
+A Real-Life scenario
+
+   Let's now address the question of using logic programming concepts in a
+   concrete use-case.
+
+   In a previous article I discussed the fact I developed a software whose
+   main purpose is to transform complex data. The Clojure language allowed
+   me to respond to the overall complexity of the solution.
+
+   However, as the complexity of the software increased, I increasingly
+   felt the need to represent all the rules for managing transformations
+   (several hundred to date) as well as business rules for data
+   validation, with a desire to express these in an understandable and
+   maintainable format.
+
+   Until then I used transformation functions that include if-conditionals
+   to apply changes only on certains conditions such as matching ids ; as
+   follows:
+(defn assemble [a b]
+  (if (and (= (:id a) (:id b)) (:weight b) (:weight a))  ;; predicates
+    (update a :weight + (:weight b))                     ;; transformation
+    a))                                                  ;; else
+
+(assemble {:id 123 :weight 100} {:id 123 :weight 25})   ;; => {:id 123, :weight
+125}
+(assemble {:id 123 :weight 100} {:id 456 :weight 25})   ;; => {:id 123, :weight
+100}
+
+   The approach based on the Meander library allows to pass all the
+   business logic in more a declarative form, for all the rules for
+   pattern-matching and transformation.
+(require '[meander.epsilon :as m])
+
+(defn assemble [a b]
+  (m/match
+   {:a a :b b}                                         ;; facts
+
+    {:a {:id ?id :weight ?weight-a}
+     :b {:id ?id :weight ?weight-b}}                   ;; matching + predicate
+    {:id ?id :weight (+ ?weight-a ?weight-b)}          ;; transformation
+
+    _ a                                                ;; else
+    ))
+
+(assemble {:id 123 :weight 100} {:id 123 :weight 25})   ;; => {:id 123, :weight
+125}
+(assemble {:id 123 :weight 100} {:id 456 :weight 25})   ;; => {:id 123, :weight
+100}
+
+   In addition, the expressive approach of meander makes it possible to
+   extract the definiton of the rule in the form of a data structure;
+   which, once isolated from the rest of the code, represents a kind of
+   predicate-as-data for declaring all the business logic of the solution.
+
+   Let's go a step further and try see how to use a domain-specific
+   language (DSL) to express rules for the same operations.
+(require '[meander.epsilon :as m])
+
+;; facts
+(def part-a {:id 123 :weight 100})
+(def part-b {:id 123 :weight 25})
+
+;; rules
+(defn transform [expression]
+  (m/match expression
+    [:assemble {:id ?id :weight ?weight-a} {:id ?id :weight ?weight-b}]
+    {:id ?id :weight (+ ?weight-a ?weight-b)}
+
+    [:substract {:id ?id :weight ?weight-a} {:id ?id :weight ?weight-b}]
+    {:id ?id :weight (- ?weight-a ?weight-b)}
+
+    [:heaviest {:id ?id :weight ?weight-a} {:id ?id :weight ?weight-b}]
+    {:id ?id :weight (max ?weight-a ?weight-b)}
+    _
+    expression))
+
+;; queries
+(transform [:assemble part-a part-b])  ;; => {:id 123, :weight 125}
+(transform [:substract part-a part-b]) ;; => {:id 123, :weight 75}
+(transform [:heaviest part-a part-b])  ;; => {:id 123, :weight: 100}
+(transform [:undef part-a part-b])     ;; => [:undef {:id 123, :weight 100} {:id
+ 123, :weight 25}]
+
+   In summary, today I take advantage of the joint use of the native
+   functionalities of Clojure and some features taken from the logical
+   programming paradigm ; The best of both worlds.
+
+Caveats & Conclusion
+
+   While logic programming offers a unique and powerful approach to
+   problem-solving, it is not without its limitations and challenges. Here
+   are some of the caveats of logic programming that should be considered
+   when evaluating its suitability for a specific project:
+     * Computational Efficiency: Logic programming can be computationally
+       expensive, especially for complex problems with large knowledge
+       bases. The search for solutions through logical inference can
+       become time-consuming, particularly in cases where multiple
+       solutions exist or when dealing with extensive data sets.
+     * Non-determinism: Logic programming is an inherently
+       non-deterministic programming paradigm, meaning that the system is
+       designed to find all possible solutions rather than a single
+       deterministic result. This non-determinism can be difficult to
+       control and may lead to unpredictable behavior, especially in
+       large-scale applications.
+     * Debugging Complexity: Debugging logic programs can be challenging
+       due to their declarative nature and the non-deterministic execution
+       flow. Identifying the source of errors or unexpected results can be
+       time-consuming and may require a deep understanding of the
+       underlying logic and search strategies.
+
+   alt text
+
+   Despite these caveats, logic programming remains a valuable tool for a
+   variety of applications, particularly those that require knowledge
+   representation.
+
+   Careful consideration of these limitations and understanding the
+   strengths of logic programming are crucial for making informed
+   decisions about its suitability for specific projects.
+
+   Logic programming is not a silver bullet. But it offers a range of very
+   interesting possibilities if used sparingly.
+
+   To date, the timely use of functionalities taken from logic programming
+   has made it possible to considerably improve the maintainability of my
+   code in production.
+
+   I will therefore continue to rely on this approach for future
+   developments.
+
+RESOURCES
+
+   Here are some of the readings that helped me write this post.
+
+Articles
+
+     * What are the main characteristics and examples of logic programming
+       paradigms?
+     * Transforming data with malli and meander
+     * Meander for Practical Data Transformation
+     * Data Transformation: Types, Process, Benefits & Definition
+     * Clara's Approach
+     * Difference Between Functional and Logical Programming
+     * The Working Hipster's Clojure
+
+Videos
+
+     * Logic programming with clara-rules - William Parker
+     * William Byrd on "The Most Beautiful Program Ever Written" [PWL NYC]
+     * Meander: declarative explorations at the limits of fp
+     * Introduction to Logic Programming and Open World Reasoning
+
+Books
+
+     * Algorithm = Logic + Control
+     * The Joy of Clojure, 2nd Edition
+     * The Little Schemer, 4th Edition
+
+     * Development
+     * Clojure
+
+Share this:
+
+   facebook weibo reddit linkedin email
+
+   Software engineer will never die
+
+   Development
+
+Software engineer will never die
+
+   Software engineering is a domain where developers will never become
+   obsolete but must continually evolve, adapting to new technologies like
+   AI to stay relevant.
+
+   Jan 29, 2024 6 min read
+
+   Embracing Kaizen time to develop Snowflake Grafana plugin with Go
+
+   Development
+
+Embracing Kaizen time to develop Snowflake Grafana plugin with Go
+
+   The article outlines the development of a Snowflake Grafana plugin
+   using Go. It discusses plugin architecture, development, testing, and
+   deployment, demonstrating how it enhances visualization of Snowflake
+   data in Grafana, driven by the Kaizen philosophy.
+
+   Jul 20, 2023 8 min read
+
+   Service Level Observability
+
+   Development
+
+Service Level Observability
+
+   This post is based on our presentation for the Volcamp event in October
+   2022. Observability is no more a matter of doing or not doing. It's an
+   essential aspect of modern software development, providing all teams
+   building services the data they need to understand the behavior and
+   performance
+
+   Feb 27, 2023 7 min read
+
+   Copyright © 2024 MICHELIN. All rights reserved
+
+     * Privacy policy
+     * Legal notice
+     * Cookies policy
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)

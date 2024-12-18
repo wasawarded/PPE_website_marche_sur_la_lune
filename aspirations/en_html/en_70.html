@@ -1,0 +1,843 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>D. Lu, Dynamic Many Valued Logic Systems in Theoretical Economics - PhilArchive</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta http-equiv="content-language" content="en">
+<meta name="description" content="This paper is an original attempt to understand the foundations of economic reasoning. It endeavors to rigorously define the relationship between subjective interpretations and objective valuations of such interpretations in the ..."> 
+<link rel="canonical" href="https://philarchive.org/rec/LUDMVI">
+<link rel="alternate" type="application/rss+xml" title="Recent additions to PhilArchive" href="https://philarchive.org/recent.html?format=rss" />
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css" integrity="sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc" crossorigin="anonymous">
+
+
+<!--
+require.js breaks if katex.js is loaded after. require.js is used only on the login page, for the philwidget.
+https://requirejs.org/docs/errors.html#mismatch
+-->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js" integrity="sha384-YNHdsYkH6gMx9y3mRkmcJ2mFUjTd0qNQQvY9VYZgQd7DcN7env35GzlmFaZ23JGp" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous" onload="renderMathInElement(document.body, { displayMode: false});"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- BOOTSTRAP -->
+<link rel='stylesheet' type="text/css" href="/assets/raw/vendor/css/bootstrap.min.css"> 
+<link rel='stylesheet' type="text/css" href="/assets/raw/vendor/css/bootstrap-tour.min.css"> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+
+<link rel='stylesheet' type="text/css" href="/assets/raw/vendor/css/bulma.css"> 
+
+  <meta property="og:title" content="D. Lu, Dynamic Many Valued Logic Systems in Theoretical Economics - PhilArchive" />
+
+
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://philarchive.org/assets/raw/philpeople250.png" />
+
+
+<meta name="citation_title" content="Dynamic Many Valued Logic Systems in Theoretical Economics">
+<meta name="citation_publication_date" content="manuscript">
+<meta name="citation_format_txt" content="Lu, D., Dynamic Many Valued Logic Systems in Theoretical Economics.
+">
+<meta name="citation_format_bib" content="@unpublished{LuManuscript-LUDMVI,
+	author = {D. Lu},
+	title = {Dynamic Many Valued Logic Systems in Theoretical Economics},
+	year = {manuscript}
+}
+">
+<meta name='citation_author' content="D. Lu">
+<meta name='citation_pdf_url' content='https://philpapers.org/archive/LUDMVI.pdf'>
+
+<link rel="icon" type="image/gif" href="/assets/raw/icons/favicon-ppl.gif?">
+<link rel="stylesheet" type="text/css" href="/dynamic-assets/philarchive/style.b816b634b2e0c3e100127b0786b36682.css">
+
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>-->
+<script type='text/javascript' src='/dynamic-assets/philarchive/xpapers.c54dd4600c8039164d6d040df083210b.js'></script>
+
+<link rel="image_src" href="https://philarchive.org/assets/raw/logo.jpg" / >
+
+</head>
+
+<script type="text/javascript">
+var pageDesc="D. Lu, Dynamic Many Valued Logic Systems in Theoretical Economics";
+var BASE_URL="/";
+var SERVER="";
+</script>
+<!--
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+-->
+<script type="text/javascript" src="https://widgets.philpapers.org//init.js" async defer></script>
+<!-- YUI -->
+<script type="text/javascript" src="/dynamic-assets/philarchive/yui.min.js"></script>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="text/javascript">
+  var $j = jQuery.noConflict();
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript">$j(document).ready(prototypeBootstrapCompatibility());</script>
+
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-tour/0.12.0/js/bootstrap-tour-standalone.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<!--<![endif]-->
+<script type="text/javascript">$j(document).ready(ppTour.initialize());</script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/assets/raw/vendor/js/respond.min.js"></script>
+<![endif]-->  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-6029851-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-6029851-5');
+</script>
+
+<body class='yui-skin-sam' id='mainBody'>
+
+
+
+<div id='all' class='ppskin clearfix'>
+
+<div id="banner" class="navbar navbar-fixed-top">
+
+    <div class="no-padding-md container">
+
+
+        <div id='headlinks'>
+
+            <span>
+        <a href="https://auth.philpapers.org/login?service=https://philarchive.org/cas.pl&gateway=1"><i class="fa fa-sign-in"></i> Sign in</a> | <a href="/login?action=registration">Create an account</a>
+            </span>
+
+
+        </div>
+        <div class="philx">
+  <div class="top_banner--links top_banner--links--archive">
+    <a href="http://philpapers.org"><span class="philxbtn">PhilPapers</span></a>
+    <a href="http://philpeople.org"><span class="philxbtn">PhilPeople</span></a>
+    <span class="philxbtn philxbtnsel philarchivebtnsel"><b>PhilArchive</b></span>
+    <a href="http://philevents.org"><span class="philxbtn">PhilEvents</span></a>
+    <a href="http://philjobs.org"><span class="philxbtn">PhilJobs</span></a>
+  </div>
+</div>
+
+    </div>
+
+</div>
+
+    <div id='head' class="navbar navbar-default navbar-fixed-top panel panel-default">
+        <div class="no-padding-md container">
+
+            <div class="navbar-header">
+
+                <div id="logo" class='nav-left'>
+                    <a class="navbar-brand" title="PhilArchive home" rel="home" href="https://philarchive.org">
+                        <img alt="PhilArchive home" src="/assets/raw/pp_logo.svg">
+                    </a>
+                </div>
+
+            </div>
+
+            <div class="visible-xs visible-sm">
+
+                <div class="navbar-form navbar-right btn-group" style="margin-left: -25px !important; margin-right: 5px !important; z-index: 6;">
+                    <button type="button" class="navbar-toggle collapsed nav-right" data-toggle="collapse" data-target="#main-nav" aria-expanded="false" aria-controls="main-nav">
+                        <i class='fa fa-bars'></i>
+                    </button>
+
+                    <button id="profile-dropdown-button" type="button" class="navbar-toggle collapsed nav-right" data-toggle="collapse" data-target="#profile-dropdown" aria-expanded="false" aria-controls="main-nav">
+                        <i style='font-size:16px' class='glyphicon glyphicon-user'></i>
+                    </button>
+                </div>
+
+                <form class="navbar-form-alt" onsubmit="if ($j(this).find('input').val().length < 3) { alert('You must specify a search query of three or more characters')} else {window.location='/s/'+escape(UTF8.encode($j(this).find('input').val()));} return false;" method=GET action="/autosense.pl" onSubmit="">
+
+<div class="input-group topSearch-container">
+
+<input id="topSearch" autocomplete='off' class="topSearch form-control input-lg" type="text" name="searchStr" style="color:black" onfocus="if (this.value == 'search for..') {this.value = '';this.style.color='black'}" value="" placeholder="Search PhilArchive">
+
+<span class="input-group-btn search-help">
+
+    <div class='dropdown topSearch-dropdown'>
+        <a href='#' class="topSearch-dropdown-btn dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="true" data-toggle="dropdown"><i class="fa fa-sort-desc dropdown-toggle" aria-hidden="true"></i>
+        </a> 
+
+        <ul class="dropdown-menu dropdown-menu-right">
+            <li><a href="/help/search.html">Syntax</a></li>
+            <li><a href="/advanced.html">Advanced Search</a></li>
+        </ul>
+    </div>
+</span>
+
+</div>
+
+</form>
+
+            </div>
+
+            <div id="main-nav" class="navbar-collapse collapse">
+                <div class="navbar-form navbar-right btn-group primary-links" >
+                    
+<script type="text/javascript">
+    $j(document).ready(function() {
+        initializeToggles();
+    });
+</script>
+
+<ul class="navbar-nav nav">
+    <li><a href="/edit">Submit</a></li>
+    <li class="dropdown with-submenu" id="nav-browse">
+        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Browse</a>
+		<ul class="dropdown-menu" role="menu">
+            <li><a href="/browse/all">All Categories</a></li>
+<li class=' dropdown-submenu' id='nav-10'><a href='#nav-10' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Metaphysics and Epistemology</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/metaphysics-and-epistemology'>Metaphysics and Epistemology</a></li><li><a href='/browse/epistemology'>Epistemology</a></li>
+<li><a href='/browse/metaphilosophy'>Metaphilosophy</a></li>
+<li><a href='/browse/metaphysics'>Metaphysics</a></li>
+<li><a href='/browse/philosophy-of-action'>Philosophy of Action</a></li>
+<li><a href='/browse/philosophy-of-language'>Philosophy of Language</a></li>
+<li><a href='/browse/philosophy-of-mind'>Philosophy of Mind</a></li>
+<li><a href='/browse/philosophy-of-religion'>Philosophy of Religion</a></li>
+<li><a href='/browse/me-misc'>M&E, Misc</a></li>
+</ul>
+<li class=' dropdown-submenu' id='nav-24'><a href='#nav-24' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Value Theory</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/value-theory'>Value Theory</a></li><li><a href='/browse/aesthetics'>Aesthetics</a></li>
+<li><a href='/browse/applied-ethics'>Applied Ethics</a></li>
+<li><a href='/browse/meta-ethics'>Meta-Ethics</a></li>
+<li><a href='/browse/normative-ethics'>Normative Ethics</a></li>
+<li><a href='/browse/philosophy-of-gender-race-and-sexuality'>Philosophy of Gender, Race, and Sexuality</a></li>
+<li><a href='/browse/philosophy-of-law'>Philosophy of Law</a></li>
+<li><a href='/browse/social-and-political-philosophy'>Social and Political Philosophy</a></li>
+<li><a href='/browse/value-theory-miscellaneous'>Value Theory, Miscellaneous</a></li>
+</ul>
+<li class=' dropdown-submenu' id='nav-36'><a href='#nav-36' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Science, Logic, and Mathematics</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/science-logic-and-mathematics'>Science, Logic, and Mathematics</a></li><li><a href='/browse/logic-and-philosophy-of-logic'>Logic and Philosophy of Logic</a></li>
+<li><a href='/browse/philosophy-of-biology'>Philosophy of Biology</a></li>
+<li><a href='/browse/philosophy-of-cognitive-science'>Philosophy of Cognitive Science</a></li>
+<li><a href='/browse/philosophy-of-computing-and-information'>Philosophy of Computing and Information</a></li>
+<li><a href='/browse/philosophy-of-mathematics'>Philosophy of Mathematics</a></li>
+<li><a href='/browse/philosophy-of-physical-science'>Philosophy of Physical Science</a></li>
+<li><a href='/browse/philosophy-of-social-science'>Philosophy of Social Science</a></li>
+<li><a href='/browse/philosophy-of-probability'>Philosophy of Probability</a></li>
+<li><a href='/browse/general-philosophy-of-science'>General Philosophy of Science</a></li>
+<li><a href='/browse/philosophy-of-science-misc'>Philosophy of Science, Misc</a></li>
+</ul>
+<li class=' dropdown-submenu' id='nav-51'><a href='#nav-51' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>History of Western Philosophy</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/history-of-western-philosophy'>History of Western Philosophy</a></li><li><a href='/browse/ancient-greek-and-roman-philosophy'>Ancient Greek and Roman Philosophy</a></li>
+<li><a href='/browse/medieval-and-renaissance-philosophy'>Medieval and Renaissance Philosophy</a></li>
+<li><a href='/browse/17th18th-century-philosophy'>17th/18th Century Philosophy</a></li>
+<li><a href='/browse/19th-century-philosophy'>19th Century Philosophy</a></li>
+<li><a href='/browse/20th-century-philosophy'>20th Century Philosophy</a></li>
+<li><a href='/browse/history-of-western-philosophy-misc'>History of Western Philosophy, Misc</a></li>
+</ul>
+<li class=' dropdown-submenu' id='nav-58'><a href='#nav-58' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Philosophical Traditions</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/philosophical-traditions'>Philosophical Traditions</a></li><li><a href='/browse/africanafricana-philosophy'>African/Africana Philosophy</a></li>
+<li><a href='/browse/asian-philosophy'>Asian Philosophy</a></li>
+<li><a href='/browse/continental-philosophy'>Continental Philosophy</a></li>
+<li><a href='/browse/european-philosophy'>European Philosophy</a></li>
+<li><a href='/browse/philosophy-of-the-americas'>Philosophy of the Americas</a></li>
+<li><a href='/browse/philosophical-traditions-miscellaneous'>Philosophical Traditions, Miscellaneous</a></li>
+</ul>
+<li class=' dropdown-submenu' id='nav-4'><a href='#nav-4' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Philosophy, Misc</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/philosophy-misc'>Philosophy, Misc</a></li><li><a href='/browse/philosophy-introductions-and-anthologies'>Philosophy, Introductions and Anthologies</a></li>
+<li><a href='/browse/philosophy-general-works'>Philosophy, General Works</a></li>
+<li><a href='/browse/teaching-philosophy'>Teaching Philosophy</a></li>
+<li><a href='/browse/philosophy-miscellaneous'>Philosophy, Miscellaneous</a></li>
+</ul>
+<li class=' dropdown-submenu' id='nav-70'><a href='#nav-70' class='dropdown-toggle submenu-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Other Academic Areas</a>
+<ul class="dropdown-menu" role='menu'>
+<li><a class='dir' href='/browse/other-academic-areas'>Other Academic Areas</a></li><li><a href='/browse/natural-sciences'>Natural Sciences</a></li>
+<li><a href='/browse/social-sciences'>Social Sciences</a></li>
+<li><a href='/browse/cognitive-sciences'>Cognitive Sciences</a></li>
+<li><a href='/browse/formal-sciences'>Formal Sciences</a></li>
+<li><a href='/browse/arts-and-humanities'>Arts and Humanities</a></li>
+<li><a href='/browse/professional-areas'>Professional Areas</a></li>
+<li><a href='/browse/other-academic-areas-misc'>Other Academic Areas, Misc</a></li>
+</ul>
+<li>
+</li>
+
+
+        </ul>
+    </li>
+    <li class='dropdown with-submenu' id="nav-help">
+        <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More</a>
+        <ul class="dropdown-menu pull-right">
+            <li><a href="/help/about.html">About PhilArchive</a></li>
+<li><a href="/help/faq.html">Frequently Asked Questions</a></li>
+<li><a href="/help/oai.html">OAI Handler</a></li>
+<li><a href="/alerts.html">Email alerts</a></li.
+<li><a href="/journals.html">Journal policies</a></li>
+<li><a href="/help/codeofconduct.html">Code of conduct</a></li>
+<li><a href="/help/contact.html">Contact us</a></li>
+
+        </ul>
+    </li>
+</ul>
+
+
+                </div>
+
+                <div class="hidden-xxs hidden-xs hidden-sm">
+                    <form class="navbar-form-alt" onsubmit="if ($j(this).find('input').val().length < 3) { alert('You must specify a search query of three or more characters')} else {window.location='/s/'+escape(UTF8.encode($j(this).find('input').val()));} return false;" method=GET action="/autosense.pl" onSubmit="">
+
+<div class="input-group topSearch-container">
+
+<input id="topSearch" autocomplete='off' class="topSearch form-control input-lg" type="text" name="searchStr" style="color:black" onfocus="if (this.value == 'search for..') {this.value = '';this.style.color='black'}" value="" placeholder="Search PhilArchive">
+
+<span class="input-group-btn search-help">
+
+    <div class='dropdown topSearch-dropdown'>
+        <a href='#' class="topSearch-dropdown-btn dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="true" data-toggle="dropdown"><i class="fa fa-sort-desc dropdown-toggle" aria-hidden="true"></i>
+        </a> 
+
+        <ul class="dropdown-menu dropdown-menu-right">
+            <li><a href="/help/search.html">Syntax</a></li>
+            <li><a href="/advanced.html">Advanced Search</a></li>
+        </ul>
+    </div>
+</span>
+
+</div>
+
+</form>
+
+                </div>
+            </div>
+
+            <div class="hidden-md hidden-lg">
+                <div id="profile-dropdown" class='navbar-collapse collapse'>
+                <div class="navbar-form navbar-right btn-group">
+                    <ul class="navbar-nav nav">
+<li><a href="/inoff.html">Sign in</a></li>
+<li><a href="/users/new.html">Create an account</a></li></li>
+                    </ul>
+                </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+<script type='text/javascript'>
+    $j(document).ready(ppTypeahead.initialize(".topSearch"));
+</script>
+
+<div id="contentContainer" class=" container ">
+
+
+
+
+
+<div class='bulma'>
+    <div class='panel panel-default' id='rec' itemscope itemtype="http://schema.org/Article">
+      <div class='panel-body'>
+        <div class='pull-right' style="text-align:center">
+          
+  
+<div>
+  <a href="https://philarchive.org/go.pl?id=LUDMVI&amp;proxyId=&amp;u=https%3A%2F%2Fphilpapers.org%2Farchive%2FLUDMVI.pdf"  target="_blank" class='ml-3 button is-success outLink'>
+    <i class='fa fa-file-pdf fa-lg'></i><span class='ml-3 hidden-xs'>Download</span>
+  </a>  
+</div>
+
+
+
+
+
+
+        </div>
+        
+<h1 class="recTitle" itemprop="name" style="flex-grow: 1">
+  <a  class='outLink' href="https://philarchive.org/go.pl?id=LUDMVI&amp;proxyId=&amp;u=https%3A%2F%2Fphilpapers.org%2Farchive%2FLUDMVI.pdf">Dynamic Many Valued Logic Systems in Theoretical Economics</a>
+</h1>
+
+        
+        
+<div class="recAuthors" style='margin-bottom: 10px;'>
+<a class='discreet' title="View other works by D. Lu" href="/s/D.%20Lu"><span class='name' itemprop='author' >D. Lu</span></a>
+</div>
+
+        
+
+
+
+        <div itemprop="description" class='mt-3'>
+          <h1 class='title mb-3 mt-5 has-text-grey'>Abstract</h1>
+          This paper is an original attempt to understand the foundations of economic reasoning. It endeavors to rigorously define the relationship between subjective interpretations and objective valuations of such interpretations in the context of theoretical economics. This analysis is substantially expanded through a dynamic approach, where the truth of a valuation results in an updated interpretation or changes in the agent's subjective belief regarding the effectiveness of the selected action as well as the objective reality of the effectiveness of all other possible actions (i.e. consequence realization). Complications arise when the economic agent is presented with a set of actions that render ambiguous preference, or when the effectiveness of an action cannot be perceived upon its selection, thereby necessitating a different theory of choice and consequence realization.
+        </div>
+        
+        <div class='mt-3'>
+          <div class='philstar-components entry-buttons-container blue-wrapper is-hidden'>
+
+  <like-button
+    token=""
+    source_id="9446122"
+    source_type="Philpapers::Publication"
+    login_path="/login"
+
+  >
+  </like-button>
+
+  <recommend-button
+    token=""
+    source_id="9446122"
+    source_type="Philpapers::Publication"
+    login_path="/login"
+  />
+  </recommend-button>
+
+  <bookmark
+    token=""
+    source_id="9446122"
+    source_type="Philpapers::Publication"
+    login_path="/login"
+  />
+  </bookmark>
+
+  <div class="export-options">
+  <b-dropdown aria-role="list">
+      <b-button slot='trigger' class='is-small'>
+          <i class='fa fa-download fa-fw'></i>
+          <span class='ml-3 hidden-mobile'>Cite</span>
+      </b-button>
+      <b-dropdown-item aria-role="listitem">
+          <span onclick='exportEntry("LUDMVI", "txt", "plain text")' title='Export as plain text in a new window'>
+              Plain text
+          </span>
+          <span class="export-clipboard pull-right" onclick='exportEntry("LUDMVI", "txt", "plain text",true)' title='Copy to clipboard'>
+            &nbsp;<i class="fa fa-copy"></i>&nbsp; 
+          </span>
+      </b-dropdown-item>
+      <b-dropdown-item aria-role="listitem">
+          <span onclick='exportEntry("LUDMVI", "bib", "BibTeX")' title='Export as BibTeX in a new window'>
+              BibTeX
+          </span>
+          <span class="export-clipboard pull-right" onclick='exportEntry("LUDMVI", "bib", "BibTeX", true)' title='Copy BibTeX to clipboard'>
+            &nbsp;<i class="fa fa-copy"></i>&nbsp; 
+          </span>
+      </b-dropdown-item>
+      <b-dropdown-item aria-role="listitem">
+          <span onclick='exportEntry("LUDMVI", "htm", "formatted text")' title='Export as formatted text in a new window'>
+              Formatted text
+          </span>
+      </b-dropdown-item>
+      <b-dropdown-item aria-role="listitem" has-link>
+          <a href="/formats/item.zot?id=LUDMVI" title='Export as Zotero'>
+              Zotero
+          </a>
+      </b-dropdown-item>
+      <b-dropdown-item aria-role="listitem" has-link>
+          <a href="/formats/item.enw?id=LUDMVI" title='Export as EndNote'>
+              EndNote
+          </a>
+      </b-dropdown-item>
+      <b-dropdown-item aria-role="listitem" has-link>
+          <a href="/formats/item.ris?id=LUDMVI" title='Export as Reference Manager'>
+              Reference Manager
+          </a>
+      </b-dropdown-item>
+      <b-dropdown-item aria-role="listitem">
+          <span onclick="refWorks('LUDMVI')" title='Export as RefWorks'>
+              RefWorks
+          </span>
+      </b-dropdown-item>
+  </b-dropdown>
+</div>
+
+
+
+  <div>
+    <b-dropdown aria-role="list">
+        <b-button slot='trigger' class='is-small'>
+            <i class='fa fa-cog fa-fw'></i>
+            <span class='ml-3 hidden-mobile'>Options</span>
+        </b-button>
+
+        <b-dropdown-item aria-role="listitem" has-link>
+          <a href="/edit/LUDMVI" title="Edit entry">
+            <i class='fa fa-pencil-square-o'></i>
+            <span class='ml-3'>Edit</span>
+          </a>
+        </b-dropdown-item>
+
+        <b-dropdown-item aria-role="listitem" has-link>
+            <a href='/utils/duplicate.pl?eId=LUDMVI' title='Mark as duplicate'>
+                <i class='fa fa-files-o fa-fw'></i>
+                <span class='ml-3'>Mark as duplicate</span>
+            </a>
+        </b-dropdown-item>
+        <b-dropdown-item aria-role="listitem" has-link>
+            <a href='http://www.google.com/scholar?hl=en&amp;lr=&amp;q=Dynamic%20Many%20Valued%20Logic%20Systems%20in%20Theoretical%20Economics+author%3ALu' title='Search on Google Scholar'>
+                <i class='fa fa-google fa-fw'></i>
+                <span class='ml-3'>Find it on Scholar</span>
+            </a>
+        </b-dropdown-item>
+        <b-dropdown-item aria-role="listitem">
+            <span onclick='userDelete("LUDMVI")' title='Request deletion on PhilArchive'>
+                <i class='fa fa-trash fa-fw'></i>
+                <span class='ml-3'>Request removal from index</span>
+            </span>
+        </b-dropdown-item>
+
+        <b-dropdown-item aria-role="listitem" has-link>
+            <a rel='nofollow' href="/utils/revisions.pl?eId=LUDMVI"  title='Revision history'>
+                <i class='fa fa-history fa-fw'></i>
+                <span class='ml-3'>Revision history</span>
+            </a>
+        </b-dropdown-item>
+    </b-dropdown>
+  </div>
+
+  <a href="https://philpapers.org/rec/LUDMVI" class='button is-small'>
+    <i class='fa fa-external-link'></i><span class='hidden-mobile ml-3'>View on PhilPapers</i>
+  </a>
+
+</div>
+
+<style>
+
+</style>
+
+        </div>
+      </div>
+
+    </div>
+
+    
+      <div class='panel panel-default'>
+        <div class='panel-body'>
+          
+<h1 class='title has-text-grey'>Author's Profile</h1>
+
+<div id="profile-list" class='philstar-components'>
+   <div class="profile-tab">
+    <div class='profile-tab__image'>
+        <a href="https://philpeople.org/profiles/daniel-lu">
+            <img src="https://philpeople.org/profiles/photo/1113882/small"></img>
+        </a>
+    </div>
+    <div class='profile-tab__content'>
+        <a class='profile-link' href="https://philpeople.org/profiles/daniel-lu">
+            Daniel Lu
+        </a>
+        <div class='affil'>
+            University of Warwick
+        </div>
+    </div>
+    <div class='profile-tab__follow'>
+      <follow-button
+        token=""
+        :relationship_id="null"
+        :profile_id="1113882"
+        login_path="/login"
+      />
+    </div>
+</div>
+
+</div>
+
+<style>
+.profile-tab .button {
+    padding: 5px 12px;
+    height: 30px;
+}
+</style>
+
+        </div>
+      </div>
+
+
+
+    <div class='panel panel-default'>
+      <div class='panel-body'>
+
+        <div class='entry-info-partial'>
+
+<h1 class='title has-text-grey'>Archival history</h1>
+
+    First archival date: 2024-04-16<br>
+    Latest version: 4 (2024-05-17)<br>
+
+<a href="/versions/LUDMVI">View all versions</a>
+
+</div>
+
+
+     
+        <div class='entry-info-partial'>
+<div class='flex-between'>
+  <h1 class='title has-text-grey'>Categories</h1>
+  <a class='button is-default is-outlined is-small' href="/edit/LUDMVI#categorization">
+    <i class='fa fa-pencil fa-fw'></i>
+  </a>
+</div>
+
+<div itemprop="keywords" id="record-categories">
+<div><a class='catName' href='/browse/game-theory' rel='section'>Game Theory</a><span class='catIn'> in </span><a class='catArea' href='/browse/philosophy-of-action' rel='section'>Philosophy of Action</a></div> 
+</div>
+</div>
+
+          
+        <div class='entry-info-partial'>
+<div class='flex-between'>
+  <h1 class='title has-text-grey'>Keywords</h1>
+  <a class='button is-default is-outlined is-small' href="/edit/LUDMVI#keywords">
+    <i class='fa fa-pencil fa-fw'></i>
+  </a>
+</div>
+
+<div class=''>
+  <a href="/edit/LUDMVI#keywords">Add keywords</a>
+</div>
+</div>
+
+        
+<div class="row no-left-pad-col entry-multicol">
+<div class="col-sm-4">
+  <div class='entry-info-partial'>
+  <div class="flex-between">
+    <h1 class='title has-text-grey'>Reprint years</h1>
+    <a class='button is-default is-outlined is-small' href="/edit/LUDMVI#dateRP">
+      <i class='fa fa-pencil fa-fw'></i>
+    </a>
+  </div>
+  <div></div>
+</div>
+
+</div>
+
+
+</div>
+
+
+
+
+      </div>
+    </div>
+
+
+      <div class='panel panel-default'>
+        <div class='panel-body'>
+          <h1 class='title has-text-grey'>Analytics</h1>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load("visualization", "1", {packages:["corechart"]});
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+var data = new google.visualization.DataTable();
+data.addColumn('date', 'Date');
+data.addColumn('number', 'Downloads');
+data.addRows([
+[new Date(2024,3,17),86],
+[new Date(2024,4,1),51],
+[new Date(2024,5,2),93],
+[new Date(2024,6,1),36],
+[new Date(2024,7,1),32],
+[new Date(2024,8,1),10],
+[new Date(2024,9,4),20],
+[new Date(2024,10,3),22],
+[new Date(2024,11,1),9]]);
+
+var options = {
+    chartArea:{left:0,top:10,width:"100%",height:"150"},
+    interpolateNulls: true,
+    legend:{position:'none'},
+    hAxis:{format:'MMM y'},
+    vAxis:{baseline:"0"},
+    lineWidth:'2',
+    colors:['#109D49'],
+};
+
+var format = new google.visualization.DateFormat({pattern:"MMM yyyy"});
+format.format(data,0);
+var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
+chart.draw(data,options);
+}
+</script>
+<div class="row clearfix">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-2" style="text-align:left">
+<b>Added to PP</b>
+<br>
+2024-04-17
+<br><br>
+<b>Downloads</b>
+<br>
+<span itemprop="interactionCount">359</span> 
+(#63,946)<br><br>
+<b>6 months</b>
+<br>
+163 
+(#20,522)<br><br>
+</div>
+
+<div class='col-xs-12 col-sm-12 col-md-12 col-lg-10' style='text-align:left;'>
+<div><b>Historical graph of downloads since first upload</b></div>
+<div id='chart_div' style="text-align:center;">
+</div>
+
+    <div style="text-align:left">
+    <em>This graph includes both downloads from PhilArchive and clicks on external links on PhilPapers.</em>
+    </div>
+
+<span class='ll' style="font-size:smaller" onclick="faq('downloads');">How can I increase my downloads?</span>
+
+
+</div>
+
+</div>
+
+
+
+        </div>
+      </div>
+
+
+  </div>
+
+</div>
+
+<style>
+
+@media (max-width: 1200px) {
+    .panel {
+        margin-bottom: 0px !important;
+        box-shadow: none;
+        padding-bottom: 15px;
+    }
+}
+.button.is-default span, .bulma-button.is-default i {
+    color: #363636;
+}
+.entry-info-partial:not(:last-child)  {
+  margin-bottom: 20px;
+}
+.entry-info-partial h1.title {
+  margin-bottom: 10px !important;
+  font-size: 16px !important;
+}
+</style>
+
+
+
+
+
+
+
+<!-- Containers for YUI dialogs, categorizer, 'loading' widget.z-index=999 to put it above all content in #all -->
+<div class='yui-skin-sam' style='z-index:3000'>
+    <div class="ppskin" id="container"></div>
+    <div id='load_c' style='display:none'>
+        <div id='load_c2'> 
+            <div id='loadmsg'>loading ..</div> 
+            <img id='loadimg' width="16" height="16" src='/assets/raw/generic-load.gif'>
+        </div>
+    </div>
+    <div id='outer-con' class='ppskin' style='z-index:1000'>
+        <div id='editor-con' style="display:none"> 
+            <div class='hd'></div> 
+            <div class='bd' id='editor-bd' style=""></div> 
+        </div>
+        <div id='categorizer-con' style="display:none">
+        </div>
+    </div>
+</div>
+
+
+
+
+</div> <!-- end #contentContainer-->
+
+<div class='container footer-container panel panel-default panelb-body'>
+
+<div id="footerWrap">
+<div class="footer centered" style="">
+
+
+<!-- List of areas -->
+<div class='hidden-xs'>
+    <div class='centered' style='padding-bottom:5px'><table class='centered'><tr><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/applied-ethics' rel='subsection'>Applied ethics</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/epistemology' rel='subsection'>Epistemology</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/history-of-western-philosophy' rel='subsection'>History of Western Philosophy</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/meta-ethics' rel='subsection'>Meta-ethics</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/metaphysics' rel='subsection'>Metaphysics</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/normative-ethics' rel='subsection'>Normative ethics</a></td></tr><tr><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/philosophy-of-biology' rel='subsection'>Philosophy of biology</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/philosophy-of-language' rel='subsection'>Philosophy of language</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/philosophy-of-mind' rel='subsection'>Philosophy of mind</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/philosophy-of-religion' rel='subsection'>Philosophy of religion</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/browse/science-logic-and-mathematics' rel='subsection'>Science Logic and Mathematics</a></td><td valign='top' width='16%'><a style='font-size:smaller' href='/categories.pl'>More ...</a></td></tr></table></div>
+</div>
+
+<!-- More links -->
+<div class="btnmenu">
+    <a rel="subsection" href="https://philarchive.org">Home</a> | 
+    <a rel="subsection" href="/categories.pl">Bibliographies</a> |
+    <a rel="subsection" href="/help/about.html">About PhilArchive</a> | 
+    <a rel="subsection" href="/help/contact.html">Contact us</a> |
+    <a rel="subsection" href="/help/codeofconduct.html">Code of conduct</a>
+</div>
+
+<br>
+
+<a class='sponsorbtm' href="http://cdp.uwo.ca"><img style="height:75px" alt="CDP" border="0" src="/philarchive/raw/CDP-logo.gif"></a>
+
+<a class='sponsorbtm' href="http://pdcnet.org"><img alt="Phiosophy Documentation Center" src="/philarchive/raw/pdc.jpg" border="0" style="height:75px"></a>
+<br>
+<div>
+PhilPapers logo by <a href="https://www.behance.net/AndreaAndrews">Andrea Andrews</a> and <a href="https://www.behance.net/MeghanDriscoll">Meghan Driscoll</a>.
+</div>
+
+
+This site uses cookies and Google Analytics (see our <a rel="nofollow" href="https://philpapers.org/help/terms.html#analytics">terms &amp; conditions</a> for details regarding the privacy implications). <br>
+<br>Use of this site is subject to <a rel="nofollow" href="https://philpapers.org/help/terms.html">terms &amp; conditions</a>.
+<br>All rights reserved by <a href="https://philpapers.org/foundation">The PhilPapers Foundation</a><br>
+<br>
+
+
+<span style="color:#aaa;font-size:smaller">Server: philpapers-web-6f97f49787-4dlf6 uwo</span>
+
+
+
+<!-- footer -->
+</div>
+</div>
+
+
+
+
+</div> 
+
+<!-- closes #all -->
+</div>
+
+<script type="text/javascript" src="/dynamic-assets/webpack/webpack.d70222f0eaecb52db640.js"></script>
+
+
+
+<script type="text/javascript">
+var onload_functions = new Array();
+onload_functions[0] = function() { basicOnLoad() };
+</script>
+
+<script type="text/javascript">
+window.onload = function() {
+    // store pre-loaded menus for my biblio etc.
+    for (x=0;x<onload_functions.length;x++) {
+        onload_functions[x]();
+    }
+  const vues = document.querySelectorAll(".philstar-components");
+  vues.forEach(el => {
+    el.classList.remove('is-hidden');
+  });
+}
+</script>
+
+
+
+
+
+</body>
+</html>
