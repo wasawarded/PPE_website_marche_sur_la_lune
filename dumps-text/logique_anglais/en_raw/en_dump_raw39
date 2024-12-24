@@ -264,29 +264,32 @@ Is Apache Tomcat the right Java application server for you?
      * Java
 
    Search Software Quality
+     * 13 must-know Markdown tips and tricks
+       Use these tips to improve your Markdown-based documentation,
+       streamline your approach and structure your documents.
      * Professional Scrum Developer exam questions and answers
        Professional Scrum Developer is a highly respected certification,
        but it's not easy to get. Take this sample PSD exam to test ...
      * How to choose the best Markdown editor for your use case
        A dedicated authoring tool helps writers take full advantage of
        Markdown. Find one that supports your development projects, ...
-     * Top Scrum certifications: Which path to choose
-       Ready to level up your Agile and Scrum skills? Here are the top
-       certification paths, from Scrum master to Agile leadership, that
-       ...
 
    Search Cloud Computing
+     * How to transition to the cloud: 7 best practices
+       Cloud migration provides numerous benefits, but there are pitfalls.
+       Following these best practices builds a solid foundation for ...
+     * Cloud TCO: How to calculate cloud total cost of ownership
+       Unsure what it will cost to run workloads in the cloud? Learn the
+       variables you need to compare on-premises deployment to cloud ...
      * How to calculate cloud migration costs
        It's important to calculate the total cost of a cloud migration
        before making the move. Heer's how to compare your on-premises ...
-     * How to prepare for long-lasting cloud outages
-       Cloud outages are more than a technical inconvenience -- they can
-       threaten business continuity, customer satisfaction, security ...
-     * How to create an EC2 instance from the AWS Console
-       AWS has made launching EC2 instances an easy task, but there are
-       still many steps to the result. Learn how to successfully create...
 
    TheServerSide.com
+     * A JavaScript functional programming basic tutorial
+       JavaScript's versatility makes it useful for webpages and web
+       servers, but also functional programming. This tutorial shows how
+       ...
      * Why Agile estimation and planning never works
        Modern application development can defy traditional project
        planning and delivery. Here's how to incorporate more flexibility
@@ -294,9 +297,6 @@ Is Apache Tomcat the right Java application server for you?
      * Understanding the 7 principles of functional programming
        Java and C++ ushered in object-oriented programming, but now Python
        and JavaScript popularize functional programming. These seven...
-     * Agile estimation: Predicting the unpredictable
-       Agile teams' overreliance on estimates detracts from the overall
-       goal to deliver value to the customer. Avoid these agile ...
 
      * About Us
      * Editorial Ethics Policy

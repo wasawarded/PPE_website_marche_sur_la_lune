@@ -20,7 +20,7 @@ do
 		if [[ $encodage =~ [uU][tT][fF]-8 ]] && [ $code_http -eq 200 ]
 		then
 			nombre_mots=$(lynx -dump -nolist $file | wc -w)
-			echo -e "$nombre_de_ligne\t$line\t$code_http\t$encodage\t$nombre_mots"
+			echo -e "$nombre_de_ligne\t$line\t$code_http\t$encodage\t$nombre_mots" >> "/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/tableaux/en_table.txt"
 
 			file=$html_path$nombre_de_ligne.html
 			# file here is a html file
@@ -29,13 +29,13 @@ do
 		elif [ $code_http -ne 200 ]
 		then
 		# even if the code is not 200, we need to write a information in our html
-			echo "le $nombre_de_ligne url n'a pas un url valide"
+			echo -e "$nombre_de_ligne\t$line\tNULL\tNULL\tNULL" >> "/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/tableaux/en_table.txt"
 
 		elif [[ ! $encodage =~ [uU][tT][fF]-8 ]] && [ $code_http -eq 200 ]
 		then
-			echo -e "$nombre_de_ligne\t$line\t$code_http\t$encodage not utf8"
+			echo -e "$nombre_de_ligne\t$line\t$code_http\t$encodage\t$nombre_mots" >> "/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/tableaux/en_table.txt"
 			file=$html_path$nombre_de_ligne.html
-			iconv -f $encodage -t utf-8 $file -o $file
+			iconv -f $encodage -t utf-8 $file -o $file # transformation en UTF-8
 			lynx -dump -nolist $file > $dump_path/en_dump_raw$nombre_de_ligne
 		fi
 	else
