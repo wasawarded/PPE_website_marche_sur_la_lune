@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://www.dropbox.com/scl/fi/31rdoiqp14mwmjlwkyasd/?rlkey=rw20o7da42qkkxjp16prd2knu&st=5b85f9m3&raw=1'); /* Lien Dropbox avec le paramètre `raw=1` */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10%;
+    font-size: 3em;
+    font-weight: bold;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+h1 span {
+    display: block;
+    margin: 10px 0;
+    font-size: 1.5em;
+    color: #white;
+}
+
+.arabe {
+    font-family: "Amiri", serif;
+}
+
+.anglais {
+    font-family: "Arial", sans-serif;
+}
+
+.francais {
+    font-family: "Georgia", serif;
+}
+
+.chinois {
+    font-family: "Noto Sans SC", sans-serif;
+}
+
+.portugais {
+    font-family: "Verdana", sans-serif;
+}
