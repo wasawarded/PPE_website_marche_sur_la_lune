@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Définition des chemins
-base_dir="/home/administrateur/Bureau/MASTER TAL/M1 TAL/PROJET ENCADRE 1/TD S1/TD_GROUPE/PPE_website_marche_dans_la_lune"
+# Chemin relatif vers le dossier parent principal
+base_dir=".."
+
+# Définition des chemins relatifs basés sur le dossier parent
 url_file="$base_dir/URLs/ar_url/ar_url.txt"
 dumps_dir="$base_dir/dumps-text/logique_arabe"
-contextes_dir="$base_dir/contextes/ar_contexte"
-concordances_dir="$base_dir/concordances/ar_concordances"
+contextes_dir="$base_dir/contextes/ar_contexte/context_txt"
+concordances_dir="$base_dir/tableaux/concordances/ar_concordances"
 tableaux_dir="$base_dir/tableaux"
 output_html="$tableaux_dir/ar_table.html"
 word="منطق|المنطق"
@@ -20,7 +23,7 @@ cat <<EOT > "$output_html"
 <head>
     <meta charset="UTF-8">
     <title>Tableau des résultats</title>
-    <link rel="stylesheet" type="text/css" href="$base_dir/IG.css">
+    <link rel="stylesheet" type="text/css" href="./ar_table.css">
 </head>
 <body>
 <div style="width: 80%; margin: 0 auto; padding-top: 15px;">
