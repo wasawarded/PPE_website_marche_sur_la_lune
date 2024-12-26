@@ -19,3 +19,4 @@
 ### anglais
 - création des contextes en html
 - création de script pour générer les concordance en html, pour le sed, j'ai pas très bien compris sa fonction
+- création de tableaux mais pour les liens contexte et les liens Concordances, ce sont les liens locaux, les autres ne peuvent pas y avoir access
