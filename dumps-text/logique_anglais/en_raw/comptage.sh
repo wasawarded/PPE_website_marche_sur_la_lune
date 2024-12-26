@@ -1,15 +1,15 @@
-#!/bin/sh
+#/!/bin/sh
 name="en_dump_raw"
-a=1
-table="/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/tableaux/en_table.txt"
-while read raw;
+contexte="en_contexte"
+nb=1
+path="/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/contextes/en_contexte/contexte_html"
+while [ $nb -lt 81 ];
 do
-	if [ -f $name$a ]
+    if [ -f $name$nb ]
 	then
-		comptage=$(grep -i -o logic $name$a | wc -w)
-		echo -e $raw"\t"$comptage # pour utiliser le wildcard, il faut utiliser les ""
-	else
-		echo -e $raw"\terror"
-	fi
-	a=$(expr $a + 1)
-done < $table
+        grep -i -w -A2 -B2 logic $name$nb > $path/$contexte$nb.html
+    else
+		echo -e $raw"\terror" > $path/$contexte$nb.html
+    fi
+    nb=$(expr $nb + 1)
+done < $name$nb

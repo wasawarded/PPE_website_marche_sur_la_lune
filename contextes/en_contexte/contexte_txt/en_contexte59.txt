@@ -1,0 +1,126 @@
+   [ ] Toggle the table of contents
+
+Logic bomb
+
+   [ ] 25 languages
+--
+   subject to conditions
+
+   A logic bomb is a piece of code intentionally inserted into a software
+   system that will set off a malicious function when specified conditions
+   are met. For example, a programmer may hide a piece of code that starts
+--
+
+   Software that is inherently malicious, such as viruses and worms, often
+   contain logic bombs that execute a certain payload at a pre-defined
+   time or when some other condition is met. This technique can be used by
+   a virus or worm to gain momentum and spread before being noticed. Some
+--
+   activate on certain dates are often called "time bombs".
+
+   To be considered a logic bomb, the payload should be unwanted and
+   unknown to the user of the software. As an example, trial programs with
+   code that disables certain functionality after a set time are not
+   normally regarded as logic bombs.
+
+Successful
+--
+   [edit]
+     * In June 2006 Roger Duronio, a system administrator for UBS, was
+       charged with using a logic bomb to damage the company's computer
+       network, and with securities fraud for his failed plan to drive
+       down the company's stock with activation of the logic bomb.^[1]^[2]
+       Duronio was later convicted and sentenced to 8 years and 1 month in
+       prison, as well as a $3.1 million restitution to UBS.^[3]
+     * On 20 March 2013, in an attack launched against South Korea, a
+       logic bomb struck machines and "wiped the hard drives and master
+       boot records of at least three banks and two media companies
+       simultaneously."^[4]^[5] Symantec reported that the malware also
+--
+       machines.^[6]^[7]
+     * On 19 July 2019, David Tinley, a contract employee, pleaded guilty
+       for programming logic bombs within the software he created for
+       Siemens Corporation.^[8] The software was intentionally made to
+       malfunction after a certain amount of time, requiring the company
+       to hire him to fix it for a fee. The logic bombs went undetected
+       for two years, but were then discovered while he was out of town
+       and had to hand over the administrative password to his
+--
+   [edit]
+     * In February 2000, Tony Xiaotong Yu, indicted before a grand jury,
+       was accused of planting a logic bomb during his employment as a
+       programmer and securities trader at Deutsche Morgan Grenfell. The
+       bomb, planted in 1996, had a trigger date of 20 July 2000, but was
+--
+       code on a server at Medco Health Solutions Inc.'s Fair Lawn, New
+       Jersey headquarters, where he was employed as a Unix administrator,
+       creating a logic bomb set to go off on his birthday in 2004. It
+       failed to work due to a programming error, so Lin corrected the
+       error and reset it to go off on his next birthday, but it was
+--
+       $81,200 in restitution. The charges held a maximum sentence of 10
+       years and a fine of US$250,000.^[13]^[14]
+     * On 29 October 2008 a logic bomb was discovered at American mortgage
+       giant Fannie Mae. The bomb was planted by Rajendrasinh Babubhai
+       Makwana, an IT contractor who worked at Fannie Mae's Urbana,
+--
+       U.S. Transportation Security Administration. Surveillance cameras
+       captured images of Duchak entering the facility after hours and
+       loading a logic bomb onto a CSOC server that stored data from the
+       U.S. Marshals. In January 2011, Duchak was sentenced to two years
+       in prison, $60,587 in fines, and three years on probation.^[18] At
+--
+       that at the time of the incident, Duchak's wife was pregnant with
+       their second child. The judge at the sentencing mentioned that this
+       logic bomb planting "incident was an anomaly in an otherwise
+       untarnished work history."^[19]
+
+--
+   Thomas C. Reed wrote in his 2004 book At the Abyss: An Insider's
+   History of the Cold War that in 1982, a sabotage occurred on the
+   Trans-Siberian Pipeline because of a logic bomb. According to Reed, a
+   KGB operative stole the plans for a sophisticated control system and
+   its software from a Canadian firm, for use on its Siberian pipeline.
+   The Central Intelligence Agency (CIA) was tipped off by documents in
+   the Farewell Dossier, and had the company insert a logic bomb in the
+   program for sabotage purposes.^[20]^[21] Critics have contested the
+   authenticity of this account,^[22]^[23] and it was reported that the
+--
+       the original on 28 October 2007. Retrieved 8 December 2006.
+    3. ^ Former UBS Computer Systems Manager Gets 97 Months for Unleashing
+       "Logic Bomb" on Company Network Archived 30 September 2007 at the
+       Wayback Machine
+    4. ^ "Government waging 'war' against people: Kim Zetter". Wired.
+--
+       24 March 2013. Retrieved 3 April 2013.
+    8. ^ "Siemens Contract Employee Intentionally Damaged Computers by
+       Planting Logic Bombs into Programs He Designed". www.justice.gov.
+       United States Department of Justice. 19 July 2019. Retrieved 9
+       September 2019.
+    9. ^ Cimpanu, Catalin. "Siemens contractor pleads guilty to planting
+       logic bomb in company spreadsheets". ZDNet. Retrieved 9 September
+       2019.
+   10. ^ List, Jenny (6 December 2023). "The Deere Disease Spreads To
+--
+   12. ^ "Man Indicted in Computer Case". The New York Times. 10 February
+       2000. pp. C.7.
+   13. ^ Vijayan, Jaikumar. "Unix Admin Pleads Guilty to Planting Logic
+       Bomb". PC World. Archived from the original on 28 October 2007.
+       Retrieved 22 September 2007.
+   14. ^ "2.5 Years in Jail for Planting 'Logic Bomb'". Slashdot. 9
+       January 2008.
+   15. ^ "Fannie Mae Contractor Indicted For Logic Bomb". Archived from
+       the original on 20 June 2009. Retrieved 29 January 2009.
+   16. ^ Former Employee of Fannie Mae Contractor Convicted of Attempting
+--
+       The Raw Story. Archived from the original on 8 May 2014. Retrieved
+       26 May 2012.
+   18. ^ TSA Worker Gets 2 Years for Planting Logic Bomb in Screening
+       System 12 January 2011
+   19. ^ Springs man sent to prison for hacking into TSA computer Archived
+--
+     * Bombs
+          + Fork
+          + Logic
+          + Time
+          + Zip
