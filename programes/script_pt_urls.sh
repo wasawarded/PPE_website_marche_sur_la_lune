@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# Définition des chemins
-# Chemin relatif vers le dossier parent principal
 base_dir=".."
 
-# Définition des chemins relatifs basés sur le dossier parent
+
 url_file="$base_dir/URLs/pt_url/pt_url.txt"
 dumps_dir="$base_dir/dumps-text/logique_portugais"
 contextes_dir="$base_dir/contextes/pt_contexte/pt_context_txt"
@@ -13,10 +11,10 @@ tableaux_dir="$base_dir/tableaux"
 output_html="$tableaux_dir/pt_table.html"
 word="lógica/o"
 
-# Vérification des dossiers
+
 mkdir -p "$contextes_dir" "$concordances_dir" "$tableaux_dir"
 
-# Initialisation du tableau HTML
+
 cat <<EOT > "$output_html"
 <!DOCTYPE html>
 <html lang="fr">
@@ -46,7 +44,7 @@ cat <<EOT > "$output_html"
     <tbody>
 EOT
 
-# Traitement des URLs
+
 number=1
 while read -r url; do
     if [[ -z "$url" ]]; then
@@ -56,12 +54,12 @@ while read -r url; do
 
     echo "Traitement de l'URL numéro $number ..."
 
-    # Définition des fichiers associés
+    
     dump_file="$dumps_dir/dump_pt_$number.txt"
     context_file="$contextes_dir/logique_portugais-$number-context.html"
     concordance_file="$concordances_dir/logique_portugais-$number-concordance.html"
 
-    # Vérification de l'existence du dump
+    
     if [[ ! -f "$dump_file" ]]; then
         echo "Erreur : Le fichier dump $dump_file n'existe pas." >&2
         cat <<EOL >> "$output_html"
@@ -80,24 +78,24 @@ EOL
         continue
     fi
 
-    # Comptage des tokens
+   
     token_count=$(wc -w < "$dump_file")
 
-    # Comptage des occurrences du mot étudié
+    
     word_count=$(grep -o -E "$word" "$dump_file" | wc -l)
 
-    # Extraction des contextes
+    
     grep -C 2 -E "$word" "$dump_file" > "$context_file"
 
-    # Génération des concordances
+    
     grep -o -E ".{0,30}($word).{0,30}" "$dump_file" | \
     sed -E "s/(.*)($word)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" > "$concordance_file"
 
-    # Génération des concordances
+    
 grep -o -E ".{0,30}($word).{0,30}" "$dump_file" | \
 sed -E "s/(.{0,30})($word)(.{0,30})/<tr><td>\1<\/td><td><strong>\2<\/strong><\/td><td>\3<\/td><\/tr>/" > "$concordance_file"
 
-# Encapsulation dans un fichier HTML
+
 cat <<EOC > "$concordance_file"
 <!DOCTYPE html>
 <html lang="fr">
@@ -128,7 +126,7 @@ $(cat "$concordance_file")
 </html>
 EOC
 
-# Ajout des résultats au tableau HTML
+
     cat <<EOL >> "$output_html"
         <tr>
             <td>$number</td>
@@ -145,7 +143,7 @@ EOL
     number=$((number + 1))
 done < "$url_file"
 
-# Finalisation du tableau HTML
+
 cat <<EOT >> "$output_html"
     </tbody>
 </table>
