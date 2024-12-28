@@ -1,0 +1,119 @@
+   [ ] Toggle the table of contents
+
+Logic analyzer
+
+   [ ] 17 languages
+--
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Logic analyzer" – news · newspapers · books · scholar ·
+   JSTOR (December 2012) (Learn how and when to remove this message)
+   [220px-Logic_analyzer_Agilent_16902A.jpg] Logic analyzer
+
+   A logic analyzer is an electronic instrument that captures and displays
+   multiple logic signals from a digital system or digital circuit. A
+   logic analyzer may convert the captured data into timing diagrams,
+   protocol decodes, state machine traces, opcodes, or may correlate
+   opcodes with source-level software. Logic analyzers have advanced
+   triggering capabilities, and are useful when a user needs to see the
+   timing relationships between many signals in a digital system.^[1]
+--
+   [edit]
+
+   Presently, there are three distinct categories of logic analyzers
+   available on the market:
+     * Modular LAs, which consist of both a chassis or mainframe and logic
+       analyzer modules.^[2] The mainframe/chassis contains the display,
+       controls, control computer, and multiple slots into which the
+       actual data-capturing hardware is installed. The modules each have
+       a specific number of channels, and multiple modules may be combined
+       to obtain a very high channel count. While modular logic analyzers
+       are typically more expensive, the ability to combine multiple
+       modules to obtain a high channel count and the generally higher
+       performance of modular logic analyzers often justifies the price.
+       For the very high end modular logic analyzers, the user often must
+       provide their own host PC or purchase an embedded controller
+       compatible with the system.^[3]
+
+   [220px-8-Channel_%28cropped%29.jpg] 8-channel USB logic analyzer
+     * Portable LAs,^[4] sometimes referred to as standalone LAs. Portable
+       logic analyzers integrate everything into a single package, with
+       options installed at the factory. While portable logic analyzers
+       generally have lower performance than their modular counterparts,
+       they are often used for general purpose debugging by cost conscious
+--
+   [edit]
+
+   A logic analyzer can be triggered on a complicated sequence of digital
+   events, then capture a large amount of digital data from the system
+   under test (SUT).
+
+   When logic analyzers first came into use, it was common to attach
+   several hundred "clips" to a digital system. Later, specialized
+   connectors came into use. The evolution of logic analyzer probes has
+   led to a common footprint that multiple vendors support, which provides
+   added freedom to end users. Introduced in April, 2002, connectorless
+--
+   Many digital designs, including those of ICs, are simulated to detect
+   defects before the unit is constructed. The simulation usually provides
+   logic analysis displays. Often, complex discrete logic is verified by
+   simulating inputs and testing outputs using boundary scan. Logic
+   analyzers can uncover hardware defects that are not found in
+   simulation. These problems are typically too difficult to model in
+--
+
+   Field-programmable gate arrays have become a common measurement point
+   for logic analyzers and are also used to debug the logic circuit.
+
+   Logic Analyzers are also very useful when it comes to analyze serial
+   protocols, like I2C, SPI or UART, as they allow to capture long logic
+   sequences showing one or several communication frames. Usually, the
+   Logic Analyzer software will also interpret the protocol layer, making
+   debugging of firmware less tedious task.
+
+--
+   marginally usable.
+
+   The HP 5000A Logic Analyzer, introduced in the October 1973 issue of
+   the Hewlett-Packard Journal, was probably the first commercially
+   available instrument to be called a "Logic Analyzer". However, the HP
+   5000A was limited to two channels and presented information by means of
+   two rows of 32 LEDs. The first truly parallel instrument was the twelve
+--
+
+   Mixed-signal oscilloscopes combine the functionality of a digital
+   storage oscilloscope with a logic analyzer. The several benefits of
+   these include the ability to view analog and digital signals together
+   in time, and to trigger on either digital or analog signals and capture
+   on the other. A few limitations of mixed signal oscilloscopes are that
+   they do not capture state-mode data, they have a limited channel count,
+   and do not provide the analytical depth and insight of a logic
+   analyzer.
+
+--
+
+   [edit]
+    1. ^ "Feeling Comfortable with Logic Analyzers" (PDF). keysight.com.
+       Agilent Technologies, Inc. Retrieved 28 November 2012.
+    2. ^ "16900 Series Modular Logic Analysis System". keysight.com.
+       Keysight Technologies, Inc. Retrieved 30 March 2021.
+    3. ^ "U4154A AXIe-Based Logic Analyzer Module" (PDF). keysight.com.
+       Keysight Technologies, Inc. Archived (PDF) from the original on
+       2022-10-09. Retrieved 1 December 2017.
+    4. ^ "16800 Series Portable Logic Analyzer" (PDF). Keysight.com.
+       Keysight Technologies, Inc. Archived (PDF) from the original on
+       2022-10-09. Retrieved 31 July 2014.
+--
+
+   [edit]
+     * Feeling Comfortable with Logic Analyzers - Keysight
+
+   Wikimedia Commons has media related to Logic analyzers.
+     * v
+     * t
+--
+   Analysis
+     * Bus analyzer
+     * Logic analyzer
+     * Network analyzer
+     * Oscilloscope

@@ -1,0 +1,85 @@
+     * Supervised Learning: Classification
+     * Supervised Learning: Regression
+     * AI with Python – Logic Programming
+     * Unsupervised Learning: Clustering
+     * Natural Language Processing
+--
+     * Who is Who
+
+AI with Python – Logic Programming
+     __________________________________________________________________
+     __________________________________________________________________
+--
+   Next
+
+   In this chapter, we will focus logic programming and how it helps in
+   Artificial Intelligence.
+
+   We already know that logic is the study of principles of correct
+   reasoning or in simple words it is the study of what comes after what.
+   For example, if two statements are true then we can infer any third
+--
+Concept
+
+   Logic Programming is the combination of two words, logic and
+   programming. Logic Programming is a programming paradigm in which the
+   problems are expressed as facts and rules by program statements but
+   within a system of formal logic. Just like other programming paradigms
+   like object oriented, functional, declarative, and procedural, etc., it
+   is also a particular way to approach programming.
+
+How to Solve Problems with Logic Programming
+
+   Logic Programming uses facts and rules for solving the problem. That is
+   why they are called the building blocks of Logic Programming. A goal
+   needs to be specified for every program in logic programming. To
+   understand how a problem can be solved in logic programming, we need to
+   know about the building blocks − Facts and Rules −
+
+Facts
+
+   Actually, every logic program needs facts to work with so that it can
+   achieve the given goal. Facts basically are true statements about the
+   program and data. For example, Delhi is the capital of India.
+--
+   all the rules must be defined.
+
+   Rules are very important to solve any problem in Logic Programming.
+   Rules are basically logical conclusion which can express the facts.
+   Following is the syntax of rule −
+--
+Installing Useful Packages
+
+   For starting logic programming in Python, we need to install the
+   following two packages −
+
+--
+
+   It provides us a way to simplify the way we made code for business
+   logic. It lets us express the logic in terms of rules and facts. The
+   following command will help you install kanren −
+pip install kanren
+--
+pip install sympy
+
+Examples of Logic Programming
+
+   Followings are some examples which can be solved by logic programming −
+
+Matching mathematical expressions
+
+   Actually we can find the unknown values by using logic programming in a
+   very effective way. The following Python code will help you match a
+   mathematical expression −
+--
+Checking for Prime Numbers
+
+   With the help of logic programming, we can find the prime numbers from
+   a list of numbers and can also generate prime numbers. The Python code
+   given below will find the prime number from a list of numbers and will
+--
+Solving Puzzles
+
+   Logic programming can be used to solve many problems like 8-puzzles,
+   Zebra puzzle, Sudoku, N-queen, etc. Here we are taking an example of a
+   variant of Zebra puzzle which is as follows −

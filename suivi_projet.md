@@ -15,3 +15,8 @@
 - attention à la syntaxe de grep : `grep -e pattern path`, après -e ce qui suit doit être le pattern, si on écrit `grep -e -o pattern path`, on aura une erreur
 - pour chercher les lignes : `grep -x`, -x signifie line regexp. Option `-A=` permet de délimiter combien de lignes arpès notre pattern, et `-B=` signigie avant. 
 - pour 24/12/2024 fini de contexte script et de comptage script, pour construire les concordances, il faut suivre le pals exercice
+## 26/12/2024
+### anglais
+- création des contextes en html
+- création de script pour générer les concordance en html, pour le sed, j'ai pas très bien compris sa fonction
+- création de tableaux mais pour les liens contexte et les liens Concordances, ce sont les liens locaux, les autres ne peuvent pas y avoir access
