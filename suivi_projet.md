@@ -22,10 +22,11 @@
 - création de tableaux mais pour les liens contexte et les liens Concordances, ce sont les liens locaux, les autres ne peuvent pas y avoir access
 
 ##Du 23/12/2024 au 28/12/2024
-###arabe et français
-- Récupérations des urls, uniformatisation des contenus des pages en arbe et en français;
-- création de script bash pour les deux langues;
-- analyse textométrique des fichiers dumps par voyant tools (créations, de nuage de mot, graphe, collocations,..) que j'essaye d'intégrer à la partie réserser à là l'arabe et au français;
-- création du script make_pals_corpus.sh pour la tokinisation des fichiers dumps et context.Mais j'ai un doute car les indications de la feuille d'exercie font allusions des fichiers python or, le script que j'ai génère des fichiers txt.
-- création d'un html afin d'fintégrer nos données en communs si le html a l'aval des autres membres du groupe;
-- réfléchir à la maninière de présenter notre site pour allier érognomie, utilité, et élégance.
+###Arabe et Français
+
+    Récupération des URLs et uniformisation des contenus des pages en arabe et en français.
+    Création de scripts Bash pour le traitement des deux langues.
+    Analyse textométrique des fichiers dumps à l'aide de Voyant Tools (génération de nuages de mots, graphes, collocations, etc.), avec tentative d'intégration de ces résultats dans les sections dédiées à l'arabe et au français.
+    Développement du script make_pals_corpus.sh pour la tokenisation des fichiers dumps et des fichiers contextuels. Cependant, un doute subsiste car les instructions de l'exercice semblent indiquer l'utilisation de fichiers Python, tandis que mon script génère des fichiers au format TXT.
+    Création d'un fichier HTML pour intégrer les données partagées, sous réserve de validation par les autres membres du groupe.
+    Réflexion sur la présentation du site afin de concilier ergonomie, utilité et esthétique.
