@@ -1,0 +1,77 @@
+   other hand, devoting increased efforts to attempting to falsify it
+   (since it has thus far survived testing). Popper has defended what he
+   calls “situational logic” (which is basically rational choice theory)
+   as the correct method for the social sciences (1967, 1976). There
+   appear to be serious tensions between Popper’s falsificationism and his
+   defense of situational logic, and his discussion of situational logic
+   has not been as influential as his falsificationism. For discussion of
+   how situational logic applies to economics, see Hands (1985a).
+
+   Given Popper’s falsificationism, there seems little hope of
+--
+
+   The judgments of each of the individuals are consistent with the
+   principles of logic, while social judgments violate them. How important
+   is it that social judgments be consistent with the principles of logic?
+
+   Although social choice theory in this way bears on questions of social
+--
+     * Auerbach, P., 2016, Socialist Optimism: An Alternative Political
+       Economy for the Twenty-First Century, New York: Palgrave Macmillan.
+     * Ayer, A., 1936. Language, Truth and Logic, 2nd edition, reprinted
+       New York: Dover, 1946.
+     * Backhouse, R. (ed.), 1994. New Perspectives on Economic
+--
+       Freedom and the Pursuit of Happiness: An Economic and Political
+       Perspective, Cambridge: Cambridge University Press.
+     * Bear, D. and D. Orr, 1967. “Logic and Expediency in Economic
+       Theorizing”, Journal of Political Economy, 75: 188–96.
+     * Becker, G., 1962. “Irrational Behavior and Economic Theory”,
+--
+     * Branas–Garza, P. and A. Cabrales (eds.), 2015. Experimental
+       Economics, 2 volumes, London: Macmillan.
+     * Bray, J., 1977. “The Logic of Scientific Method in Economics”,
+       Journal of Economic Studies, 4: 1–28.
+     * Brennan J. and P. Jaworski, 2016. Markets Without Limits: Moral
+--
+     * Ferber, M. and J. Nelson (eds.), 2003. Feminist Economics Today:
+       Beyond Economic Man, Chicago: University of Chicago Press.
+     * Fisher, R., 1986. The Logic of Economic Discovery: Neoclassical
+       Economics and the Marginal Revolution, New York: New York
+       University Press.
+--
+       Reversals and the Becker-DeGroot-Marschak Mechanism”, Economics and
+       Philosophy, 16: 47–75.
+     * –––, 2000b. “The Logic of Normative Falsification: Rationality and
+       Experiments in Decision Theory”, Journal of Economic Methodology,
+       7: 59–93.
+--
+       of John Stuart Mill (Volume 4), Toronto: University of Toronto
+       Press, 1967.
+     * –––, 1843. A System of Logic, London: Longmans, Green & Co., 1949.
+     * –––, 1871. Principles of Political Economy, 7th edition, 1909, W.
+       Ashley (ed.), reprinted New York: A. M. Kelley, 1976.
+--
+       Rationalité”, in E. Classen (ed.), Les Fondements Philosophiques
+       des Systèmes Économiques, Paris: Paypot, pp. 142–50.
+     * –––, 1976. “The Logic of the Social Sciences”, in T. Adorno et al.
+       (eds.), The Positivist Dispute in German Sociology, G. Adey and D.
+       Frisby (trans.), New York: Harper, pp. 87–104.
+--
+       Philosophy, 3: 179–214 and 4: 9–56.
+     * –––, 1992. Fun and games, New York: D.C Heath.
+     * Bonnano, G., 1991. “The Logic of Rational Play in Games of Perfect
+       Information”, Economics and Philosophy, 7: 37–65.
+     * Broome, J., 1991. “Utility”, Economics and Philosophy, 7: 1–12.
+--
+     * Howson, C. and P. Urbach, 1989. Scientific Reasoning: The Bayesian
+       Approach, LaSalle, IL: Open Court.
+     * Jeffrey, R., 1983. The Logic of Decision, 2nd edition, Chicago:
+       University of Chicago Press.
+     * Kahneman, D. and A. Tversky, 1979. “Prospect Theory: An Analysis of
+--
+       Cambridge: Cambridge University Press.
+     * Pearl, J., 2000. Causality, Cambridge: Cambridge University Press.
+     * Popper, K., 1968. The Logic of Scientific Discovery, revised
+       edition, London: Hutchinson & Co.
+     * –––, 1969. Conjectures and Refutations; The Growth of Scientific

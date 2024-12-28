@@ -1,0 +1,17 @@
+   Soumettre le manuscrit arrow_forward arrow_forward ..
+
+Exploring Logic Programming for Artificial Intelligence: Algorithms and
+Applications
+
+--
+   Alireza Alazmi*
+
+   Logic Programming (LP) stands as a cornerstone in the realm of
+   Artificial Intelligence (AI), offering powerful tools for knowledge
+   representation, reasoning and problem-solving. This paper delves into
+--
+   with a primer on LP, we traverse through its historical evolution,
+   highlighting key milestones and pivotal developments. Subsequently, we
+   dissect fundamental LP paradigms, such as Prolog, Constraint Logic
+   Programming (CLP) and Answer Set Programming (ASP), elucidating their
+   unique features and operational mechanisms. The discourse then shifts
