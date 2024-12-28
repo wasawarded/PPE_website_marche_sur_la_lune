@@ -21,8 +21,8 @@
 - création de script pour générer les concordance en html, pour le sed, j'ai pas très bien compris sa fonction
 - création de tableaux mais pour les liens contexte et les liens Concordances, ce sont les liens locaux, les autres ne peuvent pas y avoir access
 
-##Du 23/12/2024 au 28/12/2024
-###Arabe et Français
+## Du 23/12/2024 au 28/12/2024
+### Arabe et Français
 
     Récupération des URLs et uniformisation des contenus des pages en arabe et en français.
     Création de scripts Bash pour le traitement des deux langues.
