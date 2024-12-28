@@ -1,0 +1,29 @@
+Count	URL	HTTP_CODE	ENCODING	HTML	DUMP
+[1]	https://zh.wikipedia.org/zh-hans/%E9%80%BB%E8%BE%91	200	UTF-8	../../aspirations/ch_html/ch_1.html	../../dumps-text/logique_chinois/dump_ch_1.txt
+[2]	https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%BD%A2%E5%BC%8F%E9%80%BB%E8%BE%91	200	UTF-8	../../aspirations/ch_html/ch_2.html	../../dumps-text/logique_chinois/dump_ch_2.txt
+[3]	https://zh.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91	200	UTF-8	../../aspirations/ch_html/ch_3.html	../../dumps-text/logique_chinois/dump_ch_3.txt
+[4]	https://zh.wikipedia.org/wiki/%E5%B8%83%E5%B0%94%E9%80%BB%E8%BE%91	200	UTF-8	../../aspirations/ch_html/ch_4.html	../../dumps-text/logique_chinois/dump_ch_4.txt
+[5]	https://zh.wikipedia.org/zh-cn/%E5%91%BD%E9%A2%98%E9%80%BB%E8%BE%91	200	UTF-8	../../aspirations/ch_html/ch_5.html	../../dumps-text/logique_chinois/dump_ch_5.txt
+[6]	https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%B6%93%E5%85%B8%E9%82%8F%E8%BC%AF	200	UTF-8	../../aspirations/ch_html/ch_6.html	../../dumps-text/logique_chinois/dump_ch_6.txt
+[7]	https://zh.wikipedia.org/zh-cn/%E8%BE%A9%E8%AF%81%E9%80%BB%E8%BE%91	200	UTF-8	../../aspirations/ch_html/ch_7.html	../../dumps-text/logique_chinois/dump_ch_7.txt
+[8]	https://baike.baidu.com/item/%E9%80%BB%E8%BE%91/543	200		../../aspirations/ch_html/ch_8.html	../../dumps-text/logique_chinois/dump_ch_8.txt
+[9]	https://readxiaomang.work/%E8%BE%A9%E8%AF%81%E9%80%BB%E8%BE%91%E4%B8%8E%E2%80%9C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%8B%E5%90%8E%E2%80%9D%E7%9A%84%E5%BB%BA%E6%9E%84/	200		../../aspirations/ch_html/ch_9.html	../../dumps-text/logique_chinois/dump_ch_9.txt
+[10]	https://philosophy.hku.hk/think/chi/whatislogic.php	200	UTF-8	../../aspirations/ch_html/ch_10.html	../../dumps-text/logique_chinois/dump_ch_10.txt
+[11]	https://www.thepaper.cn/newsDetail_forward_25335725	403		-	-
+[12]	http://www.jyb.cn/rmtzgjyb/202102/t20210207_395474.html	200		../../aspirations/ch_html/ch_12.html	../../dumps-text/logique_chinois/dump_ch_12.txt
+[13]	https://www.cssn.cn/skgz/bwyc/202407/t20240705_5762934.shtml	200		../../aspirations/ch_html/ch_13.html	../../dumps-text/logique_chinois/dump_ch_13.txt
+[14]	https://www.cssn.cn/skgz/bwyc/202408/t20240805_5768721.shtml	200		../../aspirations/ch_html/ch_14.html	../../dumps-text/logique_chinois/dump_ch_14.txt
+[15]	https://news.gmw.cn/2024-04/29/content_37292787.htm	200		../../aspirations/ch_html/ch_15.html	../../dumps-text/logique_chinois/dump_ch_15.txt
+[16]	http://www.cass.cn/xueshuchengguo/wenzhexuebulishixuebu/201807/t20180731_4514478.shtml	403		-	-
+[17]	http://www.xinhuanet.com/politics/2021-04/12/c_1127319078.htm	200	utf-8	../../aspirations/ch_html/ch_17.html	../../dumps-text/logique_chinois/dump_ch_17.txt
+[18]	https://www.unesco.org/zh/days/world-logic	200	UTF-8	../../aspirations/ch_html/ch_18.html	../../dumps-text/logique_chinois/dump_ch_18.txt
+[19]	https://wxflogic.gitbook.io/logic/preface	200	utf-8	../../aspirations/ch_html/ch_19.html	../../dumps-text/logique_chinois/dump_ch_19.txt
+[20]	https://logic.nju.edu.cn/b0/d6/c7603a176342/page.htm	200	UTF-8	../../aspirations/ch_html/ch_20.html	../../dumps-text/logique_chinois/dump_ch_20.txt
+[21]	https://nodebe4.github.io/mjlsh/1989-06-04/%E8%A8%80%E4%B9%9D%E6%9E%97-%E9%80%BB%E8%BE%91%E8%AF%BE%E7%9A%84%E6%B6%88%E4%BA%A1/	200	utf-8	../../aspirations/ch_html/ch_21.html	../../dumps-text/logique_chinois/dump_ch_21.txt
+[22]	https://hr.edu.cn/xueshu/202410/t20241015_2637078.shtml	200		../../aspirations/ch_html/ch_22.html	../../dumps-text/logique_chinois/dump_ch_22.txt
+[23]	http://old.lifeweek.com.cn//2012/0801/38084.shtml	403		-	-
+[24]	http://clwenan.com/read.php?tid=821	200	gbk	../../aspirations/ch_html/ch_24.html	../../dumps-text/logique_chinois/dump_ch_24.txt
+[25]	https://www.thepaper.cn/newsDetail_forward_26503473	403		-	-
+[26]	https://www.thepaper.cn/newsDetail_forward_25764245	403		-	-
+[27]	https://www.thepaper.cn/newsDetail_forward_29656291	403		-	-
+[28]		000		-	-
