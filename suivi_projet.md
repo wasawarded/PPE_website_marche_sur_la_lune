@@ -24,9 +24,9 @@
 ## Du 23/12/2024 au 28/12/2024
 ### Arabe et Français
 
-    Récupération des URLs et uniformisation des contenus des pages en arabe et en français.
-    Création de scripts Bash pour le traitement des deux langues.
-    Analyse textométrique des fichiers dumps à l'aide de Voyant Tools (génération de nuages de mots, graphes, collocations, etc.), avec tentative d'intégration de ces résultats dans les sections dédiées à l'arabe et au français.
-    Développement du script make_pals_corpus.sh pour la tokenisation des fichiers dumps et des fichiers contextuels. Cependant, un doute subsiste car les instructions de l'exercice semblent indiquer l'utilisation de fichiers Python, tandis que mon script génère des fichiers au format TXT.
-    Création d'un fichier HTML pour intégrer les données partagées, sous réserve de validation par les autres membres du groupe.
-    Réflexion sur la présentation du site afin de concilier ergonomie, utilité et esthétique.
+    - Récupération des URLs et uniformisation des contenus des pages en arabe et en français.
+    - Création de scripts Bash pour le traitement des deux langues.
+    - Analyse textométrique des fichiers dumps à l'aide de Voyant Tools (génération de nuages de mots, graphes, collocations, etc.), avec tentative d'intégration de ces résultats dans les sections dédiées à l'arabe et au français.
+    - Développement du script make_pals_corpus.sh pour la tokenisation des fichiers dumps et des fichiers contextuels. Cependant, un doute subsiste car les instructions de l'exercice semblent indiquer l'utilisation de fichiers Python, tandis que mon script génère des fichiers au format TXT.
+    - Création d'un fichier HTML pour intégrer les données partagées, sous réserve de validation par les autres membres du groupe.
+    - Réflexion sur la présentation du site afin de concilier ergonomie, utilité et esthétique.
