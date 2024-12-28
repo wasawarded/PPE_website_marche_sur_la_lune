@@ -1,0 +1,12 @@
+1	https://zh.wikipedia.org/zh-hans/%E9%80%BB%E8%BE%91	200	UTF-8	0
+2	https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%BD%A2%E5%BC%8F%E9%80%BB%E8%BE%91	200	UTF-8	0
+3	https://zh.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91	200	UTF-8	0
+4	https://philosophy.hku.hk/think/chi/whatislogic.php	200	UTF-8	0
+5	https://www.thepaper.cn/newsDetail_forward_25335725	200	utf-8	0
+11	http://www.xinhuanet.com/politics/2021-04/12/c_1127319078.htm	200	utf-8	0
+1	https://zh.wikipedia.org/zh-hans/%E9%80%BB%E8%BE%91	200	UTF-8	0
+2	https://zh.wikipedia.org/wiki/%E9%9D%9E%E5%BD%A2%E5%BC%8F%E9%80%BB%E8%BE%91	200	UTF-8	0
+3	https://zh.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91	200	UTF-8	0
+4	https://philosophy.hku.hk/think/chi/whatislogic.php	200	UTF-8	0
+5	https://www.thepaper.cn/newsDetail_forward_25335725	200	utf-8	0
+11	http://www.xinhuanet.com/politics/2021-04/12/c_1127319078.htm	200	utf-8	0
