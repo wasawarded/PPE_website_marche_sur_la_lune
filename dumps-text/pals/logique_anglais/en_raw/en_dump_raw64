@@ -1,0 +1,427 @@
+   #Economics Stack Exchange Feed for question 'To what extent does
+   economics use Mathematical Logic?'
+
+   Skip to main content
+
+Stack Exchange Network
+
+   Stack Exchange network consists of 183 Q&A communities including Stack
+   Overflow, the largest, most trusted online community for developers to
+   learn, share their knowledge, and build their careers.
+   Visit Stack Exchange (BUTTON)
+   ____________________
+   Loading…
+
+    1.
+          + Tour Start here for a quick overview of the site
+          + Help Center Detailed answers to any questions you might have
+          + Meta Discuss the workings and policies of this site
+          + About Us Learn more about Stack Overflow the company, and our
+            products
+    2.
+    3.
+
+current community
+       (BUTTON)
+          + Economics
+            help chat
+          + Economics Meta
+
+your communities
+       Sign up or log in to customize your list.
+
+more stack exchange communities
+       company blog
+    4. (BUTTON)
+    5. Log in
+    6. Sign up
+
+   Economics
+
+    1.
+         1. Home
+         2. Questions
+         3. Tags
+         4.
+         5. Users
+         6. Unanswered
+    2. Teams
+       Ask questions, find answers and collaborate at work with Stack
+       Overflow for Teams.
+       Try Teams for free Explore Teams
+    3. Teams
+    4. Ask questions, find answers and collaborate at work with Stack
+       Overflow for Teams. Explore Teams
+
+   Teams
+
+   Q&A for work
+
+   Connect and share knowledge within a single location that is structured
+   and easy to search.
+   Learn more about Teams
+
+To what extent does economics use Mathematical Logic?
+
+   Ask Question
+   Asked 4 years, 4 months ago
+   Modified 4 years, 3 months ago
+   Viewed 495 times
+   (BUTTON)
+   0
+   (BUTTON) (BUTTON)
+   $\begingroup$
+
+   My economics program had a class that transitions or introduces to
+   proofs with books like Bridge to Abstract Mathematics , Reading,
+   Writing, and Proving: A Closer Look at Mathematics or A Transition to
+   Mathematics with Proofs. But I'm not referring these.
+
+   I mean Stephen Cole Kleene's Mathematical Logic like
+
+     It begins with an elementary but thorough overview of mathematical
+     logic of first order. The treatment extends beyond a single method
+     of formulating logic to offer instruction in a variety of
+     techniques: model theory (truth tables), Hilbert-type proof theory,
+     and proof theory handled through derived rules. The second part
+     supplements the previously discussed material and introduces some of
+     the newer ideas and the more profound results of twentieth-century
+     logical research. Subsequent chapters explore the study of formal
+     number theory, with surveys of the famous incompleteness and
+     undecidability results of Godel, Church, Turing, and others. The
+     emphasis in the final chapter reverts to logic, with examinations of
+     Godel's completeness theorem, Gentzen's theorem, Skolem's paradox
+     and nonstandard models of arithmetic, and other theorems.
+
+   or An Introduction to Mathematical Logic (Dover Books on Mathematics
+
+     Topics include the theorems of Gödel, Church, and Tarski on
+     incompleteness, undecidability, and indefinability; a rigorous
+     treatment of recursive functions and recursive relations;
+     computability theory; and Hilbert's Tenth Problem
+
+   or Christopher Leary's A Friendly Introduction to Mathematical Logic
+
+     In this expansion of Leary's user-friendly 1st edition, readers with
+     no previous study in the field are introduced to the basics of model
+     theory, proof theory, and computability theory. The text is designed
+     to be used either in an upper division undergraduate classroom, or
+     for self study. Updating the 1st Edition's treatment of languages,
+     structures, and deductions, leading to rigorous proofs of Gödel's
+     First and Second Incompleteness Theorems, the expanded 2nd Edition
+     includes a new introduction to incompleteness through computability
+     as well as solutions to selected exercises.
+
+   Do economics degrees require this Formal Mathematical Logic. Why?
+     * mathematical-economics
+
+   Share
+   Improve this question
+   (BUTTON) Follow
+   edited Aug 22, 2020 at 22:44
+   asked Aug 22, 2020 at 22:34
+   user4020user4020
+   $\endgroup$
+   14
+     * 1
+       $\begingroup$ "My friends and I don't know any economics degree
+       that requires this Formal Mathematical Logic. Why?" This is
+       something you should probably ask yourself and your friend. My
+       experience is exactly the opposite. I dont know any economics
+       degree that would not require at least surface level covering of
+       majority of the topics covered in the links you provided.
+       $\endgroup$
+       – 1muflon1 ♦
+       Commented Aug 22, 2020 at 22:43
+     * 2
+       $\begingroup$ @1muflon1 i edited question. i don't mean "at least
+       surface level". $\endgroup$
+       – user4020
+       Commented Aug 22, 2020 at 22:44
+     * 1
+       $\begingroup$ I strongly recommend to cover at least some basics of
+       Mathematical Logic. The literature is full with logical flawed
+       articles. Hence, you should master a level to be able to recognize
+       these failures by yourself. $\endgroup$
+       – Holger I. Meinhardt
+       Commented Aug 23, 2020 at 10:02
+     * 3
+       $\begingroup$ The title of your question and the actual question
+       differ. And no, you do not need to learn model theory or proof
+       theory to do economics. $\endgroup$
+       – Michael Greinecker
+       Commented Aug 23, 2020 at 12:31
+     * 1
+       $\begingroup$ @d'Halluin Mathematicians have proved theorems long
+       before these subfields emerged. $\endgroup$
+       – Michael Greinecker
+       Commented Sep 10, 2020 at 7:16
+
+    |  Show 9 more comments
+
+1 Answer 1
+
+   Sorted by: Reset to default
+   [Highest score (default)_____]
+   (BUTTON)
+   2
+   (BUTTON) (BUTTON)
+   +25
+   $\begingroup$
+
+   As pointed out in the comments this question asks two different
+   questions. I will try to answer them separately.
+
+   Question 1: To what extent does economics use Mathematical Logic?
+
+   Answer: while an 'extent' is not something that can be easily measured
+   I think it is fair to say that in theoretical part of economics is
+   virtually omnipresent. Consider the following fact:
+
+   MWG Microceonomic Theory - which is arguably the most popular and
+   comprehensive graduate text for microeconomic theory has a rigorous
+   proof derived from rigorous definitions and propositions on virtually
+   every single page (save for preface, practice questions and reference
+   page and few pages here and there). That is about 900 pages out of
+   about 1000 page book that rely heavily on formal mathematical logic.
+
+   In different sub-fields of economics the importance of rigorous
+   mathematical proofs can vary but in most of them I cant think of any
+   graduate text that would not lean heavily on formal mathematical logic.
+   Maybe philosophy of economics or history of economic thought would be
+   some exceptions (and even there for example Philosophy of Economics: A
+   Contemporary Introduction by Julian Reiss includes some parts that are
+   written in formal mathematical logic)
+
+   Question 2: Do economics degrees require this [referring to subjects
+   you mention inside the question] Formal Mathematical Logic?
+
+   Answer: Generally not - I could not find any survey on this issue but I
+   think its fair to say majority of economic degrees do not have such
+   courses that you mentioned as requirement to graduate and obtain a
+   degree. The reason for that is that if you are good at mathematics you
+   will be able to understand and even construct proofs without ever
+   sitting in any course on formal mathematical logic. Any study of
+   mathematics implicitly also teaches you formal mathematical logic -
+   just not in necessary structured or obvious way.
+
+   As a matter of fact these fields [referring to the courses you mention]
+   are relatively new subfields of mathematics and as Michael Greinecker
+   pointed out in comments, "Mathematicians have proved theorems long
+   before these subfields emerged." To see this you can just look at the
+   beautiful and rigorous proofs in Euclid's Elements that were drafted
+   thousands of years ago yet most of them still hold up and are quite
+   rigorous.
+
+   This being said, taking formal class on introduction into making formal
+   mathematical proofs should improve your own proof-making and
+   understanding of proofs and help you to make your own future work more
+   rigorous. The question is whether this benefit outweighs the
+   opportunity cost of that lost time - but that is opinionated question I
+   won't go into.
+
+   I think this can be the best explained by following analogy:
+
+   This is like asking to what extent economics uses linguistics and its
+   sub-fields of grammar, stylistics etc. Well again linguistic is
+   omnipresent in economics as most papers are not just proofs with zero
+   text. However, is it necessary to take academic writing class or class
+   in stylistic or grammar to be an economist or to get an economic
+   degree? Well no, I think its fair to say most science degrees will have
+   only optional writing classes and many not even that.
+
+   Many people will just learn how to write excellent academic works just
+   by reading other papers. However, at the same time any person's writing
+   would undoubtedly benefit by taking some academic writing class where
+   you are exposed to stylistics and other sub-fields of linguistics even
+   if it is not required to ever have such class.
+   Share
+   Improve this answer
+   (BUTTON) Follow
+   edited Sep 10, 2020 at 9:58
+   answered Sep 10, 2020 at 9:51
+   1muflon1's user avatar
+   1muflon1♦1muflon1
+   58.7k44 gold badges5555 silver badges114114 bronze badges
+   $\endgroup$
+
+   Add a comment  |
+
+Your Answer
+
+
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+   _______________________________________________________________________
+
+   Thanks for contributing an answer to Economics Stack Exchange!
+     * Please be sure to answer the question. Provide details and share
+       your research!
+
+   But avoid …
+     * Asking for help, clarification, or responding to other answers.
+     * Making statements based on opinion; back them up with references or
+       personal experience.
+
+   Use MathJax to format equations. MathJax reference.
+
+   To learn more, see our tips on writing great answers.
+   (BUTTON)
+   Draft saved
+   Draft discarded
+   ____________________
+
+Sign up or log in
+
+   Sign up using Google
+   Sign up using Email and Password
+   (BUTTON) Submit
+
+Post as a guest
+
+   Name
+   ____________________
+   Email
+
+   Required, but never shown
+   ________________________________________
+
+Post as a guest
+
+   Name
+   ____________________
+   Email
+
+   Required, but never shown
+   ________________________________________
+   (BUTTON) Post Your Answer (BUTTON) Discard
+
+   By clicking “Post Your Answer”, you agree to our terms of service and
+   acknowledge you have read our privacy policy.
+     * Featured on Meta
+     * Stack Overflow Jobs is expanding to more countries
+     * The December 2024 Community Asks Sprint has been moved to March
+       2025 (and...
+
+Linked
+
+   3
+   Complementary slackness conditions (Kuhn-Tucker)
+
+Related
+
+   16
+   Topological concepts in economic theory
+   4
+   Doing a PhD Economics without background in formal theorems?
+   0
+   Text book for mathematical economics?
+   5
+   General model of economics, economics as mathematical structure
+   69
+   Criticism of Math in Economics
+   2
+   An overview of 4 books for an undergrad course in Mathematical
+   Economics
+   9
+   Challenging question on mathematical economics
+
+Hot Network Questions
+
+     * Almost every Hermitian matrix has distinct eigenvalue differences
+     * If models of first-order logic are defined using set theory, is
+       every first-order theory implicitly an extension of set theory?
+     * Is it impossible to physically observe whether an action is
+       voluntary (purposeful)?
+     * Getting combined counts when using qiskit_ibm_runtime.SamplerV2
+     * Help me to find the radius of the semicircle please
+     * Makefile for a tiny C++ project, follow-up 1
+     * Are linear mixed effects model robust to unbalanced clusters?
+     * Do you lose the right of attribution if you're charged with a
+       crime?
+     * Why does a country like Singapore have a lower gini coefficient
+       than France despite France having higher income/wealth taxes?
+     * Do “extremely singular” functions exist?
+     * Minimum temperature for pocket lighters
+     * CD with physical hole is perfectly readable - how?
+     * Do all TCP packets from same http request take same route? If not,
+       how can I better understand where each went?
+     * How to stretch some part of a letter?
+     * What kind of cosmic event could justify the entire Solar System
+       being uninhabitable in the near future (1000 years or less)?
+     * Is ‘drop by’ formal language?
+     * How to format a LaTeX input file to adapt equations for different
+       layouts in multiple documents?
+     * How can I visualize the movement of a solar sail?
+     * Pronunciation of "alleluya" in 17th century French latin
+     * Reference request on Sofia Kovalevskaya
+     * I probably disallowed using the camera at some time in the past and
+       now can't find a way to allow it again. How can I reenable it?
+     * Can I use copyleft-licensed library in MIT-licensed project?
+     * Mixing between the tonic and dominant in melodic dictation
+     * What is the I in "I think therefore I am"?
+
+   more hot questions
+   Question feed
+
+Subscribe to RSS
+
+   Question feed
+
+   To subscribe to this RSS feed, copy and paste this URL into your RSS
+   reader.
+   https://economics.st
+
+Economics
+
+     * Tour
+     * Help
+     * Chat
+     * Contact
+     * Feedback
+
+Company
+
+     * Stack Overflow
+     * Teams
+     * Advertising
+     * Talent
+     * About
+     * Press
+     * Legal
+     * Privacy Policy
+     * Terms of Service
+     * (BUTTON) Cookie Settings
+     * Cookie Policy
+
+Stack Exchange Network
+
+     * Technology
+     * Culture & recreation
+     * Life & arts
+     * Science
+     * Professional
+     * Business
+     * API
+     * Data
+
+     * Blog
+     * Facebook
+     * Twitter
+     * LinkedIn
+     * Instagram
+
+   Site design / logo © 2024 Stack Exchange Inc; user contributions
+   licensed under CC BY-SA . rev 2024.12.20.20747

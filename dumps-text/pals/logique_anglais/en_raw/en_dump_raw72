@@ -1,0 +1,582 @@
+   (BUTTON)
+
+     * Home
+     * Library
+     * Online Compilers
+     * Jobs
+     * Whiteboard
+     * Tools
+     * Articles
+     * Write & Earn
+     * Courses
+     * Certifications
+
+   (BUTTON) Menu (BUTTON) Categories
+   Login
+     * (BUTTON) Switch theme
+     *
+     *
+     *
+     *
+     *
+
+     * (BUTTON) Category
+          + AI, ML, and Data Science
+          + Programming Languages
+          + Web Development Languages
+          + DevOps
+          + Databases
+          + Computer Science Subjects
+          + Python Technologies
+          + Software Testing
+          + Cyber Security
+          + All Categories
+       (BUTTON) Back
+          + Artificial Intelligence
+          + Machine Learning
+          + ML With Python
+          + Data Science
+          + Statistics
+          + NLP
+          + Neural Networks
+          + TensorFlow
+          + PyTorch
+          + Matplotlib
+          + NumPy
+          + Pandas
+          + SciPy
+          + Big Data Analytics
+          + See all
+       (BUTTON) Back
+          + Python
+          + Java
+          + C++
+          + C
+          + PHP
+          + Go
+          + Kotlin
+          + R
+          + ASP.Net
+          + C#.Net
+          + VB.Net
+          + Scala
+          + Swift
+          + Perl
+          + Ruby
+          + Rust
+          + Lua
+          + See all
+       (BUTTON) Back
+          + HTML
+          + CSS
+          + JavaScript
+          + jQuery
+          + ReactJs
+          + NodeJs
+          + Wordpress
+          + AngularJs
+          + PHP
+          + Django
+          + JSON
+          + Codeigniter
+          + TypeScript
+          + Ajax
+          + Bootstrap
+          + Sass
+          + AppML
+          + See all
+       (BUTTON) Back
+          + GIT
+          + AWS
+          + Docker
+          + Kubernetes
+          + Azure
+          + Gitlab
+          + Jira
+          + Gerrit
+          + Ansible
+          + Bugzilla
+          + Chef
+          + SaltStack
+          + OpenShift
+          + Puppet
+          + UNIX
+          + Linux Admin
+          + Ubuntu
+          + See all
+       (BUTTON) Back
+          + DBMS
+          + SQL
+          + PL/SQL
+          + MySQL
+          + TinyDB
+          + SQL Server
+          + MongoDB
+          + PostgreSQL
+          + SQLite
+          + Redis
+          + PHP MyAdmin
+          + MariaDB
+          + CouchDB
+          + DB2
+          + See all
+       (BUTTON) Back
+          + Computer Fundamentals
+          + Operating System
+          + DBMS
+          + DSA
+          + Computer Networks
+          + Software Engineering
+          + Computer Graphics
+          + Data Mining
+          + Digital Marketing
+          + SEO
+          + Digital Circuits
+          + Discrete Mathematics
+          + Cryptography
+          + Cloud Computing
+          + Compiler Design
+          + Embedded Systems
+          + Microprocessors
+          + See all
+       (BUTTON) Back
+          + Python
+          + NumPy
+          + Pandas
+          + Matplotlib
+          + Django
+          + PyQt
+          + PyCharm
+          + Pillow
+          + OpenCV
+          + Seaborn
+          + ML with Python
+          + SciPy
+          + See all
+       (BUTTON) Back
+          + Software Testing
+          + Jira
+          + Selenium
+          + TestRail
+          + Postman
+          + Cucumber
+          + Cypress
+          + Watir
+          + Agile
+          + jMeter
+       (BUTTON) Back
+          + Blockchain
+          + Information Security
+          + Computer Security
+          + Internet Security
+          + Network Security
+          + Wireless Security
+     * ____________________ (BUTTON)
+     * Library
+     * Courses
+     * Certifications
+     * Login
+
+   (BUTTON) Menu
+   ____________________
+   (BUTTON) Show search
+
+   (BUTTON)
+     * SQL
+     * HTML
+     * CSS
+     * Javascript
+     * Python
+     * Java
+     * C
+     * C++
+     * PHP
+     * Scala
+     * C#
+     * Tailwind CSS
+     * Node.js
+     * MySQL
+     * MongoDB
+     * PL/SQL
+     * Swift
+     * Bootstrap
+     * R
+     * Machine Learning
+     * Blockchain
+     * Angular
+     * React Native
+     * Computer Fundamentals
+     * Compiler Design
+     * Operating System
+     * Data Structure and Algorithms
+     * Computer Network
+     * DBMS
+     * Excel
+
+   (BUTTON)
+
+   Ai With Python Tutorial
+     * AI with Python Tutorial
+     * Home
+     * AI with Python – Primer Concepts
+     * AI with Python – Getting Started
+     * AI with Python – Machine Learning
+     * AI with Python – Data Preparation
+     * Supervised Learning: Classification
+     * Supervised Learning: Regression
+     * AI with Python – Logic Programming
+     * Unsupervised Learning: Clustering
+     * Natural Language Processing
+     * AI with Python – NLTK Package
+     * Analyzing Time Series Data
+     * AI with Python – Speech Recognition
+     * AI with Python – Heuristic Search
+     * AI with Python – Gaming
+     * AI with Python – Neural Networks
+     * Reinforcement Learning
+     * AI with Python – Genetic Algorithms
+     * AI with Python – Computer Vision
+     * AI with Python – Deep Learning
+
+     * AI with Python Resources
+     * AI with Python – Quick Guide
+     * AI with Python – Useful Resources
+     * AI with Python – Discussion
+
+     * Selected Reading
+     * UPSC IAS Exams Notes
+     * Developer's Best Practices
+     * Questions and Answers
+     * Effective Resume Writing
+     * HR Interview Questions
+     * Computer Glossary
+     * Who is Who
+
+AI with Python – Logic Programming
+     __________________________________________________________________
+     __________________________________________________________________
+
+   Previous
+   Next
+
+   In this chapter, we will focus logic programming and how it helps in
+   Artificial Intelligence.
+
+   We already know that logic is the study of principles of correct
+   reasoning or in simple words it is the study of what comes after what.
+   For example, if two statements are true then we can infer any third
+   statement from it.
+
+Concept
+
+   Logic Programming is the combination of two words, logic and
+   programming. Logic Programming is a programming paradigm in which the
+   problems are expressed as facts and rules by program statements but
+   within a system of formal logic. Just like other programming paradigms
+   like object oriented, functional, declarative, and procedural, etc., it
+   is also a particular way to approach programming.
+
+How to Solve Problems with Logic Programming
+
+   Logic Programming uses facts and rules for solving the problem. That is
+   why they are called the building blocks of Logic Programming. A goal
+   needs to be specified for every program in logic programming. To
+   understand how a problem can be solved in logic programming, we need to
+   know about the building blocks − Facts and Rules −
+
+Facts
+
+   Actually, every logic program needs facts to work with so that it can
+   achieve the given goal. Facts basically are true statements about the
+   program and data. For example, Delhi is the capital of India.
+
+Rules
+
+   Actually, rules are the constraints which allow us to make conclusions
+   about the problem domain. Rules basically written as logical clauses to
+   express various facts. For example, if we are building any game then
+   all the rules must be defined.
+
+   Rules are very important to solve any problem in Logic Programming.
+   Rules are basically logical conclusion which can express the facts.
+   Following is the syntax of rule −
+
+   A∶− B1,B2,...,B[n].
+
+   Here, A is the head and B1, B2, ... Bn is the body.
+
+   For example − ancestor(X,Y) :- father(X,Y).
+
+   ancestor(X,Z) :- father(X,Y), ancestor(Y,Z).
+
+   This can be read as, for every X and Y, if X is the father of Y and Y
+   is an ancestor of Z, X is the ancestor of Z. For every X and Y, X is
+   the ancestor of Z, if X is the father of Y and Y is an ancestor of Z.
+
+Installing Useful Packages
+
+   For starting logic programming in Python, we need to install the
+   following two packages −
+
+Kanren
+
+   It provides us a way to simplify the way we made code for business
+   logic. It lets us express the logic in terms of rules and facts. The
+   following command will help you install kanren −
+pip install kanren
+
+SymPy
+
+   SymPy is a Python library for symbolic mathematics. It aims to become a
+   full-featured computer algebra system (CAS) while keeping the code as
+   simple as possible in order to be comprehensible and easily extensible.
+   The following command will help you install SymPy −
+pip install sympy
+
+Examples of Logic Programming
+
+   Followings are some examples which can be solved by logic programming −
+
+Matching mathematical expressions
+
+   Actually we can find the unknown values by using logic programming in a
+   very effective way. The following Python code will help you match a
+   mathematical expression −
+
+   Consider importing the following packages first −
+from kanren import run, var, fact
+from kanren.assoccomm import eq_assoccomm as eq
+from kanren.assoccomm import commutative, associative
+
+   We need to define the mathematical operations which we are going to use
+   −
+add = 'add'
+mul = 'mul'
+
+   Both addition and multiplication are communicative processes. Hence, we
+   need to specify it and this can be done as follows −
+fact(commutative, mul)
+fact(commutative, add)
+fact(associative, mul)
+fact(associative, add)
+
+   It is compulsory to define variables; this can be done as follows −
+a, b = var('a'), var('b')
+
+   We need to match the expression with the original pattern. We have the
+   following original pattern, which is basically (5+a)*b −
+Original_pattern = (mul, (add, 5, a), b)
+
+   We have the following two expressions to match with the original
+   pattern −
+exp1 = (mul, 2, (add, 3, 1))
+exp2 = (add,5,(mul,8,1))
+
+   Output can be printed with the following command −
+print(run(0, (a,b), eq(original_pattern, exp1)))
+print(run(0, (a,b), eq(original_pattern, exp2)))
+
+   After running this code, we will get the following output −
+((3,2))
+()
+
+   The first output represents the values for a and b. The first
+   expression matched the original pattern and returned the values for a
+   and b but the second expression did not match the original pattern
+   hence nothing has been returned.
+
+Checking for Prime Numbers
+
+   With the help of logic programming, we can find the prime numbers from
+   a list of numbers and can also generate prime numbers. The Python code
+   given below will find the prime number from a list of numbers and will
+   also generate the first 10 prime numbers.
+
+   Let us first consider importing the following packages −
+from kanren import isvar, run, membero
+from kanren.core import success, fail, goaleval, condeseq, eq, var
+from sympy.ntheory.generate import prime, isprime
+import itertools as it
+
+   Now, we will define a function called prime_check which will check the
+   prime numbers based on the given numbers as data.
+def prime_check(x):
+if isvar(x):
+   return condeseq([(eq,x,p)] for p in map(prime, it.count(1)))
+else:
+   return success if isprime(x) else fail
+
+   Now, we need to declare a variable which will be used −
+x = var()
+print((set(run(0,x,(membero,x,(12,14,15,19,20,21,22,23,29,30,41,44,52,62,65,85))
+,
+(prime_check,x)))))
+print((run(10,x,prime_check(x))))
+
+   The output of the above code will be as follows −
+{19, 23, 29, 41}
+(2, 3, 5, 7, 11, 13, 17, 19, 23, 29)
+
+Solving Puzzles
+
+   Logic programming can be used to solve many problems like 8-puzzles,
+   Zebra puzzle, Sudoku, N-queen, etc. Here we are taking an example of a
+   variant of Zebra puzzle which is as follows −
+There are five houses.
+The English man lives in the red house.
+The Swede has a dog.
+The Dane drinks tea.
+The green house is immediately to the left of the white house.
+They drink coffee in the green house.
+The man who smokes Pall Mall has birds.
+In the yellow house they smoke Dunhill.
+In the middle house they drink milk.
+The Norwegian lives in the first house.
+The man who smokes Blend lives in the house next to the house with cats.
+In a house next to the house where they have a horse, they smoke Dunhill.
+The man who smokes Blue Master drinks beer.
+The German smokes Prince.
+The Norwegian lives next to the blue house.
+They drink water in a house next to the house where they smoke Blend.
+
+   We are solving it for the question who owns zebra with the help of
+   Python.
+
+   Let us import the necessary packages −
+from kanren import *
+from kanren.core import lall
+import time
+
+   Now, we need to define two functions − left() and next() to check whose
+   house is left or next to who’s house −
+def left(q, p, list):
+   return membero((q,p), zip(list, list[1:]))
+def next(q, p, list):
+   return conde([left(q, p, list)], [left(p, q, list)])
+
+   Now, we will declare a variable house as follows −
+houses = var()
+
+   We need to define the rules with the help of lall package as follows.
+
+   There are 5 houses −
+rules_zebraproblem = lall(
+   (eq, (var(), var(), var(), var(), var()), houses),
+
+   (membero,('Englishman', var(), var(), var(), 'red'), houses),
+   (membero,('Swede', var(), var(), 'dog', var()), houses),
+   (membero,('Dane', var(), 'tea', var(), var()), houses),
+   (left,(var(), var(), var(), var(), 'green'),
+   (var(), var(), var(), var(), 'white'), houses),
+   (membero,(var(), var(), 'coffee', var(), 'green'), houses),
+   (membero,(var(), 'Pall Mall', var(), 'birds', var()), houses),
+   (membero,(var(), 'Dunhill', var(), var(), 'yellow'), houses),
+   (eq,(var(), var(), (var(), var(), 'milk', var(), var()), var(), var()), house
+s),
+   (eq,(('Norwegian', var(), var(), var(), var()), var(), var(), var(), var()),
+houses),
+   (next,(var(), 'Blend', var(), var(), var()),
+   (var(), var(), var(), 'cats', var()), houses),
+   (next,(var(), 'Dunhill', var(), var(), var()),
+   (var(), var(), var(), 'horse', var()), houses),
+   (membero,(var(), 'Blue Master', 'beer', var(), var()), houses),
+   (membero,('German', 'Prince', var(), var(), var()), houses),
+   (next,('Norwegian', var(), var(), var(), var()),
+   (var(), var(), var(), var(), 'blue'), houses),
+   (next,(var(), 'Blend', var(), var(), var()),
+   (var(), var(), 'water', var(), var()), houses),
+   (membero,(var(), var(), var(), 'zebra', var()), houses)
+)
+
+   Now, run the solver with the preceding constraints −
+solutions = run(0, houses, rules_zebraproblem)
+
+   With the help of the following code, we can extract the output from the
+   solver −
+output_zebra = [house for house in solutions[0] if 'zebra' in house][0][0]
+
+   The following code will help print the solution −
+print ('\n'+ output_zebra + 'owns zebra.')
+
+   The output of the above code would be as follows −
+German owns zebra.
+
+   Print Page
+   Previous
+   Next
+   Advertisements
+
+TOP TUTORIALS
+
+     * Python Tutorial
+     * Java Tutorial
+     * C++ Tutorial
+     * C Programming Tutorial
+     * C# Tutorial
+     * PHP Tutorial
+     * R Tutorial
+     * HTML Tutorial
+     * CSS Tutorial
+     * JavaScript Tutorial
+     * SQL Tutorial
+
+TRENDING TECHNOLOGIES
+
+     * Cloud Computing Tutorial
+     * Amazon Web Services Tutorial
+     * Microsoft Azure Tutorial
+     * Git Tutorial
+     * Ethical Hacking Tutorial
+     * Docker Tutorial
+     * Kubernetes Tutorial
+     * DSA Tutorial
+     * Spring Boot Tutorial
+     * SDLC Tutorial
+     * Unix Tutorial
+
+CERTIFICATIONS
+
+     * Business Analytics Certification
+     * Java & Spring Boot Advanced Certification
+     * Data Science Advanced Certification
+     * Cloud Computing And DevOps
+     * Advanced Certification In Business Analytics
+     * Artificial Intelligence And Machine Learning
+     * DevOps Certification
+     * Game Development Certification
+     * Front-End Developer Certification
+     * AWS Certification Training
+     * Python Programming Certification
+
+COMPILERS & EDITORS
+
+     * Online Java Compiler
+     * Online Python Compiler
+     * Online Golang Compiler
+     * Online C Compiler
+     * Online C++ Compiler
+     * Online C# Compiler
+     * Online PHP Compiler
+     * Online MATLAB Compiler
+     * Online Bash Compiler
+     * Online SQL Compiler
+     * Online Html Editor
+
+     * ABOUT US |
+     * OUR TEAM |
+     * CAREERS |
+     * JOBS |
+     * CONTACT US |
+     * TERMS OF USE |
+     * PRIVACY POLICY |
+     * REFUND POLICY |
+     * COOKIES POLICY |
+     * FAQ'S
+
+   tutorials point logo
+   (BUTTON) Download Android App (BUTTON) Download IOS App
+
+   Tutorials Point is a leading Ed Tech company striving to provide the
+   best learning material on technical and non-technical subjects.
+
+   © Copyright 2024. All Rights Reserved.
