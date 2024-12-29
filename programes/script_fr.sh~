@@ -1,20 +1,18 @@
 #!/bin/bash
 
 # Définition des chemins
-# Chemin relatif vers le dossier parent principal
 base_dir=".."
-
-# Définition des chemins relatifs basés sur le dossier parent
-url_file="$base_dir/URLs/ar_url/ar_url.txt"
-dumps_dir="$base_dir/dumps-text/logique_arabe"
-contextes_dir="$base_dir/contextes/ar_contexte/context_txt"
-concordances_dir="$base_dir/tableaux/concordances/ar_concordances"
+url_file="$base_dir/URLs/fr_url/fr_url.txt"
+aspirations_dir="$base_dir/aspirations/fr_html"
+dumps_dir="$base_dir/dumps-text/logique_français"
+contextes_dir="$base_dir/contextes/fr_contexte/context_txt"
+concordances_dir="$base_dir/tableaux/concordances/fr_concordances"
 tableaux_dir="$base_dir/tableaux"
-output_html="$tableaux_dir/ar_table.html"
-word="منطق|المنطق"
+output_html="$tableaux_dir/fr_table.html"
+word="logique|Logique|logiques|Logiques"
 
 # Vérification des dossiers
-mkdir -p "$contextes_dir" "$concordances_dir" "$tableaux_dir"
+mkdir -p "$aspirations_dir" "$contextes_dir" "$concordances_dir" "$tableaux_dir"
 
 # Initialisation du tableau HTML
 cat <<EOT > "$output_html"
@@ -29,7 +27,7 @@ cat <<EOT > "$output_html"
 <div style="width: 80%; margin: 0 auto; padding-top: 15px;">
 <table border="1" width="100%">
     <caption style="padding-bottom:20px;">
-        <strong><u><center>Résultats du traitement des dumps pour le mot logique en arabe</center></u></strong>
+        <strong><u><center>Résultats du traitement des dumps pour le mot logique en français</center></u></strong>
     </caption>
     <thead>
         <tr>
@@ -57,18 +55,21 @@ while read -r url; do
     echo "Traitement de l'URL numéro $number ..."
 
     # Définition des fichiers associés
-    dump_file="$dumps_dir/dump_ar_$number.txt"
-    context_file="$contextes_dir/logique_arabe-$number-context.html"
-    concordance_file="$concordances_dir/logique_arabe-$number-concordance.html"
+    html_file="$aspirations_dir/logique_français-$number.html"
+    dump_file="$dumps_dir/dump_fr_$number.txt"
+    context_file="$contextes_dir/logique_français-$number-context.txt"
+    concordance_file="$concordances_dir/logique_français-$number-concordance.html"
 
-    # Vérification de l'existence du dump
-    if [[ ! -f "$dump_file" ]]; then
-        echo "Erreur : Le fichier dump $dump_file n'existe pas." >&2
+    # Aspiration de la page
+    http_code=$(curl -s -o "$html_file" -w "%{http_code}" "$url")
+
+    if [[ $http_code -ne 200 ]]; then
+        echo "Erreur HTTP ($http_code) pour l'URL : $url"
         cat <<EOL >> "$output_html"
         <tr>
             <td>$number</td>
             <td><a href="$url">$url</a></td>
-            <td>Erreur</td>
+            <td>$http_code</td>
             <td>NULL</td>
             <td>NULL</td>
             <td>NULL</td>
@@ -79,6 +80,9 @@ EOL
         number=$((number + 1))
         continue
     fi
+
+    # Génération du dump textuel
+    lynx -dump -nolist "$html_file" > "$dump_file"
 
     # Comptage des tokens
     token_count=$(wc -w < "$dump_file")
@@ -91,14 +95,10 @@ EOL
 
     # Génération des concordances
     grep -o -E ".{0,30}($word).{0,30}" "$dump_file" | \
-    sed -E "s/(.*)($word)(.*)/<tr><td>\1<\/td><td>\2<\/td><td>\3<\/td><\/tr>/" > "$concordance_file"
+    sed -E "s/(.{0,30})($word)(.{0,30})/<tr><td>\1<\/td><td><strong>\2<\/strong><\/td><td>\3<\/td><\/tr>/" > "$concordance_file"
 
-    # Génération des concordances
-grep -o -E ".{0,30}($word).{0,30}" "$dump_file" | \
-sed -E "s/(.{0,30})($word)(.{0,30})/<tr><td>\1<\/td><td><strong>\2<\/strong><\/td><td>\3<\/td><\/tr>/" > "$concordance_file"
-
-# Encapsulation dans un fichier HTML
-cat <<EOC > "$concordance_file"
+    # Encapsulation dans un fichier HTML
+    cat <<EOC > "$concordance_file"
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -128,12 +128,12 @@ $(cat "$concordance_file")
 </html>
 EOC
 
-# Ajout des résultats au tableau HTML
+    # Ajout des résultats au tableau HTML
     cat <<EOL >> "$output_html"
         <tr>
             <td>$number</td>
             <td><a href="$url">$url</a></td>
-            <td>200</td>
+            <td>$http_code</td>
             <td>UTF-8</td>
             <td>$token_count</td>
             <td>$word_count</td>
@@ -155,3 +155,4 @@ cat <<EOT >> "$output_html"
 EOT
 
 echo "Tableau HTML généré avec succès : $output_html"
+
