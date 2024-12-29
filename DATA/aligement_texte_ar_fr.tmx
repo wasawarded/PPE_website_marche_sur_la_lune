@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="/webAlignToolkit/tmx2html.xsl" type="text/xsl"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="LF Aligner"
+    creationtoolversion="3.11"
+    datatype="unknown"
+    segtype="paragraph"
+    adminlang="AR"
+    srclang="AR"
+    o-tmf="TW4Win 2.0 Format"
+  >
+  </header>
+  <body>
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>يرجع أصل كلمة منطق «logic» إلى الكلمة اليونانية «logos» والتي تقابلها ترجمات عدة، كالعقل والخطاب واللغة.</seg></tuv>
+<tuv xml:lang="FR"><seg>Le mot &quot;logique&quot; trouve ses racines dans le terme grec &lt;strong&gt;logos&lt;/strong&gt;, qui revêt plusieurs significations, telles que l&apos;esprit, la parole et le langage.</seg></tuv> </tu>
+
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>يُعرف المنطق تقليديًا بأنه دراسة قوانين التفكير أو التفكير الصحيح، ويُفهم عادة من حيث الاستدلالات أو الحجج.</seg></tuv>
+<tuv xml:lang="FR"><seg>Traditionnellement, la logique se définit comme l&apos;étude des lois qui régissent le raisonnement ou la pensée correcte.</seg></tuv> </tu>
+
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>والحجج هي التعبير الظاهري عن الاستدلالات.</seg></tuv>
+<tuv xml:lang="FR"><seg>Elle se concentre principalement sur les inférences ou les arguments, ces derniers étant l&apos;expression formelle des inférences.</seg></tuv> </tu>
+
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>الحجة مجموعة من المقدمات رفقة استنتاج.</seg></tuv>
+<tuv xml:lang="FR"><seg>Un argument se compose d&apos;un ensemble de prémisses menant à une conclusion.</seg></tuv> </tu>
+
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>تنطبق هذه التوصيفات العامة على المنطق بأوسع معانيه، أي على كل من المنطق الصوري وغير الصوري نظرًا إلى أن كلاهما يُعنى بتقييم صحة الحجج.</seg></tuv>
+<tuv xml:lang="FR"><seg>Cette définition générale englobe deux grandes branches : la logique formelle et la logique non formelle.</seg></tuv> </tu>
+
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>المنطق الصوري هو الحقل المهيمن تقليديًا، وبعض علماء المنطق يحصرون المنطق بالمنطق الصوري.</seg></tuv>
+<tuv xml:lang="FR"><seg>Toutes deux visent à évaluer la validité des arguments. Toutefois, la logique formelle, centrée sur les structures rigoureuses, demeure historiquement dominante.</seg></tuv> </tu>
+
+<tu creationdate="20241228T171307Z" creationid="LF Aligner 3.11"><prop type="Txt::Note">myText.ar-myText.fr</prop>
+<tuv xml:lang="AR"><seg>اكتشف على موقعنا كيف يتم تفسير كلمة &quot;منطق&quot; وترجمتها واستخدامها بلغات مختلفة مثل الإنجليزية والعربية والصينية والفرنسية والبرتغالية.</seg></tuv>
+<tuv xml:lang="FR"><seg>Certains spécialistes limitent même le concept de logique à cette seule approche. Découvrez sur notre site comment le mot &quot;logique&quot; est interprété, traduit et utilisé dans différentes langues comme l&apos;anglais, l&apos;arabe, le chinois, le français et le portugais.</seg></tuv> </tu>
+
+
+</body>
+</tmx>
