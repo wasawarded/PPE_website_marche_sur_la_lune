@@ -1,341 +1,143 @@
-   #alternate alternate alternate alternate alternate alternate
+   思 方 網 • critical thinking web
+   (   ∀   ∴   ⊧   ≠   ↔   ⊥   ∃   )
+     (BUTTON)
+     * 主頁 (current)
+     * 網站資訊
+     * 英文網站
 
-   IFRAME:
-   https://www.googletagmanager.com/ns.html?id=GTM-T9NW&gtm_auth=_Lm02Fa-1
-   lLDW1vNzj8zTg&gtm_preview=env-2&gtm_cookies_win=x
+   ____________________ (BUTTON) 搜索
 
-   Skip to main content
+[H10] 什麼是邏輯
+     __________________________________________________________________
 
-   主页 主页
+   [lamda.png]
 
-   UNESCO
+   原載: 陳強立 1996年《信報》[繁星哲語]專欄
 
-Secondary menu
+§1. 什麼是邏輯
 
-     * 新闻中心
-     * Data Center
-     * Governance
+   邏輯不僅是一們知識，並且是一種重要的思考工具。即使沒有研習過邏輯的人亦能意識到它的重要性。比如，像「某某說法不合邏輯」、「某某理論不合乎邏輯」
+   、「某某行為不合邏輯」⋯等等，就是我們經常都會碰到的一些說法。在我們的日常語言，「邏輯」雖是一個十分流行的用語。但是對於「什麼是邏輯？」「邏輯
+   有什麼特質？」等問題的答案，很多人都不甚了了，或是一知半解。
 
-   快速链接
-   快速链接
-   主页 UNESCO
-   go to www.unesco.org Search all UNESCO Close
+   有一種曾經非常流行的觀點認為邏輯就是研究思想定律的科學。這種觀點很可能是由於邏輯家喜歡把一些邏輯原則如同一律、排中律、矛盾律等稱為「思想定律」
+   而產生的。但是，這種對邏輯的看法卻有以下的弊端:
 
-     * News & Events
-          + Calendar of events
-               o Statutory Meetings
-               o Governing Bodies
-               o Delegates Meetings
-               o Cultural Events at Headquarters
-               o UNESCO commemorations
-          + Articles
-               o News
-               o Stories
-               o Press Releases
-     * Who we are
-          + About us
-               o UNESCO in Brief
-               o Our vision for peace
-               o History of UNESCO
-               o Key Challenges
-               o Key Figures
-               o Key achievements
-               o UNESCO House - Visit us
-          + Governance
-               o Member States Portal
-               o General Conference
-               o Executive Board
-               o Director-General
-               o Strategic Management Board
-               o Office of International Standards and Legal Affairs
-               o Legal & Basic Texts
-          + Accountability
-               o Core data portal
-               o Budget & Strategy
-               o Internal Oversight Service
-               o Reform / Strategic transformation
-               o Funding needs and Data
-               o Financial regulations
-               o Access to Information
-          + Networks
-               o Field Offices
-               o NGOs and Foundations
-               o Associated Schools
-               o Unitwin
-               o UNESCO Goodwill Ambassadors
-               o Institutes and Centres
-               o UNESCO Goodwill Ambassadors
-          + Engage
-               o Spread the Word
-               o Donate
-               o Become a partner
-               o Careers at UNESCO
-               o Subscribe to our Newsletter
-     * What we do
-          + Our expertise
-               o Education
-               o Natural Sciences
-               o Ocean Science
-               o Social and Human Sciences
-               o Culture
-               o Communication and Information
-          + Our Impact
-               o Norms & Standards
-               o Ideas & Data
-               o Take Action
-               o Publications and Global Reports
-          + Key Challenges
-               o Futures of Education
-               o Spirit of Mosul
-               o Ethics of A.I
-               o Biodiversity
-               o All key challenges
-          + Global Priorities
-               o Gender Equality
-               o Priority Africa
-     * Where we work
-          + UNESCO lists and designations
-               o Creative Cities
-               o Biosphere Reserves
-               o Memory of the World Register
-               o Intangible Cultural Heritage
-               o UNESCO Global Geoparks
-               o World Heritage
-               o Prizes
-          + UNESCO in the World
-               o Member States
-               o Field Offices
-               o Networks
-     * For Member States
-          + Governance
-               o Executive Board
-               o General Conference
-               o Headquarters Committee
-               o Country Profiles
-               o Member States Portal
-               o Strategic Management Board
-          + Calendar of events
-               o All Events
-               o Statutory Meetings
-               o Governing Bodies
-               o Delegates Meetings
-               o Cultural Events at Headquarters
-               o UNESCO commemorations
-          + Latest activities
-               o News
-               o Credentials
-               o Calls
-          + Resources
-               o Basic texts
-               o Geographical Distribution
-               o Extranet
-               o UNESCO's Conventions
-               o Azure Notes
-               o Directories
-                    # National Commissions
-                    # Permanent Delegations
-               o Headquarters Committee
-               o Core Data Portal
-          + Statutory Documents
-               o Headquarters Commitee
-               o General Conference documents
-               o Executive Board documents
-               o Medium-Term Strategy for 2022-2029 (41 C/4)
-               o Approved programme and budget 2024-2025 (42 C/5)
-     * Resources
-          + Documents
-               o UNESDOC - Digital library
-               o Art Collection
-               o Multimedia archives
-               o Archives
-               o UNESCO Courier
-               o Official Photo Gallery
-               o Basic Texts
-          + Databases and Statistics
-               o Core data portal
-               o More data
-               o Observatory of killed Journalists
-               o UNESCO Institute for Statistics
-               o World Inequality Database on Education
-          + UNESCO Classroom
-               o UNESCO Campus
-          + UNESCO Shop
+   第一、它並沒有把邏輯和其他學科如心理學或認知科學等區分開來。心理學和認知科學的目的亦可以說是在於研究人類的「思想定律」。那麼，它們所研究的和邏
+   輯所要研究的究竟有什麼分別呢？第二、它帶有誤導性。它給人的印象是，邏輯是研究人類實際的思考模式，以及人類的思想歷程所必須遵從的規律。但是，人類
+   在思考的時候循什麼模式進行？人類的思想受到什麼定律所支配？這都是關於經驗事實的問題。而邏輯的研究對象顯然和經驗事實並無直接的關係。
 
-   All UNESCO websites
-   ____________________
-   (BUTTON) 中文
-     * English
-     * Français
-     * Español
-     * Русский
-     * العربية
-     * 中文
+   另一種觀點認為邏輯是研究區別正確的推理或不正確的推理所使用的原則和方法。這種觀點在學術界頗為流行。
 
-   (BUTTON)
+   手頭上有一部頗有名的哲學辭典，其中論及「邏輯」的一條就有這樣的說法：「從廣義上來說，邏輯是研究推理或確當論證的結構和原則。⋯⋯從狹義上來說，邏
+   輯是研究演繹推理或證明的原則和方法。」
 
-   UNESCO
+   這種看法把邏輯的研究對象放在「正確/不正確的推理」、「確當的論證」、「證明」等事物上面。這種觀點比起前面提及的「邏輯是研究思想定律的科學」的觀
+   點來得恰當。至少它沒有把邏輯和其他學科如心理學等混為一談的毛病。
 
-Main navigation
+   不過，上述的這種看法仍有缺點。邏輯固然是要研究如何區別正確的推理和錯誤的推理。但，邏輯所研究的並不僅止如此。比如，邏輯亦須要研究怎樣判別矛盾句
+   和恆真句。但，判別一個語句是否矛盾句或恆真句，和判別一個推理是否正確，是兩碼子事。兩者並不等同。
+     __________________________________________________________________
 
-     * 我们的专长领域
-       我们通过教育、文化和科学将全球人民及世界各国团结在一起。
-       我们的专长领域
-       主要挑战
-          + 教育
-            教育
-          + 自然科学
-            自然科学
-          + 社会及人文科学
-            社会及人文科学
-          + 文化
-            文化
-          + 传播与信息
-            传播与信息
-          + 海洋
-            海洋
-          + 非洲
-            非洲
-          + 性别平等
-            性别平等
-     * 我们的影响力
-       了解教科文组织在世界各地的影响力，以及本组织为建设持久和平所做的努力。
-       我们的影响力
-          + 教科文组织在全球
-            教科文组织在全球
-          + 名录
-            名录
-          + Presence Worldwide
-            Presence Worldwide
-          + Standard setting & legal affairs
-            Standard setting & legal affairs
-     * 观点与数据
-       教科文组织是联合国思想实验室。了解最新的观点、多媒体内容、免费课程、出版物和报告。
-       事实与数据
-          + 出版物
-            出版物
-          + Global Reports
-            Global Reports
-          + The UNESCO Courier
-            The UNESCO Courier
-          + UNESDOC
-            UNESDOC
-     * Watch & Listen
-       Discover our audiovisual content, listen to our experts, and the
-       great voices invited to UNESCO throughout history.
-          + 影音工作室
-            影音工作室
-          + Podcasts
-            Podcasts
-          + Experts
-            Experts
-          + Special Guests
-            Special Guests
-     * 参与
-       参与教科文组织行动的方式多种多样，每个人都可以大有作为。加入我们，留下你的印记！
-       采取行动
-          + 加入合作
-            加入合作
-          + 教科文组织就职
-            教科文组织就职
-          + 网络研讨与开放课程
-            网络研讨与开放课程
-          + Fellowships
-            Fellowships
+§2. 邏輯與邏輯真理
 
-   Search
+   若果你心裡這樣想：「孔子不是物理學家。因為，若果孔子是物理學家則他是科學家，但，孔子不是科學家。」那你的想法是一項推理。但，若果你只是在想：「
+   孔子是或者不是聖人。」又或者在想：「孔子是科學家，並且他不是科學家。」那你的想法就不是一項推理，而僅是一個論斷。
 
-   ____________________________________________________________
-   (BUTTON) Search
-   Search
-   Quicks links : UNESCO action in UkraineWorld Heritage
+   邏輯的任務不僅是告訴我們怎樣判別正確的推理和錯誤的推理。它的另一項重要的任務就是告訴我們怎樣判別像「孔子是或者不是聖人」和「孔子是科學家，並且
+   他不是科學家」等論斷的真假。
 
-Breadcrumb
+   邏輯告訴我們「孔子是或者不是聖人」是真的，它是一個邏輯真理。稱它為「邏輯真理」是由於它是「P或者非P」此一對確語式的代換個例。凡邏輯上對確的語
+   式的代換個例，都可以稱之為「邏輯真理」。
 
-    1. 教科文组织国际日
+   相反地，「孔子是科學家，並且他不是科學家」此一論斷則是假的，它是一個矛盾句，所有矛盾句都是恆假的。稱它為「矛盾句」是由於它是「P並且非P」此一
+   矛盾式的代換個例。凡邏輯上的矛盾式的代換個例都是假的，我們稱它們為「矛盾句」。
 
-   World Logic Day
-   © Radachynskyi Serhii / Shutterstock.com
-   © Radachynskyi Serhii / Shutterstock.com
+   由此觀之。昨文所提及的「邏輯是研究區別正確的推理和不正確的推理所使用的原則和方法」這個看法是不夠全面的。現在讓我們看看另一個較為「非傳統」的觀
+   點。著名的美國哲學家奎因(W.V.Quine)給予「邏輯」這樣的定義：「邏輯是對邏輯真理進行系統性研究的學科。」
 
-世界逻辑日
+   奎因這個定義把邏輯的研究對象放在邏輯真理上面。筆者比較傾向於奎因的這個觀點，因為，它能照顧到前面所提及的邏輯的兩個主要的任務。
 
-   1月14日
+   首先，奎因的定義明顯包括了「判別一個語句是否邏輯真理」此一任務。由於所有矛盾句的否定都是邏輯真理，故此，對邏輯真理進行系統性的研究亦為我們提供
+   了判別一個語句是否矛盾句的理論根據。其次，奎因的定義亦能照顧到「判別正確的推理和錯誤的推理」的這個任務。因為邏輯真理為我們提供了判別一個推理是
+   否正確的準則。
 
-   思考能力是人类最显著的特征之一。在不同的文化中，对人类的定义都与意识、知识和理性等概念相关联。根据西方经典传统，人被定义为“理性动物”或“逻辑
-   动物”。纵观历史长河，逻辑学作为推理原则研究，曾被许多文明所探究，而且从最早期的逻辑表达式出现以来，逻辑在哲学和科学的发展中发挥了重要作用。
+   試考察下述的邏輯真句:
+   「如果孔子不是科學家，又如果孔子是物理學家則他是科學家，那麼孔子不是物理學家。」這個邏輯真理為我們提供了判別文首的「孔子不是物理學家。因為⋯
+   ⋯」此一推理是否正確的一個理論上的根據。
+     __________________________________________________________________
 
-   尽管逻辑与知识、科学和技术的发展有着不可否认的相关性，但是公众对逻辑的重要性却知之甚少。教科文组织与国际哲学与人文科学理事会（CIPSH）联合
-   宣布设立“世界逻辑日”，意在提请跨学科科学界和广大公众关注逻辑的思想史、概念意义和实际影响。
-   Human brain made with hands, different hands are wrapped together to
-   form a brain.
-   © Angelo Cordeschi / Shutterstock.com
+§3. 邏輯真理與對確的論證
 
-   "在这个新的十年开始之际，对我们的社会和经济而言，逻辑学比以往任何时候都更为不可或缺。左右着我们今天生活方式的计算机科学和数字技术，就是基于逻
-   辑和算法推理的技术"
-   联合国教科文组织总干事
-   奥德蕾·阿祖莱教科文组织总干事
+   分辨正確及不正確的推理(或推論)與分辨邏輯真理和非邏輯真理，都是研究邏輯的目的。這兩個目的雖然不同，但卻並無衝突，兩者甚是相輔相成，互位補充。
+   請考察下述A的推論-
 
-   在全球范围内热烈庆祝每年一度的世界逻辑日，旨在促进国际合作，推动逻辑研究和教学的发展，支持各协会、大学和其他与逻辑有关的机构开展活动，并增进公
-   众对逻辑和逻辑对科技与创新的影响的认识。此外，庆祝世界逻辑日也有助于在教育和科学进步的基础上促进和平、对话和相互理解的文化。
-   Artificial intelligence1
-   Shutterstock
+   (1) 凡運動員皆熱愛運動。
+   (2) 孔子是運動員。 所以，孔子熱愛運動。
 
-教科文组织会员国通过首份人工智能伦理全球协议
+   A是邏輯上正確或有效的推論(用邏輯的述語來說，A是一個「對確的論證」)。這個推論或論證的一個特點是，它的前提保證了它的結論。這就是說，它的前提
+   若為真則保證了結論亦為真。由此可以引申出下述的邏輯真句-
 
-   它不仅会保护而且会促进人权和人类尊严，并将成为一个伦理指针和全球规范基石，从而在数字世界建立对法治的严格尊重。
-   探索更多
-   宣布世界逻辑日
-   UNESCO. General Conference
-   2019年11月13日
-   UNESCO
-   (BUTTON) Read more in...
-   ____________________________________________________________
-     * Arabic
-     * Chinese
-     * English
-     * French
-     * Russian
-     * Spanish
+   (3) 如果凡運動員皆熱愛運動，並且孔子是運動員，那孔子熱愛運動。
 
-   0000371483
+   反過來說，我們亦可以通過(3) 這個邏輯真理去確定A的對確性。(3) 的一個特點是，它是必然地真的(這是但凡邏輯真理都必定擁有的一個特質)
+   。由此我們可以推論出:
 
-资源
+   (4) 若果「凡運動員皆熱愛運動」並且「孔子是運動員」皆為真，則 「孔子熱愛運動」亦必然為真。
 
-   科学技术伦理和生物伦理
-   探索更多
-   Management of Social Transformations (MOST) Programme
-   Discover more
-   人文科学和哲学
-   探索更多
-   世界逻辑日网站
+   上述這個結論不啼是說，A是一個對確的論證。由此觀之，若果我們有獨立的方法可以決定(3) 是一項邏輯真理，那我們就可以通過 (3)
+   來確定A的對確性。
 
-   国际哲学与人文科学理事会
-   探索
-   联合国教科文组织国际日
-   Discover
-   往年活动
-   了解更多
+   上面的分析不僅適用於A，並且適用於所有其他(形式上)對確的論證。我們試考察另一個論證B:
 
-     * 联合国教科文组织
-          + 近期新闻
-          + 采取行动
-          + 思想和数据
-          + 我们的影响力
-          + 我们的专长
-          + 核心数据平台
-          + UNESCO Shop
-          + 订阅简报
-     * 使用须知
-          + 教科文组织名称和标志
-          + 常见问题解答
-          + 报告欺诈、滥用、不当行为
-          + 诈骗提醒
-     * 有关政策
-          + 人权保护（第104号程序）
-          + 网站隐私声明
-          + 信息获取
-          + 环境与社会政策
+   (5) 凡運動員皆熱愛運動。
+   (6) 莊子並不熱愛運動。
+   所以，莊子並非運動員。
+   我們可以為B構作出一個條件句，這個條件句表述如下-
 
-   Explore UNESCO
+   (7) 如果凡運動員皆熱愛運動，並且莊子並不熱愛運動，那麼，莊子並非運動員。
 
-   top
+   (7)和B具有這樣的關係-
+   若果B是對確的，那(7)就是必然地真的；並且，若果(7)是必然地真的，那B就是對確的。換言之，B是對確的當而且只當(7)是必然地真的。
+   由此可以引申出，若果我們能確立B是對確的論證，那我們就可以確立(7)是必然為真的。反之，若果我們能確立(7)是一項必然真理，那我們就能確立B的
+   對確性。
+
+   再者，由於一項邏輯上必然的真理就是邏輯真理。故此，(7)和B亦有這樣的關係-若果B是(邏輯地) 對確的論證，那(7)
+   就是邏輯真理；並且，若(7) 是邏輯真理，那B就是對確的。換言之，B是(邏輯地) 對確的當且只當(7) 是邏輯真理。
+     __________________________________________________________________
+
+§4. 邏輯真理的特質
+
+   邏輯是一種重要的思考工具，對這種思考工具進行反思乃是哲學的一項重要的任務。哲學家把這種哲學稱之為「邏輯哲學」。簡單來說，邏輯哲學的主要工作就是
+   分析清楚邏輯作為一種思考工具的基本性質，以及它在方法學中的地位。換言之，邏輯哲學的主要工作就是要分析清楚邏輯原則或邏輯真理的基本性質，以及它們
+   在方法學中所佔的位置。
+
+   邏輯真理(或邏輯原則)究竟有些甚麼基本的性質呢？簡單而言，邏輯真理有三個基本性質：一、無信息內容；二、具有必然性；三、先驗。
+
+   先談第一點：邏輯真理並無信息內容。試考察下面這個句子—
+
+   p : 雪是或者不是白色的。
+   上述是一個邏輯真句，這個句子具有這樣的一個特性：它對經驗事物的狀況無所描述(或並無任何特定的描述)。由這個句子我們無法得知究竟雪是不是白色的。
+
+   試拿P和下述的句子比較-
+
+   q : 雪是白色的。
+
+   上述這個句子是真的，不過它並非邏輯真理，它的真確性是須要通過經驗觀察才能確定的。讓我們把q這一類「須要通過經驗觀察才能確定其為真」的句子叫做「
+   經驗真理(或經驗真句)
+   」。經驗真理和邏輯真理的一個主要的分別就是，前者對經驗事物的狀況有所描述，即它告訴了我們關於經驗事物的某些特定的狀況。例如q這個句子就告訴了我
+   們雪究竟是甚麼顏色的。
+
+   為了方便討論起見，讓我們把這種「對經驗事物的狀況有所描述」的語句稱為「有信息內容」的語句，而「對經驗事物無所描述」的語句則可以稱之為「無信息內
+   容」的語句。依此，我們可以說q是有信息內容的。不僅q是有信息內容的，它的否定(即「雪不是白色的」)
+   亦是有信息內容的。但，p卻是沒有信息內容的。
+
+   q和p的否定有一個共通點，就是它們對某些可能的經驗事態有所排斥。比如q就排斥了雪是黑色、雪是紅色等可能的經驗事態。而q的否定則排斥了雪是白的此
+   一可能事態。相反，「雪是或者不是白色的」這句話則並無排斥任何可能的經驗事態。換言之，它容納了一切可能的事態。這就是說，無論雪有些什麼顏色，都不
+   能否證上述那句話的真確性。
+   上一頁 下一頁
+     __________________________________________________________________
+
+   主頁 • 頁頂 • 聯絡
+
+   版權 © 2004-2024 劉彥方 陳強立
