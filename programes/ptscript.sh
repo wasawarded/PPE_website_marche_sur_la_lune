@@ -1,21 +1,29 @@
 #!/bin/bash
 
-# Fichier contenant les URLs
+# Fichiers et dossiers
 INPUT_FILE="/home/ines/PPE_website_marche_sur_la_lune/URLs/pt_url/pt_url.txt"
-OUTPUT_HTML="pt_tableau_contexte.html"
-CONTEXT_DIR="/home/ines/PPE_website_marche_sur_la_lune/contextes/pt_contexte/pt_context_txt"
+OUTPUT_HTML="pt_tableux.html"
+CONTEXT_DIR="/home/ines/PPE_website_marche_sur_la_lune/contextes/pt_contexte"
+CONCORDANCE_DIR="/home/ines/PPE_website_marche_sur_la_lune/tableaux/concordances/pt_concordances"
+ASPIRATION_DIR="/home/ines/PPE_website_marche_sur_la_lune/aspirations/port_html"
+DUMP_DIR="/home/ines/PPE_website_marche_sur_la_lune/dumps-text/logique_portugais"
+WORD="lógica|lógico|lógicas|lógicos"
 
-# Créer le répertoire pour les fichiers de contexte (s'il n'existe pas déjà)
-mkdir -p "$CONTEXT_DIR"
+# Créer les dossiers nécessaires
+mkdir -p "$CONTEXT_DIR" "$CONCORDANCE_DIR" "$ASPIRATION_DIR" "$DUMP_DIR"
 
-# Fonction pour compter les tokens (mots)
-function count_tokens() {
-    echo "$1" | wc -w
+# Fonction pour extraire le contexte
+function extract_context() {
+    local content="$1"
+    local word="$2"
+    echo "$content" | grep -i -o -P ".{0,50}\b($word)\b.{0,50}" | head -n 5
 }
 
-# Fonction pour extraire un extrait (contexte) de la page (ici les 500 premiers caractères)
-function get_context() {
-    echo "$1" | head -c 500
+# Fonction pour extraire les concordances
+function extract_concordance() {
+    local content="$1"
+    local word="$2"
+    echo "$content" | grep -i -o -P "(\w+\s+\w+\s+)?\b($word)\b(\s+\w+\s+\w+)?" | sed -E 's/(.*)(\b'$word'\b)(.*)/\1\t\2\t\3/' | head -n 10
 }
 
 # Début du tableau HTML
@@ -24,7 +32,7 @@ echo "<!DOCTYPE html>
 <head>
     <meta charset=\"UTF-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-    <title>Résultats du traitement avec contexte</title>
+    <title>Résultats du traitement</title>
     <style>
         table { width: 100%; border-collapse: collapse; margin: 20px 0; }
         th, td { border: 1px solid #ddd; padding: 10px; text-align: center; }
@@ -34,7 +42,7 @@ echo "<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h1>Résultats du traitement des dumps pour le mot logique en portugais avec contexte</h1>
+    <h1>Résultats du traitement des dumps pour le mot logique en portugais</h1>
     <table>
         <thead>
             <tr>
@@ -44,8 +52,7 @@ echo "<!DOCTYPE html>
                 <th>Encodage HTML</th>
                 <th>Nombre de Tokens</th>
                 <th>Compte</th>
-                <th>Lien Contexte</th>
-                <th>Lien Concordance</th>
+                <th>Contexte</th>
             </tr>
         </thead>
         <tbody>" > "$OUTPUT_HTML"
@@ -53,7 +60,7 @@ echo "<!DOCTYPE html>
 # Initialisation du compteur
 COUNTER=1
 
-# Lire chaque URL du fichier
+# Lire chaque URL
 while IFS= read -r url; do
     if [[ -z "$url" ]]; then
         continue
@@ -62,48 +69,77 @@ while IFS= read -r url; do
     # Récupérer le contenu avec curl
     RESPONSE=$(curl -s -I "$url" | head -n 1)
     HTTP_CODE=$(echo "$RESPONSE" | awk '{print $2}')
+
+    # Si le code HTTP est une erreur, ignorer la page
+    if [[ "$HTTP_CODE" -ge 400 ]]; then
+        echo "Page avec erreur HTTP ($HTTP_CODE) : $url. Ne sera pas traitée." >&2
+        echo "        <tr>
+            <td>$COUNTER</td>
+            <td><a href=\"$url\" target=\"_blank\">$url</a></td>
+            <td>$HTTP_CODE</td>
+            <td colspan=\"6\">Erreur HTTP $HTTP_CODE</td>
+        </tr>" >> "$OUTPUT_HTML"
+        COUNTER=$((COUNTER + 1))
+        continue
+    fi
+
     CONTENT=$(curl -s "$url")
     ENCODING=$(echo "$CONTENT" | file -bi - | sed -n 's/.*charset=//p')
 
-    # Compter les tokens
-    TOKENS=$(count_tokens "$CONTENT")
+    # Sauvegarder la page HTML dans le dossier des aspirations
+    ASPIRATION_FILE="$ASPIRATION_DIR/aspiration_$COUNTER.html"
+    echo "$CONTENT" > "$ASPIRATION_FILE"
 
-    # Calculer un exemple de compte (ici, basé sur le nombre de paragraphes HTML trouvés)
-    COMPTE=$(echo "$CONTENT" | grep -o "<p" | wc -l)
+    # Convertir la page en texte avec Lynx et sauvegarder dans le dossier des dumps textuels
+    DUMP_TEXT=$(echo "$CONTENT" | lynx -stdin -dump)
+    DUMP_FILE="$DUMP_DIR/dump_$COUNTER.txt"
+    echo "$DUMP_TEXT" > "$DUMP_FILE"
 
-    # Extraire un contexte de la page (les premiers 500 caractères)
-    CONTEXTE=$(get_context "$CONTENT")
+    # Compter les tokens dans le dump textuel
+    TOKENS=$(echo "$DUMP_TEXT" | wc -w)
 
-    # Créer un fichier HTML pour le contexte dans le répertoire "contextes"
-    FILENAME=$(echo "$url" | sed 's/[^a-zA-Z0-9]/_/g').html
-    CONTEXT_FILE="$CONTEXT_DIR/context_$FILENAME"
+    # Compter les occurrences du mot
+    COMPTE=$(echo "$DUMP_TEXT" | grep -oiP "\b($WORD)\b" | wc -l)
 
-    # Générer le fichier HTML de contexte
+    # Extraire le contexte
+    CONTEXT=$(extract_context "$DUMP_TEXT" "$WORD")
+
+    # Sauvegarder le contexte dans un fichier HTML
+    CONTEXT_HTML="$CONTEXT_DIR/context_$COUNTER.html"
     echo "<!DOCTYPE html>
 <html lang=\"fr\">
 <head>
     <meta charset=\"UTF-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-    <title>Contexte de la page : $url</title>
+    <title>Contexte $COUNTER</title>
 </head>
 <body>
-    <h1>Contexte de la page : $url</h1>
-    <p>$CONTEXTE...</p>
-    <a href=\"$url\" target=\"_blank\">Voir la page complète</a>
+    <h1>Contexte pour le mot \"$WORD\"</h1>
+    <p style=\"white-space: pre-wrap;\">$CONTEXT</p>
 </body>
-</html>" > "$CONTEXT_FILE"
+</html>" > "$CONTEXT_HTML"
 
-    # Ajouter une ligne dans le tableau HTML avec un lien vers le contexte
+    # Extraire les concordances
+    CONCORDANCE=$(extract_concordance "$DUMP_TEXT" "$WORD")
+
+    # Sauvegarder les concordances dans un fichier HTML
+    CONCORDANCE_HTML="$CONCORDANCE_DIR/concordance_$COUNTER.html"
+    echo "<html><body><table><thead><tr><th>Gauche</th><th>Mot</th><th>Droit</th></tr></thead><tbody>" > "$CONCORDANCE_HTML"
+    echo "$CONCORDANCE" | while IFS=$'\t' read -r left word right; do
+        echo "  <tr><td>$left</td><td>$word</td><td>$right</td></tr>" >> "$CONCORDANCE_HTML"
+    done
+    echo "</tbody></table></body></html>" >> "$CONCORDANCE_HTML"
+
+    # Ajouter les résultats au tableau HTML
     echo "        <tr>
-        <td>$COUNTER</td>
-        <td><a href=\"$url\" target=\"_blank\">$url</a></td>
-        <td>$HTTP_CODE</td>
-        <td>${ENCODING:-Inconnu}</td>
-        <td>$TOKENS</td>
-        <td>$COMPTE</td>
-        <td><a href=\"$CONTEXT_DIR/context_$FILENAME\" target=\"_blank\">Contexte</a></td>
-        <td><a href=\"#\">Concordance</a></td>
-    </tr>" >> "$OUTPUT_HTML"
+            <td>$COUNTER</td>
+            <td><a href=\"$url\" target=\"_blank\">$url</a></td>
+            <td>$HTTP_CODE</td>
+            <td>${ENCODING:-Inconnu}</td>
+            <td>$TOKENS</td>
+            <td>$COMPTE</td>
+            <td><a href=\"$CONTEXT_HTML\" target=\"_blank\">HTML</a></td>
+        </tr>" >> "$OUTPUT_HTML"
 
     COUNTER=$((COUNTER + 1))
 done < "$INPUT_FILE"
@@ -115,5 +151,7 @@ echo "    </tbody>
 </html>" >> "$OUTPUT_HTML"
 
 echo "Tableau HTML généré dans $OUTPUT_HTML"
-echo "Fichiers de contexte générés dans le répertoire \"$CONTEXT_DIR\"."
-
+echo "Fichiers d'aspiration générés dans $ASPIRATION_DIR"
+echo "Fichiers de dump générés dans $DUMP_DIR"
+echo "Fichiers de contexte générés dans $CONTEXT_DIR"
+echo "Fichiers de concordance générés dans $CONCORDANCE_DIR"

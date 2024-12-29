@@ -1,0 +1,538 @@
+   Entre Livros
+
+   Índice:
+   [1]148 - AS SUICIDAS
+   [2]147 - O CONVIDADOR DE PIRILAMPOS
+   [3]146 - «AMERICA FIRST»
+   [4]145 - NUMA NOITE DE INVERNO
+   [5]144 - DA IDEOLOGIA DO TEMPO VIVO
+   [6]143 - O ADIAMENTO É PREFERÍVEL AO ERRO
+   [7]142 - USA: SEX, LIES AND VIDEOTAPE
+   [8]141 - GOODFELLAS
+   [9]140 - BARACK OBAMA EM HIROSHIMA
+   [10]139 - PALMIRA RESGATADA
+   [11]138 - INQUIETUDE
+   [12]137 - PRESIDENTE DIRIGE-SE À NAÇÃO
+   [13]136 - SAMPAIO DA NÓVOA: LISURA E SOBRIEDADE
+   [14]135 - DA ILUSÃO DO PROGRESSO
+   [15]134 - EXASPERAÇÃO
+   [16]133 - UMA CAMPANHA DISFÓRICA
+   [17]132 - A CASA EUROPA
+   [18]131 - O DESPOTISMO EUROPEU
+   [19]130 - A CAPITULAÇÃO DA PRIMAVERA SOCIAL
+   [20]129 - PORTUGAL ESMORECIDO
+   [21]128 - TERMINOU A VII CIMEIRA DAS AMÉRICAS
+   [22]127 - O DECLÍNIO DO VENERÁVEL
+   [23]126 - DA SATURANTE SERVIDÃO
+   [24]125 - EUA: RESPONSABILIDADE E UTOPIA
+   [25]124 - ONU: PORTUGAL NO CONSELHO DE DIREITOS HUMANOS
+   [26]123 - CESSA O EMBARGO A CUBA
+   [27]122 - GOLDFINGER & CIA
+   [28]121 - Dilma Rousseff inicia segundo mandato
+   [29]120 - OBAMA REFORÇA A IDEOLOGIA
+   [30]119 - O PESADELO LÚCIDO
+   [31]118 - DA APOLOGIA DO MEDO
+   [32]117 - QUO VADIS, EUROPA
+   [33]116 - ABRIL
+   [34]115 - PAZ E DIPLOMACIA
+   [35]114 - A Alquimia da vontade
+   [36]113 - KIEV ? PRAÇA DA INDEPENDÊNCIA
+   [37]112 - A RECONSTRUÇÃO DO MUNDO
+   [38]111 - 2014, odisseia na Europa
+   [39]110 - Mandela
+   [40]109 - MÁRIO SOARES RESGATA O PATRIOTISMO
+   [41]108 - ONDJAKI A secreta magia dos gritos azuis
+   [42]107 - A COLINA DERRADEIRA
+   [43]106 - UM PAÍS IMPREVISÍVEL
+   [44]105 - POWER AFRICA
+   [45]104 - DA OCIDENTAL PRAIA LUSITANA
+   [46]103 - QUE AGORA JÁ NÃO QUERO NADA
+   [47]102 - UM CONSENSO ABRANGENTE
+   [48]101 - NEM FORMOSO NEM SEGURO
+   [49]100 - AMERICA THE BEAUTIFUL
+   [50]99 - UM PAÍS ENCANTADO
+   [51]98 - CANÇÃO PARA AS CRIANÇAS MORTAS
+   [52]97 - FILOSOFIA DA MISÉRIA
+   [53]96 - OBAMA NA PRESIDÊNCIA
+   [54]95 - NOBEL DA PAZ DISTINGUE UNIÃO EUROPEIA
+   [55]94 - RESILIENCE
+   [56]93 - ÓDIO
+   [57]92 - TEAPLOT
+   [58]91 - VIAGEM DOS AVENTUREIROS DE LISBOA
+   [59]90 - FERNANDO PESSOA / PROSA DE ÁLVARO DE CAMPOS
+   [60]89 - A FARSA DO INSTÁVEL
+   [61]88 - FUNDAÇÂO JOSÉ SARAMAGO
+   [62]87 - OBAMA ON THE ROAD
+   [63]86 - O FUROR DA RAZÃO
+   [64]85 - Geografia do Olhar
+   [65]84 - ESTOICISMO COERCIVO
+   [66]83 - O TRAMPOLIM DA LINGUAGEM
+   [67]82 - NO PAÍS DAS UVAS
+   [68]81 - ODE À ALEGRIA FUGITIVA
+   [69]80 - A VIRTUDE DO AMOR
+   [70]79 - ANGOLA - Metáfora do mundo que avança
+   [71]78 - Clarabóia
+   [72]77 - Indignados
+   [73]78 - APRESENTAÇÃO DE "ORNATO CANTABILE" E "MAR SALGADO"
+   [74]75 - 11 DE SETEMBRO, 2011
+   [75]74 - OSLO
+   [76]73 - Viver é preciso
+   [77]72 - O grito da garça
+   [78]71 - MORTE EM DIRECTO, NÃO!
+   [79]70 - ALEA JACTA EST
+   [80]69 - CONFRONTO - Porto 1966 - 1972 - Edições Afrontamento
+   [81]68 - PARVOS NÃO, ANTES CRÉDULOS
+   [82]67 - DA PERTINÊNCIA & DO ABSURDO
+   [83]66 - MORTINHOS POR MORRER
+   [84]65 - VENHA BISCOITO QUANTO PUDER!
+   [85]64 - VERDADE E CONSENSO
+   [86]63 - LEAKINGMANIA
+   [87]62 - SESSÃO DE LANÇAMENTO NA LIVRARIA BUCHHOLZ
+   [88]61 - UMA APAGADA E VIL TRISTEZA
+   [89]60 - IMPLICAÇÕES ÉTICAS E POLÍTICAS
+   [90]59 - NO DIA DE PORTUGAL
+   [91]58 - FERREIRA GULLAR- PRÉMIO CAMÕES 2010
+   [92]57 - BENTO XVI - PALAVRAS DE DIAMANTE
+   [93]56 - O 1º DE MAIO / LABOR DAY
+   [94]55 - BULLYING E KICKING
+   [95]54 - O AMOR EM TEMPO DE CRISE
+   [96]53 - FÁBULAS E FANTASIAS
+   [97]52 - THE GRAPES OF WISDOM
+   [98]51 - Do Acaso e da Necessidade
+   [99]50 - deuses e demónios
+   [100]49 - CAIM ? o exegeta de Deus
+   [101]48 - Os lugares do lume
+   [102]47 - VERTIGEM OU A INTELIGÊNCIA DO DESEJO
+   [103]46 - LEITE DERRAMADO
+   [104]45 - Casa de Serralves - O elogio da ousadia
+   [105]44 - FASCÍNIOS
+   [106]43 - DA AVENTURA DO SABER , EM ÓSCAR LOPES
+   [107]42 - TOGETHERNESS - Todos os caminhos levaram a Washington, DC
+   [108]41 - Entrevista da Prof. Doutora Ana Maria Gottardi
+   [109]40 - I ENCONTRO INTERNACIONAL DE LINGUÍSTICA DE ASSIS, Brasil?
+   [110]39 - [111]Filomena CabralFilomena Cabral, UMA VOZ CONTEMPORÂNEA
+   [112]38 - EUROPA - ALEGRO PRODIGIOSO
+   [113]37 - FEDERICO GARCÍA LORCA
+   [114]36 - O PORTO CULTO
+   [115]35 - IBSEN ? Pelo TEP
+   [116]34 - SUR LES TOITS DE PARIS
+   [117]33 - UM DESESPERO MORTAL
+   [118]32 - OS DA MINHA RUA
+   [119]31 - ERAM CRAVOS, ERAM ROSAS
+   [120]30 - MEDITAÇÕES METAPOETICAS
+   [121]29 - AMÊNDOAS, DOCES, VENENOS
+   [122]28 - NO DIA MUNDIAL DA POESIA
+   [123]27 - METÁFORA EM CONTINUO
+   [124]26 - ÁLVARO CUNHAL ? OBRAS ESCOLHIDAS
+   [125]25 - COLÓQUIO INTERNACIONAL. - A "EXCLUSÃO"
+   [126]24 - As Palavras e os Dias
+   [127]23 - OS GRANDES PORTUGUESES
+   [128]22 - EXPRESSÕES DO CORPO
+   [129]21 - O LEGADO DE MNEMOSINA
+   [130]20 - Aqui se refere CONTOS DA IMAGEM
+   [131]19 - FLAUSINO TORRES ? Um Intelectual Antifascista
+   [132]18 - A fidelidade do retrato
+   [133]17 - Uma Leitura da Tradição
+   [134]16 - Faz- te à Vida
+   [135]15 - DE RIOS VELHOS E GUERRILHEIROS
+   [136]14 - Cicerones de Universos, os Portugueses
+   [137]13 - Agora que Falamos de Morrer
+   [138]12 - A Última Campanha
+   [139]11 - 0 simbolismo da água
+   [140]10 - A Ronda da Noite
+   [141]09 - MANDELA ? O Retrato Autorizado
+   [142]08 - As Pequenas Memórias
+   [143]07 - Uma verdade inconveniente
+   [144]06 - Ruralidade e memória
+   [145]05 - Bibliomania
+   [146]04 - Poemas do Calendário
+   [147]03 - Apelos
+   [148]02 - Jardim Lusíada
+   [149]01 - Um Teatro de Papel
+     __________________________________________________________________
+
+   Entendo que todo o jornalismo tem de ser cultural, pois implicauma
+   cultura cívica, a qual não evita que, na compulsão, quantas vezesda
+   actualidade, se esqueçam as diferenças.
+   No jornalismo decididamente voltado para a área cultural, todosos
+   acontecimentos são pseudoeventos, cruzando-se formas discursivasem que
+   as micropráticas têm espaço de discussão.
+   Não sendo um género, o jornalismo cultural é contudo uma
+   práticajornalística, havendo temas que podem ser focados numa
+   perspectivacultural especifica ou informativa, numa área não
+   suficientementerígida, embora de contornos definidos.
+   Assim o tenho vindo a praticar ao longo dos anos, quer na comunicação
+   social quer, a partir de agora, neste espaço a convite da 'Unicepe'.
+   Leça da Palmeira, 23 de Setembro de 2006
+   [assin.gif]         2017-04-15
+   AS SUICIDAS
+   Profª Drª Telma Mafra (*)
+
+                                                 "Amêndoas para Filomena"
+                        (Facultado pela Professora Doutora TELMA MAFRA (*)
+                                                       a quem agradecemos,
+                      é com muito prazer que divulgamos esta sua análise
+                                                        sobre AS SUICIDAS,
+                 da nossa colaboradora [150]Filomena CabralFilomena Cabral
+   )
+   A direção da UNICEPE,
+
+   Entre outros sentidos, As suicidas versa sobre a morte e sobre as
+   impressões da vida. Traz à baila a enigmática e filosófica discussão
+   sobre o tempo posterior à existência. Escrito por [151]Filomena
+   CabralFilomena Cabral
+   , o texto dramatúrgico traz como personagens os míticos Caronte,
+   Cerbero e Aqueronte, além daquelas que deixaram a vida e devem
+   atravessar o rio negro e pestilencial, na barca da danação.
+   As personagens que chegam a Caronte são almas que não falam entre si,
+   tão sozinhas agora quanto eram dantes, quando em vida: a não vivente
+   (autora finada, que lembra a própria [152]Filomena CabralFilomena
+   Cabral, em confissão), Masturlídia (uma suicida exibicionista,
+   preocupada com sua aparência, mesmo na morte) e Perdidamente
+   (personagem transbordante de amor, saudade e desejo, que é uma
+   aproximação à poeta Florbela Espanca). Todas elas são almas sofredoras
+   que monologam, expondo suas dores e reflexões:
+
+   Sempre detestara sonhar, gostava de noites sem imagens, escuras,
+       pesadas do breu do sono. Insone, nada ansiava mais que dormir,
+       vergastada pelos desgostos, tomavam proporções monstruosas,
+       lançava-me do leito com energia, vagueava pela casa, regressava à
+       escuridão do quarto, fora dele era dia, optara por anular a noite,
+       o tempo natural do sono. Agora pergunto: seria premonição, a
+       antecipação da angústia dos não vivos? Durante grande parte da
+       vida, vivi morta. Agora, defunta, tento o devaneio. Será este
+       estado também ele uma representação?
+
+   A personagem que mais tem espaço na peça é denominada a “não vivente”,
+   e pode confundir-se como o próprio duplo da autora. A personagem
+   escritora, no texto, contrariando os hábitos mudos daquele espaço de
+   morte, tem ainda o costume da palavra. É ela que descreve como é a
+   morte, caracterizada por um vazio de sentimentos, pelo alheamento às
+   coisas, pelo abandono dos sentidos, pela comoção do nada que lhe
+   inunda. Além dessa narração, também oferece fragmentos de sua antiga
+   vida: os hábitos de solidão, as noites insones, as anotações do
+   cotidiano, a clausura com as palavras, o cansaço do esforço de viver.
+   Jamais [153]Filomena CabralFilomena Cabral mostrou-se tanto, em uma
+   obra literária. É como se se desvendasse definitivamente ao seu
+   público, sintonizando-se a ele, desnudando-se com meritosa coragem.
+   A outra personagem é Masturlídia. Este nome está presente também no
+   soneto “Amátia”, modelo de experimentalismo linguístico de Jorge de
+   Sena, em sua busca do esvaziamento semântico da palavra dicionarizada.
+   Masturlídia apresenta um monólogo perverso, em crise com outra parte de
+   si, aprisionada em seu interior, denominada Delyra. Esse conflito de
+   personalidades e uma suposta perda do amor, a levam ao suicídio. Apesar
+   da dor, da confusão e do desejo de morte, quer-se bela, mesmo na hora
+   fatídica.
+   Perdidamente, a terceira personagem, também suicida, remete à imagem de
+   Florbela Espanca. Seu monólogo, desencantado, sofredor e sensual,
+   apresenta a falta do amado e as imagens da charneca alentejana. Um dos
+   sonetos mais conhecidos de Florbela Espanca, “Amar”, inicia-se com o
+   verso: “Eu quero amar, amar perdidamente!”. Em empréstimo,
+   [154]Filomena CabralFilomena Cabral traz em seu texto uma personagem de
+   nome Perdidamente, atribuindo a ela, a personalidade e a marca
+   vocabular da poeta portuguesa do início do século XX.
+   As três personagens trazem marcas comuns de solidão e angústia e podem
+   ser símbolos de uma ancestralidade que molda a mulher portuguesa.
+   A obra dramatúrgica As suicidas propõe uma reflexão sobre a morte, mas
+   mais ainda sobre a vida e seus significados, justapondo e opondo
+   sentidos e conceitos. A inflexão do tempo, a ausência de expectativas e
+   a angústia do viver, sufocam as personagens, levando-as a um estado de
+   morte em vida.
+   Nessa construção, a exemplo do que faz em outras obras, [155]Filomena
+   CabralFilomena Cabral apresenta-nos seu universo cultural, ao narrar
+   mitos, mencionar personalidades das artes, referenciar autores e
+   apresentar fragmentos de obras, mostrando ao público suas influências.
+   Estão nas páginas de As suicidas , Machado de Assis, Camilo Pessanha,
+   Antonio Nobre, Novalis e outros. É o que se vê no monólogo da
+   personagem não vivente:
+
+   -Devo confessar, pela imaginação que tinha e que ainda me não abandonou
+       totalmente - sou uma defunta ficcionista -, que a conjuntura é
+       estimulante para a que fui, uma escritora, sinto-me um pouco qual
+       Cubas, porém não posso relê-lo, tentaria homenagear Machado,
+       lançando-lhe daqui chistes, ele haveria de entender-me, já que o
+       entendi – até onde foi possível, mais ainda agora, que ambos
+       estamos do mesmo lado. Será melhor assim, quem sabe não irritaria
+       uns tantos, que a Machado seria indiferente, mais ainda a Cubas,
+       mas talvez usemos o mesmo tinteiro, o da melancolia, se bem que a
+       personagem de Machado tenha morrido primeiro e escrito depois. Eu
+       escrevi antes e continuo, por estranho automatismo.
+
+   Quanto à estrutura, a peça se forma em poucos diálogos e em longos
+   monólogos das personagens, os quais as desvendam. A peça tem como
+   característica intencional, o monologismo, que marca o fato de as
+   personagens estarem em ilhas incomunicáveis de solidão – em vida e em
+   morte. Esses monólogos são absolutamente teatrais, como se nota na fala
+   de Perdidamente, em seu “Monólogo estilhaçado pelo muito amar”:
+
+   Ao contrário dos amantes que se me recusam, temendo o excesso de
+       palavras, afagos de esfomeada, a Morte não me recusa nada, se bem
+       que me queiram dela apartar! Morte, irmã Morte, dá-me a mão gelada,
+       passeemos pelo caminho da charneca e, se ficares cansada, eu
+       espero, verás, sou paciente, aprendi a aguardar o amor, a dor
+       difusa é-me indiferente.
+       Quero perder-me no mundo, esbracejar por entre caules, corolas,
+       colher braçado de nardos, falos puros de deuses que me amaram e a
+       quem nada perguntei. Terei pecado por humildade ao invés de
+       orgulho?
+
+   As falas das personagens trazem, com frequência, rimas internas,
+   construções metafóricas e beleza subjetiva. Essa polivalência semântica
+   do texto literário apresenta-se como um desafio, vez que esse discurso
+   contém virtualmente uma representação, sendo o gerador da ação
+   dramática.
+   Nesse texto, parece importar menos o cenário e outros recursos cênicos,
+   visto que a peça repousa sobre a palavra a ser trabalhada
+   dramaticamente.
+   O tempo da ação não é delimitado, por tratar de reflexões de morte e de
+   vida. Fica então, a impressão de suspensão do tempo, ao ouvir
+   personagens aprisionadas em sua condição de sofrimento, a qual é
+   cíclica. Ao anular o tempo, evidenciam-se as palavras, que exteriorizam
+   um jogo de fluxo e refluxo, de vida e de morte, de consciência e de
+   inconsciência, de plano real e plano mítico:
+
+   A imagem colorida decompondo-se, assalta-me e, por inesperada, sugere
+       que a eternidade pode ser em camadas: que as páginas da vida e dos
+       livros, aqui, neste estado, não têm passado nem futuro, menos ainda
+       presente, terei de indagar novos códigos.
+
+   Como todo texto dramatúrgico, este é uma obra em processo, não acabada,
+   vez que exigirá a interpretação daqueles que darão vida à cena –
+   diretor e atores. A estes, [156]Filomena CabralFilomena Cabral concede
+   grande liberdade e deixa clara a sua intenção de não ser, além de
+   autora, também uma diretora onipresente, ao apresentar economia de
+   indicações cênicas. Além da escassez de rubricas, algumas delas são
+   subjetivas, ou escritas em linguagem poética, oferecendo um universo de
+   hipóteses interpretativas e consequente liberdade. É o que se nota em:
+   “Por não conseguir chorar, arrepela-se Caronte, exaurida na clausura do
+   peito a doçura de sofrer, o coração escondido nas cavernas de Hades.
+   (...)”.
+   A peça As suicidas , nem de longe, configura-se em um texto teatral que
+   apresenta a fórmula conflito-solução, que deixará o público confortável
+   e com a sensação de que está tudo bem no universo. Ao contrário, ao
+   tratar da solidão, da inevitabilidade da morte e da imprevisibilidade
+   da vida, deixa uma interrogação, um incômodo que suscita a reflexão. De
+   alguma forma, o texto é um símbolo metafórico de um tempo de
+   desencontro, em que as pessoas não têm importância umas para as outras,
+   sendo a solidão a grande marca:
+
+   -Ah! Se conseguisse rir, agora, riria, tanto temi a morte de outros que
+       estimava, porque envelheciam, ou por imprescindíveis, e eles
+       ficaram, quem partiu fui eu. Lamentar-me-ão… Ora, nem deram
+       importância, são os mais relevantes para si mesmos. Enquanto viva,
+       que sentiriam por mim? Talvez desdém, e tive sempre consciência
+       disso, fingia não notar, por elegância, tacto…
+
+   Essa universalidade da solidão faz o texto de [157]Filomena
+   CabralFilomena Cabral perder os limites geográficos. Onde não
+   identificar a intensidade desse sentimento?
+   O título da peça também merece nota. Inicialmente seria “Insomnya”,
+   refletindo a escuridão que era exterior, nas noites insones, e que
+   agora, na morte, invade as personagens por dentro. A insônia está
+   associada, principalmente, à personagem não vivente, que discorre
+   amplamente sobre esse estado. Depois, e mais adequadamente, o título
+   foi alterado para “As suicidas ”, fazendo referência às personagens que
+   deram fim à sua vida (Masturlídia e Perdidamente) e à personagem
+   finada, mas não suicida – pelo menos em sentido literal. Apesar de não
+   cometer suicídio explícito, a não vivente abandona-se em vida,
+   afirmando: “Durante grande parte da vida, vivi morta”. Nota-se aqui
+   também uma anulação da vida, o que dá coerência e sentido ao novo
+   título.
+   Comentários à parte, certo é que será aprazível observar a infinidade
+   de descobertas interpretativas que o texto As suicidas traz. Desde já,
+   tem-se aqui a beleza de um excelente texto, que já causa a expectativa
+   de ser visto em cena.
+     __________________________________________________________________
+
+   (*)
+   A Profª Drª Telma Mafra é Doutorada em Letras (Literatura Portuguesa)
+   pela Universidade de São Paulo (2008). O título da Tese de
+   Doutoramento, «Marias e Marianas: relatos de coragem», centra-se,
+   segundo a própria, na análise da problematização que as autoras das
+   «Novas Cartas Portuguesas, «Tanta Gente, Mariana» e «Tarde de mais
+   Mariana» (primeiro romance de Filomena) fazem acerca da condição
+   feminina, apesar de autoras de diferentes existências e experiências.
+   A literatura portuguesa de autoria feminina - destaca - produzida da
+   segunda metade do século XX até hoje, tem revelado novas faces e
+   possibilidades na criação literária, com inovações no plano
+   linguístico, no fluxo narrativo. Fazem parte dessa nova tendência, a
+   intertextualidade e a alegoria, a quebra de sequência temporal lógica,
+   a exposição dos dramas a partir de pormenores aparentemente
+   insignificantes, a complexidade da voz narradora e reflexão sobre a
+   existência e sobre a função do leitor.
+   Segundo a Profª Telma Mafra ainda, a obra de Filomena exemplifica essa
+   nova literatura, sendo reconhecida por alguns reputados críticos,
+   dentro e fora do seu país, inclusive o Brasil. De resto, os romances de
+   [158]Filomena CabralFilomena Cabral seguem uma lógica de mutação das
+   personagens que é - considera - impressionante e inovadora.
+   A escolha de «Tarde de mais Mariana», para sustentáculo da sua Tese de
+   Doutoramento, justifica-se na temática que desenvolve: destinos
+   femininos solitários marcados pela morte e por perdas de toda a
+   natureza. Primeira das obras de uma tetralogia denominada, pela Autora,
+   Ciclo Réquiem, assim se identifica a essência das suas criações: morte,
+   tristeza e consciência do irrecuperável, num conjunto fascinante de
+   obras - destaca.
+
+     LIVROS DISCOS LIVROS DISCOS LIVROS DISCOS LIVROS DISCOS LIVROS DISCOS
+                                                             LIVROS DISCOS
+
+Références
+
+   1. file:///tmp/lynxXXXXT5985c/entre_149.html
+   2. file:///tmp/lynxXXXXT5985c/entre_148.html
+   3. file:///tmp/lynxXXXXT5985c/entre_147.html
+   4. file:///tmp/lynxXXXXT5985c/entre_146.html
+   5. file:///tmp/lynxXXXXT5985c/entre_145.html
+   6. file:///tmp/lynxXXXXT5985c/entre_144.html
+   7. file:///tmp/lynxXXXXT5985c/entre_143.html
+   8. file:///tmp/lynxXXXXT5985c/entre_142.html
+   9. file:///tmp/lynxXXXXT5985c/entre_141.html
+  10. file:///tmp/lynxXXXXT5985c/entre_140.html
+  11. file:///tmp/lynxXXXXT5985c/entre_139.html
+  12. file:///tmp/lynxXXXXT5985c/entre_138.html
+  13. file:///tmp/lynxXXXXT5985c/entre_137.html
+  14. file:///tmp/lynxXXXXT5985c/entre_136.html
+  15. file:///tmp/lynxXXXXT5985c/entre_135.html
+  16. file:///tmp/lynxXXXXT5985c/entre_134.html
+  17. file:///tmp/lynxXXXXT5985c/entre_133.html
+  18. file:///tmp/lynxXXXXT5985c/entre_132.html
+  19. file:///tmp/lynxXXXXT5985c/entre_131.html
+  20. file:///tmp/lynxXXXXT5985c/entre_130.html
+  21. file:///tmp/lynxXXXXT5985c/entre_129.html
+  22. file:///tmp/lynxXXXXT5985c/entre_128.html
+  23. file:///tmp/lynxXXXXT5985c/entre_127.html
+  24. file:///tmp/lynxXXXXT5985c/entre_126.html
+  25. file:///tmp/lynxXXXXT5985c/entre_125.html
+  26. file:///tmp/lynxXXXXT5985c/entre_124.html
+  27. file:///tmp/lynxXXXXT5985c/entre_123.html
+  28. file:///tmp/lynxXXXXT5985c/entre_122.html
+  29. file:///tmp/lynxXXXXT5985c/entre_121.html
+  30. file:///tmp/lynxXXXXT5985c/entre_120.html
+  31. file:///tmp/lynxXXXXT5985c/entre_119.html
+  32. file:///tmp/lynxXXXXT5985c/entre_118.html
+  33. file:///tmp/lynxXXXXT5985c/entre_117.html
+  34. file:///tmp/lynxXXXXT5985c/entre_116.html
+  35. file:///tmp/lynxXXXXT5985c/entre_115.html
+  36. file:///tmp/lynxXXXXT5985c/entre_114.html
+  37. file:///tmp/lynxXXXXT5985c/entre_113.html
+  38. file:///tmp/lynxXXXXT5985c/entre_112.html
+  39. file:///tmp/lynxXXXXT5985c/entre_111.html
+  40. file:///tmp/lynxXXXXT5985c/entre_110.html
+  41. file:///tmp/lynxXXXXT5985c/entre_109.html
+  42. file:///tmp/lynxXXXXT5985c/entre_108.html
+  43. file:///tmp/lynxXXXXT5985c/entre_107.html
+  44. file:///tmp/lynxXXXXT5985c/entre_106.html
+  45. file:///tmp/lynxXXXXT5985c/entre_105.html
+  46. file:///tmp/lynxXXXXT5985c/entre_104.html
+  47. file:///tmp/lynxXXXXT5985c/entre_103.html
+  48. file:///tmp/lynxXXXXT5985c/entre_102.html
+  49. file:///tmp/lynxXXXXT5985c/entre_101.html
+  50. file:///tmp/lynxXXXXT5985c/entre_100.html
+  51. file:///tmp/lynxXXXXT5985c/entre_99.html
+  52. file:///tmp/lynxXXXXT5985c/entre_98.html
+  53. file:///tmp/lynxXXXXT5985c/entre_97.html
+  54. file:///tmp/lynxXXXXT5985c/entre_96.html
+  55. file:///tmp/lynxXXXXT5985c/entre_95.html
+  56. file:///tmp/lynxXXXXT5985c/entre_94.html
+  57. file:///tmp/lynxXXXXT5985c/entre_93.html
+  58. file:///tmp/lynxXXXXT5985c/entre_92.html
+  59. file:///tmp/lynxXXXXT5985c/entre_91.html
+  60. file:///tmp/lynxXXXXT5985c/entre_90.html
+  61. file:///tmp/lynxXXXXT5985c/entre_89.html
+  62. file:///tmp/lynxXXXXT5985c/entre_88.html
+  63. file:///tmp/lynxXXXXT5985c/entre_87.html
+  64. file:///tmp/lynxXXXXT5985c/entre_86.html
+  65. file:///tmp/lynxXXXXT5985c/entre_85.html
+  66. file:///tmp/lynxXXXXT5985c/entre_84.html
+  67. file:///tmp/lynxXXXXT5985c/entre_83.html
+  68. file:///tmp/lynxXXXXT5985c/entre_82.html
+  69. file:///tmp/lynxXXXXT5985c/entre_81.html
+  70. file:///tmp/lynxXXXXT5985c/entre_80.html
+  71. file:///tmp/lynxXXXXT5985c/entre_79.html
+  72. file:///tmp/lynxXXXXT5985c/entre_78.html
+  73. file:///tmp/lynxXXXXT5985c/entre_77.html
+  74. file:///tmp/lynxXXXXT5985c/entre_76.html
+  75. file:///tmp/lynxXXXXT5985c/entre_75.html
+  76. file:///tmp/lynxXXXXT5985c/entre_74.html
+  77. file:///tmp/lynxXXXXT5985c/entre_73.html
+  78. file:///tmp/lynxXXXXT5985c/entre_72.html
+  79. file:///tmp/lynxXXXXT5985c/entre_71.html
+  80. file:///tmp/lynxXXXXT5985c/entre_70.html
+  81. file:///tmp/lynxXXXXT5985c/entre_69.html
+  82. file:///tmp/lynxXXXXT5985c/entre_68.html
+  83. file:///tmp/lynxXXXXT5985c/entre_67.html
+  84. file:///tmp/lynxXXXXT5985c/entre_66.html
+  85. file:///tmp/lynxXXXXT5985c/entre_65.html
+  86. file:///tmp/lynxXXXXT5985c/entre_64.html
+  87. file:///tmp/lynxXXXXT5985c/entre_63.html
+  88. file:///tmp/lynxXXXXT5985c/entre_62.html
+  89. file:///tmp/lynxXXXXT5985c/entre_61.html
+  90. file:///tmp/lynxXXXXT5985c/entre_60.html
+  91. file:///tmp/lynxXXXXT5985c/entre_59.html
+  92. file:///tmp/lynxXXXXT5985c/entre_58.html
+  93. file:///tmp/lynxXXXXT5985c/entre_57.html
+  94. file:///tmp/lynxXXXXT5985c/entre_56.html
+  95. file:///tmp/lynxXXXXT5985c/entre_55.html
+  96. file:///tmp/lynxXXXXT5985c/entre_54.html
+  97. file:///tmp/lynxXXXXT5985c/entre_53.html
+  98. file:///tmp/lynxXXXXT5985c/entre_52.html
+  99. file:///tmp/lynxXXXXT5985c/entre_51.html
+ 100. file:///tmp/lynxXXXXT5985c/entre_50.html
+ 101. file:///tmp/lynxXXXXT5985c/entre_49.html
+ 102. file:///tmp/lynxXXXXT5985c/entre_48.html
+ 103. file:///tmp/lynxXXXXT5985c/entre_47.html
+ 104. file:///tmp/lynxXXXXT5985c/entre_46.html
+ 105. file:///tmp/lynxXXXXT5985c/entre_45.html
+ 106. file:///tmp/lynxXXXXT5985c/entre_44.html
+ 107. file:///tmp/lynxXXXXT5985c/entre_43.html
+ 108. file:///tmp/lynxXXXXT5985c/entre_42.html
+ 109. file:///tmp/lynxXXXXT5985c/entre_40.html
+ 110. file:///tmp/lynxXXXXT5985c/Nelly_Portugues.htm
+ 111. file:///tmp/lynxXXXXT5985c/filomena.html
+ 112. file:///tmp/lynxXXXXT5985c/entre_38.html
+ 113. file:///tmp/lynxXXXXT5985c/entre_37.html
+ 114. file:///tmp/lynxXXXXT5985c/entre_36.html
+ 115. file:///tmp/lynxXXXXT5985c/entre_35.html
+ 116. file:///tmp/lynxXXXXT5985c/entre_34.html
+ 117. file:///tmp/lynxXXXXT5985c/entre_33.html
+ 118. file:///tmp/lynxXXXXT5985c/entre_32.html
+ 119. file:///tmp/lynxXXXXT5985c/entre_31.html
+ 120. file:///tmp/lynxXXXXT5985c/entre_30.html
+ 121. file:///tmp/lynxXXXXT5985c/entre_29.html
+ 122. file:///tmp/lynxXXXXT5985c/entre_28.html
+ 123. file:///tmp/lynxXXXXT5985c/entre_27.html
+ 124. file:///tmp/lynxXXXXT5985c/entre_26.html
+ 125. file:///tmp/lynxXXXXT5985c/entre_25.html
+ 126. file:///tmp/lynxXXXXT5985c/entre_24.html
+ 127. file:///tmp/lynxXXXXT5985c/entre_23.html
+ 128. file:///tmp/lynxXXXXT5985c/entre_22.html
+ 129. file:///tmp/lynxXXXXT5985c/entre_21.html
+ 130. file:///tmp/lynxXXXXT5985c/entre_20.html
+ 131. file:///tmp/lynxXXXXT5985c/entre_19.html
+ 132. file:///tmp/lynxXXXXT5985c/entre_18.html
+ 133. file:///tmp/lynxXXXXT5985c/entre_17.html
+ 134. file:///tmp/lynxXXXXT5985c/entre_16.html
+ 135. file:///tmp/lynxXXXXT5985c/entre_15.html
+ 136. file:///tmp/lynxXXXXT5985c/entre_14.html
+ 137. file:///tmp/lynxXXXXT5985c/entre_13.html
+ 138. file:///tmp/lynxXXXXT5985c/entre_12.html
+ 139. file:///tmp/lynxXXXXT5985c/entre_11.html
+ 140. file:///tmp/lynxXXXXT5985c/entre_10.html
+ 141. file:///tmp/lynxXXXXT5985c/entre_9.html
+ 142. file:///tmp/lynxXXXXT5985c/entre_8.html
+ 143. file:///tmp/lynxXXXXT5985c/entre_7.html
+ 144. file:///tmp/lynxXXXXT5985c/entre_6.html
+ 145. file:///tmp/lynxXXXXT5985c/entre_5.html
+ 146. file:///tmp/lynxXXXXT5985c/entre_4.html
+ 147. file:///tmp/lynxXXXXT5985c/entre_3.html
+ 148. file:///tmp/lynxXXXXT5985c/entre_2.html
+ 149. file:///tmp/lynxXXXXT5985c/entre_1.html
+ 150. file:///tmp/lynxXXXXT5985c/filomena.html
+ 151. file:///tmp/lynxXXXXT5985c/filomena.html
+ 152. file:///tmp/lynxXXXXT5985c/filomena.html
+ 153. file:///tmp/lynxXXXXT5985c/filomena.html
+ 154. file:///tmp/lynxXXXXT5985c/filomena.html
+ 155. file:///tmp/lynxXXXXT5985c/filomena.html
+ 156. file:///tmp/lynxXXXXT5985c/filomena.html
+ 157. file:///tmp/lynxXXXXT5985c/filomena.html
+ 158. file:///tmp/lynxXXXXT5985c/filomena.html
