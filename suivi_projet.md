@@ -30,3 +30,10 @@
     - Développement du script make_pals_corpus.sh pour la tokenisation des fichiers dumps et des fichiers contextuels. Cependant, un doute subsiste car les instructions de l'exercice semblent indiquer l'utilisation de fichiers Python, tandis que mon script génère des fichiers au format TXT.
     - Création d'un fichier HTML pour intégrer les données partagées, sous réserve de validation par les autres membres du groupe.
     - Réflexion sur la présentation du site afin de concilier ergonomie, utilité et esthétique.
+
+## Du 28/12/2024 au 29/12/2024
+### Arabe et Français
+
+- Réogranisatioin du dépôt afin de respecter l'aoborescence demandé dans les exercices;
+- Verification de l'exactitude de mon travail;
+- Gestion de conflis git; ce que je trouve le plus dificile à faire algré la simplicité de la tâche; 
