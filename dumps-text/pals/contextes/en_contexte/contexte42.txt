@@ -1,0 +1,75 @@
+   #LARS P. SYLL » Feed LARS P. SYLL » Comments Feed LARS P. SYLL » On the
+   use of logic and mathematics in economics Comments Feed alternate
+   alternate LARS P. SYLL WordPress.com
+--
+
+On the use of logic and mathematics in economics
+
+--
+     thinking and reasoning in strict accordance with the limitations and
+     incapacities of the human misunderstanding. The basic of logic is
+     the syllogism, consisting of a major and a minor premise and a
+--
+     This may be called syllogism arithmetical, in which, by combining
+     logic and mathematics, we obtain a double certainty and are twice
+     blessed.
+--
+
+   In mainstream economics, both logic and mathematics are used
+   extensively. And most mainstream economists sure look upon themselves
+--
+   fails since there is no way you can relevantly analyse confirmation or
+   explanation as a purely logical relation between hypothesis and
+   evidence or between law-like rules and explananda. In science, we argue
+   and try to substantiate our beliefs and hypotheses with reliable
+   evidence. Propositional and predicate deductive logic, on the other
+   hand, is not about reliability, but the validity of the conclusions
+--
+   real-world ontology (only relating propositions as true or false within
+   a formal-logic system) and as an argument scheme is totally
+   non-ampliative — the output of the analysis is nothing else than the
+--
+
+   In science we standardly use a logically non-valid inference — the
+   fallacy of affirming the consequent — of the following form:
+--
+
+   Although logically invalid, it is nonetheless (as already Charles S.
+   Peirce argued more than a century ago) a kind of inference — abduction
+--
+   (premise 2). The truth of the conclusion (explanation) is nothing that
+   is logically given, but something we have to justify, argue for, and
+   test in different ways to possibly establish with any certainty or
+--
+   course we can. Inferences to the best explanation are fallible
+   inferences — since the premises do not logically entail the conclusion
+   — so from a logical point of view, inference to the best explanation is
+   a weak mode of inference. But if the arguments put forward are strong
+--
+   defeasible reasoning in inference to the best explanation — well, then
+   get in to math or logic, not science.
+     *
+--
+    3. Dave, I think you misread me here. I certainly have no problem at
+       all with mathematics or logic per se. That’s not what I am
+       criticising. Far from it. But to insist on always applying
+--
+    4. As a mathematician, I just don’t see how this helps. Taking Lars’
+       last paragraph, isn’t logic relevant to science? And in so far as
+       science is interested in mathematical structures (such as numbers)
+--
+       This is very like Lars’ notion of abduction, but is strictly
+       logical for any strictly logical interpretation of ‘implies’ and
+       ‘evidence’. Lars wishes to go beyond abduction to ‘inference to the
+       best explanation’. This could also be made logical, by having a
+       logical definition of ‘best’. It seems to me that neoclassical
+       economics could be reformulated in a way that meets Lars’
+       requirements and is also logical (and mathematical): it is just
+       that Lars (and I) might not accept their notion of ‘best’
+--
+       their lead from some inadequate understanding of science and hence
+       a misuse of logic and a misinterpretation of mathematical results.
+       This seems a better explanation (to me) than Lars’ view is that
+       logic and maths per se are to blame. (But maybe the teaching of
+       maths and logic are at fault?)
+       Comment by Dave Marsay— 13 Mar, 2021 #

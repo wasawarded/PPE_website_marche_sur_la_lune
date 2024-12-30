@@ -1,0 +1,154 @@
+     * 1 Theoretical foundations and analysis
+     * 2 Computers to assist logicians
+     * 3 Logic applications for computers
+--
+   [220px-Logic_Gates.svg.png] Diagrammatic representation of computer
+   logic gates
+
+   Logic in computer science covers the overlap between the field of logic
+   and that of computer science. The topic can essentially be divided into
+--
+     * Theoretical foundations and analysis
+     * Use of computer technology to aid logicians
+     * Use of concepts from logic for computer applications
+
+--
+   Logic plays a fundamental role in computer science. Some of the key
+   areas of logic that are particularly significant are computability
+   theory (formerly called recursion theory), modal logic and category
+   theory. The theory of computation is based on concepts defined by
+   logicians and mathematicians such as Alonzo Church and Alan
+   Turing.^[1]^[2] Church first showed the existence of algorithmically
+--
+   "perfect.".^[3] In addition some other major areas of theoretical
+   overlap between logic and computer science are:
+     * Gödel's incompleteness theorem proves that any logical system
+       powerful enough to characterize arithmetic will contain statements
+--
+     * The frame problem is a basic problem that must be overcome when
+       using first-order logic to represent the goals of an artificial
+       intelligence agent and the state of its environment.^[5]
+     * The Curry–Howard correspondence is a relation between logical
+       systems and programming languages. This theory established a
+--
+       it showed that terms in the simply typed lambda calculus correspond
+       to proofs of intuitionistic propositional logic.
+     * Category theory represents a view of mathematics that emphasizes
+--
+     * Logic programming is a programming, database and knowledge
+       representation paradigm that is based on formal logic. A logic
+       program is a set of sentences about some problem domain.
+       Computation is performed by applying logical reasoning to solve
+       problems in the domain. Major logic programming language families
+       include Prolog, Answer Set Programming (ASP) and Datalog.
+
+Computers to assist logicians
+
+--
+   was the Logic Theorist system developed by Allen Newell, Cliff Shaw,
+   and Herbert Simon in 1956. One of the things that a logician does is to
+   take a set of statements in logic and deduce the conclusions
+   (additional statements) that must be true by the laws of logic. For
+   example, if given the statements "All humans are mortal" and "Socrates
+   is human" a valid conclusion is "Socrates is mortal". Of course this is
+   a trivial example. In actual logical systems the statements can be
+   numerous and complex. It was realized early on that this kind of
+--
+   Theorist validated the theoretical work of Bertrand Russell and Alfred
+   North Whitehead in their influential work on mathematical logic called
+   Principia Mathematica. In addition, subsequent systems have been
+   utilized by logicians to validate and discover new mathematical
+   theorems and proofs.^[7]
+--
+
+   There has always been a strong influence from mathematical logic on the
+   field of artificial intelligence (AI). From the beginning of the field
+   it was realized that technology to automate logical inferences could
+   have great potential to solve problems and draw conclusions from facts.
+   Ron Brachman has described first-order logic (FOL) as the metric by
+   which all AI knowledge representation formalisms should be evaluated.
+   First-order logic is a general and powerful method for describing and
+   analyzing information. The reason FOL itself is simply not used as a
+--
+   limited subset of FOL. Rather than arbitrary formulas with the full
+   range of logical operators the starting point is simply what logicians
+   refer to as modus ponens. As a result, rule-based systems can support
+--
+
+   On the other hand, logic programming, which combines the Horn clause
+   subset of first-order logic with a non-monotonic form of negation, has
+   both high expressive power and efficient implementations. In
+   particular, the logic programming language Prolog is a Turing complete
+   programming language. Datalog extends the relational database model
+   with recursive relations, while answer set programming is a form of
+   logic programming oriented towards difficult (primarily NP-hard) search
+   problems.
+
+   Another major area of research for logical theory is software
+   engineering. Research projects such as the Knowledge Based Software
+   Assistant and Programmer's Apprentice programs have applied logical
+   theory to validate the correctness of software specifications. They
+   have also used logical tools to transform the specifications into
+   efficient code on diverse platforms and to prove the equivalence
+--
+
+   Another important application of logic to computer technology has been
+   in the area of frame languages and automatic classifiers. Frame
+   languages such as KL-ONE can be directly mapped to set theory and
+   first-order logic. This allows specialized theorem provers called
+   classifiers to analyze the various declarations between sets, subsets,
+--
+   world of the Internet. Classifier technology is built on top of
+   languages such as the Web Ontology Language to allow a logical semantic
+   level on top of the existing Internet. This layer is called the
+--
+
+   Temporal logic is used for reasoning in concurrent systems.^[14]
+
+--
+     * Automated reasoning
+     * Computational logic
+     * Logic programming
+--
+    7. ^ Newell, Allen; J.C. Shaw; H.C. Simon (1963). "Empirical
+       explorations with the logic theory machine". In Ed Feigenbaum
+       (ed.). Computers and Thought. McGraw Hill. pp. 109–133.
+--
+     * IEEE Symposium on Logic in Computer Science (LICS)
+     * Alwen Tiu, Introduction to logic video recording of a lecture at
+       ANU Logic Summer School '09 (aimed mostly at computer scientists)
+--
+     * Inference
+     * Philosophy of logic
+     * Proof
+     * Semantics of logic
+     * Syntax
+--
+     * Argumentation
+     * Metalogic
+     * Metamathematics
+--
+   topics
+     * Mathematical logic
+     * Boolean algebra
+--
+     * Memory cell
+     * Combinational logic
+     * Sequential logic
+     * Logic gate
+--
+     * Three-dimensional integrated circuit (3D IC)
+     * Emitter-coupled logic (ECL)
+     * Erasable programmable logic device (EPLD)
+     * Macrocell array
+     * Programmable logic array (PLA)
+     * Programmable logic device (PLD)
+     * Programmable Array Logic (PAL)
+     * Generic Array Logic (GAL)
+     * Complex programmable logic device (CPLD)
+     * Field-programmable gate array (FPGA)
+--
+     * Formal equivalence checking
+     * Synchronous logic
+     * Asynchronous logic
+     * Finite-state machine

@@ -1,231 +1,453 @@
-   ____________________ Search Powered by JRank
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Encyclopedia of Espionage, Intelligence, and Security
+   Jump to content
 
-Espionage Information
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   Espionage Encyclopedia » Ne-Ns
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
 
-Netherlands, Intelligence and Security
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
 
-   The Kingdom of the Netherlands was established following the Napoleonic
-   Wars in 1815. Since its founding, the Netherlands has been influential
-   in international politics, but has long maintained a policy of stated
-   neutrality.
+   [ ] Appearance
 
-New People's Army (NPA)
+     * Donate
+     * Create account
+     * Log in
 
-   The New People's Army (NPA) is the military wing of the Communist Party
-   of the Philippines (CPP). A Maoist group formed in March, 1969, its aim
-   includes overthrowing the Philippine government through protracted
-   guerrilla warfare.
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
 
-New Zealand, Intelligence and Security
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
 
-   New Zealand gained its independence from Britain in 1907, but remains a
-   member of the British Commonwealth. A longtime, close ally with
-   Britain, Australia, and the United States, New Zealand retreated from
-   international politics during the last two decades to address ethnic
-   tensions between European-descended New Zealanders and the native Maori
-   people.
+Contents
 
-NFIB (United States National Foreign Intelligence Board)
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Overview
+     * 2 Enhanced BIOS
+       (BUTTON) Toggle Enhanced BIOS subsection
+          + 2.1 LBA-assisted translation
+          + 2.2 LBA48
+     * 3 CHS conversion
+       (BUTTON) Toggle CHS conversion subsection
+          + 3.1 Operating system dependencies
+     * 4 See also
+     * 5 Notes
+     * 6 References
+     * 7 External links
 
-   The National Foreign Intelligence Board (NFIB) was created by the
-   National Security Act of 1947. The NFIB acts as a communications
-   channel among various national intelligence agencies and facilitates
-   interagency exchange of information.
+   [ ] Toggle the table of contents
 
-NIC (National Intelligence Council)
+Logical block addressing
 
-   The National Intelligence Council (NIC) oversees the estimative process
-   of the United States intelligence community, and produces National
-   Intelligence Estimates (NIEs). The NIC answers directly to the Director
-   of Central Intelligence (DCI) in his capacity as head of the
-   intelligence community.
+   [ ] 16 languages
+     * Català
+     * Čeština
+     * Deutsch
+     * Español
+     * Français
+     * Galego
+     * 한국어
+     * Italiano
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Русский
+     * Svenska
+     * Українська
+     * 中文
 
-Nicaragua, Intelligence and Security
+   Edit links
 
-   Nicaragua gained independence from Spain in 1821, and became a republic
-   in 1838. Late-twentieth-century politics in the region have been marked
-   by violence and turmoil.
+     * Article
+     * Talk
 
-Nigeria, Intelligence and Security
+   [ ] English
 
-   In 1998, Nigeria overthrew its ruling dictatorship, which possessed
-   close ties to the nation's military. The transitional government that
-   gained power attempted to restore the long-suspended Constitution of
-   1979 and institute democratic reforms.
+     * Read
+     * Edit
+     * View history
 
-Night Vision Scopes
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
 
-   Night vision scopes are devices that enable machines or people to "see
-   in the dark," that is, to form images when illumination in the visible
-   band of the electromagnetic spectrum is inadequate. Although it is not
-   possible to form images in absolute darkness, that is, in the absence
-   of any electromagnetic radiation whatsoever, it is possible to form
-   images from radiation wavelengths to which the human eye is
-   insensitive, or to amplify visible-light levels so low that they appear
-   dark to the human eye.
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
 
-NIH (National Institutes of Health)
+   Print/export
+     * Download as PDF
+     * Printable version
 
-   The National Institutes of Health (NIH) is a federal agency that serves
-   as the fiscal agent of medical research in the United States. The
-   mission of the NIH is to foster medical and behavioral research on
-   living systems and to use that knowledge to prevent, identify,
-   diagnose, and treat illness and disability.
+   In other projects
+     * Wikidata item
 
-NIJ (National Institute of Justice)
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Way to specify the location of data on computer storage devices
 
-   The National Institute of Justice (NIJ) serves the United States
-   Department of Justice in the areas of research, development, and
-   evaluation. Established under the authority of the Omnibus Crime
-   Control and Safe Streets Act of 1968, its purpose is to provide
-   independent, evidencebased tools to assist state and local law
-   enforcement.
+   Logical block addressing (LBA) is a common scheme used for specifying
+   the location of blocks of data stored on computer storage devices,
+   generally secondary storage systems such as hard disk drives. LBA is a
+   particularly simple linear addressing scheme; blocks are located by an
+   integer index, with the first block being LBA 0, the second LBA 1, and
+   so on.
 
-NIMA (National Imagery and Mapping Agency)
+   The IDE standard included 22-bit LBA as an option, which was further
+   extended to 28-bit with the release of ATA-1 (1994) and to 48-bit with
+   the release of ATA-6 (2003), whereas the size of entries in on-disk and
+   in-memory data structures holding the address is typically 32 or 64
+   bits. Most hard disk drives released after 1996 implement logical block
+   addressing.
 
-   The National Imagery and Mapping Agency (NIMA) was formed in October,
-   1996, to provide the United States military and intelligence agencies
-   with up-to-date and accurate imaging and geospatial information. NIMA
-   is a Department of Defense agency and is a member of the United States
-   intelligence community.
+Overview
 
-NIMH (National Institute of Mental Health)
+   [edit]
+   See also: Fixed-block architecture
 
-   The National Institute of Mental Health (NIMH) falls under the umbrella
-   of the government's medical research agency, the National Institutes of
-   Health (NIH). The NIMH is the branch of the NIH that focuses on the
-   brain, behavior, and mental health.
+   In logical block addressing, only one number is used to address data,
+   and each linear base address describes a single block.
 
-NIST (National Institute of Standards and Technology), United States
+   The LBA scheme replaces earlier schemes which exposed the physical
+   details of the storage device to the software of the operating system.
+   Chief among these was the cylinder-head-sector (CHS) scheme, where
+   blocks were addressed by means of a tuple which defined the cylinder,
+   head, and sector at which they appeared on the hard disk. CHS did not
+   map well to devices other than hard disks (such as tapes and networked
+   storage), and was generally not used for them. CHS was used in early
+   MFM and RLL drives, and both it and its successor, extended
+   cylinder-head-sector (ECHS), were used in the first ATA drives.
+   However, current disk drives use zone bit recording, where the number
+   of sectors per track depends on the track number. Even though the disk
+   drive will report some CHS values as sectors per track (SPT) and heads
+   per cylinder (HPC), they have little to do with the disk drive's true
+   geometry.
 
-   The National Institute of Standards and Technology (NIST) is a
-   non-regulatory federal agency under the aegis of the Undersecretary for
-   Technology in the U.S. Department of Commerce.
+   LBA was first introduced in 1981 by SASI, the precursor of SCSI, as an
+   abstraction. While the drive controller still addresses data blocks by
+   their CHS address, this information is generally not used by the SCSI
+   device driver, the OS, filesystem code, or any applications (such as
+   databases) that access the "raw" disk. System calls requiring
+   block-level I/O pass LBA definitions to the storage device driver; for
+   simple cases (where one volume maps to one physical drive), this LBA is
+   then passed directly to the drive controller.
 
-NIST Computer Security Division, United States
+   In redundant array of independent disks (RAID) devices and storage area
+   networks (SANs) and where logical drives (logical unit numbers, LUNs)
+   are composed via LUN virtualization and aggregation, LBA addressing of
+   individual disk should be translated by a software layer to provide
+   uniform LBA addressing for the entire storage device.
 
-   The Computer Security Division (CSD) is one of eight divisions within
-   the Information Technology Laboratory of the National Institute of
-   Standards and Technology (NIST), itself a bureau of the Chamber of
-   Commerce. CSD is concerned with raising awareness of information
-   technology (IT) risks, vulnerabilities, and protection requirements,
-   especially for new and emerging forms of technology.
+Enhanced BIOS
 
-Nixon Administration (1969–1974), United States National Security Policy
+   [edit]
+   See also: INT 13h
 
-   Richard Nixon took office in 1969 as the country struggled to deal with
-   the effects of the war in Vietnam. The inability of the United States
-   to quickly win the war forced a review of national security policy.
+   The earlier IDE standard from Western Digital introduced 22-bit LBA; in
+   1994, the ATA-1 standard allowed for 28 bit addresses in both LBA and
+   CHS modes. The CHS scheme used 16 bits for cylinder, 4 bits for head
+   and 8 bits for sector, counting sectors from 1 to 255. This means the
+   reported number of heads never exceeds 16 (0–15), the number of sectors
+   can be 255 (1–255; though 63 is often the largest used) and the number
+   of cylinders can be as large as 65,536 (0–65535), limiting disk size to
+   128 GiB (≈137.4 GB), assuming 512 byte sectors. These values can be
+   accessed by issuing the ATA command "Identify Device" (ECh) to the
+   drive.^[1]^: 87 
 
-NMIC (National Maritime Intelligence Center)
+   However, the IBM BIOS implementation defined in the INT 13h disk access
+   routines used quite a different 24-bit scheme for CHS addressing, with
+   10 bits for cylinder, 8 bits for head, and 6 bits for sector, or 1024
+   cylinders, 256 heads, and 63 sectors.^[2] This INT 13h implementation
+   had pre-dated the ATA standard, as it was introduced when the IBM PC
+   had only floppy disk storage, and when hard disk drives were introduced
+   on the IBM PC/XT, INT 13h interface could not be practically redesigned
+   due to backward compatibility issues. Overlapping ATA CHS mapping with
+   BIOS CHS mapping produced the lowest common denominator of 10:4:6 bits,
+   or 1024 cylinders, 16 heads, and 63 sectors, which gave the practical
+   limit of 1024×16×63 sectors and 528 MB (504 MiB), assuming 512 byte
+   sectors.
 
-   The National Maritime Intelligence Center (NMIC) brings together
-   several military intelligence operations for the United States: Navy,
-   Marine Corps, and Coast Guard. The first of these, being by far the
-   largest, is the dominant participant in NMIC, whose headquarters in
-   Suitland, Maryland, are home to the Office of Naval Intelligence (ONI).
+   In order for the BIOS to overcome this limit and successfully work with
+   larger hard drives, a CHS translation scheme had to be
+   implemented^[when?] in the BIOS disk I/O routines which would convert
+   between 24-bit CHS used by INT 13h and 28-bit CHS numbering used by
+   ATA. The translation scheme was called large or bit shift translation.
+   This method would remap 16:4:8 bit ATA cylinders and heads to 10:8:6
+   bit scheme used by INT 13h, generating much more "virtual" drive heads
+   than the physical disk reported. This increased the practical limit to
+   1024×256×63 sectors, or 8.4 GB (7.8 GiB).
 
-NNSA (United States National Nuclear Security Administration)
+   To further overcome this limit, INT 13h Extensions were
+   introduced^[when?] with the BIOS Enhanced Disk Drive Services, which
+   removed practical limits on disk size for operating systems which are
+   aware of this new interface, such as the DOS 7.0 component in Windows
+   95. This enhanced BIOS subsystem supports LBA addressing with LBA or
+   LBA-assisted method, which uses native 28-bit LBA for addressing ATA
+   disks and performs CHS conversion as needed.
 
-   Created in 1999 and put into operation the following year, the National
-   Nuclear Security Administration (NNSA) was a response to security
-   concerns with regard to United States nuclear materials and
-   information. In order to better protect these sensitive properties,
-   Congress established NNSA as a separate agency within the Department of
-   Energy (DOE).
+   The normal or none method reverts to the earlier 10:4:6 bit CHS mode
+   which does not support addressing more than 528 MB.
 
-NOAA (National Oceanic & Atmospheric Administration)
+   [220px-Installation_of_the_Western_Digital%27s_EZ_Drive%2C_on_a_3.5-inc
+   h_floppy_disk.jpg] Installation of Western Digital's OEM-version of EZ
+   Drive, on a 3.5-inch floppy disk.
 
-   The National Oceanic & Atmospheric Administration (NOAA) monitors
-   environmental, climatic, and weather conditions in the United States
-   and around the world. The administration manages an extensive network
-   of satellites, sensory aircraft, and specialized monitoring equipment
-   to provide information on meteorological events and their impact.
+   Until the release of ATA-2 standard in 1996, there were a handful of
+   large hard drives which did not support LBA addressing, so only large
+   or normal methods could be used. However, using the large method also
+   introduced portability problems, as different BIOSes often used
+   different and incompatible translation methods, and hard drives
+   partitioned on a computer with a BIOS from a particular vendor often
+   could not be read on a computer with a different make of BIOS. The
+   solution was to use conversion software such as OnTrack Disk Manager,
+   Micro House EZ-Drive/EZ-BIOS, etc., which installed to the disk's OS
+   loader and replaced INT 13h routines at boot time with custom code.
+   This software could also enable LBA and INT 13h Extensions support for
+   older computers with non LBA-compliant BIOSes.
 
-Noise Generators
+LBA-assisted translation
 
-   Generating noise is a simple, cheap, and versatile method of blocking
-   signals or shielding communication from a range of devices. From the
-   disruption of radio broadcasts to the masking of conversations, noise
-   generators use a simple concept to great effect.
+   [edit]
 
-Nongovernmental Global Intelligence and Security
+   When the BIOS is configured to use a disk in LBA-assisted translation
+   mode, the BIOS accesses the hardware using LBA mode, but also presents
+   a translated CHS geometry via the INT 13h interface. The number of
+   cylinders, heads, and sectors in the translated geometry depends on the
+   total size of the disk, as shown in the following table.^[3]
+           Disk size         Sectors/track Heads      Cylinders
+   1 < X ≤ 504 MiB           63            16    X ÷ (63 × 16 × 512)
+   504 MiB < X ≤ 1008 MiB    63            32    X ÷ (63 × 32 × 512)
+   1008 MiB < X ≤ 2016 MiB   63            64    X ÷ (63 × 64 × 512)
+   2016 MiB < X ≤ 4032 MiB   63            128   X ÷ (63 × 128 × 512)
+   4032 MiB < X ≤ 8032.5 MiB 63            255   X ÷ (63 × 255 × 512)
 
-   Global intelligence and security is not purely the province of
-   governmental agencies. An important advisory role is occupied by think
-   tanks, private corporations, university departments, and other groups.
+LBA48
 
-Nonproliferation and National Security, United States
+   [edit]
 
-   The United States government has long had an interest in
-   nonproliferation as a means of ensuring national security. The logic
-   governing this interest is straightforward: as long as weapons continue
-   to proliferate among foreign and hostile powers, U.S.
+   The current 48-bit LBA scheme was introduced in 2002 with the ATA-6
+   standard,^[4] raising the addressing limit to 2^48 × 512 bytes, which
+   is exactly 128 PiB or approximately 144 PB. Current PC-compatible
+   computers support INT 13h Extensions, which use 64-bit structures for
+   LBA addressing and should encompass any future extension of LBA
+   addressing, though modern operating systems implement direct disk
+   access and do not use the BIOS subsystems, except at boot load time.
+   However, the common DOS style Master Boot Record (MBR) partition table
+   only supports disk partitions up to 2 TiB in size. For larger
+   partitions this needs to be replaced by another scheme, for instance
+   the GUID Partition Table (GPT) which has the same 64-bit limit as the
+   current INT 13h Extensions. Windows XP SP2 is known to support LBA48
+   (and enabled by default).
 
-NORAD
+CHS conversion
 
-   The North American Air Defense Agreement, signed on May 12, 1958 by the
-   United States and Canada, created a continental air defense warning and
-   surveillance system in response to Cold War fears of an airborne attack
-   by the Soviet Union. The resulting North American Air/Aerospace Defense
-   Command (NORAD) has since shifted strategies from guarding against
-   long-range bombers to warning of ballistic missile attacks and
-   maintaining space surveillance.
+   [edit]
 
-North Korea, Intelligence and Security
+   CAPTION: LBA and CHS equivalence with 16 heads per cylinder
 
-   The nation of North Korea was established on September 9, 1948, during
-   the grab for satellite nations at the beginning of the Cold War.
-   Supported by the Soviet Union, North Korea established a communist
-   regime under dictator Kim Il-sung.
+    LBA value   CHS tuple
+   0          0, 0, 1
+   1          0, 0, 2
+   2          0, 0, 3
+   62         0, 0, 63
+   63         0, 1, 1
+   945        0, 15, 1
+   1007       0, 15, 63
+   1008       1, 0, 1
+   1070       1, 0, 63
+   1071       1, 1, 1
+   1133       1, 1, 63
+   1134       1, 2, 1
+   2015       1, 15, 63
+   2016       2, 0, 1
+   16,127     15, 15, 63
+   16,128     16, 0, 1
+   32,255     31, 15, 63
+   32,256     32, 0, 1
+   16,450,559 16319, 15, 63
+   16,514,063 16382, 15, 63
 
-North Korean Nuclear Weapons Programs
+   In the LBA addressing scheme, sectors are numbered as integer indexes;
+   when mapped to CHS (cylinder-head-sector) tuples, LBA numbering starts
+   with the first cylinder, first head, and track's first sector. Once the
+   track is exhausted, numbering continues to the second head, while
+   staying inside the first cylinder. Once all heads inside the first
+   cylinder are exhausted, numbering continues from the second cylinder,
+   etc. Thus, the lower the LBA value is, the closer the physical sector
+   is to the hard drive's first (that is, outermost^[5]) cylinder.
 
-Norway, Intelligence and Security
+   CHS tuples can be mapped to LBA address with the following
+   formula:^[6]^[7]
 
-   During World War I, Norway maintained a stated policy of neutrality in
-   international affairs. When WWII erupted in 1939, the Norwegian
-   government again asserted that the nation would remain neutral in the
-   conflict.
+          LBA = (C × HPC + H) × SPT + (S − 1)
 
-NRO (National Reconnaissance Office)
+   where
+     * C, H and S are the cylinder number, the head number, and the sector
+       number
+     * LBA is the logical block address
+     * HPC is the maximum number of heads per cylinder (reported by disk
+       drive, typically 16 for 28-bit LBA)
+     * SPT is the maximum number of sectors per track (reported by disk
+       drive, typically 63 for 28-bit LBA)
 
-   The National Reconnaissance Office (NRO) is a member of the United
-   States' fourteen-member intelligence community. Established in 1960,
-   the existence of the NRO was not declassified until 1992.
+   LBA addresses can be mapped to CHS tuples with the following formula
+   ("mod" is the modulo operation, i.e. the remainder, and "÷" is integer
+   division, i.e. the quotient of the division where any fractional part
+   is discarded):
 
-NSA (United States National Security Agency)
+          C = LBA ÷ (HPC × SPT)
+          H = (LBA ÷ SPT) mod HPC
+          S = (LBA mod SPT) + 1
 
-   Legendary for its secrecy, the National Security Agency (NSA) is the
-   leading cryptologic organization in the United States intelligence
-   community. Focused on cryptologic and cryptanalytic missions, it is the
-   nation's leading employer of mathematicians, yet little is known about
-   the inner workings of this secretive agency.
+   According to the ATA specifications, "If the content of words (61:60)
+   is greater than or equal to 16,514,064, then the content of word 1 [the
+   number of logical cylinders] shall be equal to 16,383."^[1]^: 20 
+   Therefore, for LBA 16450559, an ATA drive may actually respond with the
+   CHS tuple (16319, 15, 63), and the number of cylinders in this scheme
+   must be much larger than 1024 allowed by INT 13h.^[a]
 
-NSC (National Security Council)
+Operating system dependencies
 
-   Established by the National Security Act of 1947, the National Security
-   Council (NSC) was intended to serve as the principal advisory board for
-   the president of the United States on matters of national security and
-   foreign policy. In practice, the importance of the NSC and the National
-   Security Advisor has depended on the degree of power the chief
-   executive accords to it.
+   [edit]
+   This section does not cite any sources. Please help improve this
+   section by adding citations to reliable sources. Unsourced material may
+   be challenged and removed. (June 2024) (Learn how and when to remove
+   this message)
 
-NSC (National Security Council), History
+   Operating systems that are sensitive to BIOS-reported drive geometry
+   include Solaris, DOS and Windows NT family, where NTLDR (NT, 2000, XP,
+   Server 2003) or BOOTMGR (Vista, Server 2008, Windows 7 and Server 2008
+   R2) use Master boot record which addresses the disk using CHS; x86-64
+   and Itanium versions of Windows can partition the drive with GUID
+   Partition Table which uses LBA addressing.
 
-   The history of the United States National Security Council (NSC) lends
-   itself to widely diverging views of the NSC, depending on the
-   presidential administration in question. Held in suspicion by President
-   Harry S.
+   Some operating systems do not require any translation because they do
+   not use geometry reported by BIOS in their boot loaders. Among these
+   operating systems are BSD, Linux, macOS, OS/2 and ReactOS.
 
-NSF (National Science Foundation)
+See also
 
-   The National Science Foundation (NSF) directs and funds science
-   research. An independent agency in the United States government, the
-   NSF was established May 10, 1950, by passage of the National Science
-   Foundation Act.
-   Copyright © 2024 Advameg, Inc.
+   [edit]
+     * Block (data storage)
+     * Cylinder-head-sector (CHS)
+     * Disk formatting
+     * Disk partitioning
+     * Disk storage
+
+Notes
+
+   [edit]
+    1. ^ Though CHS addressing definitely uses the mathematical concept of
+       tuple, it may also be considered an example of the general scheme
+       called mixed radix by viewing its cylinders, heads and sectors as
+       having different numerical bases; e.g., cylinders counting from 0
+       to 1023, heads from 0 to 254 and sectors from 1 to 63.
+
+References
+
+   [edit]
+    1. ^ ^a ^b "Information Technology - AT Attachment with Packet
+       Interface - 5 (ATA/ATAPI-5)" (PDF). www.t13.org. 29 February 2000.
+       Archived from the original (PDF) on 6 August 2020. Retrieved 15
+       December 2020.
+    2. ^ "KB224526: Windows NT 4.0 supports maximum of 7.8-GB system
+       partition". Support.microsoft.com. 2007-02-23. Retrieved
+       2013-07-30.
+    3. ^ Steunebrink, Jan. "The BIOS IDE Harddisk Limitations". Archived
+       from the original on 6 October 2013. Retrieved 6 October 2013.
+    4. ^ "Information Technology - AT Attachment with Packet Interface - 6
+       (ATA/ATAPI-6)" (PDF). www.t13.org. 26 February 2002. Archived from
+       the original (PDF) on 6 August 2020. Retrieved 15 December 2020.
+    5. ^ "Hard Disk Drive Basics". active-undelete.com. Retrieved
+       2015-02-10. "Track numbers start at 0, and track 0 is the outermost
+       track of the disk. The highest numbered track is next to the
+       spindle."
+    6. ^ "Large Disk HOWTO, Section 3. Disk Access". tldp.org. 2004-11-08.
+       Retrieved 2015-02-10.
+    7. ^ "The CHS to LBA Conversion Formulas". pcrepairclass.tripod.com.
+       Retrieved 2014-08-26.
+
+External links
+
+   [edit]
+     * LBAs explained Archived 2021-02-25 at the Wayback Machine
+     * LBA and CHS format, LBA mapping
+     * CHS to LBA Translation Tutorial
+     * Microsoft article on 7.8 GB limit on NT 4.0
+     * Hard Drive Size Limitations and Barriers Archived 2021-02-25 at the
+       Wayback Machine
+     * Upgrading and Repairing PC's, by Scott Mueller. Pages 524–531.
+     * AT Attachment 8 - ATA/ATAPI Command Set (ATA8-ACS)
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Logical_block_addressing&ol
+   did=1247543314"
+   Categories:
+     * Computer storage devices
+     * SCSI
+     * AT Attachment
+     * BIOS
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * All articles with vague or ambiguous time
+     * Vague or ambiguous time from November 2023
+     * Articles needing additional references from June 2024
+     * All articles needing additional references
+     * Webarchive template wayback links
+
+     * This page was last edited on 24 September 2024, at 19:31 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

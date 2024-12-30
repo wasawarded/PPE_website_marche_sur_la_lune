@@ -1,48 +1,386 @@
-   (BUTTON)
-   Home Research Publications People
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
    ____________________
+   (BUTTON) Search
 
-Active Logic, Metacognitive Computation, and Mind
+   [ ] Appearance
 
-   Toward Human-Level Cognitive Adequacy
-   Our long-range aim is to design and implement common sense in a
-   computer. Click here for details.
-     __________________________________________________________________
+     * Donate
+     * Create account
+     * Log in
 
-   If you would like to learn more about Active Logic, we suggest you
-   start with one of our primers.
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
 
-   Our acronym ALMECOM stands for Active Logic, Metacognitive Computation,
-   and Mind. Active Logic is a time-sensitive formalism that has been
-   developed with real-world applications and their challenges in mind.
-   Active logic explicitly reasons in time, and incorporates a history of
-   its reasoning as it runs. This characteristic makes active logic more
-   flexible than traditional AI systems and therefore more suitable for
-   commonsense, real-world reasoning.
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
 
-   One important strategy that we employ in active logic is metareasoning.
-   Because active logic tracks its reasoning, it is able to reason about
-   its own inferences, and thereby recognize and recover from errors.
+Contents
 
-   We hypothesize the existence of a limited and formalizable set of
-   generic strategies of metareasoning, which are central to the human
-   mind's ability to deal easily and smoothly with mistakes,
-   contradictions, and other irregularities; click here for more on this.
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Overview
+     * 2 Operation
+     * 3 Uses
+     * 4 History
+     * 5 Mixed-signal oscilloscopes
+     * 6 See also
+     * 7 References
+     * 8 External links
 
-   One area in which these strategies are most apparent, and most often
-   used, is in conversation, and so one central area of our research
-   focuses on human-computer natural-language dialog.
-     __________________________________________________________________
+   [ ] Toggle the table of contents
 
-   Demo Coming Soon
-     __________________________________________________________________
+Logic analyzer
 
-   We appreciate the sponsorship of AFOSR, NSF, ONR, and UMIACS.
-   [afosr_logo.png]
-   [nsf1_400x400.png]
-   [Office_of_Naval_Research_Official_Logo.png]
-   [umiacs-logo.png]
+   [ ] 17 languages
+     * العربية
+     * Azərbaycanca
+     * Čeština
+     * Deutsch
+     * Eesti
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * Italiano
+     * Nederlands
+     * 日本語
+     * Português
+     * Русский
+     * Svenska
+     * Українська
+     * 中文
 
-   [UMD_CMNS_CompSci_S1_Color.png]
-   Copyright 2018 - All Rights Reserved
-   Web Accessibility
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Electronic test instrument that measures multiple signals from a
+   circuit
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Logic analyzer" – news · newspapers · books · scholar ·
+   JSTOR (December 2012) (Learn how and when to remove this message)
+   [220px-Logic_analyzer_Agilent_16902A.jpg] Logic analyzer
+
+   A logic analyzer is an electronic instrument that captures and displays
+   multiple logic signals from a digital system or digital circuit. A
+   logic analyzer may convert the captured data into timing diagrams,
+   protocol decodes, state machine traces, opcodes, or may correlate
+   opcodes with source-level software. Logic analyzers have advanced
+   triggering capabilities, and are useful when a user needs to see the
+   timing relationships between many signals in a digital system.^[1]
+
+Overview
+
+   [edit]
+
+   Presently, there are three distinct categories of logic analyzers
+   available on the market:
+     * Modular LAs, which consist of both a chassis or mainframe and logic
+       analyzer modules.^[2] The mainframe/chassis contains the display,
+       controls, control computer, and multiple slots into which the
+       actual data-capturing hardware is installed. The modules each have
+       a specific number of channels, and multiple modules may be combined
+       to obtain a very high channel count. While modular logic analyzers
+       are typically more expensive, the ability to combine multiple
+       modules to obtain a high channel count and the generally higher
+       performance of modular logic analyzers often justifies the price.
+       For the very high end modular logic analyzers, the user often must
+       provide their own host PC or purchase an embedded controller
+       compatible with the system.^[3]
+
+   [220px-8-Channel_%28cropped%29.jpg] 8-channel USB logic analyzer
+     * Portable LAs,^[4] sometimes referred to as standalone LAs. Portable
+       logic analyzers integrate everything into a single package, with
+       options installed at the factory. While portable logic analyzers
+       generally have lower performance than their modular counterparts,
+       they are often used for general purpose debugging by cost conscious
+       users.
+     * PC-based LAs. The hardware connects to a computer through a USB or
+       Ethernet connection and relays the captured signals to the software
+       on the computer. These devices are typically much smaller and less
+       expensive because they make use of a PC's existing keyboard,
+       display and CPU.
+
+Operation
+
+   [edit]
+
+   A logic analyzer can be triggered on a complicated sequence of digital
+   events, then capture a large amount of digital data from the system
+   under test (SUT).
+
+   When logic analyzers first came into use, it was common to attach
+   several hundred "clips" to a digital system. Later, specialized
+   connectors came into use. The evolution of logic analyzer probes has
+   led to a common footprint that multiple vendors support, which provides
+   added freedom to end users. Introduced in April, 2002, connectorless
+   technology (identified by several vendor-specific trade names:
+   Compression Probing; Soft Touch; D-Max) has become popular. These
+   probes provide a durable, reliable mechanical and electrical connection
+   between the probe and the circuit board with less than 0.5 to 0.7 pF
+   loading per signal.
+
+   Once the probes are connected, the user programs the analyzer with the
+   names of each signal, and can group several signals together for easier
+   manipulation. Next, a capture mode is chosen, either "timing" mode,
+   where the input signals are sampled at regular intervals based on an
+   internal or external clock source, or "state" mode, where one or more
+   of the signals are defined as "clocks", and data are taken on the
+   rising or falling edges of these clocks, optionally using other signals
+   to qualify these clocks.
+
+   After the mode is chosen, a trigger condition must be set. A trigger
+   condition can range from simple (such as triggering on a rising or
+   falling edge of a single signal) to the very complex (such as
+   configuring the analyzer to decode the higher levels of the TCP/IP
+   stack and triggering on a certain HTTP packet).
+
+   At this point, the user sets the analyzer to "run" mode, either
+   triggering once, or repeatedly triggering.
+
+   Once the data are captured, they can be displayed several ways, from
+   the simple (showing waveforms or state listings) to the complex
+   (showing decoded Ethernet protocol traffic). Some analyzers can also
+   operate in a "compare" mode, where they compare each captured data set
+   to a previously recorded data set, and halt capture or visually notify
+   the operator when this data set is either matched or not. This is
+   useful for long-term empirical testing. Recent analyzers can even be
+   set to email a copy of the test data to the engineer on a successful
+   trigger.
+
+Uses
+
+   [edit]
+
+   Many digital designs, including those of ICs, are simulated to detect
+   defects before the unit is constructed. The simulation usually provides
+   logic analysis displays. Often, complex discrete logic is verified by
+   simulating inputs and testing outputs using boundary scan. Logic
+   analyzers can uncover hardware defects that are not found in
+   simulation. These problems are typically too difficult to model in
+   simulation, or too time-consuming to simulate and often cross multiple
+   clock domains.
+
+   Field-programmable gate arrays have become a common measurement point
+   for logic analyzers and are also used to debug the logic circuit.
+
+   Logic Analyzers are also very useful when it comes to analyze serial
+   protocols, like I2C, SPI or UART, as they allow to capture long logic
+   sequences showing one or several communication frames. Usually, the
+   Logic Analyzer software will also interpret the protocol layer, making
+   debugging of firmware less tedious task.
+
+History
+
+   [edit]
+
+   As digital computing and integrated circuits emerged in the 1960s,^[5]
+   new and difficult problems began to arise, problems that oscilloscopes
+   had trouble handling. For the first time in computing history, it
+   became essential to simultaneously view large numbers of signals. Early
+   solutions attempted to combine hardware from multiple oscilloscopes
+   into one package, but screen clutter, a lack of definite data
+   interpretation, as well as probing constraints made this solution only
+   marginally usable.
+
+   The HP 5000A Logic Analyzer, introduced in the October 1973 issue of
+   the Hewlett-Packard Journal, was probably the first commercially
+   available instrument to be called a "Logic Analyzer". However, the HP
+   5000A was limited to two channels and presented information by means of
+   two rows of 32 LEDs. The first truly parallel instrument was the twelve
+   channel HP 1601L, it was a plug-in for the HP 180 series oscilloscope
+   mainframes and used the oscilloscope screen to present 16 rows of 12
+   bit words as 1s and 0s. It was introduced in the January 1974
+   Hewlett-Packard Journal.^[6]
+
+Mixed-signal oscilloscopes
+
+   [edit]
+
+   Mixed-signal oscilloscopes combine the functionality of a digital
+   storage oscilloscope with a logic analyzer. The several benefits of
+   these include the ability to view analog and digital signals together
+   in time, and to trigger on either digital or analog signals and capture
+   on the other. A few limitations of mixed signal oscilloscopes are that
+   they do not capture state-mode data, they have a limited channel count,
+   and do not provide the analytical depth and insight of a logic
+   analyzer.
+
+See also
+
+   [edit]
+     * Bus analyzer
+
+References
+
+   [edit]
+    1. ^ "Feeling Comfortable with Logic Analyzers" (PDF). keysight.com.
+       Agilent Technologies, Inc. Retrieved 28 November 2012.
+    2. ^ "16900 Series Modular Logic Analysis System". keysight.com.
+       Keysight Technologies, Inc. Retrieved 30 March 2021.
+    3. ^ "U4154A AXIe-Based Logic Analyzer Module" (PDF). keysight.com.
+       Keysight Technologies, Inc. Archived (PDF) from the original on
+       2022-10-09. Retrieved 1 December 2017.
+    4. ^ "16800 Series Portable Logic Analyzer" (PDF). Keysight.com.
+       Keysight Technologies, Inc. Archived (PDF) from the original on
+       2022-10-09. Retrieved 31 July 2014.
+    5. ^ "The History of the Integrated Circuit". Nobel Prize. Retrieved
+       28 November 2012.
+    6. ^ "The Data Domain Transition". HP Memory Project. Retrieved 3 June
+       2015.
+
+External links
+
+   [edit]
+     * Feeling Comfortable with Logic Analyzers - Keysight
+
+   Wikimedia Commons has media related to Logic analyzers.
+     * v
+     * t
+     * e
+
+   Electrical and electronic measuring equipment
+   Metering
+     * Ammeter
+     * Capacitance meter
+     * Distortionmeter
+     * Electricity meter
+     * Frequency counter
+     * Galvanometer
+     * LCR meter
+     * Microwave power meter
+     * Multimeter
+     * Megohmmeter
+     * Ohmmeter
+     * Peak meter
+     * Peak programme meter
+     * Psophometer
+     * Q meter
+     * Time-domain reflectometer
+     * Time-to-digital converter
+     * Transformer ratio arm bridge
+     * Transistor tester
+     * Tube tester
+     * Wattmeter
+     * Voltmeter
+     * VU meter
+
+   Analysis
+     * Bus analyzer
+     * Logic analyzer
+     * Network analyzer
+     * Oscilloscope
+     * Signal analyzer
+     * Spectrum analyzer
+     * Waveform monitor
+     * Vectorscope
+     * Video borescope
+
+   Generation
+     * Arbitrary waveform generator
+     * Digital pattern generator
+     * Function generator
+     * Sweep generator
+     * Signal generator
+     * Video-signal generator
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Logic_analyzer&oldid=120832
+   0039"
+
+   Categories:
+     * Digital electronics
+     * Embedded systems
+     * Electronic test equipment
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+     * Articles needing additional references from December 2012
+     * All articles needing additional references
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 17 February 2024, at 02:22 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

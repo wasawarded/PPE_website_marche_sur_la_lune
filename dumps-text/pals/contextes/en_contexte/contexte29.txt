@@ -1,0 +1,593 @@
+          + 2.5 Negation as failure
+          + 2.6 Metalogic programming
+          + 2.7 Relationship with the Computational-representational
+--
+          + 3.1 Prolog
+          + 3.2 Constraint logic programming
+          + 3.3 Datalog
+          + 3.4 Answer set programming
+          + 3.5 Abductive logic programming
+          + 3.6 Inductive logic programming
+          + 3.7 Concurrent logic programming
+          + 3.8 Concurrent constraint logic programming
+          + 3.9 Higher-order logic programming
+          + 3.10 Linear logic programming
+          + 3.11 Object-oriented logic programming
+          + 3.12 Transaction logic programming
+     * 4 See also
+--
+   From Wikipedia, the free encyclopedia
+   Programming paradigm based on formal logic
+
+   Logic programming is a programming, database and knowledge
+   representation paradigm based on formal logic. A logic program is a set
+   of sentences in logical form, representing knowledge about some problem
+   domain. Computation is performed by applying logical reasoning to that
+   knowledge, to solve problems in the domain. Major logic programming
+   language families include Prolog, Answer Set Programming (ASP) and
+--
+
+   and are read as declarative sentences in logical form:
+
+--
+
+   Although Horn clause logic programs are Turing complete,^[1]^[2] for
+   most practical applications, Horn clause programs need to be extended
+   to "normal" logic programs with negative conditions. For example, the
+   definition of sibling uses a negative condition, where the predicate =
+--
+   Logic programming languages that include negative conditions have the
+   knowledge representation capabilities of a non-monotonic logic.
+
+   In ASP and Datalog, logic programs have only a declarative reading, and
+   their execution is performed by means of a proof procedure or model
+   generator whose behaviour is not meant to be controlled by the
+   programmer. However, in the Prolog family of languages, logic programs
+   also have a procedural interpretation as goal-reduction procedures.
+--
+
+   Much of the research in the field of logic programming has been
+   concerned with trying to develop a logical semantics for negation as
+   failure and with developing other semantics and other implementations
+   for negation. These developments have been important, in turn, for
+   supporting the development of formal methods for logic-based program
+   verification and program transformation.
+--
+
+   The use of mathematical logic to represent and execute computer
+   programs is also a feature of the lambda calculus, developed by Alonzo
+   Church in the 1930s. However, the first proposal to use the clausal
+   form of logic for representing computer programs was made by Cordell
+   Green.^[3] This used an axiomatization of a subset of LISP, together
+--
+
+   Although it was based on the proof methods of logic, Planner, developed
+   by Carl Hewitt at MIT, was the first language to emerge within this
+--
+
+   Hayes and Kowalski in Edinburgh tried to reconcile the logic-based
+   declarative approach to knowledge representation with Planner's
+--
+   In the meanwhile, Alain Colmerauer in Marseille was working on
+   natural-language understanding, using logic to represent semantics and
+   using resolution for question-answering. During the summer of 1971,
+   Colmerauer invited Kowalski to Marseille, and together they discovered
+   that the clausal form of logic could be used to represent formal
+   grammars and that resolution theorem provers could be used for parsing.
+--
+   Industry to develop the software for the Fifth Generation Computer
+   Systems (FGCS) project. The FGCS project aimed to use logic programming
+   to develop advanced Artificial Intelligence applications on massively
+   parallel computers. Although the project initially explored the use of
+   Prolog, it later adopted the use of concurrent logic programming,
+   because it was closer to the FGCS computer architecture.
+
+   However, the committed choice feature of concurrent logic programming
+   interfered with the language's logical semantics^[18] and with its
+   suitability for knowledge representation and problem solving
+--
+   issues resulted in the FGCS project failing to meet its objectives.
+   Interest in both logic programming and AI fell into world-wide
+   decline.^[19]
+
+   In the meanwhile, more declarative logic programming approaches,
+   including those based on the use of Prolog, continued to make progress
+--
+   developed to combine declarative and procedural representations of
+   knowledge, the purely declarative interpretation of logic programs
+   became the focus for applications in the field of deductive databases.
+   Work in this field became prominent around 1977, when Hervé Gallaire
+   and Jack Minker organized a workshop on logic and databases in
+   Toulouse.^[20] The field was eventually renamed as Datalog.
+
+   This focus on the logical, declarative reading of logic programs was
+   given further impetus by the development of constraint logic
+   programming in the 1980s and Answer Set Programming in the 1990s. It is
+--
+
+   The procedural interpretation of logic programs, which uses backward
+   reasoning to reduce goals to subgoals, is a special case of the use of
+   a problem-solving strategy to control the use of a declarative, logical
+   representation of knowledge to obtain the behaviour of an algorithm.
+   More generally, different problem-solving strategies can be applied to
+   the same logical representation to obtain different algorithms.
+   Alternatively, different algorithms can be obtained with a given
+   problem-solving strategy by using different logical
+   representations.^[23]
+--
+   so that only one procedure applies.^[26] Such strategies are used, for
+   example, in concurrent logic programming.
+
+--
+   [edit]
+   See also: Functional programming § Comparison to logic programming
+
+--
+   Y) can be represented by the relation mother(X, Y). In this respect,
+   logic programs are similar to relational databases, which also
+   represent functions as relations.
+--
+   syntax. Ciao Prolog, for example, transforms functional syntax into
+   relational form and executes the resulting logic program using the
+   standard Prolog execution strategy.^[29] Moreover, the same
+--
+   relations. Some of these languages, such as miniKanren^[28] and
+   relational linear programming^[30] are logic programming languages in
+   the sense of this article.
+--
+   language ^[31] whose core construct is a relational expression, which
+   is similar to an expression in first-order predicate logic.
+
+--
+   [edit]
+   Main article: Syntax and semantics of logic programming
+
+   Viewed in purely logical terms, there are two approaches to the
+   declarative semantics of Horn clause logic programs: One approach is
+   the original logical consequence semantics, which understands solving a
+   goal as showing that the goal is a theorem that is true in all models
+--
+
+   In this approach, computation is theorem-proving in first-order logic;
+   and both backward reasoning, as in SLD resolution, and forward
+--
+   also regarded as providing a separate proof-theoretic (or operational)
+   semantics for logic programs. But from a logical point of view, they
+   are proof methods, rather than semantics.
+--
+   Remarkably, the same problem-solving methods of forward and backward
+   reasoning, which were originally developed for the logical consequence
+   semantics, are equally applicable to the satisfiability semantics:
+--
+
+   Here are the same definitions as a logic program, using add(X, Y, Z) to
+   represent X + Y = Z, and multiply(X, Y, Z) to represent X × Y = Z:
+--
+
+   However, with the logical-consequence semantics, there are non-standard
+   models of the program, in which, for example, add(s(s(0)), s(s(0)),
+--
+   fails. In the satisfiability semantics, the failure of the goal means
+   that the truth value of the goal is false. But in the logical
+   consequence semantics, the failure means that the truth value of the
+--
+
+   The logical semantics of NAF was unresolved until Keith Clark^[35]
+   showed that, under certain natural conditions, NAF is an efficient,
+   correct (and sometimes complete) way of reasoning with the logical
+   consequence semantics using the completion of a logic program in
+   first-order logic.
+
+--
+   This property of withdrawing a conclusion when new information is
+   added, is called non-monotonicity, and it makes logic programming a
+   non-monotonic logic.
+
+--
+
+   The completion semantics for negation is a logical consequence
+   semantics, for which SLDNF provides a proof-theoretic implementation.
+   However, in the 1980s, the satisfiability semantics became more popular
+   for logic programs with negation. In the satisfiability semantics,
+   negation is interpreted according to the classical definition of truth
+   in an intended or standard model of the logic program.
+
+   In the case of logic programs with negative conditions, there are two
+   main variants of the satisfiability semantics: In the well-founded
+   semantics, the intended model of a logic program is a unique,
+   three-valued, minimal model, which always exists. The well-founded
+   semantics generalises the notion of inductive definition in
+   mathematical logic.^[38] XSB Prolog^[39] implements the well-founded
+   semantics using SLG resolution.^[40]
+--
+   Both the well-founded and stable model semantics apply to arbitrary
+   logic programs with negation. However, both semantics coincide for
+   stratified logic programs. For example, the program for sanctioning
+   thieves is (locally) stratified, and all three semantics for the
+--
+
+   Attempts to understand negation in logic programming have also
+   contributed to the development of abstract argumentation
+--
+
+Metalogic programming
+
+--
+   Metaprogramming is an application of the more general use of a
+   metalogic or metalanguage to describe and reason about another
+   language, called the object language.
+
+   Metalogic programming allows object-level and metalevel representations
+   to be combined, as in natural language. For example, in the following
+--
+   In his popular Introduction to Cognitive Science,^[44] Paul Thagard
+   includes logic and rules as alternative approaches to modelling human
+   thinking. He argues that rules, which have the form IF condition THEN
+   action, are "very similar" to logical conditionals, but they are
+   simpler and have greater psychological plausability (page 51). Among
+   other differences between logic and rules, he argues that logic uses
+   deduction, but rules use search (page 45) and can be used to reason
+   either forward or backward (page 47). Sentences in logic "have to be
+   interpreted as universally true", but rules can be defaults, which
+--
+
+   He states that "unlike logic, rule-based systems can also easily
+   represent strategic information about what to do" (page 45). For
+--
+   strategy of reducing a goal to subgoals can be interpreted, in the
+   manner of logic programming, as applying backward reasoning to a
+   logical conditional:
+can_go(you, home) :- have(you, bus_fare), catch(you, bus).
+--
+   and backward reasoning, default reasoning, and goal-reduction - are
+   also defining characteristics of logic programming. This suggests that
+   Thagard's conclusion (page 56) that:
+--
+
+   also applies to logic programming.
+
+   Other arguments showing how logic programming can be used to model
+   aspects of human thinking are presented by Keith Stenning and Michiel
+   van Lambalgen in their book, Human Reasoning and Cognitive
+   Science.^[45] They show how the non-monotonic character of logic
+   programs can be used to explain human performance on a variety of
+   psychological tasks. They also show (page 237) that "closed–world
+   reasoning in its guise as logic programming has an appealing neural
+   implementation, unlike classical logic."
+
+   In The Proper Treatment of Events,^[46] Michiel van Lambalgen and Fritz
+   Hamm investigate the use of constraint logic programming to code
+   "temporal notions in natural language by looking at the way human
+--
+
+   The use of logic to represent procedural knowledge and strategic
+   information was one of the main goals contributing to the early
+   development of logic programming. Moreover, it continues to be an
+   important feature of the Prolog family of logic programming languages
+   today. However, many applications of logic programming, including
+   Prolog applications, increasingly focus on the use of logic to
+   represent purely declarative knowledge. These applications include both
+--
+   is often difficult to represent such implicit knowledge in explicit
+   rules. This difficulty does not arise, however, when logic programs are
+   used to represent the existing, explicit rules of a business
+--
+   Historically, the representation of a large portion of the British
+   Nationality Act as a logic program in the 1980s^[49] was "hugely
+   influential for the development of computational representations of
+   legislation, showing how logic programming enables intuitively
+   appealing representations that can be directly deployed to generate
+--
+   as !, which always succeeds but cannot be backtracked. Cut can be used
+   to improve efficiency, but can also interfere with the logical meaning
+   of clauses. In many cases, the use of cut can be replaced by negation
+--
+   Prolog provides other features, in addition to cut, that do not have a
+   logical interpretation. These include the built-in predicates assert
+   and retract for destructively updating the state of the program during
+--
+
+   Various extensions of logic programming have been developed to provide
+   a logical framework for such destructive change of
+   state.^[53]^[54]^[55]
+--
+
+Constraint logic programming
+
+   [edit]
+   Main article: Constraint logic programming
+
+   Constraint logic programming (CLP) combines Horn clause logic
+   programming with constraint solving. It extends Horn clauses by
+--
+   Procedurally, subgoals whose predicates are defined by the program are
+   solved by goal-reduction, as in ordinary logic programming, but
+   constraints are simplified and checked for satisfiability by a
+--
+
+   The following constraint logic program represents a toy temporal
+   database of john's history as a teacher:
+--
+teaches(john, software, T) :- 1999 ≤ T, T < 2005.
+teaches(john, logic, T) :- 2005 ≤ T, T ≤ 2012.
+rank(john, instructor, T) :- 1990 ≤ T, T < 2010.
+--
+   semantics. The following goal clause queries the database to find out
+   when john both taught logic and was a professor:
+?- teaches(john, logic, T), rank(john, professor, T).
+
+--
+
+   Constraint logic programming has been used to solve problems in such
+   fields as civil engineering, mechanical engineering, digital circuit
+   verification, automated timetabling, air traffic control, and finance.
+   It is closely related to abductive logic programming.
+
+--
+   Datalog is a database definition language, which combines a relational
+   view of data, as in relational databases, with a logical view, as in
+   logic programming.
+
+--
+   and cartesian product to specify queries, which access a database.
+   Datalog uses logical connectives, such as or, and and not in the bodies
+   of rules to define relations as part of the database itself.
+--
+   introducing a least-fixed-point operator.^[56]^[57] In contrast,
+   recursive relations can be defined naturally by rules in logic
+   programs, without the need for any new logical connectives or
+   operators.
+
+   Datalog differs from more general logic programming by having only
+   constants and variables as terms. Moreover, all facts are
+--
+   true. For this purpose, it uses the stable model semantics, according
+   to which a logic program can have zero, one or more intended models.
+   For example, the following program represents a degenerate variant of
+--
+
+   This combination of ordinary logic programming clauses and constraint
+   clauses illustrates the generate-and-test methodology of problem
+--
+   instantiate the program in all possible ways, reducing it to a
+   propositional logic program (known as grounding). Then they apply a
+   propositional logic problem solver, such as the DPLL algorithm or a
+   Boolean SAT solver. However, some implementations, such as s(CASP)^[59]
+--
+
+Abductive logic programming
+
+--
+
+   Main article: Abductive logic programming
+
+   Abductive logic programming^[60] (ALP), like CLP, extends normal logic
+   programming by allowing the bodies of clauses to contain literals whose
+--
+
+   Abductive logic programming has been used for fault diagnosis,
+   planning, natural language processing and machine learning. It has also
+--
+
+Inductive logic programming
+
+--
+
+   Main article: Inductive logic programming
+
+   Inductive logic programming (ILP) is an approach to machine learning
+   that induces logic programs as hypothetical generalisations of positive
+   and negative examples. Given a logic program representing background
+   knowledge and positive examples together with constraints representing
+   negative examples, an ILP system induces a logic program that
+   generalises the positive examples while excluding the negative
+--
+
+   Recent work in ILP, combining logic programming, learning and
+   probability, has given rise to the fields of statistical relational
+   learning and probabilistic inductive logic programming.
+
+Concurrent logic programming
+
+--
+
+   Main article: Concurrent logic programming
+
+   Concurrent logic programming integrates concepts of logic programming
+   with concurrent programming. Its development was given a big impetus in
+--
+
+   A concurrent logic program is a set of guarded Horn clauses of the
+   form:
+--
+   | is the commitment operator. Declaratively, guarded Horn clauses are
+   read as ordinary logical implications:
+
+--
+   of the chosen clause. These subgoals can also be executed in parallel.
+   Thus concurrent logic programming implements a form of "don't care
+   nondeterminism", rather than "don't know nondeterminism".
+
+   For example, the following concurrent logic program defines a predicate
+   shuffle(Left, Right, Merge), which can be used to shuffle two lists
+--
+   Carl Hewitt has argued^[68] that, because of the indeterminacy of
+   concurrent computation, concurrent logic programming cannot implement
+   general concurrency. However, according to the logical semantics, any
+   result of a computation of a concurrent logic program is a logical
+   consequence of the program, even though not all logical consequences
+   can be derived.
+
+Concurrent constraint logic programming
+
+--
+
+   Main article: Concurrent constraint logic programming
+
+   Concurrent constraint logic programming^[69] combines concurrent logic
+   programming and constraint logic programming, using constraints to
+   control concurrency. A clause can contain a guard, which is a set of
+   constraints that may block the applicability of the clause. When the
+   guards of several clauses are satisfied, concurrent constraint logic
+   programming makes a committed choice to use only one.
+
+Higher-order logic programming
+
+--
+
+   Several researchers have extended logic programming with higher-order
+   programming features derived from higher-order logic, such as predicate
+   variables. Such languages include the Prolog extensions HiLog^[70] and
+--
+
+Linear logic programming
+
+--
+
+   Basing logic programming within linear logic has resulted in the design
+   of logic programming languages that are considerably more expressive
+   than those based on classical logic. Horn clause programs can only
+   represent state change by the change in arguments to predicates. In
+   linear logic programming, one can use the ambient linear logic to
+   support state change. Some early designs of logic programming languages
+   based on linear logic include LO,^[72] Lolli,^[73] ACL,^[74] and
+   Forum.^[75] Forum provides a goal-directed interpretation of all linear
+   logic.
+
+Object-oriented logic programming
+
+--
+
+   F-logic^[76] extends logic programming with objects and the frame
+   syntax.
+--
+
+Transaction logic programming
+
+--
+
+   Transaction logic^[53] is an extension of logic programming with a
+   logical theory of state-modifying updates. It has both a
+   model-theoretic semantics and a procedural one. An implementation of a
+   subset of Transaction logic is available in the Flora-2^[78] system.
+   Other prototypes are also available.
+--
+     * Boolean satisfiability problem
+     * Constraint logic programming
+     * Control theory
+--
+     * Functional programming
+     * Fuzzy logic
+     * Inductive logic programming
+     * Linear logic
+     * Logic in computer science (includes Formal methods)
+     * Logic programming languages
+     * Programmable logic controller
+     * R++
+--
+     * Satisfiability
+     * Syntax and semantics of logic programming
+
+--
+    2. ^ Andréka, H.; Németi, I. (1978). "The generalised completeness of
+       Horn predicate-logic as a programming language". Acta Cybernetica.
+       4 (1): 3–10.
+--
+       Edinburgh University Press. pp. 423–429.
+    5. ^ Kowalski, R. A. (1988). "The early years of logic programming"
+       (PDF). Communications of the ACM. 31: 38–43.
+--
+       England: Ellis Horwood. pp. 194–215.
+   25. ^ Nakamura, K. (July 1985). Heuristic Prolog: logic program
+       execution by heuristic search. Conference on Logic Programming.
+--
+   27. ^ Swift, T.; Warren, D.S. (January 2012). "XSB: Extending Prolog
+       with tabled logic programming". Theory and Practice of Logic
+       Programming. 12 (1–2): 157–187. arXiv:1012.5123.
+--
+   34. ^ Van Emden, M.H.; Kowalski, R.A. (October 1976). "The semantics of
+       predicate logic as a programming language". Journal of the ACM. 23
+       (4): 733–742. doi:10.1145/321978.321991. S2CID 11048276.
+--
+       doi:10.1016/0743-1066(84)90023-2.
+   38. ^ Denecker, M.; Ternovska, E. (2008). "A logic of nonmonotone
+       inductive definitions". ACM Transactions on Computational Logic. 9
+--
+   41. ^ Phan Minh Dung (1995). "On the acceptability of arguments and its
+       fundamental role in nonmonotonic reasoning, logic programming, and
+       n–person games". Artificial Intelligence. 77 (2): 321–357.
+--
+   49. ^ Sergot, M.J.; Sadri, F.; Kowalski, R.A.; Kriwaczek, F.; Hammond,
+       P; Cory, H.T. (1986). "The British Nationality Act as a logic
+       program" (PDF). Communications of the ACM. 29 (5): 370–386.
+       doi:10.1145/5689.5920. S2CID 5665107.
+   50. ^ Prakken, H.; Sartor, G. (October 2015). "Law and logic: a review
+       from an argumentation perspective" (PDF). Artificial Intelligence.
+--
+       Logic Programming. In ICLP (Vol. 93, pp. 257-279).
+   54. ^ Genesereth, M., 2023. Dynamic logic programming. In Prolog: The
+       Next 50 Years (pp. 197-209). Cham: Springer Nature Switzerland.
+   55. ^ Kowalski, R., Sadri, F., Calejo, M. and Dávila, J., 2023.
+       Combining logic programming and imperative programming in LPS. In
+       Prolog: The Next 50 Years (pp. 210-223). Cham: Springer Nature
+--
+   60. ^ Denecker, M.; Kakas, A.C. (July 2000). "Special issue: abductive
+       logic programming". Journal of Logic Programming. 44 (1–3): 1–4.
+       doi:10.1016/S0743-1066(99)00078-3.
+--
+   63. ^ Nienhuys-Cheng, Shan-hwei; Wolf, Ronald de (1997). Foundations of
+       inductive logic programming. Lecture notes in computer science
+       Lecture notes in artificial intelligence. Berlin Heidelberg:
+--
+       Learning (pp. 1-33). Dordrecht: Springer Netherlands.
+   65. ^ Cropper, A. and Dumančić, S., 2022. Inductive logic programming
+       at 30: a new introduction. Journal of Artificial Intelligence
+--
+   70. ^ Chen, Weidong; Kifer, Michael; Warren, David S. (February 1993).
+       "HiLog: A foundation for higher-order logic programming". Journal
+       of Logic Programming. 15 (3): 187–230.
+       doi:10.1016/0743-1066(93)90039-J.
+   71. ^ Miller, D.A. and Nadathur, G., 1986, July. Higher-order logic
+       programming. In International Conference on Logic Programming (pp.
+--
+   74. ^ Kobayashi, Naoki; Yonezawa, Akinori (1994). Asynchronous
+       communication model based on linear logic. US/Japan Workshop on
+       Parallel Symbolic Computing. pp. 279–294. CiteSeerX 10.1.1.42.8749.
+--
+       201–232. doi:10.1016/0304-3975(96)00045-X.
+   76. ^ Kifer, M. and Lausen, G., 1989, June. F-logic: a higher-order
+       language for reasoning about objects, inheritance, and scheme. In
+--
+   78. ^ Yang, G. and Kifer, M., 2000, July. FLORA: Implementing an
+       efficient DOOD system using a tabling logic engine. In
+       International Conference on Computational Logic (pp. 1078-1093).
+--
+
+     Kowalski, R. A. (1988). "The early years of logic programming" (PDF).
+   Communications of the ACM. 31: 38–43. doi:10.1145/35043.35046.
+--
+   Miller, Dale; Nadathur, Gopalan; Pfenning, Frank; Scedrov, Andre
+   (1991). "Uniform proofs as a foundation for logic programming". Annals
+   of Pure and Applied Logic. 51 (1–2): 125–157.
+--
+     * Evgeny Dantsin, Thomas Eiter, Georg Gottlob, Andrei Voronkov:
+       Complexity and expressive power of logic programming. ACM Comput.
+       Surv. 33(3): 374–425 (2001)
+--
+     * Dependent types
+     * Functional logic
+     * Point-free style
+--
+   Logic
+     * Abductive logic
+     * Answer set
+     * Constraint (Constraint logic)
+     * Inductive logic
+     * Nondeterministic
+     * Ontology
+     * Probabilistic logic
+     * Query
+--
+     * Choreographic programming
+     * Concurrent logic (Concurrent constraint logic)
+     * Concurrent OO

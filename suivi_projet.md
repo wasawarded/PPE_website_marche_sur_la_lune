@@ -37,3 +37,8 @@
 - Réogranisatioin du dépôt afin de respecter l'aoborescence demandé dans les exercices;
 - Verification de l'exactitude de mon travail;
 - Gestion de conflis git; ce que je trouve le plus dificile à faire algré la simplicité de la tâche; 
+
+## 30/12/2024
+### anglais
+- la tokenization de dump et de contexte, création du script make pals
+- problèmes : au début j'ai récupéré plus de 50 url et j'ai fais les dumps et les contextes mais sur le tableaux je n'utilise que 50, il faut que je modifie les dumps et les contextes ainsi que leur html

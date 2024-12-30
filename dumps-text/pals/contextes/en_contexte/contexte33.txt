@@ -1,0 +1,19 @@
+   in-memory data structures holding the address is typically 32 or 64
+   bits. Most hard disk drives released after 1996 implement logical block
+   addressing.
+--
+
+   In logical block addressing, only one number is used to address data,
+   and each linear base address describes a single block.
+--
+   In redundant array of independent disks (RAID) devices and storage area
+   networks (SANs) and where logical drives (logical unit numbers, LUNs)
+   are composed via LUN virtualization and aggregation, LBA addressing of
+--
+       number
+     * LBA is the logical block address
+     * HPC is the maximum number of heads per cylinder (reported by disk
+--
+   is greater than or equal to 16,514,064, then the content of word 1 [the
+   number of logical cylinders] shall be equal to 16,383."^[1]^: 20 
+   Therefore, for LBA 16450559, an ATA drive may actually respond with the

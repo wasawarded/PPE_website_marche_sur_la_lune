@@ -6,6 +6,7 @@ nb=1
 dump="/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/dumps-text/logique_anglais/en_raw/en_dump_raw"
 contexte="$global/contextes/en_contexte/contexte_html" # two lines relatives, how to do ?
 concordance="$global/tableaux/concordance/en_concordances/logic_en_concordance"
+# tokenization="/home/xingyuchen/Desktop/PPE_website/PPE_website_marche_dans_la_lune/dumps-text/pals/logique_anglais/en_raw/en_dump_raw"
 echo "<!DOCTYPE html>
 <html lang=\"fr\">
 <head>
@@ -44,6 +45,7 @@ do
         compte=$(cat $dump$numero | grep -io -e logic | wc -w)
         if [ $token -gt 100 ] && [ $code -eq 200 ] && [ $nb -lt 51 ] && [ $compte -gt 2 ] &&  [[ $encodage =~ [uU][tT][fF]-8 ]] # make sur we have tokens
         then
+#             cat $dump$numero > $tokenization$nb
             echo "<tr>
             <td>$nb</td>
             <td><a href=\"$http\">$http</a></td>
@@ -57,6 +59,7 @@ do
             nb=$(expr $nb + 1)
         elif [ $token -gt 100 ] && [ $code -eq 200 ] && [ $nb -lt 51 ] && [ $compte -gt 5 ] &&  [[ ! $encodage =~ [uU][tT][fF]-8 ]]
         then
+#             cat $dump$numero > $tokenization$nb
             echo "<tr>
             <td>$nb</td>
             <td><a href=\"$http\">$http</a></td>

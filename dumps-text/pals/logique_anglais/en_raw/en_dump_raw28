@@ -1,561 +1,740 @@
-    #The 5 Towns Jewish Times » Feed The 5 Towns Jewish Times » Comments
-   Feed The 5 Towns Jewish Times » Real Clear Daf: Q & A Review Comments
-   Feed alternate alternate
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
 
-   [tr?id=312844246146134&ev=PageView &noscript=1] fbpx
+   Jump to content
 
-     * Home
-          + Authors
-     * News & Politics
-          + Foreign Affairs
-          + U.S. News
-          + Opinion
-          + Feel good news
-          + Education
-     * Israel
-     * 5 Towns Community
-     * Opinion
-          + Letters to the Editor
-          + The Larry Gordon Show
-          + Advice
-          + Reviews
-          + Analysis
-     * Torah
-     * Lifestyle
-          + Food
-          + Home
-          + Travel
-          + Health / Nutrition
-          + Fashion
-          + Family / Dating
-          + Music & Simchas
-               o Classifieds
-     * Read Paper Online
-          + This Week’s Paper
-          + Last Week’s paper
-          + Archives
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   Search ____________________
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
 
-   The 5 Towns Jewish Times
-     * Home
-          + Authors
-     * News & Politics
-          + Foreign Affairs
-          + U.S. News
-          + Opinion
-          + Feel good news
-          + Education
-     * Israel
-     * 5 Towns Community
-     * Opinion
-          + Letters to the Editor
-          + The Larry Gordon Show
-          + Advice
-          + Reviews
-          + Analysis
-     * Torah
-     * Lifestyle
-          + Food
-          + Home
-          + Travel
-          + Health / Nutrition
-          + Fashion
-          + Family / Dating
-          + Music & Simchas
-               o Classifieds
-     * Read Paper Online
-          + This Week’s Paper
-          + Last Week’s paper
-          + Archives
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
 
-   ____________________ Search
-   [passover_listings-2024.jpg]
-   [banner_poconos_getaway.png]
+   [ ] Appearance
 
-Real Clear Daf: Q & A Review
+     * Donate
+     * Create account
+     * Log in
 
-   October 4, 2017
-   125
-   0
-   Share on Facebook
-   Tweet on Twitter
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
 
-   A review of some of this week’s daf yomi key concepts (Shabbos Chol
-   Ha’moed Sukkos – Sanhedrin)
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
 
-   By Rabbi Shmuel Wise
+Contents
 
-   Q: What is the halachah if a “dead man” kills?
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 History
+     * 2 PLA
+     * 3 PAL
+     * 4 GALs
+     * 5 CPLDs
+     * 6 FPGAs
+     * 7 EPLDs
+     * 8 Other variants
+     * 9 How PLDs retain their configuration
+     * 10 PLD programming languages
+     * 11 PLD programming devices
+     * 12 See also
+     * 13 References
+     * 14 External links
 
-   A: We discussed this fascinating issue on 78a. By “dead man” we mean a
-   person who has suffered a specific mortal injury (e.g. his esophagus
-   has been severed) that defines him as a halachic “treifah.” Rava there
-   states that if someone kills a treifah person he is not liable as a
-   murderer, for the Torah regards this man as already dead! Rava then
-   rules that if the treifah person kills, he is not subject to the death
-   penalty (unless he literally committed the murder in front of the
-   court). Why not? Because of the requirement that testimony always be
-   subject to refutation through the system of hazamah.
+   [ ] Toggle the table of contents
 
-   Namely, we require the possibility that future witnesses will come in
-   and refute the first testimony by reporting that the earlier witnesses
-   were with them at the time they claim to have witnessed the crime. The
-   Torah decrees that the new testimony completely discredits the first
-   testimony, and we administer to the original witnesses the punishment
-   that they had conspired to bring about on their victim.
+Programmable logic device
 
-   Based on the above, we could never bring admissible testimony against
-   this treifah person who allegedly committed murder. For in the event
-   that new witnesses were to come and discredit the first testimony
-   against the treifah, the Torah would not say to punish the false
-   witnesses with the death penalty that they tried to bring against the
-   treifah. That is because of the idea mentioned earlier that the Torah
-   considers the treifah to be already dead. That being so, hazamah, which
-   is defined as a reciprocal punishment for the false testimony, is
-   inapplicable here where the false testimony merely sought to kill a
-   person who was already considered dead (killing these healthy witnesses
-   would not be reciprocal).
+   [ ] 20 languages
+     * Català
+     * Čeština
+     * Deutsch
+     * Español
+     * Euskara
+     * فارسی
+     * Français
+     * 한국어
+     * Italiano
+     * 日本語
+     * Polski
+     * Português
+     * Русский
+     * Slovenčina
+     * Српски / srpski
+     * ไทย
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 中文
 
-   Being that hazamah could never apply to this situation, the original
-   testimony against the treifah can never be accepted to begin with. So
-   this treifah murderer walks, scot-free (at least until he drops dead of
-   his treifah injury!).
+   Edit links
 
-   Later in the Gemara, Rav Ashi takes this concept one step further and
-   considers a case in which treifah witnesses testify that someone
-   committed a capital offense, and subsequently other witnesses testify
-   that the treifah witnesses’ testimony was false (“they were with us at
-   the time”). Rav Ashi asserts that we would never reciprocate and impose
-   the death penalty on the treifah witnesses because their testimony
-   would never be accepted to begin with.
+     * Article
+     * Talk
 
-   Why not? Because if we take the case one more step, it is evident that
-   their testimony could never subject them to a hazamah punishment. The
-   treifah witnesses aren’t subject to hazamah, because the second set of
-   witnesses aren’t subject to hazamah. This might sound puzzling: I
-   thought it’s the first group of witnesses that is always refuted
-   through hazamah; the second group is always the party responsible for
-   falsifying the earlier group. But the truth is that in theory the
-   tables could turn again if a third group of witnesses testifies that it
-   cannot be true that group #2 was with group #1 because they (group #2)
-   were with them (group #3) at that time.
+   [ ] English
 
-   If this happened, the halachah would be that the original testimony of
-   group #1 is restored and group #2 would be subject to the reciprocal
-   hazamah punishment! In our case, however, we wouldn’t be able to punish
-   group #2 since their false testimony (that the treifah witnesses are
-   false witnesses and therefore deserve the hazamah punishment) would
-   have killed people that are already considered dead!
+     * Read
+     * Edit
+     * View history
 
-   The bottom line of all of this, argues Rav Ashi, is that we could never
-   kill treifah witnesses who attempt to falsely testify that someone
-   committed a capital offense, because their testimony would never be
-   accepted to begin with.
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
 
-   Rava, however, does not agree with this. In Rava’s view, we would
-   accept the testimony of treifah witnesses regarding a capital offense,
-   and we would therefore kill them if they were exposed as false
-   witnesses through hazamah. What of Rav Ashi’s point that group #2’s
-   testimony isn’t subject to hazamah (and consequently should be rejected
-   altogether, with the result that the treifah witnesses’ testimony
-   should be rejected to begin with, as explained above)? Rashi explains
-   that Rava is of the opinion that the requirement that testimony be
-   subject to hazamah doesn’t apply to the testimony of the witnesses who
-   are exposing the previous testimony as false (e.g. group #2).
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
 
-   The logic for this is as follows. On the face of it, there is no
-   rational way to explain the halachah of hazamah. For why should we
-   believe the second group of witnesses any more than the first group,
-   which obviously claims that it did witness this crime? Yet the Torah
-   decreed that when subsequent witnesses refute the earlier testimony
-   through hazamah, we regard the earlier witnesses as entirely
-   discredited. So since the Torah evidently gave “superpowers” to the
-   second testimony, it should come as no surprise that the Torah accepts
-   this testimony even if it possesses the defect of not being subject to
-   hazamah. In other words, if the Torah upholds this testimony in spite
-   of the fact that two other credible witnesses have contradicted it,
-   then it logically follows that this testimony can weather the
-   relatively minor issue that it lacks the built-in deterrent that it be
-   subject to refutation by hazamah.
+   Print/export
+     * Download as PDF
+     * Printable version
 
-   How would Rav Ashi respond to this argument? Perhaps Rav Ashi would say
-   that you have no right to make any logical extensions from a law that
-   is clearly not governed by logic. This viewpoint can be compared to the
-   view that, ironically, is expressed by Rava back on 27a. The Gemara
-   there explores the question of whether we apply the status of a witness
-   whose testimony was refuted through hazamah retroactively. That is, do
-   we consider any testimony he had given between the false testimony and
-   the date on which he was falsified to be testimony given by a “liar”
-   and consequently invalid testimony?
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
 
-   Rava there states that we do not apply this false witness’s
-   disqualified status retroactively. Why not? Because since (as explained
-   above) the whole concept of hazamah defies logic, we cannot treat it as
-   a regular case where we would certainly establish the person’s status
-   from the moment of the crime itself. So Rav Ashi could apply this kind
-   of argument: we have no right to extrapolate from hazamah and say that
-   the Torah also exempted the requirement that testimony be subject to
-   hazamah. We must stick with strictly what the actual verse states and
-   not assume anything else.
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Reconfigurable digital circuit element
 
-   Which begs the question: how would Rava distinguish between the issue
-   of 27a and our Gemara? Seemingly, Rava is playing both sides of the
-   fence here. Perhaps Rava would say this: Indeed, as is clear from his
-   view on 27a, we cannot take the teaching of hazamah beyond its
-   bare-bones teaching, which is that when later witnesses refute these
-   witnesses, we consider them false witnesses. Because this is a novel
-   ruling, we can only apply it today and going forward. But on our page,
-   Rava is asserting that logic compels us to say that an exemption from
-   the normal requirement that testimony be subject to hazamah must have
-   been included in the teaching itself. Much like the classic example of
-   “if a guy can lift 100 pounds he must be able to lift 50,” the same,
-   Rava argues, applies to the second set of witnesses; if the Torah gave
-   them the power to override even actual witnesses then, perforce, they
-   have the power to be accepted even without being subject to hazamah.
+   [40px-Wiki_letter_w.svg.png]
+   This article's lead section may be too short to adequately summarize
+   the key points. Please consider expanding the lead to provide an
+   accessible overview of all important aspects of the article. (January
+   2013)
+   [300px-Programmable_Logic_Device.svg.png] A simplified PAL device. The
+   programmable elements (shown as a fuse) connect both the true and
+   complemented inputs to the AND gates. These AND gates, also known as
+   product terms, are ORed together to form a sum-of-products logic array.
 
-   With that, I wish you a joyful and meaningful chag.
+   A programmable logic device (PLD) is an electronic component used to
+   build reconfigurable digital circuits. Unlike digital logic constructed
+   using discrete logic gates with fixed functions, the function of a PLD
+   is undefined at the time of manufacture. Before the PLD can be used in
+   a circuit it must be programmed to implement the desired function.^[1]
+   Compared to fixed logic devices, programmable logic devices simplify
+   the design of complex logic and may offer superior performance.^[2]
+   Unlike for microprocessors, programming a PLD changes the connections
+   made between the gates in the device.
 
-   Rabbi Wise is maggid shiur of Real Clear Daf (realcleardaf.com), a
-   website and mobile app (for iOS and Android) that offers free audio
-   shiurim and other resources to assist your journey through Shas. To be
-   a sponsor or to reach Rabbi Wise, please write to
-   rabbiwise@realcleardaf.com or call 855-ASK-RCD-1 (275-7231).
+   PLDs can broadly be categorised into, in increasing order of
+   complexity, simple programmable logic devices (SPLDs), comprising
+   programmable array logic, programmable logic array and generic array
+   logic; complex programmable logic devices (CPLDs); and
+   field-programmable gate arrays (FPGAs).
 
+History
 
-   SHARE
-   Facebook
-   Twitter
+   [edit]
+
+   In 1969, Motorola offered the XC157, a mask-programmed gate array with
+   12 gates and 30 uncommitted input/output pins.^[3]
+
+   In 1970, Texas Instruments developed a mask-programmable IC based on
+   the IBM read-only associative memory or ROAM. This device, the TMS2000,
+   was programmed by altering the metal layer during the production of the
+   IC. The TMS2000 had up to 17 inputs and 18 outputs with 8 JK flip-flops
+   for memory. TI coined the term programmable logic array (PLA) for this
+   device.^[4]
+
+   In 1971, General Electric Company (GE) was developing a programmable
+   logic device based on the new programmable read-only memory (PROM)
+   technology. This experimental device improved on IBM's ROAM by allowing
+   multilevel logic. Intel had just introduced the floating-gate UV EPROM
+   so the researcher at GE incorporated that technology. The GE device was
+   the first erasable PLD ever developed, predating the Altera EPLD by
+   over a decade. GE obtained several early patents on programmable logic
+   devices.^[5]^[6]^[7]
+
+   In 1973 National Semiconductor introduced a mask-programmable PLA
+   device (DM7575) with 14 inputs and 8 outputs with no memory registers.
+   This was more popular than the TI part but the cost of making the metal
+   mask limited its use. The device is significant because it was the
+   basis for the field programmable logic array produced by Signetics in
+   1975, the 82S100. (Intersil actually beat Signetics to market but poor
+   yield doomed their part.)^[8]^[9]
+
+   In 1974 GE entered into an agreement with Monolithic Memories (MMI) to
+   develop a mask-programmable logic device incorporating the GE
+   innovations. The device was named programmable associative logic array
+   or PALA. The MMI 5760 was completed in 1976 and could implement
+   multilevel or sequential circuits of over 100 gates. The device was
+   supported by a GE design environment where Boolean equations would be
+   converted to mask patterns for configuring the device. The part was
+   never brought to market.^[10]
+
+PLA
+
+   [edit]
+   Main article: Programmable logic array
+
+   In 1970, Texas Instruments developed a mask-programmable IC based on
+   the IBM read-only associative memory or ROAM. This device, the TMS2000,
+   was programmed by altering the metal layer during the production of the
+   IC. The TMS2000 had up to 17 inputs and 18 outputs with 8 JK flip-flops
+   for memory. TI coined the term programmable logic array for this
+   device.^[4]
+
+   A programmable logic array (PLA) has a programmable AND gate array,
+   which links to a programmable OR gate array, which can then be
+   conditionally complemented to produce an output. A PLA is similar to a
+   ROM concept, however a PLA does not provide full decoding of a variable
+   and does not generate all the minterms as in a ROM.
+
+PAL
+
+   [edit]
+   Main article: Programmable array logic
+
+   PAL devices have arrays of transistor cells arranged in a "fixed-OR,
+   programmable-AND" plane used to implement "sum-of-products" binary
+   logic equations for each of the outputs in terms of the inputs and
+   either synchronous or asynchronous feedback from the outputs.
+
+   MMI introduced a breakthrough device in 1978, the programmable array
+   logic or PAL. The architecture was simpler than that of Signetics' FPLA
+   because it omitted the programmable OR array. This made the parts
+   faster, smaller and cheaper. They were available in 20-pin 300-mil DIP
+   packages, while the FPLAs came in 28-pin 600-mil packages. The PAL
+   Handbook demystified the design process. The PALASM design software
+   (PAL assembler) converted the engineers' Boolean equations into the
+   fuse pattern required to program the part. The PAL devices were soon
+   second-sourced by National Semiconductor, Texas Instruments and AMD.
+
+   After MMI succeeded with the 20-pin PAL parts, AMD introduced the
+   24-pin 22V10 PAL with additional features. After buying out MMI (1987),
+   AMD spun off a consolidated operation as Vantis, and that business was
+   acquired by Lattice Semiconductor in 1999.
+
+GALs
+
+   [edit]
+   Main article: Generic array logic
+   [220px-Lattice_GAL_16V8.jpg] Lattice GAL 16V8 and 20V8.  These are 35
+   nanosecond devices.
+
+   An improvement on the PAL was the generic array logic device, or GAL,
+   invented by Lattice Semiconductor in 1985. This device has the same
+   logical properties as the PAL but can be erased and reprogrammed. The
+   GAL is very useful in the prototyping stage of a design, when any bugs
+   in the logic can be corrected by reprogramming. GALs are programmed and
+   reprogrammed using a PAL programmer, or, in the case of chips that
+   support it, by using the in-circuit programming technique.
+
+   Lattice GALs combine CMOS and electrically erasable (E^2) floating gate
+   technology for a high-speed, low-power logic device. A similar device
+   called a PEEL (programmable electrically erasable logic) was introduced
+   by the International CMOS Technology (ICT) corporation.
+
+   Sometimes GAL chips are referred as simple programmable logic device
+   (SPLD), analogous to complex programmable logic device (CPLD) below.
+
+CPLDs
+
+   [edit]
+   Main article: Complex programmable logic device
+
+   PALs and GALs are available only in small sizes, equivalent to a few
+   hundred logic gates. For bigger logic circuits, complex PLDs or CPLDs
+   can be used. These contain the equivalent of several PALs linked by
+   programmable interconnections, all in one integrated circuit. CPLDs can
+   replace thousands, or even hundreds of thousands, of logic gates.
+
+   Some CPLDs are programmed using a PAL programmer, but this method
+   becomes inconvenient for devices with hundreds of pins. A second method
+   of programming is to solder the device to its printed circuit board,
+   then feed it with a serial data stream from a personal computer. The
+   CPLD contains a circuit that decodes the data stream and configures the
+   CPLD to perform its specified logic function. Some manufacturers, such
+   as Altera and Atmel (now Microchip), use JTAG to program CPLDs
+   in-circuit from .JAM files.
+
+FPGAs
+
+   [edit]
+   Main article: Field-programmable gate array
+
+   While PALs were being developed into GALs and CPLDs (all discussed
+   above), a separate stream of development was happening. This type of
+   device is based on gate array technology and is called the
+   field-programmable gate array (FPGA). Early examples of FPGAs are the
+   82S100 array, and 82S105 sequencer, by Signetics, introduced in the
+   late 1970s. The 82S100 was an array of AND terms. The 82S105 also had
+   flip-flop functions.
+
+   (Remark: 82S100 and similar ICs from Signetics have PLA structure,
+   AND-plane + OR-plane.)
+
+   FPGAs use a grid of logic gates, and once stored, the data doesn't
+   change, similar to that of an ordinary gate array. The term
+   field-programmable means the device is programmed by the customer, not
+   the manufacturer. FPGAs and gate arrays are similar but gate arrays can
+   only be configured at the factory during fabrication.^[11]^[12]^[13]
+
+   FPGAs are usually programmed after being soldered down to the circuit
+   board, in a manner similar to that of larger CPLDs. In most larger
+   FPGAs, the configuration is volatile and must be re-loaded into the
+   device whenever power is applied or different functionality is
+   required. Configuration is typically stored in a configuration PROM,
+   EEPROM or flash memory.^[14] EEPROM versions may be in-system
+   programmable (typically via JTAG).
+
+   The difference between FPGAs and CPLDs is that FPGAs are internally
+   based on look-up tables (LUTs), whereas CPLDs form the logic functions
+   with sea-of-gates (e.g. sum of products). CPLDs are meant for simpler
+   designs while FPGAs are meant for more complex designs. In general,
+   CPLDs are a good choice for wide combinational logic applications,
+   whereas FPGAs are more suitable for large state machines such as
+   microprocessors.
+
+EPLDs
+
+   [edit]
+   [220px-PLCC84_UV_Cypress.jpg] An EPLD from Cypress in a PLCC-package
+
+   Using the same technology as EPROMs, EPLDs have a quartz window in the
+   package that allows them to be erased on exposure to UV
+   light.^[15]^[16]
+
+   Using the same technology as EEPROMs, EEPLDs can be erased
+   electrically.^[15]^[16]
+
+   An erasable programmable logic device (EPLD) is an integrated circuit
+   that comprises an array of PLDs that do not come pre-connected; the
+   connections are programmed electrically by the user. Most GAL and FPGA
+   devices are examples of EPLDs.^[citation needed]
+
+Other variants
+
+   [edit]
+
+   These are microprocessor circuits that contain some fixed functions and
+   other functions that can be altered by code running on the processor.
+   Designing self-altering systems requires that engineers learn new
+   methods, and that new software tools be developed.
+
+   PLDs are being sold now that contain a microprocessor with a fixed
+   function (the so-called core) surrounded by programmable logic. These
+   devices let designers concentrate on adding new features to designs
+   without having to worry about making the microprocessor work. Also, the
+   fixed-function microprocessor takes less space on the chip than a part
+   of the programmable gate array implementing the same processor, leaving
+   more space for the programmable gate array to contain the designer's
+   specialized circuits.
+
+How PLDs retain their configuration
+
+   [edit]
+
+   A PLD is a combination of a logic device and a memory device. The
+   memory is used to store the pattern that was given to the chip during
+   programming. Most of the methods for storing data in an integrated
+   circuit have been adapted for use in PLDs. These include:
+     * Silicon antifuses
+     * SRAM
+     * EPROM or EEPROM memory cells
+     * Flash memory
+
+   Silicon antifuses are connections that are made by applying a voltage
+   across a modified area of silicon inside the chip. They are called
+   antifuses because they work in the opposite way to normal fuses, which
+   begin life as connections until they are broken by an electric current.
+
+   SRAM, or static RAM, is a volatile type of memory, meaning that its
+   contents are lost each time the power is switched off. SRAM-based PLDs
+   therefore have to be programmed every time the circuit is switched on.
+   This is usually done automatically by another part of the circuit.
+
+   An EPROM memory cell is a MOSFET (metal-oxide semiconductor
+   field-effect transistor, or MOS transistor) that can be switched on by
+   trapping an electric charge permanently on its gate electrode. This is
+   done by a PAL programmer. The charge remains for many years and can
+   only be removed by exposing the chip to strong ultraviolet light in a
+   device called an EPROM eraser.
+
+   Flash memory is non-volatile, retaining its contents even when the
+   power is switched off. It is stored on floating-gate MOSFET memory
+   cells, and can be erased and reprogrammed as required. This makes it
+   useful in PLDs that may be reprogrammed frequently, such as PLDs used
+   in prototypes. Flash memory is a kind of EEPROM that holds information
+   using trapped electric charges similar to EPROM. Consequently, flash
+   memory can hold information for years, but possibly not as many years
+   as EPROM.
+
+   As of 2005, most CPLDs are electrically programmable and erasable, and
+   non-volatile. This is because they are too small to justify the
+   inconvenience of programming internal SRAM cells every time they start
+   up, and EPROM cells are more expensive due to their ceramic package
+   with a quartz window.
+
+PLD programming languages
+
+   [edit]
+
+   Many PAL programming devices accept input in a standard file format,
+   commonly referred to as 'JEDEC files'. They are analogous to software
+   compilers. The languages used as source code for logic compilers are
+   called hardware description languages, or HDLs.^[1]
+
+   PALASM, ABEL and CUPL are frequently used for low-complexity devices,
+   while Verilog and VHDL are popular higher-level description languages
+   for more complex devices. The more limited ABEL is often used for
+   historical reasons, but for new designs VHDL is more popular, even for
+   low-complexity designs.
+
+   For modern PLD programming languages, design flows, and tools, see FPGA
+   and reconfigurable computing.
+
+PLD programming devices
+
+   [edit]
+
+   A device programmer is used to transfer the Boolean logic pattern into
+   the programmable device. In the early days of programmable logic, every
+   PLD manufacturer also produced a specialized device programmer for its
+   family of logic devices. Later, universal device programmers came onto
+   the market that supported several logic device families from different
+   manufacturers. Today's device programmers usually can program common
+   PLDs (mostly PAL/GAL equivalents) from all existing manufacturers.
+   Common file formats used to store the Boolean logic pattern (fuses) are
+   JEDEC, Altera POF (programmable object file), or Xilinx BITstream.^[17]
+
+See also
+
+   [edit]
+     * Complex programmable logic device (CPLD)
+     * Field-programmable gate array (FPGA)
+     * Macrocell array
+     * Programmable array logic (PAL)
+
+References
+
+   [edit]
+    1. ^ ^a ^b Horowitz, Paul; Hill, Winfield (2015). Horowitz P., Hill W.
+       - The Art of Electronics. New York. p. 764.
+       ISBN 978-0-521-80926-9.{{cite book}}: CS1 maint: location missing
+       publisher (link)
+    2. ^ Holdsworth, B.; Woods, R. C. (2003). Digital Logic Design
+       (4th ed.). Elsevier. ISBN 978-0-7506-4582-9.
+    3. ^ Motorola Semiconductor Data Book, Fourth Edition. Motorola Inc.
+       1969. p. IC-73.
+    4. ^ ^a ^b Andres, Kent (October 1970). A Texas Instruments
+       Application Report: MOS programmable logic arrays. Texas
+       Instruments. Bulletin CA-158. Report introduces the TMS2000 and
+       TMS2200 series of mask programmable PLAs.
+    5. ^ Greer, David L. Electrically Programmable Logic Circuits US
+       Patent 3,818,452. Assignee: General Electric, Filed: April 28,
+       1972, Granted: June 18, 1974
+    6. ^ Greer, David L. Multiple Level Associative Logic Circuits US
+       Patent 3,816,725. Assignee: General Electric, Filed: April 28,
+       1972, Granted: June 11, 1974
+    7. ^ Greer, David L. Segmented Associative Logic Circuits US Patent
+       3,849,638. Assignee: General Electric, Filed: July 18, 1973,
+       Granted: November 19, 1974
+    8. ^ "Semiconductors and IC's : FPLA". EDN. 20 (13). Boston, MA:
+       Cahners Publishing: 66. July 20, 1975. Press release on Intersil
+       IM5200 field programmable logic array. Fourteen inputs pins and 48
+       product terms. Avalanched-induced-migration programming. Unit price
+       was $37.50
+    9. ^ "FPLA's give quick custom logic". EDN. 20 (13). Boston, MA:
+       Cahners Publishing: 61. July 20, 1975. Press release on Signetics
+       82S100 and 82S101 field programmable logic arrays. Fourteen inputs
+       pins, 8 output pins and 48 product terms. NiCr fuse link
+       programming.
+   10. ^ Pellerin, David; Michael Holley (1991). Practical Design Using
+       Programmable Logic. Prentice-Hall. p. 15. ISBN 0-13-723834-7.
+   11. ^ Dorf, Richard C. (3 October 2018). Electronics, Power
+       Electronics, Optoelectronics, Microwaves, Electromagnetics, and
+       Radar. CRC Press. ISBN 978-1-4200-0315-4.
+   12. ^ Vahid, Frank; Givargis, Tony D. (17 October 2001). Embedded
+       System Design: A Unified Hardware / Software Introduction. John
+       Wiley & Sons. ISBN 978-0-471-38678-0.
+   13. ^ Chen, Wai-Kai (3 October 2018). The VLSI Handbook. CRC Press.
+       ISBN 978-1-4200-0596-7.
+   14. ^ "Using Flash Memory to Configure FPGAs" (PDF). Altera. Retrieved
+       2024-08-21.
+   15. ^ ^a ^b Tertulien Ndjountche. "Digital Electronics 2: Sequential
+       and Arithmetic Logic Circuits". 2016. p. 224.
+   16. ^ ^a ^b Clive Maxfield. "The Design Warrior's Guide to FPGAs".
+       2004. p. 20
+   17. ^ PLD File Formats
+
+External links
+
+   [edit]
+   Wikibooks has a book on the topic of: Programmable Logic
+
+   Wikimedia Commons has media related to Programmable logic devices.
+
      *
 
-       IFRAME:
-       http://www.facebook.com/plugins/like.php?href=https://www.5tjt.com/
-       real-clear-daf-q-review-4/&layout=button_count&show_faces=false&wid
-       th=105&action=like&colorscheme=light&height=21
+   "PLD Tools Creating SVF, JAM, STAPL and other formats". JTAG /
+   boundary-scan. Corelis. Dec 1, 2010. Archived from the original on
+   March 18, 2012. Retrieved July 18, 2011.
 
-     * tweet
+     "FPGAs and CPLDs". Lattice Semiconductor.
 
-   Previous articleWhat’s In A Dot? The ‘Hu’ vs. ‘Ho’ Conundrum
-   Next articleStoryline: Ma’aser Kesafim For Esrog
+     * v
+     * t
+     * e
 
-RELATED ARTICLESMORE FROM AUTHOR
+   Programmable logic
 
-   Advice
+   Concepts
 
-Silver Singles
+     * ASIC
+     * SoC
+     * FPGA
+          + Logic block
+     * CPLD
+     * EPLD
+     * PLA
+     * PAL
+     * GAL
+     * PSoC
+     * Reconfigurable computing
+          + Xputer
+     * Soft microprocessor
+     * Circuit underutilization
+     * High-level synthesis
+     * Hardware acceleration
 
-   Torah
+   Languages
 
-Preserving Today’s Chanukah Miracle
+     * Verilog
+          + A
+          + AMS
+     * VHDL
+          + AMS
+          + VITAL
+     * SystemVerilog
+          + DPI
+     * SystemC
+     * AHDL
+     * Handel-C
+     * Lola
+     * PSL
+     * UPF
+     * PALASM
+     * ABEL
+     * CUPL
+     * C to HDL
+     * Flow to HDL
+     * MyHDL
+     * ELLA
+     * Chisel
 
-   Torah
+   Companies
 
-The Courage And Glory Of The “Few”
+     * Accellera
+     * Achronix
+     * AMD
+     * Aldec
+     * Arm
+     * Cadence
+     * Infineon
+     * Intel
+     * Lattice
+     * Microchip Technology
+     * NXP
+     * Siemens
+     * Synopsys
+     * Texas Instruments
 
-LEAVE A REPLY Cancel reply
+   Products
 
+   Hardware
+     * iCE
+     * Stratix
+     * Virtex
 
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   _____________________________________________
-   Please enter your comment!
-   ______________________________
-   Please enter your name here
-   ______________________________
-   You have entered an incorrect email address!
-   Please enter your email address here
+   Software
+     * Intel Quartus Prime
+     * Xilinx ISE
+     * Vivado
+     * ModelSim
+     * VTR
+     * Simulators
 
-   Post Comment
+   Intellectual
+   property
+   Proprietary
+     * ARC
+     * ARM Cortex-M
+     * LEON
+     * LatticeMico8
+     * MicroBlaze
+     * PicoBlaze
+     * Nios
+     * Nios II
 
-Our Newsletter
+   Open-source
+     * JOP
+     * LatticeMico32
+     * OpenCores
+     * OpenRISC
+          + 1200
+     * Power ISA
+          + Libre-SOC
+          + Microwatt
+     * RISC-V
 
-   SUBSCRIBE NOW!
+     * v
+     * t
+     * e
 
-   ____________________
+   Digital electronics
 
-   Subscribe to our newsletter and get notified about our newest projects
-   and promotions.
+   Components
 
-   SUBMIT
+     * Transistor
+     * Resistor
+     * Inductor
+     * Capacitor
+     * Printed electronics
+     * Printed circuit board
+     * Electronic circuit
+     * Flip-flop
+     * Memory cell
+     * Combinational logic
+     * Sequential logic
+     * Logic gate
+     * Boolean circuit
+     * Integrated circuit (IC)
+     * Hybrid integrated circuit (HIC)
+     * Mixed-signal integrated circuit
+     * Three-dimensional integrated circuit (3D IC)
+     * Emitter-coupled logic (ECL)
+     * Erasable programmable logic device (EPLD)
+     * Macrocell array
+     * Programmable logic array (PLA)
+     * Programmable logic device (PLD)
+     * Programmable Array Logic (PAL)
+     * Generic Array Logic (GAL)
+     * Complex programmable logic device (CPLD)
+     * Field-programmable gate array (FPGA)
+     * Field-programmable object array (FPOA)
+     * Application-specific integrated circuit (ASIC)
+     * Tensor Processing Unit (TPU)
 
-   [X]
-   Leave this field empty if you're human: ____________________
-   - Advertisement -
+   Theory
 
-Categories
+     * Digital signal
+     * Boolean algebra
+     * Logic synthesis
+     * Logic in computer science
+     * Computer architecture
+     * Digital signal
+          + Digital signal processing
+     * Circuit minimization
+     * Switching circuit theory
+     * Gate equivalent
 
-   Commercial Real Estate for Rent (1)
-   For Rent (4)
-   Help Wanted (8)
-   Miscellaneous (1)
-   Real Estate for Sale (7)
-   Services Provided (21)
+   Design
 
-Stay connected
+     * Logic synthesis
+     * Place and route
+          + Placement
+          + Routing
+     * Transaction-level modeling
+     * Register-transfer level
+          + Hardware description language
+          + High-level synthesis
+     * Formal equivalence checking
+     * Synchronous logic
+     * Asynchronous logic
+     * Finite-state machine
+          + Hierarchical state machine
 
-   77,778FansLike
-   1,530FollowersFollow
-   1,292FollowersFollow
+   Applications
 
-Latest article
+     * Computer hardware
+          + Hardware acceleration
+     * Digital audio
+          + radio
+     * Digital photography
+     * Digital telephone
+     * Digital video
+          + cinematography
+          + television
+     * Electronic literature
 
-Silver Singles
+   Design issues
 
-   Advice December 23, 2024
-   0
-   Question My husband and I are nearing 80, and we just celebrated our
-   son’s 50th birthday. It was a beautiful surprise party for him, but...
+     * Metastability
+     * Runt pulse
 
-Preserving Today’s Chanukah Miracle
+   Authority control databases: National Edit this at Wikidata
+     * Czech Republic
 
-   Torah December 23, 2024
-   0
-   In his account of the story of Chanukah, Rambam (Laws of Megillah and
-   Chanukah 3:1) chooses to highlight an element of the triumph over...
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Programmable_logic_device&o
+   ldid=1264062025"
 
-The Courage And Glory Of The “Few”
+   Category:
+     * Gate arrays
 
-   Torah December 23, 2024
-   0
-   “You delivered the mighty into the hands of the weak, and the many into
-   the hands of the few.”—Text of the Al Hanisim prayer...
+   Hidden categories:
+     * CS1 maint: location missing publisher
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use American English from April 2019
+     * All Wikipedia articles written in American English
+     * Wikipedia introduction cleanup from January 2013
+     * All pages needing cleanup
+     * Articles covered by WikiProject Wikify from January 2013
+     * All articles covered by WikiProject Wikify
+     * All articles with unsourced statements
+     * Articles with unsourced statements from May 2021
+     * Commons category link is on Wikidata
 
-Weather
+     * This page was last edited on 20 December 2024, at 06:01 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
 
-   New York
-   overcast clouds
-   ____________________ enter location
-   30.5 ° F
-   32.2 °
-   26.9 °
-   62%
-   2.2mph
-   100%
-   Wed
-   32 °
-   Thu
-   33 °
-   Fri
-   34 °
-   Sat
-   37 °
-   Sun
-   42 °
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
 
-Facebook feeds
-
-   Unable to display Facebook posts.
-   Show error
-   Error: API access disrupted. Go to the App Dashboard and complete Data
-   Use Checkup.
-   Type: OAuthException
-   Code: 200
-   Please refer to our Error Message Reference.
-
-Follow Us on Twitter
-
-   Tweets by @5TJT
-
-Instagram Feeds
-
-   Load More…Follow on Instagram
-
-   [5tjt-small-logo.png]
-   Contact us: dovi@5tjt.com
-   or ygordon5t@gmail.com
-
-Search 5TJT.com
-
-Links
-
-     * Read the Paper Online
-     * About Us
-     * Tehilim List
-     * Newspaper
-     * Advertise In 5TJT
-
-Categories
-
-     * News & Politics
-     * Lifestyle
-     * Media
-     * Business
-     * 5 Towns Community
-     * Judaism/Spirituality
-
-     * News & Politics
-     * Lifestyle
-     * Media
-     * Business
-     * 5 Towns Community
-     * Judaism/Spirituality
-
-   © Copyright © 2023 The 5 Towns Jewish Times. All rights reserved.
-
-   MORE STORIES
-
-Silver Singles
-
-   Advice December 23, 2024
-
-Preserving Today’s Chanukah Miracle
-
-   Torah December 23, 2024
-
-The Courage And Glory Of The “Few”
-
-   Torah December 23, 2024
-
-Mazel Tov! But Who Will Pay The Bills?
-
-   Advice December 23, 2024
-
-Miketz: The Hebrew Hammers
-
-   Torah December 23, 2024
-   video
-
-Finding Love Again after being Widowed with 5 Children
-
-   Media December 23, 2024
-
-   Edit with Live CSS
-
-   .submitbtnclass_____________________________________________
-   {___________________________________________________________
-           padding: 15px;______________________________________
-       color: #ffffff;_________________________________________
-       background: #cb2f29;____________________________________
-       text-transform: uppercase;______________________________
-       /* float: right; */_____________________________________
-       margin: 14px;___________________________________________
-         margin: 14px;_________________________________________
-       position: absolute;_____________________________________
-       right: 0;_______________________________________________
-       margin-right: 3px;______________________________________
-       top: -39px;_____________________________________________
-       ________________________________________________________
-   }___________________________________________________________
-   ____________________________________________________________
-   @media (min-width:767px)____________________________________
-   {___________________________________________________________
-   .search .td_module_11 .td-module-thumb______________________
-   {max-width:324px;}__________________________________________
-   ____________________________________________________________
-   .submitbtnclass_____________________________________________
-   {___________________________________________________________
-           padding: 15px;______________________________________
-       color: #ffffff;_________________________________________
-       background: #cb2f29;____________________________________
-       text-transform: uppercase;______________________________
-       /* float: right; */_____________________________________
-       margin: 14px;___________________________________________
-       position: absolute;_____________________________________
-       right: 0;_______________________________________________
-       margin-right: 37px;_____________________________________
-       top: -43px;_____________________________________________
-       ________________________________________________________
-   }___________________________________________________________
-   }___________________________________________________________
-   @media (max-width:767px)____________________________________
-   {___________________________________________________________
-   .td-main-sidebar____________________________________________
-   {margin-top:30px;}__________________________________________
-   }___________________________________________________________
-   .page-nav {_________________________________________________
-         margin: 10px 0px -29px;_______________________________
-   }___________________________________________________________
-   ____________________________________________________________
-   .newspaper .td_block_padding {______________________________
-       padding:0px 16px ;______________________________________
-       MARGIN-BOTTOM: 0px; }___________________________________
-   .page-template-custom-templatestpl-newspaper-php .td-main-pa
-      _________________________________________________________
-   .newspaper .td_module_3 {___________________________________
-       min-height: 280px;______________________________________
-   }   ________________________________________________________
-   .newspaper .td_module_3 img {_______________________________
-       min-height: 205px;______________________________________
-   }      _____________________________________________________
-   ____________________________________________________________
-   #efblcf , .home .ctcfm-sidebar , .advert-img , .advert-templ
-   {display:none }_____________________________________________
-   .td-grid-style-1.td-hover-1 .td-module-thumb a:last-child:be
-   {background:transparent !important;}________________________
-   .ui-datepicker-title select {_______________________________
-       margin-top: 2.5%;_______________________________________
-       color: #000;____________________________________________
-   }___________________________________________________________
-   .adverts-flexbox-title {____________________________________
-       font-weight: normal !important;_________________________
-       padding: 0.5em 0 0.5em 0 ;______________________________
-       line-height: 19px !important;___________________________
-   }___________________________________________________________
-   .adverts-flexbox-icon {_____________________________________
-       color: #2e5390 !important;______________________________
-   }___________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   @font-face {________________________________________________
-     font-family: 'adverts-glyphs';____________________________
-     src: url('https://www.5tjt.com/wp-content/plugins/wpadvert
-     src: url('https://www.5tjt.com/wp-content/plugins/wpadvert
-          url('https://www.5tjt.com/wp-content/plugins/wpadvert
-          url('https://www.5tjt.com/wp-content/plugins/wpadvert
-          url('//d16cunm4ue8a76.cloudfront.net/wp-content/plugi
-     font-weight: normal;______________________________________
-     font-style: normal;_______________________________________
-   }___________________________________________________________
-   ____________________________________________________________
-   .fa {_______________________________________________________
-       padding: 0px 10px 0px 0px !important;___________________
-   }___________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   .lbanner {width: 19%; position: absolute !important; _______
-   padding-right:0 !important;}________________________________
-   .lbanner .wpb_wrapper {max-width:323px;}____________________
-   @media (max-width: 1695px) {________________________________
-   .lbanner {__________________________________________________
-   width: 15%;_________________________________________________
-   }___________________________________________________________
-   }___________________________________________________________
-   @media (max-width: 1543px) {________________________________
-   .lbanner {__________________________________________________
-   width: 11%;_________________________________________________
-   }___________________________________________________________
-   }___________________________________________________________
-   @media (max-width: 1380px){_________________________________
-       .lbanner {display: none !important;}____________________
-   }___________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-    #td-mobile-nav {___________________________________________
-       background: #1b2d4f !important;_________________________
-   }___________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   .worldnews .td-module-meta-info time, ______________________
-   .worldnews .td-module-meta-info .td-module-comments,________
-   .worldnews .td-animation-stack .td-module-thumb,____________
-   .worldnews .td-excerpt, .worldnews .td-block-span6 .td-excer
-   .worldnews .td_module_4 .td-module-thumb {display: block}___
-   .worldnews .td_module_6 .item-details{margin-left:0; min-hei
-   .worldnews .td_module_6 {padding-bottom: 5px;}______________
-   .worldnews .td_module_6 .item-details{border-bottom: 1px sol
-   .worldnews .td_module_6:last-child .item-details{border-bott
-   .worldnews .td-load-more-wrap a[style^="visibility: visible;
-   .worldnews .td-module-meta-info{margin-bottom: 10px;}_______
-   .worldnews .td_module_4 {padding-bottom: 0px;}______________
-   .worldnews .td-block-span6:nth-child(odd) {clear:left}______
-
-   Save
-   Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.
+     * Wikimedia Foundation
+     * Powered by MediaWiki
