@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Fichiers et dossiers
@@ -19,12 +20,12 @@ function extract_context() {
     echo "$content" | grep -i -o -P ".{0,50}\b($word)\b.{0,50}" | head -n 5
 }
 
-# Fonction pour extraire les concordances
 function extract_concordance() {
     local content="$1"
     local word="$2"
-    echo "$content" | grep -i -o -P "(\w+\s+\w+\s+)?\b($word)\b(\s+\w+\s+\w+)?" | sed -E 's/(.*)(\b'$word'\b)(.*)/\1\t\2\t\3/' | head -n 10
+    echo "$content" | grep -o -P "(?:(?:\S+\s+){0,3})\b($word)\b(?:\s+\S+){0,3}" | sed -E 's/(.*\b)\b('$word')\b(\b.*)/\1\t\2\t\3/' | awk -F'\t' '{print $1 "\t" $2 "\t" $3}' | head -n 10
 }
+
 
 # Début du tableau HTML
 echo "<!DOCTYPE html>
@@ -53,6 +54,7 @@ echo "<!DOCTYPE html>
                 <th>Nombre de Tokens</th>
                 <th>Compte</th>
                 <th>Contexte</th>
+                <th>Concordance</th>
             </tr>
         </thead>
         <tbody>" > "$OUTPUT_HTML"
@@ -119,16 +121,51 @@ while IFS= read -r url; do
 </body>
 </html>" > "$CONTEXT_HTML"
 
-    # Extraire les concordances
-    CONCORDANCE=$(extract_concordance "$DUMP_TEXT" "$WORD")
+# Extraire les concordances
+CONCORDANCE=$(extract_concordance "$DUMP_TEXT" "$WORD")
 
-    # Sauvegarder les concordances dans un fichier HTML
-    CONCORDANCE_HTML="$CONCORDANCE_DIR/concordance_$COUNTER.html"
-    echo "<html><body><table><thead><tr><th>Gauche</th><th>Mot</th><th>Droit</th></tr></thead><tbody>" > "$CONCORDANCE_HTML"
-    echo "$CONCORDANCE" | while IFS=$'\t' read -r left word right; do
-        echo "  <tr><td>$left</td><td>$word</td><td>$right</td></tr>" >> "$CONCORDANCE_HTML"
-    done
-    echo "</tbody></table></body></html>" >> "$CONCORDANCE_HTML"
+# Sauvegarder les concordances dans un fichier HTML
+CONCORDANCE_HTML="$CONCORDANCE_DIR/concordance_$COUNTER.html"
+echo "<!DOCTYPE html>
+<html lang=\"fr\">
+<head>
+    <meta charset=\"UTF-8\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <title>Concordance $COUNTER</title>
+    <style>
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: center; }
+        th { background-color: #f8f9fa; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+    </style>
+</head>
+<body>
+    <h1>Concordances pour le mot \"$WORD\"</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Gauche</th>
+                <th>Mot</th>
+                <th>Droit</th>
+            </tr>
+        </thead>
+        <tbody>" > "$CONCORDANCE_HTML"
+
+# Ajouter chaque concordance à la table HTML
+echo "$CONCORDANCE" | while IFS=$'\t' read -r left word right; do
+    echo "        <tr>
+            <td>${left:-&nbsp;}</td>
+            <td>${word:-&nbsp;}</td>
+            <td>${right:-&nbsp;}</td>
+        </tr>" >> "$CONCORDANCE_HTML"
+done
+
+# Fermer la table et le fichier HTML
+echo "    </tbody>
+    </table>
+</body>
+</html>" >> "$CONCORDANCE_HTML"
+
 
     # Ajouter les résultats au tableau HTML
     echo "        <tr>
@@ -139,6 +176,7 @@ while IFS= read -r url; do
             <td>$TOKENS</td>
             <td>$COMPTE</td>
             <td><a href=\"$CONTEXT_HTML\" target=\"_blank\">HTML</a></td>
+            <td><a href=\"$CONCORDANCE_HTML\" target=\"_blank\">HTML</a></td>
         </tr>" >> "$OUTPUT_HTML"
 
     COUNTER=$((COUNTER + 1))
@@ -151,7 +189,4 @@ echo "    </tbody>
 </html>" >> "$OUTPUT_HTML"
 
 echo "Tableau HTML généré dans $OUTPUT_HTML"
-echo "Fichiers d'aspiration générés dans $ASPIRATION_DIR"
-echo "Fichiers de dump générés dans $DUMP_DIR"
-echo "Fichiers de contexte générés dans $CONTEXT_DIR"
 echo "Fichiers de concordance générés dans $CONCORDANCE_DIR"
