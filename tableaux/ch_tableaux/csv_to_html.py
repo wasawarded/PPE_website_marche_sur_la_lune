@@ -51,14 +51,27 @@ def csv_to_html():
         # Create table headers
         html_content = "<thead><tr>"
         for header in headers:
-            html_content += f"<th>{html.escape(header)}</th>"
+            if header != "HTML" and header != "DUMP":
+                html_content += f"<th>{html.escape(header)}</th>"
+        html_content += "<th>Lien Contexte</th><th>Lien Concordance</th>"
         html_content += "</tr></thead><tbody>"
         
         # Create table rows
         for row in reader:
+            file_id = row[0].strip('[]')
             html_content += "<tr>"
-            for cell in row:
-                html_content += f"<td>{html.escape(str(cell))}</td>"
+            for index, cell in enumerate(row):
+                if index == 1:
+                    html_content += f"<td><a href=\"{cell}\">{html.escape(str(cell))}</a></td>"
+                elif index == 4 or index == 5:
+                    continue
+                else:
+                    html_content += f"<td>{html.escape(str(cell))}</td>"
+
+            contexte_path = f"../../contextes/ch_contexte/contexte_txt/dump_ch_{file_id}.txt_tokenized.txt"
+            concordance_path = f"../concordances/ch_concordances/dump_ch_{file_id}.txt_tokenized.html"
+            html_content += f"<td><a href=\"{contexte_path}\">Contexte</a></td>"
+            html_content += f"<td><a href=\"{concordance_path}\">Concordance</a></td>"
             html_content += "</tr>"
 
     html_end = "</tbody></table></body></html>"
