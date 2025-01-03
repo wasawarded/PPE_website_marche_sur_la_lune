@@ -42,3 +42,12 @@
 ### anglais
 - la tokenization de dump et de contexte, création du script make pals
 - problèmes : au début j'ai récupéré plus de 50 url et j'ai fais les dumps et les contextes mais sur le tableaux je n'utilise que 50, il faut que je modifie les dumps et les contextes ainsi que leur html
+
+## Du 25/12/2024 au 31/12/2024
+### chinois
+- Création de scripts shell pour sauvegarder le contenu des URL en chinois sous forme de dump-text et d’aspiration 
+- Extraction d’informations (comme les codes HTTP) à partir des scripts, sauvegarde dans un fichier CSV et conversion en tableau HTML 
+- Modification d’un script Python fourni par le professeur pour effectuer la segmentation des textes chinois et segmentation de tout le contenu 
+- Analyse des textes segmentés pour calculer la fréquence des mots et créer un document de contexte 
+- Développement d’un script pour établir des concordances 
+- Implémentation d’un script pour la PALS (Pattern Analysis and Linguistic Search) 
