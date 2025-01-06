@@ -53,7 +53,7 @@ def csv_to_html():
         for header in headers:
             if header != "HTML" and header != "DUMP":
                 html_content += f"<th>{html.escape(header)}</th>"
-        html_content += "<th>Lien Contexte</th><th>Lien Concordance</th>"
+        html_content += "<th>Lien Contexte</th><th>Lien Concordance</th><th>Aspiration</th><th>Dump</th>"
         html_content += "</tr></thead><tbody>"
         
         # Create table rows
@@ -70,8 +70,12 @@ def csv_to_html():
 
             contexte_path = f"../../contextes/ch_contexte/contexte_txt/dump_ch_{file_id}.txt_tokenized.txt"
             concordance_path = f"../concordances/ch_concordances/dump_ch_{file_id}.txt_tokenized.html"
+            aspiration_path = f"../../aspirations/ch_html/ch_{file_id}.html"
+            dump_path = f"../../dumps-text/logique_chinois/dump_ch_{file_id}.txt"
             html_content += f"<td><a href=\"{contexte_path}\">Contexte</a></td>"
             html_content += f"<td><a href=\"{concordance_path}\">Concordance</a></td>"
+            html_content += f"<td><a href=\"{aspiration_path}\">aspiration</a></td>"
+            html_content += f"<td><a href=\"{dump_path}\">dump</a></td>"
             html_content += "</tr>"
 
     html_end = "</tbody></table></body></html>"
