@@ -1264,32 +1264,32 @@ Références
   25. mailto:ladislau@dowbor.org
   26. http://dowbor.org/
   27. http://dowbor.org/
-  28. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#1
-  29. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#2
-  30. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#3
-  31. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#4
-  32. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#5
-  33. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#6
-  34. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#7
-  35. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#8
-  36. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#9
-  37. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#10
-  38. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#11
-  39. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#12
-  40. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#13
-  41. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#14
-  42. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#15
-  43. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#16
-  44. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#17
-  45. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#18
-  46. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#19
-  47. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#20
-  48. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#21
-  49. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#22
-  50. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#23
-  51. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#24
-  52. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#25
-  53. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#26
+  28. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#1
+  29. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#2
+  30. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#3
+  31. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#4
+  32. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#5
+  33. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#6
+  34. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#7
+  35. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#8
+  36. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#9
+  37. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#10
+  38. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#11
+  39. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#12
+  40. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#13
+  41. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#14
+  42. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#15
+  43. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#16
+  44. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#17
+  45. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#18
+  46. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#19
+  47. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#20
+  48. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#21
+  49. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#22
+  50. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#23
+  51. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#24
+  52. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#25
+  53. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#26
   54. javascript:void(0);
   55. http://stoa.usp.br/acesso
   56. http://creativecommons.org/licenses/by-nc/2.5/br/
@@ -1305,34 +1305,34 @@ Références
   66. http://www.opencontent.org/openpub/
   67. http://www.un.org/esa/policy/wess/wess2009files/wess09/overview_en.pdf
   68. http://www.gpopai.usp.br/boletim/article86.html
-  69. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top1
-  70. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top2
-  71. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top3
-  72. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top4
-  73. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top5
-  74. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top6
+  69. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top1
+  70. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top2
+  71. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top3
+  72. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top4
+  73. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top5
+  74. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top6
   75. http://www.gpopai.usp.br/boletim/article88.html
   76. http://www.piratecoelho.wordpress.com/
-  77. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top7
-  78. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top8
-  79. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top9
-  80. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top10
+  77. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top7
+  78. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top8
+  79. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top9
+  80. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top10
   81. http://www.benkler.org/
-  82. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top11
-  83. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top12
-  84. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top13
-  85. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top14
+  82. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top11
+  83. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top12
+  84. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top13
+  85. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top14
   86. http://www.toomuch.org/
-  87. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top15
-  88. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top16
-  89. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top17
-  90. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top18
-  91. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top19
-  92. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top20
-  93. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top21
-  94. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top22
-  95. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top23
-  96. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top24
-  97. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top25
-  98. file:///tmp/lynxXXXXIbxjJZ/L7331-352TMP.html#top26
+  87. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top15
+  88. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top16
+  89. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top17
+  90. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top18
+  91. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top19
+  92. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top20
+  93. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top21
+  94. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top22
+  95. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top23
+  96. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top24
+  97. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top25
+  98. file:///tmp/lynxXXXXGDy9KO/L9848-147TMP.html#top26
   99. mailto:revistas.indeg@iscte.pt

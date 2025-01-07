@@ -359,7 +359,7 @@ Références
   18. https://contrapoder.net/artigo/o-video-de-lula/
   19. https://contrapoder.net/colunas/bolsonaro-e-o-golpe-que-nao-aconteceu/
   20. https://contrapoder.net/colunas/istvan-meszaros-e-as-jornadas-de-junho-de-2013/#comment-1645
-  21. file:///tmp/lynxXXXXonPZnB/L7601-1487TMP.html#comment-1645
+  21. file:///tmp/lynxXXXXOsWt4T/L10112-7031TMP.html#comment-1645
   22. file:///colunas/istvan-meszaros-e-as-jornadas-de-junho-de-2013/#respond
   23. https://www.deezer.com/us/show/1330752
   24. https://contrapoder.net/expediente/
@@ -386,4 +386,4 @@ Références
   44. https://api.whatsapp.com/send?phone=+5511%2095177-1614&text=Quero%20me%20CADASTRAR%20na%20rede%20*CONTRAPODER*
   45. https://soundcloud.com/plataforma-contrapoder/
   46. https://open.spotify.com/show/2x62VHxP6P95AEsXf53PQW
-  47. file://localhost/tmp/lynxXXXXonPZnB/L7601-1487TMP.html
+  47. file://localhost/tmp/lynxXXXXOsWt4T/L10112-7031TMP.html

@@ -456,11 +456,11 @@ Références
   45. file:///vida-saudavel
   46. file:///vida-saudavel/alimentacao
   47. file:///vida-saudavel/exercicio
-  48. file:///tmp/lynxXXXXfbi14j/L7771-9244TMP.html
+  48. file:///tmp/lynxXXXX4g68IR/L10290-8832TMP.html
   49. file:///moda
   50. file:///beleza
   51. file:///celebridades
-  52. file:///tmp/lynxXXXXfbi14j/L7771-9244TMP.html
+  52. file:///tmp/lynxXXXX4g68IR/L10290-8832TMP.html
   53. file:///relacionamentos
   54. file:///relacionamentos/sexo
   55. file:///filhos
@@ -596,5 +596,5 @@ Références
  184. file://mb.web.sapo.io/c8a575c8363b15cbd5a5574bb088e52958edabc1.jpg
  185. file://mb.web.sapo.io/0e174c055c4e6d25ad9f7368b01b9aed803ded77.jpg
  186. file://mb.web.sapo.io/2e86267fdcb3bad8b01f8d76f7292a9c77c155ba.jpg
- 187. file://localhost/tmp/lynxXXXXfbi14j/L7771-9244TMP.html
+ 187. file://localhost/tmp/lynxXXXX4g68IR/L10290-8832TMP.html
  188. file://localhost/

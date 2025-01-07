@@ -1031,7 +1031,7 @@ Références
   22. javascript:void(0);
   23. http://scielo.pt/scielo.php?script=sci_serial&pid=0870-8231&lng=en&nrm=iso
   24. https://doi.org/10.14417/ap.911
-  25. file:///tmp/lynxXXXXrJVeA7/L8326-434TMP.html#c0
+  25. file:///tmp/lynxXXXXXY6nYi/L10802-6619TMP.html#c0
   26. javascript:void(0);
   27. javascript:void(0);
   28. javascript:void(0);
@@ -1088,7 +1088,7 @@ Références
   79. javascript:void(0);
   80. javascript:void(0);
   81. javascript:void(0);
-  82. file:///tmp/lynxXXXXrJVeA7/L8326-434TMP.html#topc0
+  82. file:///tmp/lynxXXXXXY6nYi/L10802-6619TMP.html#topc0
   83. mailto:adribenevides@gmail.com
   84. http://creativecommons.org/licenses/by-nc/4.0/deed.en
   85. http://creativecommons.org/licenses/by-nc/4.0/deed.en

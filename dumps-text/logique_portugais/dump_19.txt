@@ -257,24 +257,22 @@ DESINFORMAÇÃO?
    Compartilhe
 
    Leia também
-   falso É falso que decreto de Lula proíbe policiais de atirar em
-   criminosos
-   [54]Boataria política[55]Checagem
+   Julgamento no STF pressiona Congresso a regular ‘big techs’ em 2025
+   [54]Tecnopolítica[55]Reportagem
 
-É falso que decreto de Lula proíbe policiais de atirar em criminosos
+Julgamento no STF pressiona Congresso a regular ‘big techs’ em 2025
 
-   falso Centenas de anúncios na Meta promovem falso bolão da Mega da
-   Virada
-   [56]Fraudes digitais[57]Checagem
+   falso É falso que Polícia Federal descobriu fraude na Mega da Virada
+   [56]Boataria política[57]Checagem
 
-Centenas de anúncios na Meta promovem falso bolão da Mega da Virada
+É falso que Polícia Federal descobriu fraude na Mega da Virada
 
-   falso É falso que Alexandre de Moraes tirou do ar ferramenta de cotação
-   de moedas do Google
-   [58]Boataria política[59]Checagem
+   falso Bandeiras do orgulho LGBTQIA+ não serão proibidas no Mundial de
+   Clubes 2025 da Fifa
+   [58]Discurso de ódio[59]Checagem
 
-É falso que Alexandre de Moraes tirou do ar ferramenta de cotação de moedas
-do Google
+Bandeiras do orgulho LGBTQIA+ não serão proibidas no Mundial de Clubes 2025
+da Fifa
      __________________________________________________________________
 
    [60]Sobre o Aos Fatos[61]Equipe[62]Impacto[63]Política
@@ -286,12 +284,12 @@ do Google
    Siga o Aos Fatos
    Logo Ajor Selo IFCN
    Marca Aos Fatos
-   [70]Luiz Inácio Lula da Silva[71]Jair Bolsonaro[72]Estados
-   Unidos[73]Fernando Haddad[74]inteligência artificial[75]STF[76]Janja
-   Lula da Silva[77]Ministério da Fazenda[78]impostos[79]Donald Trump[80]8
-   de Janeiro[81]Alexandre de Moraes[82]Rodrigo Pacheco[83]Bolsa
-   Família[84]economia[85]X (ex-Twitter)[86]Câmara dos
-   Deputados[87]Polícia Federal[88]Meta[89]Google
+   [70]Luiz Inácio Lula da Silva[71]Estados Unidos[72]Donald
+   Trump[73]Janja Lula da Silva[74]inteligência artificial[75]STF[76]Jair
+   Bolsonaro[77]Ministério da Fazenda[78]drones[79]Câmara dos
+   Deputados[80]Meta[81]Bolsa Família[82]Google[83]X
+   (ex-Twitter)[84]Kwai[85]LGBTQIA+[86]Pablo Marçal[87]enchentes no
+   RS[88]jogos ilegais[89]aposta
 
 Références
 
@@ -301,10 +299,10 @@ Références
    3. https://apnews.com/article/ai-misinformation-trump-putin-new-york-42ac9c41c5504d05412b492e48bcaded
    4. https://www.aosfatos.org/noticias/falso-foto-papa-francisco-jaqueta-branca/
    5. https://g1.globo.com/mundo/noticia/2023/03/21/o-que-pode-acontecer-se-trump-for-preso.ghtml
-   6. file:///tmp/lynxXXXXl30kNL/L8213-1108TMP.html#1
-   7. file:///tmp/lynxXXXXl30kNL/L8213-1108TMP.html#2
-   8. file:///tmp/lynxXXXXl30kNL/L8213-1108TMP.html#3
-   9. file:///tmp/lynxXXXXl30kNL/L8213-1108TMP.html#4
+   6. file:///tmp/lynxXXXXKOwaEL/L10691-9101TMP.html#1
+   7. file:///tmp/lynxXXXXKOwaEL/L10691-9101TMP.html#2
+   8. file:///tmp/lynxXXXXKOwaEL/L10691-9101TMP.html#3
+   9. file:///tmp/lynxXXXXKOwaEL/L10691-9101TMP.html#4
   10. https://epocanegocios.globo.com/Tecnologia/noticia/2019/03/leia-o-texto-do-convite-que-criou-o-termo-inteligencia-artificial.html
   11. https://www.smarthint.co/o-que-e-inteligencia-artificial-exemplos/
   12. https://www.techtudo.com.br/guia/2023/03/o-que-e-inteligencia-artificial-veja-como-surgiu-exemplos-e-polemicas-edsoftwares.ghtml
@@ -349,11 +347,11 @@ Références
   51. file:///noticias/?formato=explicador
   52. file:///noticias/?tag=donald-trump
   53. file:///noticias/?tag=inteligencia-artificial
-  54. file:///noticias/?canal=boataria-politica
-  55. file:///noticias/?formato=checagem
-  56. file:///noticias/?canal=fraudes-digitais
+  54. file:///noticias/?canal=tecnopolitica
+  55. file:///noticias/?formato=reportagem
+  56. file:///noticias/?canal=boataria-politica
   57. file:///noticias/?formato=checagem
-  58. file:///noticias/?canal=boataria-politica
+  58. file:///noticias/?canal=discurso-de-odio
   59. file:///noticias/?formato=checagem
   60. file:///sobre-o-aos-fatos/
   61. file:///nossa-equipe/
@@ -366,25 +364,25 @@ Références
   68. mailto:ouvidoria@aosfatos.org
   69. file:///termos-de-uso/
   70. file:///noticias/?tag=luiz-inacio-lula-da-silva
-  71. file:///noticias/?tag=jair-bolsonaro
-  72. file:///noticias/?tag=estados-unidos
-  73. file:///noticias/?tag=fernando-haddad
+  71. file:///noticias/?tag=estados-unidos
+  72. file:///noticias/?tag=donald-trump
+  73. file:///noticias/?tag=janja-lula-da-silva
   74. file:///noticias/?tag=inteligencia-artificial
   75. file:///noticias/?tag=stf
-  76. file:///noticias/?tag=janja-lula-da-silva
+  76. file:///noticias/?tag=jair-bolsonaro
   77. file:///noticias/?tag=ministerio-da-fazenda
-  78. file:///noticias/?tag=impostos
-  79. file:///noticias/?tag=donald-trump
-  80. file:///noticias/?tag=8-de-janeiro
-  81. file:///noticias/?tag=alexandre-de-moraes
-  82. file:///noticias/?tag=rodrigo-pacheco
-  83. file:///noticias/?tag=bolsa-familia
-  84. file:///noticias/?tag=economia
-  85. file:///noticias/?tag=x-ex-twitter
-  86. file:///noticias/?tag=camara-dos-deputados
-  87. file:///noticias/?tag=policia-federal
-  88. file:///noticias/?tag=meta
-  89. file:///noticias/?tag=google
+  78. file:///noticias/?tag=drones
+  79. file:///noticias/?tag=camara-dos-deputados
+  80. file:///noticias/?tag=meta
+  81. file:///noticias/?tag=bolsa-familia
+  82. file:///noticias/?tag=google
+  83. file:///noticias/?tag=x-ex-twitter
+  84. file:///noticias/?tag=kwai
+  85. file:///noticias/?tag=lgbtqia
+  86. file:///noticias/?tag=pablo-marcal
+  87. file:///noticias/?tag=enchentes-no-rs
+  88. file:///noticias/?tag=jogos-ilegais
+  89. file:///noticias/?tag=aposta
 
    Liens cachés :
   91. https://twitter.com/intent/tweet?text=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o+%23factchecking+Saiba+mais+em+https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F
@@ -396,9 +394,9 @@ Références
   97. https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F
   98. https://api.whatsapp.com/send?text=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o+Leia+mais+em+https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dsite
   99. https://t.me/share/url?url=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o&text=https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dbutton
- 100. file://localhost/noticias/falso-decreto-lula-proibe-policiais-atirar-criminosos/
- 101. file://localhost/noticias/anuncios-meta-falso-bolao-mega-virada/
- 102. file://localhost/noticias/falso-alexandre-de-moraes-cotacao-moedas-google/
+ 100. file://localhost/noticias/regulacao-big-techs-stf-congresso-2025/
+ 101. file://localhost/noticias/falso-policia-federal-descobriu-fraude-mega-da-virada/
+ 102. file://localhost/noticias/falso-bandeira-orgulho-lgbtqia-proibida-mundial-de-clubes-fifa/
  103. https://whatsapp.com/channel/0029Va7SqVPBqbrICyeouR1f
  104. https://www.instagram.com/aosfatos/
  105. https://twitter.com/aosfatos

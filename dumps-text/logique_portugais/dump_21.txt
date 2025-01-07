@@ -563,14 +563,14 @@ Références
  213. file:///pt/fale-connosco/
  214. file:///pt/wishlist/index.php?prod=978-989-693-066-0
  215. file:///pt/loja/comprar.php?prod=1547
- 216. file:///tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html
+ 216. file:///tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html
  217. file:///faq/index.php#faq-12
  218. http://www.addthis.com/bookmark.php
  219. file:///pt/sugira/index.php?cod=1547&tipo=1
- 220. file:///tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html#tabAprLivro
- 221. file:///tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html#tabPubLivro
- 222. file:///tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html#tabPreLivro
- 223. file:///tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html#tabAutLivro
+ 220. file:///tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html#tabAprLivro
+ 221. file:///tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html#tabPubLivro
+ 222. file:///tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html#tabPreLivro
+ 223. file:///tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html#tabAutLivro
  224. file:///pt/perguntas-frequentes/
  225. file:///pt/condicoes-gerais-de-venda-2/
  226. file:///pt/politica-de-privacidade-e-de-cookies/
@@ -580,8 +580,8 @@ Références
  230. https://www.livroreclamacoes.pt/inicio
 
    Liens cachés :
- 232. file://localhost/tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html
- 233. file://localhost/tmp/lynxXXXXGzWoLQ/L8289-3471TMP.html
+ 232. file://localhost/tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html
+ 233. file://localhost/tmp/lynxXXXXlBR1Xb/L10765-4351TMP.html
  234. file://localhost/pt/empresa-promotora-da-lingua-portuguesa/
  235. file://localhost/fotos/produtos/9789896930660_coaching_com_pnl_capa_200_kb_7875042935b51c834e62be.jpg
  236. file://localhost/pt/ficha-de-projecto/

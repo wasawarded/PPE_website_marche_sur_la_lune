@@ -483,11 +483,11 @@ Références
   45. file:///vida-saudavel
   46. file:///vida-saudavel/alimentacao
   47. file:///vida-saudavel/exercicio
-  48. file:///tmp/lynxXXXXMAIemd/L8569-6519TMP.html
+  48. file:///tmp/lynxXXXXW8Gx9G/L11122-5803TMP.html
   49. file:///moda
   50. file:///beleza
   51. file:///celebridades
-  52. file:///tmp/lynxXXXXMAIemd/L8569-6519TMP.html
+  52. file:///tmp/lynxXXXXW8Gx9G/L11122-5803TMP.html
   53. file:///relacionamentos
   54. file:///relacionamentos/sexo
   55. file:///filhos
@@ -622,5 +622,5 @@ Références
  184. file:///pagina/politica-de-privacidade
 
    Liens cachés :
- 186. file://localhost/tmp/lynxXXXXMAIemd/L8569-6519TMP.html
+ 186. file://localhost/tmp/lynxXXXXW8Gx9G/L11122-5803TMP.html
  187. file://localhost/
