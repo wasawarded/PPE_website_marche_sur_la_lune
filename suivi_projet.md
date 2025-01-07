@@ -51,3 +51,8 @@
 - Analyse des textes segmentés pour calculer la fréquence des mots et créer un document de contexte 
 - Développement d’un script pour établir des concordances 
 - Implémentation d’un script pour la PALS (Pattern Analysis and Linguistic Search) 
+
+## 07/01/2025
+### anglais
+- Réunion de groupe pour résoudre les problèmes de structure et discuter sur la philosophie de notre page groupe, les possible d'outils d'analyse de textométrie comme worldcloud.
+- Réger les liens absolus en relatifs. **attention** Pour utiliser les liens relatifs `..`, il faut assurer que le fichier ne se situe pas dans un sous dossier d'un dossier. Sinon il faut ajouter des `.` 
