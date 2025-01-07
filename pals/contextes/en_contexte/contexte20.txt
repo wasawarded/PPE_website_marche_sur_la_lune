@@ -1,3 +1,0 @@
-   reasoning is that it takes place step-wise, in time. Active Logic is
-   one of a family of inference engines (step-logics) that explicitly
-   reason in time, and incorporate a history of their reasoning as they

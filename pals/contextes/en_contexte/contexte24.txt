@@ -1,3 +1,0 @@
-   integration of databases, in particular relational databases, with a
-   logic reasoner and rule engine. We argue that defeasible logic is an
-   appropriate formalism to model rules, in particular when the rules are

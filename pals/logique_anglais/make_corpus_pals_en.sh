@@ -1,10 +1,10 @@
-#!/bin/sh
 #!/bin/bash
 
 # Paths
 SCRIPT="cooccurrents.py"
 TEXT_FILE=$1
-OUTPUT="output_contexte.tsv"
+name=${TEXT_FILE%.txt} # {string%*} remove the .txt
+OUTPUT="$name.tsv"
 
 # Target word
 TARGET="logic"
