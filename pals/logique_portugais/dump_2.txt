@@ -318,7 +318,7 @@ Références
    2. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit
    3. file:///w/rest.php/v1/search
    4. file:///w/index.php?title=Especial:Mudanças_recentes&feed=atom
-   5. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#bodyContent
+   5. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#bodyContent
    6. file:///wiki/Wikipédia:Página_principal
    7. file:///wiki/Portal:Conteúdo_destacado
    8. file:///wiki/Portal:Eventos_atuais
@@ -346,16 +346,16 @@ Références
   30. file:///wiki/Ajuda:Introduction
   31. file:///wiki/Especial:Minhas_contribuições
   32. file:///wiki/Especial:Minha_discussão
-  33. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html
-  34. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Descrição
-  35. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Composição
-  36. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Peptídeos
-  37. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Estruturas
-  38. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Enzimas
-  39. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Receptores
-  40. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Esteroides
-  41. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Funcionamento
-  42. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#Referências
+  33. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html
+  34. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Descrição
+  35. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Composição
+  36. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Peptídeos
+  37. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Estruturas
+  38. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Enzimas
+  39. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Receptores
+  40. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Esteroides
+  41. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Funcionamento
+  42. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#Referências
   43. https://ar.wikipedia.org/wiki/نظام_الرينين-أنجيوتنسين
   44. https://ary.wikipedia.org/wiki/سيستيم_د_الرينين-أنجيوطونسين-ألدوستيرون
   45. https://bn.wikipedia.org/wiki/রেনিন-অ্যাঞ্জিওটেনসিন_সিস্টেম
@@ -469,7 +469,7 @@ Références
  153. file:///wiki/Receptor_AT4
  154. file:///w/index.php?title=Receptor_Mas&action=edit&redlink=1
  155. file:///wiki/Receptor_(Pro)renina
- 156. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#cite_note-1
+ 156. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#cite_note-1
  157. file:///w/index.php?title=Sistema_renina-angiotensina&veaction=edit&section=7
  158. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=7
  159. file:///wiki/Aldosterona
@@ -477,7 +477,7 @@ Références
  161. file:///w/index.php?title=Sistema_renina-angiotensina&action=edit&section=8
  162. file:///wiki/Ficheiro:Renin-angiotensin-aldosterone_system.svg
  163. file:///wiki/Aldosterona
- 164. file:///tmp/lynxXXXXjnNO3N/L30157-1524TMP.html#cite_ref-1
+ 164. file:///tmp/lynxXXXXhaFRRX/L17993-5682TMP.html#cite_ref-1
  165. file:///wiki/Digital_object_identifier
  166. https://dx.doi.org/10.1161/HYPERTENSIONAHA.108.110924
  167. file:///wiki/Ficheiro:Compliance_physio.png

@@ -1,408 +1,212 @@
-    (BUTTON) [1]
+   #[1]patriciaferreiramatematica2 Recent Changes
 
-   aos fatosf:
-   ____________________ (BUTTON)
-   (BUTTON)
-   [2]apoie
+     * [2]patriciaferreiramatematica2
 
-   O que é inteligência artificial generativa e quais riscos ela
-   representa no combate à desinformação
-   5 de abril de 2023, 15:02
+   [3]log in[4]help
+   [5]Get a free wiki  |  [6]Try our free business product
 
-O que é inteligência artificial generativa e quais riscos ela representa no
-combate à desinformação
+     * [7]Wiki
+     * [8]Pages & Files
 
-   Por Marco Faustino
+   ____________________
 
-   Compartilhe
+   View
+   [9]Edit
+   To edit this page,
+   [10]request access to the workspace.
 
-   Com avanços perceptíveis na qualidade dos conteúdos criados por
-   ferramentas de inteligência artificial, [3]imagens falsas como a do
-   papa Francisco [4]trajando um sobretudo branco de matelassê passaram a
-   viralizar nas redes como se fossem reais.
+   Already have an account? [11]Log in!
 
-   Tanto a foto falsa do papa como outra que também viralizou, do
-   ex-presidente americano Donald Trump [5]sendo preso, foram criadas com
-   o Midjourney, software que utiliza IA para gerar imagens realistas a
-   partir de comandos de texto.
+Atividade 2
 
-   O episódio se juntou a uma série de outras questões que integram o
-   debate sobre as ferramentas de IA, que podem contribuir para a criação
-   e o compartilhamento de desinformação.
+   [12]Page history last edited by [13]Patricia Carine Ferreira 14 years,
+   3 months ago
 
-   Para discutir essas e outras questões relacionadas ao tema, Aos Fatos
-   consultou especialistas na tecnologia, que também forneceram dicas
-   sobre como identificar textos e imagens criados artificialmente.
-    1. [6]O que é a inteligência artificial?
-    2. [7]Quais são as ferramentas mais famosas de IA Generativa?
-    3. [8]Quais riscos a IA Generativa oferece no contexto da
-       desinformação?
-    4. [9]Como identificar conteúdos gerados por IA?
+Atividade 2
 
-1) O QUE É A INTELIGÊNCIA ARTIFICIAL?
+   1 - Existe uma aba no jogo chamada desafio; cada um resolve o desafio e
+   posta no seu pbworks uma descrição deste  processo em detalhes.
 
-   A inteligência artificial é uma tecnologia que busca simular a tomada
-   de decisões e o comportamento humano para resolver problemas lógicos. A
-   [10]criação do termo é atribuída ao professor John McCarthy do
-   departamento de matemática da Universidade Dartmouth, nos Estados
-   Unidos, que usou a expressão em 1956 em um convite para um evento sobre
-   automação.
 
-   Muito antes das ferramentas generativas que se popularizaram nos
-   últimos anos, a IA já integrava o cotidiano das pessoas em
-   [11]mecanismos como:
-     * [12]Corretores ortográficos e [13]editores de texto;
-     * Tradutores de texto;
-     * Ferramentas de reconhecimento facial;
-     * Assistentes virtuais;
-     * Recursos de identificação de spam;
-     * Sistemas de recomendação de conteúdo (como em plataformas de
-       streaming);
-     * Testes para o diagnóstico precoce de doenças como [14]Alzheimer e
-       [15]Parkinson.
+Não é vermelho!
 
-   Dentre as diversas categorias de IA criadas, a mais popular atualmente
-   é a [16]IA Generativa — que leva esse nome pois é capaz de gerar novas
-   informações, como textos, imagens e obras de arte inéditas.
+Não é verde!
 
-2) QUAIS SÃO AS FERRAMENTAS MAIS FAMOSAS DE IA GENERATIVA?
+Não é amarelo!
 
-   Abaixo, Aos Fatos cita algumas das mais populares ferramentas de IA
-   generativa disponíveis que, à exceção do Midjourney, possuem versões
-   pagas e gratuitas:
-     * [17]ChatGPT: Assistente virtual alimentado com referências
-       bibliográficas de livros e da internet que interage com usuários
-       para elaborar textos e responder perguntas sobre assuntos diversos;
-     * [18]Compose AI: Criada para facilitar o processo de escrita, a
-       ferramenta autocompleta frases enquanto o usuário digita e pode
-       escrever emails inteiros a partir de algumas palavras;
-     * [19]DALL-E2: Gera imagens a partir de descrições textuais ou cria
-       variações de uma foto enviada pelo usuário;
-     * [20]Midjourney: Semelhante ao DALL-E2, gera imagens a partir de uma
-       descrição textual. Funciona dentro do aplicativo de mensagens
-       Discord por meio de comandos de texto. Após casos recentes de
-       viralização de imagens falsas criadas com o uso de ferramenta, a
-       empresa responsável decidiu [21]limitar o uso do Midjourney apenas
-       a assinantes pagos, sob a alegação de que haveria uma sobrecarga no
-       sistema;
-     * [22]Stable Diffusion: Também gera imagens a partir de descrições
-       fornecidas pelos usuários;
-     * [23]Synthesia: Transforma textos em vídeos, que podem ser narrados
-       em mais de 40 idiomas por 20 avatares diferentes gerados por
-       computador.
+É o único representado em sua cor.
 
-   Deepfake. Outra tecnologia de IA generativa, o [24]deepfake tem como
-   objetivo principal substituir rostos em vídeos. Para isso, ele usa dois
-   mecanismos: o primeiro analisa um banco de imagens fornecido pelo
-   usuário para tentar encontrar um padrão e o segundo checa os resultados
-   produzidos para decidir se parecem ou não verídicos.
+Possui dois ângulos internos iguais.
 
-   Nas redes, são populares vídeos deepfake com [25]teor humorístico, mas
-   criminosos também usam esse tipo de ferramenta para produzir vídeos
-   pornográficos falsos sem o consentimento de mulheres. Algumas
-   ferramentas são o Wombo e o DeepFaceLab.
+Resposta: trapézio azul
 
-3) QUAIS SÃO OS RISCOS QUE A IA GENERATIVA OFERECE NO CONTEXTO DE
-DESINFORMAÇÃO?
 
-   “Temos muito trabalho a fazer em robustez e veracidade”, afirmou um dos
-   criadores do ChatGPT, Sam Altman, em [26]publicação no Twitter no ano
-   passado que encorajava usuários a desconfiarem da ferramenta para
-   consultas factuais.
+   2 - Que conceitos de Matemática podem ser trabalhados com este objeto?
+   Estes conceitos também devem ser postados em seu pbworks.
 
-   Esse problema se tornou especialmente visível com o Galactica, modelo
-   de IA lançado no ano passado pela Meta e [27]retirado do ar em apenas
-   três dias. Alimentada por artigos científicos e supostamente capaz de
-   produzir conteúdo acadêmico, a ferramenta gerava conteúdo
-   [28]desinformativo e enviesado e chegou inclusive a inventar artigos
-   acadêmicos que não existiam.
+   Podemos trabalhar raciocínio, lógica, atenção, as cores, formas,
+   geometria, ângulos e classificação.
 
-   Para além da mera possibilidade de gerar respostas a partir de fontes
-   duvidosas ou inexistentes por falhas tecnológicas, a IA Generativa
-   também tem o potencial de disseminar desinformação, a depender da
-   intenção do usuário. Em [29]reportagem de 2019, especialistas
-   consultados pelo jornal New York Times sinalizaram que, no futuro, as
-   plataformas poderiam substituir humanos na distribuição de propaganda
-   enganosa a serviço de governos, atuando de forma mais sutil e muito
-   mais rápida.
 
-   “Quanto mais tempo as ferramentas aprendem sozinhas, melhores são os
-   resultados produzidos. Com isso, o conteúdo sintético criado, apesar de
-   falso, é gerado de forma cada vez mais realista e com ar de genuíno”,
-   afirmou ao Aos Fatos o jornalista Bruno Sartori, especialista em IA que
-   se popularizou nas redes ao fazer deepfakes com teor humorístico.
+Atividade 2
 
-   Mesmo conteúdos à primeira vista inofensivos, como as [30]fotos falsas
-   do papa Francisco, podem esconder perigos. “Em uma situação que
-   prejudique a reputação de uma pessoa ou em um contexto eleitoral pode
-   gerar muitos problemas. Muitas vezes, nas bolhas sociais, alguns
-   conteúdos falsos convincentes podem nunca ser desmentidos”, disse Lucas
-   Lattari, professor de Computação no IFSudesteMG (Instituto Federal do
-   Sudeste de Minas Gerais). As fotos do papa chegaram a ser tratadas como
-   reais pela [31]revista Vogue.
+Page Tools
 
-   Imagem compila algumas fotos do papa Francisco criadas com o uso do
-   Midjourney.
-   Papa estiloso. Fotos geradas pela ferramenta Midjourney viralizaram nas
-   redes sociais e enganaram até revista especializada em moda.
+Insert links
 
-   Deepfake. Apesar de serem usadas na maior parte das vezes como
-   ferramentas para gerar conteúdo humorístico, as deepfakes também são
-   exploradas por seu potencial desinformativo. Em 2022, por exemplo, um
-   vídeo em que o presidente da Ucrânia, Volodimir Zelenski, anuncia
-   rendição às tropas russas foi publicado em um site de notícias
-   ucraniano. O portal atribuiu posteriormente a ação a hackers.
+   Insert links to other pages or uploaded files.
+   [14]Pages [15]Images and files
+   [16]Insert a link to a new page
+    1.
 
-   IFRAME: [32]https://www.youtube.com/embed/X17yrEV5sl4
+                                 Loading...
 
-   Ainda que haja uma série de falhas técnicas que permitem identificar
-   deepfakes atualmente, o potencial de aprimoramento automático do
-   mecanismo pode se tornar um desafio. Como a ferramenta se força a gerar
-   vídeos sempre em qualidade superior aos anteriores, as deepfakes podem
-   se tornar, com o tempo, mais realistas e mais potencialmente enganosas.
+    1. No images or files uploaded yet.
 
-   Discriminação e questões éticas. Para além da desinformação,
-   ferramentas de IA generativa também têm sido usadas para disseminar
-   preconceitos. Em [33]janeiro, por exemplo, uma plataforma de áudio foi
-   usada para fazer comentários racistas e homofóbicos com a voz de
-   celebridades. Em [34]2016, um sistema da Microsoft saiu do ar após
-   usuários ensinarem à IA informações [35]racistas e sexistas.
+   [17]Insert image from URL
 
-   “Algoritmos discriminam por excelência — essa é a função dele. Ao
-   categorizar, ele discrimina no sentido literal do verbo, de separar uma
-   coisa da outra. A questão é que existem formas de categorizar que são
-   moralmente condenáveis e outras não”, explicou a socióloga Letícia
-   Simões-Gomes, que estuda viés algorítmico no contexto da segurança
-   pública, [36]em entrevista recente à Folha de S.Paulo.
+   Tip: To turn text into a link, highlight the text, then click on a page
+   or file from the list above.
 
-   Também há uma discussão sobre direitos autorais. As empresas criadoras
-   de ferramentas de imagem, por exemplo, foram [37]acusadas de treinar os
-   algoritmos com obras de arte sem o consentimento de seus criadores. Em
-   decisão recente, o Escritório de Direitos Autorais dos Estados Unidos
-   sinalizou que [38]nem todas as obras produzidas por IA estão
-   [39]protegidas por direitos autorais. No Brasil, o Inpi (Instituto
-   Nacional da Propriedade Industrial) se [40]manifestou contra a
-   indicação de IAs como inventoras em pedidos de patente.
+Comments (4)
 
-   A geração de textos, imagens e vídeos inéditos também abre margem para
-   que o conteúdo criado seja usado para fins escusos, como o
-   [41]aprimoramento de programas maliciosos por [42]hackers e [43]ações
-   de lobby.
+[18]Deisi bohm said
 
-4) COMO IDENTIFICAR CONTEÚDOS GERADOS POR IA?
+   at 5:44 pm on Oct 4, 2010
 
-   Ainda que produzam conteúdos que, ao menos à primeira vista, parecem
-   autênticos, as ferramentas de IA Generativa reproduzem algumas falhas
-   que podem ajudar a atestar sua inautenticidade.
+   Olá Patrícia, ao fazer a leitura da tua atividade, observei que
+   conseguistes realizar o desafio proposto e destacar conceitos que podem
+   ser explorados a partir deste objeto. Que outras dicas você poderia dar
+   para seus alunos?
+   Uma ótima semana.
+   Abraços, Deisi.
 
-   Textos gerados artificialmente costumam repetir palavras, possuir
-   parágrafos demasiadamente longos ou apresentar problemas com fontes
-   bibliográficas, que podem estar ausentes ou serem inseridas em
-   contextos que não fazem sentido. Em alguns casos, também é possível que
-   as ferramentas citem fontes e informações que não existem; por isso,
-   vale checar cada um dos dados citados.
+[19]Patricia Carine Ferreira said
 
-   No caso de imagens, tanto Sartori quanto Lattari apontaram que as
-   orelhas, mãos e rostos são elementos que as ferramentas ainda têm
-   dificuldade em reproduzir. Por isso, é importante observar algumas
-   características:
-     * Rostos borrados, semelhantes entre si ou com aspecto plastificado;
-     * Orelhas com formatos muito diferentes do rosto;
-     * Mãos com um número incorreto de dedos ou formatos anatômicos
-       estranhos;
-     * Membros, como braços, com tamanhos diferentes.
+   at 5:25 pm on Oct 8, 2010
 
-   Foto gerada pelo Midjourney cria pessoas com dez dedos em uma das mãos
-   Anomalias. Foto gerada pelo Midjourney e publicada por usuário no
-   Twitter (@mileszim) mostra pessoas que não existem, e uma delas com dez
-   dedos nas mãos.
+   Oi Deisi, aconteceu um problema com minha página... perdi o conteúdo do
+   que havia feito do trabalho 2, você já tinha visto, certo, não sei como
+   recuperar no pbwork, pode me ajudar? Abraço!
 
-   Nas [44]imagens falsas do ex-presidente americano Donald Trump, por
-   exemplo, é possível ver que os rostos estão borrados, um policial tem
-   uma mão em formato de garra, Trump tem um dos braços menor do que o
-   outro e os policiais em perseguição aparecem olhando para uma direção
-   diferente da do ex-presidente.
+[20]Deisi bohm said
 
-   Fotos de Donald Trump geradas pela ferramenta Midjourney mostram
-   anomalias que permitem identificar que foram criadas artificialmente.
-   Artefatos. Rostos borrados e membros anômalos, como vistos em fotos de
-   Donald Trump geradas pela ferramenta Midjourney são indícios de
-   conteúdo gerado artificialmente.
+   at 1:11 pm on Oct 11, 2010
 
-   Para identificar deepfakes, Sartori sugere observar a nitidez do rosto,
-   a sincronização das falas e as sombras e as cores do vídeo. Segundo
-   ele, as orelhas também são mantidas durante o processo de criação — ou
-   seja, um rosto inserido em outro corpo terá orelhas diferentes da
-   original. Já Lattari aponta que esse tipo de adulteração pode gerar
-   problemas na textura e na tonalidade da pele, já que nem sempre a cor
-   da região central do rosto coincide com a do restante da cabeça.
+   Oi Patrícia: no canto direito da página, em cima, tem o history page.
+   Ali tem todas as versões publicadas.
+   Qualquer dúvida é só escrever.
+   Abraços, Deisi.
 
-   Há ainda programas que prometem identificar de maneira automática
-   conteúdos criados por IA, como o [45]AI detector, o [46]GPTZero, o
-   [47]Originality.ai e o [48]Mayachitra. As plataformas, no entanto,
-   ainda não são 100% confiáveis.
+[21]Patricia Carine Ferreira said
 
-   É importante ressaltar que o aprimoramento constante dessas ferramentas
-   pode fazer com que algumas dicas atuais sejam obsoletas no futuro. Por
-   isso, “permanece a máxima de sempre pesquisar em outras fontes quando
-   algum conteúdo incomum aparecer na internet e, em muitos casos, esperar
-   antes de compartilhar algo duvidoso”, aconselha Lattari.
+   at 2:15 pm on Oct 11, 2010
 
-   Referências
-    1. 7 Tecmundo ([49]1 e [50]2)
+   Oi Deisi obrigada pela dica, consegui restaurar!!! Quanto ao que dicas
+   dar para os alunos pensei em como adaptar aos alunos pequenos essa
+   atividade explorando blocos lógicos, colocando na mesa e pedindo que
+   fossem tirando as peças que não tivessem as características necessárias
+   até ficar a que foi escolhida. Essa é uma atividade que pode-se
+   trabalhar bem o lado concreto, pode ser adaptada conforme a faixa
+   etária e o conteúdo estudado. Abraço!
 
-   [51]Explicador
-   [52]Donald Trump[53]inteligência artificial
+   You don't have permission to comment on this page.
+   [22]Printable version
 
-   Compartilhe
+   [23]PBworks / [24]Help
+   [25]Terms of use / [26]Privacy policy / [27]GDPR
 
-   Leia também
-   falso É falso que decreto de Lula proíbe policiais de atirar em
-   criminosos
-   [54]Boataria política[55]Checagem
+   About this workspace
+   [28]Contact the owner / [29]RSS feed / This workspace is public
 
-É falso que decreto de Lula proíbe policiais de atirar em criminosos
+Join this workspace
 
-   falso Centenas de anúncios na Meta promovem falso bolão da Mega da
-   Virada
-   [56]Fraudes digitais[57]Checagem
+   To join this workspace, [30]request access.
 
-Centenas de anúncios na Meta promovem falso bolão da Mega da Virada
+   Already have an account? [31]Log in!
 
-   falso É falso que Alexandre de Moraes tirou do ar ferramenta de cotação
-   de moedas do Google
-   [58]Boataria política[59]Checagem
+Navigator
 
-É falso que Alexandre de Moraes tirou do ar ferramenta de cotação de moedas
-do Google
-     __________________________________________________________________
 
-   [60]Sobre o Aos Fatos[61]Equipe[62]Impacto[63]Política
-   editorial[64]Política de IA[65]Política de erros[66]Aos Fatos
-   Lab[67]Aos Fatos Mais[68]Ouvidoria
+   Loading…
 
-   [69]Termos de Uso
+SideBar
 
-   Siga o Aos Fatos
-   Logo Ajor Selo IFCN
-   Marca Aos Fatos
-   [70]Luiz Inácio Lula da Silva[71]Jair Bolsonaro[72]Estados
-   Unidos[73]Fernando Haddad[74]inteligência artificial[75]STF[76]Janja
-   Lula da Silva[77]Ministério da Fazenda[78]impostos[79]Donald Trump[80]8
-   de Janeiro[81]Alexandre de Moraes[82]Rodrigo Pacheco[83]Bolsa
-   Família[84]economia[85]X (ex-Twitter)[86]Câmara dos
-   Deputados[87]Polícia Federal[88]Meta[89]Google
+
+   [32]Atividade 2
+
+   [33]Atividade 3
+
+   [34]Atividade 4
+
+   [35]Atividade 5
+
+   [36]Atividade 6
+
+   [37]Atividade 7
+
+   [38]Atividade 8
+
+   [39]Projeto final
+
+Recent Activity
+
+
+   [40]Show 0 new items
+   Loading…
+
+   Quantcast
 
 Références
 
    Liens visibles :
-   1. file:///
-   2. file:///mais
-   3. https://apnews.com/article/ai-misinformation-trump-putin-new-york-42ac9c41c5504d05412b492e48bcaded
-   4. https://www.aosfatos.org/noticias/falso-foto-papa-francisco-jaqueta-branca/
-   5. https://g1.globo.com/mundo/noticia/2023/03/21/o-que-pode-acontecer-se-trump-for-preso.ghtml
-   6. file:///tmp/lynxXXXXu9IFgn/L30891-7196TMP.html#1
-   7. file:///tmp/lynxXXXXu9IFgn/L30891-7196TMP.html#2
-   8. file:///tmp/lynxXXXXu9IFgn/L30891-7196TMP.html#3
-   9. file:///tmp/lynxXXXXu9IFgn/L30891-7196TMP.html#4
-  10. https://epocanegocios.globo.com/Tecnologia/noticia/2019/03/leia-o-texto-do-convite-que-criou-o-termo-inteligencia-artificial.html
-  11. https://www.smarthint.co/o-que-e-inteligencia-artificial-exemplos/
-  12. https://www.techtudo.com.br/guia/2023/03/o-que-e-inteligencia-artificial-veja-como-surgiu-exemplos-e-polemicas-edsoftwares.ghtml
-  13. https://www.tecmundo.com.br/google-translate/109962-inteligencia-artificial-traducoes-google-atinge-nivel-humano.htm
-  14. https://olhardigital.com.br/2022/04/21/medicina-e-saude/alzheimer-inteligencia-artificial-pode-diagnosticar-doenca/
-  15. https://www.bahia.ba.gov.br/2023/03/noticias/ciencia-tecnologia/cientistas-utilizam-inteligencia-artificial-para-diagnostico-precoce-de-parkinson/
-  16. https://www.capterra.com.br/blog/3471/ia-generativa
-  17. https://chat.openai.com/auth/login
-  18. https://www.compose.ai/
-  19. https://openai.com/product/dall-e-2
-  20. https://www.midjourney.com/home/?callbackUrl=/app/
-  21. https://oglobo.globo.com/economia/tecnologia/noticia/2023/03/midjourney-suspende-testes-gratuitos-apos-imagens-falsas-viralizarem.ghtml
-  22. https://stablediffusionweb.com/
-  23. https://www.synthesia.io/
-  24. https://canaltech.com.br/internet/deepfakes-mais-impressionantes-que-confundiram-a-internet-219962/
-  25. https://www.instagram.com/brunnosarttori/
-  26. https://twitter.com/sama/status/1601731503934697472?s=20&t=U13z2qN76WJfEQh36XusOA
-  27. https://tecmasters.com.br/demo-ia-cientificos-meta-retirada-ar-criticas/
-  28. https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/
-  29. https://www.nytimes.com/interactive/2019/06/07/technology/ai-text-disinformation.html
-  30. https://www.aosfatos.org/noticias/falso-foto-papa-francisco-jaqueta-branca/
-  31. https://www.poder360.com.br/midia/imagem-falsa-de-papa-francisco-com-casaco-volumoso-viraliza/
-  32. https://www.youtube.com/embed/X17yrEV5sl4
-  33. https://gizmodo.uol.com.br/clona-voz-celebridades-cometer-crimes-virtuais/
-  34. https://veja.abril.com.br/tecnologia/exposto-a-internet-robo-da-microsoft-vira-racista-em-1-dia/
-  35. https://www.tecmundo.com.br/inteligencia-artificial/102782-tay-twitter-conseguiu-corromper-ia-microsoft-24-horas.htm
-  36. https://www1.folha.uol.com.br/tec/2022/05/funcao-do-algoritmo-e-discriminar-cabe-aos-humanos-debate-moral-diz-sociologa.shtml
-  37. https://canaltech.com.br/inteligencia-artificial/ferramentas-de-arte-de-ia-sao-alvo-de-processo-por-violacao-de-direitos-autorais-236178/
-  38. https://olhardigital.com.br/2023/03/17/pro/obras-criadas-por-ia-nao-podem-ter-direitos-autorais-diz-escritorio-dos-eua/
-  39. https://www.theregister.com/2023/03/16/ai_art_copyright_usco/
-  40. https://www.gov.br/inpi/pt-br/central-de-conteudo/noticias 2022/inteligencia-artificial-nao-pode-ser-indicada-como-inventora-em-pedido-de-patente
-  41. https://olhardigital.com.br/2023/01/11/seguranca/hackers-estao-utilizando-chatgpt-para-criar-malwares/
-  42. https://research.checkpoint.com/2023/opwnai-cybercriminals-starting-to-use-chatgpt/
-  43. https://www.nytimes.com/2023/01/15/opinion/ai-chatgpt-lobbying-democracy.html?searchResultPosition=3
-  44. https://olhardigital.com.br/2023/03/22/pro/inteligencia-artificial-fotos-falsas-de-prisao-de-trump-viralizam/
-  45. https://contentatscale.ai/ai-content-detector/?fpr=penguin
-  46. https://gptzero.me/
-  47. https://originality.ai/
-  48. https://gan-detector-mayachitra.azurewebsites.net/
-  49. https://www.tecmundo.com.br/google-translate/109962-inteligencia-artificial-traducoes-google-atinge-nivel-humano.htm
-  50. https://www.tecmundo.com.br/inteligencia-artificial/102782-tay-twitter-conseguiu-corromper-ia-microsoft-24-horas.htm
-  51. file:///noticias/?formato=explicador
-  52. file:///noticias/?tag=donald-trump
-  53. file:///noticias/?tag=inteligencia-artificial
-  54. file:///noticias/?canal=boataria-politica
-  55. file:///noticias/?formato=checagem
-  56. file:///noticias/?canal=fraudes-digitais
-  57. file:///noticias/?formato=checagem
-  58. file:///noticias/?canal=boataria-politica
-  59. file:///noticias/?formato=checagem
-  60. file:///sobre-o-aos-fatos/
-  61. file:///nossa-equipe/
-  62. file:///impacto/
-  63. file:///politica-editorial/
-  64. file:///politica-ia/
-  65. file:///politica-editorial/#erros
-  66. file:///lab/
-  67. file:///mais/
-  68. mailto:ouvidoria@aosfatos.org
-  69. file:///termos-de-uso/
-  70. file:///noticias/?tag=luiz-inacio-lula-da-silva
-  71. file:///noticias/?tag=jair-bolsonaro
-  72. file:///noticias/?tag=estados-unidos
-  73. file:///noticias/?tag=fernando-haddad
-  74. file:///noticias/?tag=inteligencia-artificial
-  75. file:///noticias/?tag=stf
-  76. file:///noticias/?tag=janja-lula-da-silva
-  77. file:///noticias/?tag=ministerio-da-fazenda
-  78. file:///noticias/?tag=impostos
-  79. file:///noticias/?tag=donald-trump
-  80. file:///noticias/?tag=8-de-janeiro
-  81. file:///noticias/?tag=alexandre-de-moraes
-  82. file:///noticias/?tag=rodrigo-pacheco
-  83. file:///noticias/?tag=bolsa-familia
-  84. file:///noticias/?tag=economia
-  85. file:///noticias/?tag=x-ex-twitter
-  86. file:///noticias/?tag=camara-dos-deputados
-  87. file:///noticias/?tag=policia-federal
-  88. file:///noticias/?tag=meta
-  89. file:///noticias/?tag=google
+   1. file:///rss.xml
+   2. file:///
+   3. http://patriciaferreiramatematica2.pbworks.com/w/session/login
+   4. mailto:support@pbworks.com
+   5. https://plans.pbworks.com/signup/edubasic20?utm_campaign=mcgetyourown&utm_source=edu
+   6. http://pbworks.com/signup?utm_campaign=freebiz&utm_source=personal
+   7. http://patriciaferreiramatematica2.pbworks.com/w/page/29976649/FrontPage
+   8. http://patriciaferreiramatematica2.pbworks.com/w/browse/
+   9. javascript:void(0);
+  10. file:///request_access.php
+  11. http://patriciaferreiramatematica2.pbworks.com/w/session/login?edit=1
+  12. http://patriciaferreiramatematica2.pbworks.com/w/page-revisions/30363869/Atividade 2
+  13. javascript:alert('Please join this workspace to see more details about this user.');
+  14. file:///tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
+  15. file:///tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
+  16. javascript:void(0);
+  17. javascript:void(0);
+  18. javascript:alert('Please join this workspace to see more details about this user.');
+  19. javascript:alert('Please join this workspace to see more details about this user.');
+  20. javascript:alert('Please join this workspace to see more details about this user.');
+  21. javascript:alert('Please join this workspace to see more details about this user.');
+  22. file:///w/page/30363869/Atividade 2?mode=embedded
+  23. https://pbworks.com/?utm_campaign=wiki-link
+  24. mailto:support@pbworks.com
+  25. http://pbworks.com/content/termsofservice?utm_campaign=wiki-link
+  26. http://pbworks.com/content/privacypolicy?utm_campaign=wiki-link
+  27. http://www.pbworks.com/gdpr.html
+  28. file:///w/contact-owner
+  29. file:///rss.xml
+  30. file:///w/request-access
+  31. http://patriciaferreiramatematica2.pbworks.com/w/session/login
+  32. file:///Atividade-2
+  33. file:///Atividade-3
+  34. file:///w/page/Atividade-4
+  35. file:///w/page/Atividade-5
+  36. file:///w/page/Atiivdade-6
+  37. file:///w/page/Atividade-7
+  38. file:///w/page/Atividade-8
+  39. file:///w/page/Projeto-final
+  40. file:///tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
 
    Liens cachés :
-  91. https://twitter.com/intent/tweet?text=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o+%23factchecking+Saiba+mais+em+https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F
-  92. https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F
-  93. https://api.whatsapp.com/send?text=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o+Leia+mais+em+https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dsite
-  94. https://t.me/share/url?url=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o&text=https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dbutton
-  95. https://olhardigital.com.br/tag/estados-unidos/
-  96. https://twitter.com/intent/tweet?text=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o+%23factchecking+Saiba+mais+em+https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F
-  97. https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F
-  98. https://api.whatsapp.com/send?text=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o+Leia+mais+em+https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dsite
-  99. https://t.me/share/url?url=O+que+%C3%A9+intelig%C3%AAncia+artificial+generativa+e+quais+riscos+ela+representa+no+combate+%C3%A0+desinforma%C3%A7%C3%A3o&text=https%3A%2F%2Faosfatos.org%2Fnoticias%2Finteligencia-artificial-desinformacao%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dbutton
- 100. file://localhost/noticias/falso-decreto-lula-proibe-policiais-atirar-criminosos/
- 101. file://localhost/noticias/anuncios-meta-falso-bolao-mega-virada/
- 102. file://localhost/noticias/falso-alexandre-de-moraes-cotacao-moedas-google/
- 103. https://whatsapp.com/channel/0029Va7SqVPBqbrICyeouR1f
- 104. https://www.instagram.com/aosfatos/
- 105. https://twitter.com/aosfatos
- 106. https://www.facebook.com/aosfatos.org
- 107. https://www.youtube.com/aosfatos
- 108. https://www.linkedin.com/company/aos-fatos/mycompany/
- 109. https://www.tiktok.com/@aosfatos
+  42. javascript:void(0);
+  43. file://localhost/tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
+  44. file://localhost/rename.php?renamepage=Atividade+2
+  45. http://pbworks.com/?utm_campaign=wiki-link
+  46. file://localhost/tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
+  47. javascript:void(0);
+  48. javascript:void(0);
+  49. javascript:void(0);
