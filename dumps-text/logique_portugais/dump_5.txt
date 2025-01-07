@@ -1215,11 +1215,11 @@ Références
   21. https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df
   22. javascript:void(0);
   23. http://scielo.pt/scielo.php?script=sci_serial&pid=0874-2049&lng=pt&nrm=iso
-  24. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#0
-  25. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#1
-  26. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#2
-  27. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#3
-  28. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#4
+  24. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#0
+  25. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#1
+  26. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#2
+  27. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#3
+  28. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#4
   29. javascript:void(0);
   30. javascript:void(0);
   31. javascript:void(0);
@@ -1268,10 +1268,10 @@ Références
   74. javascript:void(0);
   75. javascript:void(0);
   76. javascript:void(0);
-  77. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#top0
+  77. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top0
   78. mailto:mferreira@fp.ul.pt
-  79. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#top1
-  80. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#top2
-  81. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#top3
-  82. file:///tmp/lynxXXXX75RF0T/L9996-3403TMP.html#top4
+  79. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top1
+  80. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top2
+  81. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top3
+  82. file:///tmp/lynxXXXX35USAQ/L18118-8280TMP.html#top4
   83. mailto:revista@appsicologia.org

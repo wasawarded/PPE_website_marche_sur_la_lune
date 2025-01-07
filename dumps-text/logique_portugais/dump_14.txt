@@ -338,7 +338,7 @@ Références
    4. https://gulbenkian.pt/wp-json/oembed/1.0/embed?url=https://gulbenkian.pt/publications/a-logica-ou-a-arte-de-pensar/
    5. https://gulbenkian.pt/wp-json/oembed/1.0/embed?url=https://gulbenkian.pt/publications/a-logica-ou-a-arte-de-pensar/&format=xml
    6. https://www.googletagmanager.com/ns.html?id=GTM-TKRSHB
-   7. file:///tmp/lynxXXXXk5nN8T/L10460-3575TMP.html#main-content
+   7. file:///tmp/lynxXXXXD6wHBj/L18604-5804TMP.html#main-content
    8. https://gulbenkian.pt/
    9. file:///
   10. https://gulbenkian.pt/cartao-gulbenkian/
@@ -426,7 +426,7 @@ Références
   92. https://gulbenkian.pt/politicas-de-prevencao/
   93. https://gulbenkian.pt/privacidade/
   94. https://gulbenkian.pt/termos-de-utilizacao/
-  95. file:///tmp/lynxXXXXk5nN8T/L10460-3575TMP.html
+  95. file:///tmp/lynxXXXXD6wHBj/L18604-5804TMP.html
   96. https://www.sgsgroup.cz/en/vr/certified-client-directory
   97. https://www.livroreclamacoes.pt/
   98. https://gulbenkian.pt/en

@@ -743,7 +743,7 @@ Références
    5. http://analytics.scielo.org/?collection=spa
    6. file:///about/
    7. file:///about/
-   8. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+   8. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
    9. file://www.scielo.org/
   10. file://www.scielo.org/pt/periodicos/listar-por-ordem-alfabetica/
   11. file://www.scielo.org/pt/periodicos/listar-por-assunto/
@@ -753,9 +753,9 @@ Références
   15. file://www.scielo.org/pt/sobre-o-scielo/
   16. file://www.scielo.org/pt/sobre-o-scielo/contato/
   17. file://blog.scielo.org/
-  18. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  18. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   19. file:///
-  20. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  20. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   21. file:///j/csp/
   22. http://cadernos.ensp.fiocruz.br/csp/index.php
   23. file:///journal/csp/about/#about
@@ -764,11 +764,11 @@ Références
   26. file:///journal/csp/about/#contact
   27. file:///set_locale/es/
   28. file:///set_locale/en/
-  29. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  29. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   30. file:///
   31. file:///set_locale/es/
   32. file:///set_locale/en/
-  33. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  33. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   34. file:///j/csp/
   35. http://cadernos.ensp.fiocruz.br/csp/index.php
   36. file:///journal/csp/about/#about
@@ -778,46 +778,46 @@ Références
   40. file:///j/csp/
   41. file:///j/csp/i/1989.v5n3/
   42. file:///article/csp/1989.v5n3/251-263/
-  43. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  43. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   44. file:///article/csp/1989.v5n3/276-283/
   45. file:///j/csp/i/1989.v5n3/
-  46. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  46. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   47. file:///j/csp/i/1989.v5n3/
-  48. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  48. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   49. file:///pdf/csp/1989.v5n3/264-275/pt
   50. file:///pdf/csp/1989.v5n3/264-275/pt
-  51. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  52. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  53. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  54. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  55. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  56. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  51. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  52. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  53. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  54. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  55. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  56. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   57. file:///j/csp/i/1989.v5n3/
   58. file:///pdf/csp/1989.v5n3/264-275/pt
-  59. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  60. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  61. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  62. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  63. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  64. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  65. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  66. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  67. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  68. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  69. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#back1
-  70. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#back2
-  71. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#back3
-  72. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#back4
-  73. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#top1
-  74. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#top2
-  75. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#top3
-  76. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html#top4
+  59. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  60. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  61. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  62. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  63. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  64. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  65. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  66. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  67. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  68. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  69. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back1
+  70. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back2
+  71. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back3
+  72. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#back4
+  73. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top1
+  74. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top2
+  75. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top3
+  76. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top4
   77. file:///pdf/csp/1989.v5n3/264-275/pt
   78. https://www.google.com/search?q="Os movimentos sociais e sua relação com a questão da saúde" "Ribeiro, Lúcia" "1989" "Cadernos de Saúde Pública"
   79. https://scholar.google.com/scholar?q="Os movimentos sociais e sua relação com a questão da saúde" "Ribeiro, Lúcia" "1989" "Cadernos de Saúde Pública"
   80. file:///article/csp/1989.v5n3/264-275/pt/
-  81. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  82. file:///tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  81. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  82. file:///tmp/lynxXXXXjryCyK/L18386-9176TMP.html
   83. http://www.fapesp.br/
   84. http://www.capes.gov.br/
   85. http://www.cnpq.br/
@@ -834,24 +834,24 @@ Références
   95. file://localhost/j/csp/
   96. file://localhost/article/csp/1989.v5n3/251-263/
   97. file://localhost/article/csp/1989.v5n3/276-283/
-  98. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
-  99. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
- 100. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
- 101. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+  98. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+  99. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 100. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 101. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
  102. file://localhost/j/csp/
  103. javascript:;
  104. file://localhost/article/csp/1989.v5n3/251-263/
  105. file://localhost/article/csp/1989.v5n3/276-283/
- 106. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html#top
+ 106. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top
  107. javascript:;
  108. javascript:;
  109. javascript:;
  110. javascript:;
- 111. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html#top
- 112. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
- 113. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
- 114. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
- 115. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
- 116. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+ 111. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html#top
+ 112. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 113. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 114. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 115. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
+ 116. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
  117. file://localhost/journal/csp/feed/
- 118. file://localhost/tmp/lynxXXXXGWWowG/L10243-5216TMP.html
+ 118. file://localhost/tmp/lynxXXXXjryCyK/L18386-9176TMP.html
