@@ -1,527 +1,441 @@
-   #[1]RR Search [2]Renascença - Feed Últimas [3]País
+   #[1]Fundação Calouste Gulbenkian » Feed [2]Fundação Calouste Gulbenkian
+   » Feed de comentários [3]JSON [4]oEmbed (JSON) [5]oEmbed (XML)
 
-   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-P2D4GTC
+   IFRAME: [6]https://www.googletagmanager.com/ns.html?id=GTM-TKRSHB
 
-    1. [5]Início
-    2. Informação [ ]
-         1. [6]Últimas
-         2. [7]País
-         3. [8]Política
-         4. [9]Legislativas 2024
-         5. [10]Economia
-         6. [11]Religião
-         7. [12]JMJ 2023
-         8. [13]Mundo
-         9. [14]Euranet
-        10. [15]Vida
-        11. [16]Explicador Renascença
-        12. [17]Motores
-        13. [18]Coronavírus
-        14. [19]Opinião
-        15. [20]Nota de Abertura
-        16. [21]Ouvir
-        17. [22]Podcasts
-        18. [23]Tempo
-    3. Vídeos V+ [ ]
-         1. [24]Vídeos V+
-         2. [25]Reportagem
-         3. [26]Actualidade
-         4. [27]Papa Francisco
-         5. [28]Bola Branca
-         6. [29]Na Rádio
-         7. [30]Programação
-         8. [31]Extremamente Desagradável
-         9. [32]Jogos Sem Fronteiras
-    4. [33]Euro 2024
-    5. Bola Branca [ ]
-         1. [34]Bola Branca
-         2. [35]Benfica
-         3. [36]Porto
-         4. [37]Sporting
-         5. [38]Fut Nacional
-         6. [39]Fut Internacional
-         7. [40]Modalidades
-         8. [41]Clube Portugal
-         9. [42]Especial de Corrida
-        10. [43]Podcasts
-    6. Ouvir [ ]
-         1. [44]Renascença No Ar
-         2. [45]Rádios Online
-         3. [46]Ouvir de Novo
-         4. [47]Grelha
-         5. [48]Programas
-         6. [49]Podcasts
-         7. [50]Arquivo
-    7. [51]As Três da Manhã
-    8. [52]Extremamente Desagradável
-    9. [53]T3
-   10. [54]Destaques
-   11. [55]Podcasts
-   12. [56]Newsletters
-   13. Onde Estamos [ ]
-         1. [57]Facebook
-         2. [58]Twitter
-         3. [59]Instagram
-         4. [60]Videocast
-         5. [61]Podcasts
-         6. [62]RSS
-         7. [63]Frequências
-   14. [64]Anunciar
-   15. Quem Somos [ ]
-         1. [65]Renascença 85 anos
-         2. [66]Ficha Técnica
-   16. [67]Contactos
-   17. [68]Transparência
+   [7]Saltar para o conteúdo principal
 
-   Para continuar a ler,
-   registe-se no Nónio
-   Olá, para continuar a ler os nossos conteúdos e garantir o acesso aos
-   melhores sites portugueses faça já o seu registo.
-   Acesso aos melhores conteúdos
-   Simples: Registo único em menos de 1 minuto
-   Um único login que lhe dá acesso permanente a este e aos mais de 70
-   sites de media portugueses, que fazem parte do NÓNIO
-   [69]Voltar à homepage do site
-   [70]logo nonio Fique por dentro >
+   (BUTTON) (BUTTON)
 
-   Locutor no Ar
+   [8]
 
+Fundação Calouste Gulbenkian
 
+   Fundação Calouste Gulbenkian
 
+   Login (BUTTON) Login
+   (BUTTON)
+   [9]MyGulbenkian Olá
 
-     * Mais de um milhão e meio de euros para a Missão Continente
-       [71]Mais de um milhão e meio de euros para a Missão Continente
-     * ​Em Grande Reforma: porque o futuro é um livro por escrever!
-       [72]​Em Grande Reforma: porque o futuro é um livro por escrever!
-     * Celebre o “Rei da Valsa” com a Vienna Johann Strauss Orchestra
-       [73]Celebre o “Rei da Valsa” com a Vienna Johann Strauss Orchestra
+     * A minha conta
+     * [10]Cartão Gulbenkian
+     * Cartão Gulbenkian
+          + O meu cartão
+          + Pontos e ofertas
+          + Histórico de pontos
+          + Programação exclusiva
+     * Bolsas e apoios
+     * Avaliar candidaturas
 
-   Menu
-   Renascença Renascença
+   Terminar sessão
+   (BUTTON) Carrinho
+   (BUTTON)
+
+Bilheteira
+
+     * Quantidade:
+
+   Finalizar Compra
+     __________________________________________________________________
+
+Artigos
+
+     * Quantidade:
+
+   Finalizar Compra
+   Sem bilhetes ou artigos selecionados. [11]Ver Agenda [12]Ver
+   Publicações
+   [13]Agenda
+   (BUTTON) Esconder/Mostrar caixa de pesquisa
+   (BUTTON)
+   Search: ____________________ (BUTTON) Procurar
+   (BUTTON) Menu
+   (BUTTON)
+
+Navegação primária
+
+     * Quem somos
+          + [14]A Fundação
+          + [15]Cronologia 1956 – 2022
+          + [16]Calouste Sarkis Gulbenkian
+          + Organização
+               o [17]Conselho de Administração
+               o [18]Diretores
+               o [19]Organograma
+               o [20]Documentos legais
+               o [21]A Fundação e os ODS
+               o [22]Sustentabilidade
+          + [23]Edifícios e Jardim
+     * O que fazemos
+          + Programas
+               o [24]A nossa abordagem
+               o [25]Acesso a cuidados
+               o [26]Acesso à cultura
+               o [27]Acesso a educação
+               o [28]Clima e oceano
+               o [29]Democracia e sociedade civil
+               o [30]Comunidades Arménias
+               o [31]Parcerias com África
+               o [32]Programas anteriores
+          + Cultura
+               o [33]Museu Calouste Gulbenkian
+               o [34]Centro de Arte Moderna
+               o [35]Gulbenkian Música
+               o [36]Biblioteca de Arte Gulbenkian
+          + [37]Ciência
+          + [38]Síntese 2023
+     * Bolsas e apoios
+          + [39]Bolsas
+          + [40]Apoios
+     * Prémios
+          + [41]Prémio Gulbenkian para a Humanidade
+          + [42]Prémios Gulbenkian anteriores
+          + [43]Award for Civic Arts Organisations
+          + [44]Prémio Gulbenkian Património
+          + [45]Salavisa European Dance Award
+     * Ler, ver, ouvir
+          + [46]Artigos
+          + [47]Concertos
+          + [48]Conferências
+          + [49]Podcasts
+          + [50]Vídeos
+          + [51]Notícias
+          + Coleções
+               o [52]Coleção Museu Calouste Gulbenkian
+               o [53]Coleção Centro de Arte Moderna
+          + Catálogos online
+               o [54]História das Exposições
+               o [55]António Dacosta
+     * [56]Publicações
+     * Agenda
+          + [57]Exposições
+          + [58]Concertos
+          + [59]Conferências
+          + Visitas e Atividades
+               o [60]Escolas
+               o [61]Famílias
+               o [62]Crianças
+               o [63]Jovens e adultos
+               o [64]Grupos particulares
+     * [65]Cartão Gulbenkian
+     * Informações Úteis
+          + [66]Horários
+          + [67]Bilhetes
+          + [68]Como chegar
+          + [69]Acessibilidade
+          + [70]A Mesa do CAM
+          + [71]Guia Digital Gratuito
+          + [72]Jardim
+          + Espaços e edifícios
+               o [73]Auditórios
+               o [74]Cedência de espaços
+     __________________________________________________________________
+
+Navegação secundária
+
+     * [75]Museu Calouste Gulbenkian
+     * [76]Centro de Arte Moderna
+     * [77]Gulbenkian Música
+     * [78]Biblioteca de Arte Gulbenkian
+     * [79]Delegação no Reino Unido
+     * [80]Delegação em França
+     * [81]Comunidades Arménias
+
+   [82]GULBENKIAN.PT
+     * pt
+     * [83]en
 
      *
-     * [74]Últimas
-     * [75]Vídeos V+
-     * [76]Ouvir
-     * [77]As Três da Manhã
-     * [78]T3
-     * [79]Bola Branca
-     * [80]Opinião
-     * [81]Autenticação
-     * [82]Pesquisar
 
-     * ____________________ (BUTTON) Pesquisar
+   1.ª ed.
 
-     * Login | Novo Registo
-       Olá
-       | Editar Perfil | Logout
+A Lógica ou a Arte de Pensar
 
-     * [83]Ouvir Online Rádio Renascenca
-     * Rádios Online [84]Ouvir Online Renascenca Rock in Rio 2024
-     * [85]Ouvir Online Renascenca Hotel Califórnia
-     * [86]Ouvir Online Renascenca Ponto Pt
-     * [87]Ouvir Online Renascença Non-Stop
+     * Textos Clássicos
+     * Filosofia
 
-     * [88]Anterior
-     * [89]1
-     * [90]Seguinte
+   A Lógica ou a Arte de Pensar / Antoine Arnauld, Pierre Nicole
+   Compra indisponível até 12 jan 2025.
 
-   RR
+Edição impressa
 
-   [91]
-   Whatsapp Informação Informação
-   Siga-nos no Whatsapp
-   [92]
-   Whatsapp Informação Bola Branca
+   (BUTTON) Comprar
+   Sem stock disponível
 
-   Em Destaque
-     * [93]Leiria, Lezíria e Alto Alentejo. Governo demite três
-       administrações de ULS
-     * [94]Musk apoia extrema-direita alemã em artigo de opinião
-     * [95]FC Porto goleia e está na liderança do campeonato à condição
-     * [96]Banco de Portugal esclarece que não vai pagar salário ao novo
-       secretário-geral do Governo
-     * [97]"Excessiva e inoportuna". Câmara de Lisboa critica a greve dos
-       trabalhadores da recolha do lixo
-     * [98]Putin pede desculpa, mas não assume a responsabilidade pela
-       queda do avião da Azerbaijan Airlines
+Edição digital
 
-   A+ / A-
+   Acesso aberto
 
-Presidente da Sociedade Portuguesa de Matemática diz que novo programa vai
-piorar a disciplina
+   Para descarregar o PDF é necessário iniciar sessão com conta
+   MyGulbenkian.
+     * Login
+       Download
 
-   14 mar, 2023 - 11:09 • Redação
-
-No Dia Internacional da Matemática, José Carlos Santos considera que o lema
-escolhido para celebrar este dia - "A matemática é para todos!" não faz jus à
-realidade portuguesa, já que muitos vão ser os alunos deixados para trás.
-
-   A+ / A-
-   Foto: Antoine Dautry/Unspalsh Foto: Antoine Dautry/Unspalsh
-
-   O presidente da Sociedade Portuguesa de Matemática (SPM), José Carlos
-   Santos, alerta na Renascença que o novo programa da disciplina não vai
-   preparar melhor os alunos para o ensino superior.
-
-   No Dia Internacional da Matemática, José Carlos Santos considera que o
-   lema escolhido para celebrar este dia - "A matemática é para todos!"
-   não faz jus à realidade portuguesa, já que muitos vão ser os alunos
-   deixados para trás.
-
-   O novo programa de ensino, homologado em janeiro, vai agravar o fosso
-   entre os alunos da disciplina, defende o presidente da SPM: "Os
-   melhores alunos acabam por se safar, melhor ou pior, mas o ensino não
-   deve ser vocacionado para os melhores alunos, mas sim para que, na
-   medida do possível, o máximo número de alunos tenha grande compreensão
-   dos vários assuntos que são ensinados."
-
-   O novo currículo entra em vigor apenas em 2024, de forma a,
-   atempadamente, se alterarem os manuais e se prepararem os docentes.
-   Nesse plano, a associação não vê qualquer problema, porque a
-   contestação prende-se com o conteúdo, uma vez que “os programas ficam
-   mais superficiais e com menos encadeamento lógico das coisas".
-
-   De acordo com o professor, os alunos já veem a matemática como uma
-   série de receitas, em que não se percebe os porquês e em que para cada
-   problema se vai buscar a solução com o número indicado, perdendo
-   capacidade de raciocínio. “Claro que muitos acabavam por não perceber
-   os porquês, mas os poucos que percebiam iam melhor preparados para o
-   nível superior”, assinala.
-
-   Existe ainda um problema cultural em Portugal, no que toca ao ensino da
-   disciplina: os alunos ainda pensam na matemática como um bico de sete
-   cabeças e os pais não estão isentos de responsabilidades.
-
-   "Quando um filho diz aos pais que a matemática é difícil, os próprios
-   pais concordam, mas quando se queixam da dificuldade do inglês, o que
-   lhes respondem é que têm de estudar mais, porque o inglês é muito
-   importante”, exemplifica, acrescentando que esta atitude acaba por ser
-   um travão à mudança de mentalidade com que se encara a matemática.
-
-   “A matemática não é só para sobredotados. É para todos. Não há génios,
-   mas sim aqueles que estiveram para se maçar e os que não estiveram para
-   se maçar."
-
-   Outro problema destacado pelo presidente da SPM é o da compreensão da
-   língua: “Por vezes, os alunos não percebem o que se lhes está a pedir,
-   não têm o domínio da língua, não sabem interpretar. E um problema para
-   ser minimamente interessante tem de ser sofisticado, não pode ser
-   reduzido a três ou quatro palavras curtas."
-
-   Não obstante todos os entraves colocados ao ensino da matemática, o
-   panorama nacional tem vindo a melhorar e são estas iniciativas como a
-   do Dia da Matemática - ou Dia do Pi - que ajudam a aproximar os alunos
-   da disciplina.
-
-   O presidente da SPM assinala também as Olimpíadas de Matemática como
-   algo que tem contribuído para a motivação e a criação de grupos de
-   alunos “com um nível de desempenho e capacidade intelectual superior".
-
-   "E nunca antes Portugal teve tantos bons investigadores, alguns deles a
-   trabalhar fora do país", acrescenta José Carlos Santos.
-
-   “No nível mais elevado da matemática, o futuro é bastante promissor,
-   receio é pelos alunos intermédios, aqueles que não estão a pensar ser
-   pesquisadores, mas precisam de saber matemática para os diversos cursos
-   que tirarem, pode ser matemática, engenharias, ou arquitetura”, remata
-   o presidente da SPM.
-   Tópicos
-     * [99]matemática
-     * [100]escolas
-     * [101]ensino
-
-   [102]
-   Facebook
-   Facebook
-   [103]
-   Twitter
-   Twitter
-   [104]
-   Comentar
-   Comentar
-   [105]
-   WhatsApp
-   WhatsApp
-   Saiba Mais
-     * [106]Mudanças atiram ensino da Matemática para "mínimos históricos
-       inexplicáveis"
-     * [107]Reino Unido. Alunos vão estudar Matemática até aos 18 anos
-
-     * [108]Mudanças atiram ensino da Matemática para "mínimos históricos
-       inexplicáveis"
-     * [109]Reino Unido. Alunos vão estudar Matemática até aos 18 anos
-
-   Comentários
-
-   ____________________
-   ____________________
-   ____________________
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   Tem 1500 caracteres disponíveis
-   Todos os campos são de preenchimento obrigatório.
-   (BUTTON) Enviar Comentário
-
-   Termos e Condições Todos os comentários são mediados, pelo que a sua
-   publicação pode demorar algum tempo. Os comentários enviados devem
-   cumprir os critérios de publicação estabelecidos pela direcção de
-   Informação da Renascença: não violar os princípios fundamentais dos
-   Direitos do Homem; não ofender o bom nome de terceiros; não conter
-   acusações sobre a vida privada de terceiros; não conter linguagem
-   imprópria. Os comentários que desrespeitarem estes pontos não serão
-   publicados.
-
-[110]Destaques V+
-
-   Da coragem de Gisèle ao regresso de Trump. As imagens de um ano de
-   incerteza no mundo
-   Renascença
-
-Radiografia 2024
-
-Da coragem de Gisèle ao regresso de Trump. As imagens de um ano de incerteza
-no mundo
-
-   [111]Alex: "Fehér era muito muito divertido, trabalhador"
-   [112]
-
-Alex: "Fehér era muito muito divertido, trabalhador"
-
-   [113]Incêndios: falta de apoios afeta Natal das vítimas
-   [114]
-
-Incêndios: falta de apoios afeta Natal das vítimas
-
-   [115]Montenegro promete combate ao crime violento
-   [116]
-
-Montenegro promete combate ao crime violento
-
-   [117]Avião de passageiros despenha-se no Cazaquistão
-   [118]
-
-Avião de passageiros despenha-se no Cazaquistão
-
-   (BUTTON) Enviar a um amigo
-
-   ____________________
-   ____________________
-   ____________________
-   ____________________
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Enviar Mensagem
-
-   Todos os campos são de preenchimento obrigatório.
-   (BUTTON) Enviar a um amigo
-
-   ____________________
-   ____________________
-   ____________________
-   ____________________
-
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   (BUTTON) Enviar Mensagem
-
-   Todos os campos são de preenchimento obrigatório.
-
-     * Também em:
-     * (BUTTON) Renasnceça no Facebook
-     * (BUTTON) Renasnceça no Twitter
-     * (BUTTON) Feed RSS Renasncença
+   A Lógica de Port-Royal foi um dos livros mais influentes de lógica
+   filosófica -para o bem e para o mal – da época moderna, não só no seu
+   tempo como nos séculos seguintes, apesar – e talvez por causa – das
+   suas idiossincrasias, visto que não trata apenas de questões
+   tradicionais de lógica, mas também de outros assuntos, que vão da
+   epistemologia à moral, passando pela metafísica e pela retórica.
+   Afirmando-se como um manual de rutura contra a tradição
+   aristotélico-escolástica (no que esta tinha de formalista, de abstrato
+   e de especulativo) mas também contra a conceção ramista da dialética,
+   ela foi, em vez disso, iluminada pelos princípios da nova filosofia
+   cartesiana e, sobretudo, pelo augustinismo dos seus autores
+   jansenistas. A Lógica de Port-Royal não deixou de tratar os temas
+   tradicionais da lógica, dos termos, da lógica proposicional e da
+   silogística – nas primeiras três partes dedicadas a três operações do
+   espírito: a de conceber [concevoir] a de julgar [juger] e a de
+   raciocinar [raisonner] – , mas, num movimento que havia já começado com
+   as lógicas renascentistas, acrescentou, para além daquelas, uma quarta
+   parte sobre o método, ou seja, uma parte dedicada à operação mental de
+   ordenar [ordonner], e, por isso, mais vocacionada para questões
+   epistemológicas, como a possibilidade do conhecimento, a luta contra o
+   ceticismo pirronista (não o metódico), a crença nos factos, sem deixar
+   de dar o devido tratamento aos aspetos propriamente metodológicos,
+   relativos ao momento heurístico da descoberta e à clara – geométrica e
+   demonstrativa – exposição do conhecimento adquirido. O sucesso
+   pedagógico e a tonalidade moderna desta Lógica – já que nela se
+   apresentam inovações importantes como, por exemplo, a distinção entre
+   extensão e compreensão dos termos – fizeram-na, por isso, merecer um
+   lugar incontornável em muitas das histórias tradicionais da lógica.
+   Para além, no entanto, deste lugar cativo na história geral da lógica,
+   verificou-se a partir da segunda metade do século xx uma atenção
+   especial a esta obra de Antoine Arnauld e Pierre Nicole. Tanto no
+   domínio da filosofia da linguagem e da linguística, com os estudos de
+   Noam Chomsky – que acreditou ter descoberto no par que esta obra compõe
+   com a Grammaire Générale et Raisonnée, de Antoine Arnauld e de Claude
+   Lancelot, o anúncio da sua Gramática Generativa, como no trabalho
+   epistemológico da arqueologia das ciências humanas de Michel Foucault –
+   que viu na Lógica de Port-Royal o paradigma da nova episteme clássica –
+   mas também, ainda no âmbito das teorias da argumentação e daquilo a que
+   se tem vindo a chamar “lógica informal” – onde a consideraram como uma
+   lógica inovadora, voltada para a prática argumentativa, antecipando
+   esse âmbito interdisciplinar que tem em conta os contextos e as
+   dinâmicas efetivas da argumentação e que, nessa perspetiva, refletiu
+   sobre alguns esquemas e falácias que haveriam de ser elaborados e
+   sistematizados mais tarde.
 
 
-   Grupo Renascença Multimédia
-   RFM
-   Mega Hits
-   Genius y Meios
-   Intervoz
-   POPCASTS
+   (Da apresentação de Nuno Fonseca)
+     __________________________________________________________________
 
-   [119]Política de Utilização Digital
-   © 2024 Rádio Renascença. Todos os direitos reservados.
+Ficha técnica (BUTTON) Fechar Open
 
+   Outras Responsabilidades:
+          Trad., apresent. e notas de Nuno Fonseca; rev. científica de
+          Adelino Cardoso
 
-    Quinta do Bom Pastor, Estrada da Buraca 8-12, 1549-025 Lisboa |
-    Telef.: [120]213 239 200 | [121]mail@rr.pt | [122]Canal de Denúncias
+   Coordenação editorial:
+          Fundação Calouste Gulbenkian
 
-   Site optimizado para as versões do Internet Explorer iguais ou
-   superiores a 9, Google Chrome e Firefox
-   © 2024 Rádio Renascença. Todos os direitos reservados.
+   Editado:
+          Lisboa, 2016
 
+   Dimensões:
+          210 mm x 140 mm
 
-    Quinta do Bom Pastor, Estrada da Buraca 8-12, 1549-025 Lisboa
+   Capa:
+          Encadernado
 
-   Telef.: [123]213 239 200 | [124]mail@rr.pt | [125]Canal de Denúncias
+   Páginas:
+          684 p.
+
+   Título Original:
+          La logique ou l'art de penser
+
+   ISBN:
+          978-972-31-1590-1
+
+   Atualização em 30 janeiro 2024
+
+Newsletter
+
+   Endereço de e-mail para subscrição de newsletter ____________________
+   (BUTTON) Subscrever
+
+Siga-nos
+
+     *
+     *
+     *
+     *
+     *
+
+Informações
+
+   [84]Av. de Berna, 45A, 1067-001 Lisboa
+   [85]Contacte-nos
+     * [86]Newsletter
+     * [87]Recrutamento
+     * [88]Press Kit
+     * [89]Websites Associados
+     * [90]Perguntas Frequentes
+     * [91]Política da Qualidade
+     * [92]Ética e Canal de Denúncias
+     * [93]Política de Privacidade e Cookies
+     * [94]Termos de Utilização
+     * [95]Definições de Cookies
+
+   [96]ISO-14001 [97]LR
+     * pt
+     * [98]en
+
+   ©2025 Fundação Calouste Gulbenkian – Direitos reservados
+
+Definição de Cookies
+
+Definição de Cookies
+
+   Este website usa cookies para melhorar a sua experiência de navegação,
+   a segurança e o desempenho do website. Podendo também utilizar cookies
+   para partilha de informação em redes sociais e para apresentar
+   mensagens e anúncios publicitários, à medida dos seus interesses, tanto
+   na nossa página como noutras.
+
+(BUTTON) Cookies estritamente necessários
+
+   [X]
+
+   Estas cookies são usadas para melhoria da experiência, performance e
+   segurança, nas diversas funcionalidades do site. Por esta razão, estão
+   sempre ativas. Este tipo de cookies permitem que o site o consiga
+   identificar durante uma sessão de navegação.
+
+(BUTTON) Cookies de desempenho
+
+   [ ]
+
+   Estas cookies recolhem informação de utilização do website para
+   melhoria dos serviços prestados e para avaliação da performance do
+   website. Algumas destas cookies poderão ser utilizadas para testar
+   páginas ou funcionalidades do website, medindo a reação dos
+   utilizadores. Estas cookies poderão ser próprias e/ou de terceiros.
+
+(BUTTON) Cookies de marketing, publicidade e social media
+
+   [ ]
+
+   Estas cookies são cookies de terceiros que permitem a ligação às redes
+   sociais e a partilha de conteúdo multimédia do nosso website nessas
+   redes. Algumas destas cookies ajudam-nos adequar a publicidade fora do
+   nosso website aos interesses dos utilizadores. Ao desativar estas
+   cookies deixará de ser possível partilhar diretamente os nossos
+   conteúdos em qualquer rede social.
+   (BUTTON) Configurar (BUTTON) Aceitar todas (BUTTON) Guardar seleção
+
+   Para obter mais informações sobre cookies e o processamento dos seus
+   dados pessoais, consulte a [99]Política de Privacidade e Cookies. A
+   qualquer altura pode alterar as suas definições de cookies através do
+   link na parte inferior da página.
 
 Références
 
    Liens visibles :
-   1. https://rr.sapo.pt/opensearch.xml
-   2. https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
-   3. https://rr.sapo.pt/rss/rssfeed.aspx?fid=6
-   4. https://www.googletagmanager.com/ns.html?id=GTM-P2D4GTC
-   5. https://rr.sapo.pt/default.aspx
-   6. https://rr.sapo.pt/ultimas
-   7. https://rr.sapo.pt/pais
-   8. https://rr.sapo.pt/politica
-   9. https://rr.sapo.pt/legislativas-2024
-  10. https://rr.sapo.pt/economia
-  11. https://rr.sapo.pt/religiao
-  12. https://rr.sapo.pt/jmj-2023
-  13. https://rr.sapo.pt/mundo
-  14. https://rr.sapo.pt/euranet
-  15. https://rr.sapo.pt/vida
-  16. https://rr.sapo.pt/explicador-renascenca/tag/6165/
-  17. https://rr.sapo.pt/tag/806/motores
-  18. https://rr.sapo.pt/coronavirus/tag/1450/
-  19. https://rr.sapo.pt/opiniao
-  20. https://rr.sapo.pt/area/83/nota-de-abertura
-  21. https://rr.sapo.pt/audios
-  22. https://rr.sapo.pt/podcasts
-  23. https://rr.sapo.pt/tempo
-  24. https://rr.sapo.pt/vmais
-  25. https://rr.sapo.pt/vmais-reportagem
-  26. https://rr.sapo.pt/vmais-actualidade
-  27. https://rr.sapo.pt/vmais-papa-francisco
-  28. https://rr.sapo.pt/vmais-bola-branca
-  29. https://rr.sapo.pt/vmais-na-radio
-  30. https://rr.sapo.pt/vmais-programacao
-  31. https://rr.sapo.pt/vmaisarea/344/extremamente-desagradavel
-  32. https://rr.sapo.pt/vmaisarea/405/jogos-sem-fronteiras
-  33. https://rr.sapo.pt/euro-2024
-  34. https://rr.sapo.pt/bola-branca
-  35. https://rr.sapo.pt/benfica
-  36. https://rr.sapo.pt/porto
-  37. https://rr.sapo.pt/sporting
-  38. https://rr.sapo.pt/futebol-nacional
-  39. https://rr.sapo.pt/futebol-internacional
-  40. https://rr.sapo.pt/modalidades
-  41. https://rr.sapo.pt/clube-portugal
-  42. https://rr.sapo.pt/especial-de-corrida
-  43. https://rr.sapo.pt/podcasts
-  44. https://rr.sapo.pt/ouvir-online-radio-renascenca
-  45. https://rr.sapo.pt/audios#radios
-  46. https://rr.sapo.pt/audios#ouvirdenovo
-  47. https://rr.sapo.pt/audios#grelha
-  48. https://rr.sapo.pt/audios#programas
-  49. https://rr.sapo.pt/podcasts
-  50. https://rr.sapo.pt/audios#arquivo
-  51. https://rr.sapo.pt/as-tres-da-manha
-  52. https://rr.sapo.pt/extremamente-desagradavel
-  53. https://rr.sapo.pt/t3
-  54. https://rr.sapo.pt/destaques
-  55. https://rr.sapo.pt/podcasts
-  56. https://rr.sapo.pt/newsletters
-  57. https://www.facebook.com/renascenca?fref=ts
-  58. https://twitter.com/Renascenca
-  59. https://www.instagram.com/renascenca/
-  60. https://rr.sapo.pt/videocast
-  61. https://rr.sapo.pt/podcasts
-  62. https://rr.sapo.pt/rss
-  63. https://rr.sapo.pt/frequencias
-  64. https://rr.sapo.pt/publicidade
-  65. https://rr.sapo.pt/renascenca-85-anos-de-historia
-  66. https://rr.sapo.pt/fichatecnica
-  67. https://rr.sapo.pt/contactos
-  68. https://rr.sapo.pt/transparencia
-  69. https://rr.sapo.pt/home
-  70. https://nonio.net/
-  71. https://rr.sapo.pt/artigo/401216/mais-de-um-milhao-e-meio-de-euros-para-a-missao-continente
-  72. https://rr.sapo.pt/artigo/406303/em-grande-reforma-porque-o-futuro-e-um-livro-por-escrever
-  73. https://rr.sapo.pt/artigo/384237/celebre-o-rei-da-valsa-com-a-vienna-johann-strauss-orchestra
-  74. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  75. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  76. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  77. https://rr.sapo.pt/as-tres-da-manha
-  78. https://rr.sapo.pt/t3
-  79. https://rr.sapo.pt/bola-branca
-  80. https://rr.sapo.pt/opiniao
-  81. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  82. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  83. https://rr.sapo.pt/ouvir-online-radio-renascenca
-  84. https://rr.sapo.pt/ouvir-online-renascenca-rock-in-rio-2024
-  85. https://rr.sapo.pt/ouvir-online-renascenca-hotel-california
-  86. https://rr.sapo.pt/ouvir-online-renascenca-ponto-pt
-  87. https://rr.sapo.pt/ouvir-online-renascenca-nonstop
-  88. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  89. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  90. file:///tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
-  91. https://www.whatsapp.com/channel/0029Va9ZehDFi8xUl5Fhb93q
-  92. https://www.whatsapp.com/channel/0029VacubED3rZZY0nnipj3H
-  93. https://rr.sapo.pt/noticia/pais/2024/12/28/leiria-leziria-e-alto-alentejo-governo-demite-tres-administracoes-de-uls/407626/?utm_source=cxemdestaque
-  94. https://rr.sapo.pt/noticia/mundo/2024/12/28/musk-apoia-extrema-direita-alema-em-artigo-de-opiniao/407614/?utm_source=cxemdestaque
-  95. https://rr.sapo.pt/bola-branca/noticia/porto/2024/12/28/fc-porto-goleia-e-esta-na-lideranca-do-campeonato-a-condicao/407586/?utm_source=cxemdestaque
-  96. https://rr.sapo.pt/noticia/pais/2024/12/28/banco-de-portugal-esclarece-que-nao-vai-pagar-salario-ao-novo-secretario-geral-do-governo/407580/?utm_source=cxemdestaque
-  97. https://rr.sapo.pt/noticia/pais/2024/12/28/excessiva-e-inoportuna-camara-de-lisboa-critica-a-greve-dos-trabalhadores-da-recolha-do-lixo/407583/?utm_source=cxemdestaque
-  98. https://rr.sapo.pt/noticia/mundo/2024/12/28/putin-pede-desculpa-mas-nao-assume-a-responsabilidade-pela-queda-do-aviao-da-azerbaijan-airlines/407576/?utm_source=cxemdestaque
-  99. https://rr.sapo.pt/matematica/tag/2282/
- 100. https://rr.sapo.pt/escolas/tag/1384/
- 101. https://rr.sapo.pt/ensino/tag/839/
- 102. https://www.facebook.com/sharer/sharer.php?u=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 103. https://twitter.com/intent/tweet?text=Presidente da Sociedade Portuguesa de Matemática diz que novo programa vai piorar a disciplina&url=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 104. https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/#comentar
- 105. whatsapp://send?text=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 106. https://rr.sapo.pt/noticia/pais/2023/01/17/mudancas-atiram-ensino-da-matematica-para-minimos-historicos-inexplicaveis/316186/
- 107. https://rr.sapo.pt/noticia/mundo/2023/01/04/reino-unido-alunos-vao-estudar-matematica-ate-aos-18-anos/314366/
- 108. https://rr.sapo.pt/noticia/pais/2023/01/17/mudancas-atiram-ensino-da-matematica-para-minimos-historicos-inexplicaveis/316186/
- 109. https://rr.sapo.pt/noticia/mundo/2023/01/04/reino-unido-alunos-vao-estudar-matematica-ate-aos-18-anos/314366/
- 110. https://rr.sapo.pt/vmais.aspx
- 111. https://rr.sapo.pt/video/jogo-de-palavra/2024/12/27/video-alex-feher-era-muito-muito-divertido-trabalhador-nato-e-apreciava-a-nossa-cozinha-os-nossos-vinhos/415002/
- 112. https://rr.sapo.pt/video/jogo-de-palavra/2024/12/27/video-alex-feher-era-muito-muito-divertido-trabalhador-nato-e-apreciava-a-nossa-cozinha-os-nossos-vinhos/415002/
- 113. https://rr.sapo.pt/video/reportagem/2024/12/23/video-falta-de-apoios-afeta-natal-de-quem-sofreu-com-os-incendios/414531/
- 114. https://rr.sapo.pt/video/reportagem/2024/12/23/video-falta-de-apoios-afeta-natal-de-quem-sofreu-com-os-incendios/414531/
- 115. https://rr.sapo.pt/video/actualidade/2024/12/25/montenegro-promete-combate-ao-crime-violento-e-coloca-portugal-como-referencial-de-estabilidade/414708/
- 116. https://rr.sapo.pt/video/actualidade/2024/12/25/montenegro-promete-combate-ao-crime-violento-e-coloca-portugal-como-referencial-de-estabilidade/414708/
- 117. https://rr.sapo.pt/video/actualidade/2024/12/25/aviao-de-passageiros-do-azerbaijao-despenha-se-em-aktau-no-cazaquistao/414810/
- 118. https://rr.sapo.pt/video/actualidade/2024/12/25/aviao-de-passageiros-do-azerbaijao-despenha-se-em-aktau-no-cazaquistao/414810/
- 119. https://rr.sapo.pt/politica-utilizacao-digital
- 120. tel:+213239200
- 121. mailto:mail@rr.pt
- 122. https://rmultimedia.workky.com/portal-denuncias
- 123. tel:+213239200
- 124. mailto:mail@rr.pt?Subject=Contacto
- 125. https://rmultimedia.workky.com/portal-denuncias
+   1. https://gulbenkian.pt/feed/
+   2. https://gulbenkian.pt/comments/feed/
+   3. https://gulbenkian.pt/wp-json/wp/v2/publication/150784
+   4. https://gulbenkian.pt/wp-json/oembed/1.0/embed?url=https://gulbenkian.pt/publications/a-logica-ou-a-arte-de-pensar/
+   5. https://gulbenkian.pt/wp-json/oembed/1.0/embed?url=https://gulbenkian.pt/publications/a-logica-ou-a-arte-de-pensar/&format=xml
+   6. https://www.googletagmanager.com/ns.html?id=GTM-TKRSHB
+   7. file:///tmp/lynxXXXXk17uii/L7937-9348TMP.html#main-content
+   8. https://gulbenkian.pt/
+   9. file:///
+  10. https://gulbenkian.pt/cartao-gulbenkian/
+  11. https://gulbenkian.pt/agenda
+  12. https://gulbenkian.pt/publications/
+  13. https://gulbenkian.pt/agenda
+  14. https://gulbenkian.pt/fundacao/a-fundacao/
+  15. https://gulbenkian.pt/chronologies/fundacao-calouste-gulbenkian/
+  16. https://gulbenkian.pt/fundacao/calouste-sarkis-gulbenkian/
+  17. https://gulbenkian.pt/fundacao/organizacao/conselho-administracao/
+  18. https://gulbenkian.pt/fundacao/organizacao/diretores/
+  19. https://gulbenkian.pt/fundacao/organizacao/
+  20. https://gulbenkian.pt/fundacao/organizacao/documentos-legais/
+  21. https://gulbenkian.pt/fundacao/organizacao/a-fundacao-e-os-ods/
+  22. https://gulbenkian.pt/fundacao/organizacao/sustentabilidade/
+  23. https://gulbenkian.pt/fundacao/edificios-e-jardim/
+  24. https://gulbenkian.pt/atividades-distributivas/
+  25. https://gulbenkian.pt/acesso-a-cuidados/
+  26. https://gulbenkian.pt/acesso-a-cultura/
+  27. https://gulbenkian.pt/acesso-a-educacao/
+  28. https://gulbenkian.pt/clima-e-oceano/
+  29. https://gulbenkian.pt/democracia-e-sociedade-civil/
+  30. https://gulbenkian.pt/armenios/
+  31. https://gulbenkian.pt/parcerias-com-africa/
+  32. https://gulbenkian.pt/programas/programas-anteriores/
+  33. https://gulbenkian.pt/museu/
+  34. https://gulbenkian.pt/cam/
+  35. https://gulbenkian.pt/musica/
+  36. https://gulbenkian.pt/biblioteca-arte/
+  37. https://gulbenkian.pt/uma-nova-era-cientifica/
+  38. https://gulbenkian.pt/chronologies/sintese-2023/
+  39. https://gulbenkian.pt/bolsas-gulbenkian/
+  40. https://gulbenkian.pt/apoios-lista/
+  41. https://gulbenkian.pt/fundacao/premios/premio-gulbenkian-humanidade/
+  42. https://gulbenkian.pt/fundacao/premios/premios-gulbenkian/
+  43. https://gulbenkian.pt/uk-branch/our-work/the-civic-role-of-arts-organisations/the-award-for-civic-arts-organisations/
+  44. https://gulbenkian.pt/fundacao/premios/patrimonio-maria-teresa-vasco-vilalva/
+  45. https://gulbenkian.pt/fundacao/premios/salavisa-european-dance-award/
+  46. https://gulbenkian.pt/read-watch-listen/?filter[tax][article_type][]=30679
+  47. https://gulbenkian.pt/read-watch-listen/?filter[tax][article_type][]=30681
+  48. https://gulbenkian.pt/read-watch-listen/?filter[tax][article_type][]=30682
+  49. https://gulbenkian.pt/read-watch-listen/?filter[tax][article_type][]=31431
+  50. https://gulbenkian.pt/read-watch-listen/?filter[tax][article_type][]=30676
+  51. https://gulbenkian.pt/noticias/
+  52. https://gulbenkian.pt/museu/colecao/conhecer-a-colecao/
+  53. https://gulbenkian.pt/cam/works_cam/
+  54. https://gulbenkian.pt/historia-das-exposicoes/
+  55. https://gulbenkian.pt/dacosta/
+  56. https://gulbenkian.pt/publicacoes/
+  57. https://gulbenkian.pt/agenda/?filter[tax][fcg-agenda_template][0]=9466
+  58. https://gulbenkian.pt/agenda/?filter[tax][fcg-agenda_template][0]=31607
+  59. https://gulbenkian.pt/agenda/?filter[tax][fcg-agenda_template][0]=9468
+  60. https://gulbenkian.pt/atividades-para-escolas/
+  61. https://gulbenkian.pt/agenda/?filter[tax][fcg-agenda_template][0]=31507&filter[tax][audience][]=30876&filter[after]=2023-11-08&page=1
+  62. https://gulbenkian.pt/agenda/?filter[tax][fcg-agenda_template][0]=31507&filter[after]=2023-11-08&page=1&filter[tax][audience][]=30875
+  63. https://gulbenkian.pt/agenda/?filter[tax][fcg-agenda_template][0]=31507&filter[after]=2023-11-08&page=1&filter[tax][audience][]=30877
+  64. https://gulbenkian.pt/visitas-para-grupos-particulares/
+  65. https://gulbenkian.pt/cartao-gulbenkian/
+  66. https://gulbenkian.pt/informacoes-uteis/horarios/
+  67. https://gulbenkian.pt/informacoes-uteis/bilhetes/
+  68. https://gulbenkian.pt/informacoes-uteis/como-chegar/
+  69. https://gulbenkian.pt/informacoes-uteis/acessibilidade/
+  70. https://gulbenkian.pt/informacoes-uteis/restaurantes-cafetarias/a-mesa-do-cam/
+  71. https://gulbenkian.pt/informacoes-uteis/guia-digital-gratuito/
+  72. https://gulbenkian.pt/jardim/
+  73. https://gulbenkian.pt/fundacao/auditorios/
+  74. https://gulbenkian.pt/fundacao/auditorios/cedencia-espacos/
+  75. https://gulbenkian.pt/museu/
+  76. https://gulbenkian.pt/cam/
+  77. https://gulbenkian.pt/musica/
+  78. https://gulbenkian.pt/biblioteca-arte/
+  79. https://gulbenkian.pt/uk-branch/
+  80. https://gulbenkian.pt/paris/
+  81. https://gulbenkian.pt/armenian-communities/
+  82. https://gulbenkian.pt/
+  83. https://gulbenkian.pt/en
+  84. https://www.google.com/maps?ll=38.737474,-9.154679&z=16&t=m&hl=en-US&gl=PT&mapclient=embed&cid=566985792386140131
+  85. https://gulbenkian.pt/contacte-nos/
+  86. https://gulbenkian.pt/newsletter/
+  87. https://gulbenkian.pt/recrutamento/
+  88. https://gulbenkian.pt/fundacao/press-kit/
+  89. https://gulbenkian.pt/sites-associados/
+  90. https://gulbenkian.pt/perguntas-frequentes/
+  91. https://gulbenkian.pt/politica-da-qualidade/
+  92. https://gulbenkian.pt/politicas-de-prevencao/
+  93. https://gulbenkian.pt/privacidade/
+  94. https://gulbenkian.pt/termos-de-utilizacao/
+  95. file:///tmp/lynxXXXXk17uii/L7937-9348TMP.html
+  96. https://www.sgsgroup.cz/en/vr/certified-client-directory
+  97. https://www.livroreclamacoes.pt/
+  98. https://gulbenkian.pt/en
+  99. https://gulbenkian.pt/privacidade
 
    Liens cachés :
- 127. https://rr.sapo.pt/ouvir-online-radio-renascenca
- 128. https://rr.sapo.pt/ouvir-online-radio-renascenca
- 129. https://rr.sapo.pt/ouvir-online-radio-renascenca
- 130. https://rr.sapo.pt/artigo/401216/mais-de-um-milhao-e-meio-de-euros-para-a-missao-continente
- 131. https://rr.sapo.pt/artigo/406303/em-grande-reforma-porque-o-futuro-e-um-livro-por-escrever
- 132. https://rr.sapo.pt/artigo/384237/celebre-o-rei-da-valsa-com-a-vienna-johann-strauss-orchestra
- 133. file://localhost/tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
- 134. https://rr.sapo.pt/home
- 135. file://localhost/tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
- 136. https://www.facebook.com/sharer/sharer.php?u=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 137. https://www.facebook.com/sharer/sharer.php?u=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 138. https://twitter.com/intent/tweet?text=Presidente%20da%20Sociedade%20Portuguesa%20de%20Matem%C3%A1tica%20diz%20que%20novo%20programa%20vai%20piorar%20a%20disciplina&url=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 139. https://twitter.com/intent/tweet?text=Presidente%20da%20Sociedade%20Portuguesa%20de%20Matem%C3%A1tica%20diz%20que%20novo%20programa%20vai%20piorar%20a%20disciplina&url=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 140. file://localhost/tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
- 141. file://localhost/tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
- 142. https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/#comentar
- 143. https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/#comentar
- 144. https://rr.sapo.pt/printArticle.aspx?objid=6cb4a7a2-58c2-ed11-8aae-14cb656f0891
- 145. https://www.facebook.com/sharer/sharer.php?u=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 146. https://twitter.com/intent/tweet?text=Presidente%20da%20Sociedade%20Portuguesa%20de%20Matem%C3%A1tica%20diz%20que%20novo%20programa%20vai%20piorar%20a%20disciplina&url=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 147. whatsapp://send?text=https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/
- 148. file://localhost/tmp/lynxXXXXPxOQtQ/L30672-3232TMP.html
- 149. https://rr.sapo.pt/noticia/pais/2023/03/14/presidente-da-sociedade-portuguesa-de-matematica-diz-que-novo-programa-vai-piorar-a-disciplina/323777/#comentar
- 150. https://rr.sapo.pt/printArticle.aspx?objid=6cb4a7a2-58c2-ed11-8aae-14cb656f0891
- 151. https://images.rr.sapo.pt/antoine_dautry_zsl306fdck_unsplash1861155ddefaultlarge_1024.jpg
- 152. https://gruporenascencamultimedia.com/
- 153. https://rfm.sapo.pt/
- 154. https://megahits.fm/
- 155. https://geniusymeios.pt/
- 156. https://intervoz.pt/
- 157. https://popcasts.pt/
+ 101. https://www.facebook.com/fcgulbenkian
+ 102. https://www.linkedin.com/company/calouste-gulbenkian-foundation/
+ 103. https://www.instagram.com/fcgulbenkian/
+ 104. https://twitter.com/FCGulbenkian
+ 105. https://www.youtube.com/user/FCGulbenkian
+ 106. http://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt

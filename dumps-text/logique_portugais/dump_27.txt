@@ -1,540 +1,496 @@
-    #[1]Feed para Clube do Português » [2]Feed de comentários para Clube
-   do Português » [3]Feed de comentários para Clube do Português »
-   Coerência textual – tipos e exemplos [4]Feed de Clube do Português »
-   Story [5]JSON [6]oEmbed (JSON) [7]oEmbed (XML)
+   #[1]Flores RSS Feed [2]Feed para Flores » [3]Feed de comentários para
+   Flores » [4]Feed de comentários para Flores » Plantas Nativas Do
+   Cerrado [5]A Flor Tumbérgia-Arbustiva: Thunbergia Erecta: [6]Como
+   Escolher o Vaso Ideal [7]alternate [8]alternate
 
-   [8]Ir para o conteúdo
+   [p?c1=2&c2=14194541&cv=2.0&cj=1]
 
-   (BUTTON)
-     * [9]Categorias
-          + [10]Alfabetização
-               o [11]Alfabetização Incluisva
-               o [12]Conceitos e métodos
-               o [13]Desenvolvimento da escrita
-               o [14]Letramentos
-               o [15]Literacia Familiar
-               o [16]Teóricos da alfabetização
-          + [17]Conteúdo acessível
-          + [18]Dúvidas de Português
-               o [19]Coronavírus
-               o [20]Variedades
-          + [21]Enem
-               o [22]Linguagens e seus códigos
-               o [23]Literatura
-               o [24]Produção de texto
-          + [25]Glossário
-          + [26]Gramática
-               o [27]Concordância verbal e nominal
-               o [28]Crase
-               o [29]Estilística e semântica
-               o [30]Filosofia da linguagem
-               o [31]Fonética e fonologia
-               o [32]Hífen
-               o [33]Morfologia
-               o [34]Ortografia
-               o [35]Pontuação
-               o [36]Reforma ortográfica
-               o [37]Regência
-               o [38]Sintaxe
-          + [39]Língua e Tecnologia
-          + [40]Para professores e pais
-     * [41]Sobre o Clube
+   Canais: [9]Home [10]Animais [11]Artesanato [12]Autos [13]Beleza
+   [14]Casamento [15]Culinaria [16]Cultura [17]Decoração [18]Economia
+   [19]Famosos [20]Flores [21]Meio Ambiente [22]Mensagens [23]Moda
+   [24]Musica [25]Religião [26]Saude [27]Tecnologia [28]Turismo
+   [29]Flores
 
-   [42]Início > [43]sujeito composto > Coerência textual – tipos e
-   exemplos
+     *
+     * [30]Categorias
+          + [31]Arranjos
+               o [32]Vasos
+          + [33]Cestas
+          + [34]Datas Especiais
+          + [35]Decoração
+          + [36]Dicas
+          + [37]Flores
+               o [38]Artificiais
+               o [39]Naturais
+          + [40]Fotos
+          + [41]Informações
+          + [42]Jardim
+          + [43]Presentes
+     * [44]Contato
+     * [45]Anuncie
 
-Coerência textual – tipos e exemplos
+   ___________________________________ Buscar
 
-     * [44]Pedro Valadares
-     * [45]publicado em 06/10/2021
-     * última atualização 4 meses atrás
+Plantas Nativas Do Cerrado
 
-   Coerência textual consiste na garantia da relação lógica entre as
-   ideias de um texto. Assim dizemos que um texto está coerente quando é
-   possível entendê-lo de forma clara, sem contradições.
+   Postado 11 anos atrás
+   por em [46]Informações
 
-   Para que isso ocorra no seu texto, é importante que você observe com
-   atenção alguns pontos essenciais para a manutenção da coerência. São
-   eles:
-     * Inter-relação entre os elementos do texto: todas as partes do texto
-       devem estar inter-relacionadas. Ou seja, não fuja bruscamente do
-       tema, tampouco mude bruscamente de assunto em [46]parágrafos
-       próximos. Tente realizar uma transição gradual entre os assuntos do
-       texto.
+   Você sabe quais são as plantas nativas do cerrado, quais as suas
+   principais características ou o que é cerrado? Não? Então conheça agora
+   todas as curiosidades sobre o cerrado e as plantas nativas desse tipo
+   de solo.
 
-     * Progressão de ideias: fale sobre as novas faces do mesmo assunto,
-       mas evite a repetição de ideias já mencionadas. Você deve conduzir
-       o leitor para os demais elementos possíveis dentro do assunto em
-       questão com cuidado para não ser prolixo e redundante.
+O Que é Cerrado?
 
-     * Aprofundamento de conceitos: desenvolva de maneira mais aprofundada
-       aquilo que você defende. Dizer apenas que concorda ou não ou que
-       algo é certo ou errado, por exemplo, não basta. Explique de maneira
-       detalhada as suas ideias.
+   Quando pensamos em cultivar qualquer tipo de planta devemos ter atenção
+   a diversos fatores para que elas realmente se desenvolvam da melhor
+   maneira possível. Entre esses pontos a serem observados, o principal
+   deles é o solo. É fundamental que ele seja de acordo com o que precisa
+   a planta para o seu desenvolvimento. E fica claro entender o porque de
+   tamanha importância entre outras coisas, uma vez que as plantas têm sua
+   fonte de nutrientes no solo. Para que elas cresçam belas e fortes elas
+   precisam encontrar um solo que tenha absorção suficiente dos minerais
+   disponíveis para elas.
+   [47]O Que é Cerrado?
 
-     * Não contradição: não seja contraditório ao abordar a sua temática.
-       Demonstre anuência em relação a um ponto de vista, pois o seu
-       posicionamento deve ficar claro para o seu leitor.
+   O Que é Cerrado?
 
-     * Fundamentação de ideias: todo novo argumento de um texto deve estar
-       fundamentado. Isso significa que é importante mostrar qual é o
-       órgão, a instituição e/ou a pessoa notável que defende o mesmo que
-       você, quais são os estudos e pesquisas que comprovam o seu
-       argumento, quais são os exemplos reais e amplamente conhecidos que
-       ilustram o que você defende etc.
+O Que é Eficiência Nutricional?
 
-     * Consistência e relevância: apresente argumentos consistentes, isto
-       é, que façam sentido; e também apresente argumentos relevantes, que
-       causem algum impacto em relação ao tema. Fuja dos clichês e dos
-       achismos.
+   Se você se interessa pelo cultivo de plantas provavelmente já ouviu
+   falar em eficiência nutricional, que significa o quanto é capaz uma
+   planta de retirar do solo todos os nutrientes que ela precisa e que
+   estão disponíveis para ela. Porém, para que o processo seja realizado
+   da melhor formar possível a planta precisa estar em solo adequado a ela
+   e claro, não se resume somente ao solo, mas a outros fatores que devem
+   ser observados.
 
-Tipos de coerência textual
+   Dito tudo isso, e compreendo a necessidade que uma planta tem de estar
+   em um solo adequado para ela, vamos falar sobre o cerrado, que é “dito”
+   um mosaico de biomas. Esse tipo de solo é classificado como ácido,
+   distrófico e latossolo. Resumindo, essas características, o cerrado tem
+   uma pequena concentração de nutrientes e mais uma grande saturação de
+   alumínio.
+   [48]O Que é Eficiência Nutricional?
 
-   Conheça abaixo os tipos de coerência textual mais comuns.
+   O Que é Eficiência Nutricional?
 
-   1. Coerência Narrativa: refere-se à relação lógica entre as partes de
-   um texto narrativo.
+   Essas características fazem do cerrado um solo considerado com
+   deficiência nutricional . Porque faltam muitos nutrientes e existe uma
+   considerável concentração de alumínio no solo. As duas coisas somadas
+   fazem com que as plantas apresentem uma baixa produção de biomassa. Na
+   prática, significa o “esclero morfismo” das vegetação.
 
-   Incoerência: Quando chegou à casa, Helena percebeu que havia esquecido
-   suas chaves no trabalho. Como faltava meia hora para o escritório
-   fechar, entrou em casa.
+   Em linhas menos científicas e mais práticas, as plantas para crescerem
+   no cerrado precisam ser 100% adequadas a esse tipo de ambiente. Não é
+   possível plantar qualquer outra espécie que não possui as
+   características de cerrado. Elas não suportariam nem mesmo a primeira
+   semana. Aliás, isso não serve somente para o cerrado, serve para
+   qualquer tipo de ambiente. Antes de pensar em cultivar qualquer planta
+   é necessário avaliar se ela é adequada para aquele espaço.
 
-   Coerência: Quando chegou à casa, Helena percebeu que havia esquecido
-   suas chaves no trabalho. Como faltava meia hora para o escritório
-   fechar, pediu rapidamente um motorista de aplicativo e foi buscar suas
-   chaves.
+   IFRAME: [49]https://www.youtube.com/embed/GHYtrc595Sc?feature=oembed
 
-   2. Coerência Argumentativa: refere-se à relação lógica entre as partes
-   de um texto dissertativo, principalmente entre os argumentos e a tese.
+O Cerrado No Brasil
 
-   Incoerência: Ter uma alimentação saudável é uma das formas de prevenção
-   à diabetes, e os cuidados com a dieta vão além de apenas evitar comer
-   doces. Inclusive, ela é uma doença silenciosa, portanto recomenda-se
-   procurar um médico apenas quando desenvolver sintomas.
+   Podemos dizer que o cerrado brasileiro é bem extenso, uma vez que
+   podemos encontrá-lo partindo de Piauí, passando por Goiás, Mato Grosso
+   do Sul e chegando em Minas Gerais e na Bahia.
 
-   Coerência: Ter uma alimentação saudável é uma das formas de prevenção à
-   diabetes, e os cuidados com a dieta vão além de apenas evitar comer
-   doces. Inclusive, ela é uma doença silenciosa, portanto recomenda-se
-   fazer avaliações médicas periodicamente.
+   No Brasil é possível ter sucesso fazendo o cultivo de jardins em climas
+   áridos, o importante é observar quais são as espécies adequadas para
+   cada determinado ambiente. Quem não conhece as plantas acaba se
+   limitando muito para criar um jardim ou projeto paisagístico.
 
-   3. Coerência Figurativa: refere-se à relação lógica entre as partes de
-   um [47]texto narrativo-descritivo, principalmente entre o assunto
-   abordado e as figuras usadas para ilustrá-lo.
+   Uma das principais características do cerrado é a vegetação
+   naturalmente baixa, além disso, as plantas se apresentam inclinadas,
+   muitas com o tronco retorcido. Essa segunda característica se dá pela
+   falta de água que a planta sofreu durante toda fase de crescimento. Por
+   um lado, falta água e pelo outro, durante o verão, a água é abundante.
+   Esse seca e água demais provoca determinadas características nas
+   plantas do cerrado.
+   [50]o-cerrado-no-brasil-1
+   [51]o-cerrado-no-brasil-2
+   [52]o-cerrado-no-brasil-3
+   [53]o-cerrado-no-brasil-4
+   [54]o-cerrado-no-brasil-5
+   [55]o-cerrado-no-brasil-6
 
-   Incoerência: A festa havia sido linda e animada! Notava-se todo o
-   capricho e cuidado da aniversariante, que pensou em cada detalhe, além
-   da cara de sono dos convidados, os quais não duraram mais de duas horas
-   no local.
+Como é o Solo No Cerrado
 
-   Coerência: A festa havia sido linda e animada! Notava-se todo o
-   capricho e cuidado da aniversariante, que pensou em cada detalhe, além
-   da cara de felicidade dos convidados, os quais não queriam mais ir
-   embora.
+   O solo no cerrado em muitos casos é limitante e se mostra deficiente de
+   nutrientes para as plantas, essa é a principal característica natural
+   desse tipo de ambiente. O problema é que como sabemos bem, as plantas
+   precisam dos nutrientes do solo para ficarem bonitas e crescerem
+   fortes. Assim, como a água é fundamental. No caso de um jardim, é mais
+   do que necessário adubar com substratos ricos em material orgânico e
+   ficar de olho nas regas principalmente durante o período de falta de
+   chuvas.
 
-   4. Coerência Temporal: refere-se à relação lógica temporal entre as
-   partes de um texto dissertativo ou narrativo. Ou seja, os fatos devem
-   apresentar uma sucessão lógica.
+   Com todos esses detalhes pode parecer que não é fácil encontra uma
+   planta que sobreviva o cerrado, mas não é bem assim, pelo contrário,
+   existem várias espécies que podem viver bem se cultivadas nessa
+   situação. Essa particularidade se dá ao fato do clima, que nessa região
+   varia entre subtropical e tropical chegando até temperaturas mais
+   amenas em algumas partes mais altas, favorecendo o cultivo de várias
+   espécies de plantas.
+   [56]como-e-o-solo-no-cerrado-1
+   [57]como-e-o-solo-no-cerrado-2
+   [58]como-e-o-solo-no-cerrado-3
+   [59]como-e-o-solo-no-cerrado-4
+   [60]como-e-o-solo-no-cerrado-5
+   [61]como-e-o-solo-no-cerrado-6
 
-   Incoerência: Quando a mãe entrou no quarto do filho, ele já havia
-   trocado o óleo de cabelo dela por óleo de cozinha e estava jogando
-   videogame tranquilamente. Dessa forma, a mãe pegou-o em flagrante, bem
-   no instante dessa terrível façanha.
+O Que Fazer Em Um Projeto Paisagístico No Cerrado
 
-   Coerência: Quando a mãe entrou no quarto do filho, ele estava trocando
-   o óleo de cabelo dela por óleo de cozinha. Dessa forma, a mãe pegou-o
-   em flagrante, bem no instante dessa terrível façanha.
+   Se você quer uma boa ideia para um projeto paisagístico no cerrado,
+   siga a seguinte dica: adicione planas nativas da região. Usando essas
+   espécies, de preferência as com características de ornamentação, você
+   poderá acrescentar as demais de olho no tipo de clima, evitando assim,
+   qualquer tipo de problema de adaptação. Lógico, não perca de vista a
+   incrementação do solo e a atenção a irrigação.
 
-   5. Coerência de Registro: refere-se à uniformidade de tratamento do
-   início ao fim de um texto. Ou seja, o nível de [48]linguagem utilizado
-   deve ser totalmente formal ou informal.
+   Se você tem dúvidas sobre quais plantas são melhores para iniciar o seu
+   projeto de paisagismo no cerrado, não tem problema, veja o nome de
+   algumas espécies com um grande potencial para jardins de áreas urbanas.
+   [62]http://www.youtube.com/watch?v=sss0MfdD-Fg
 
-   Incoerência: As escolas estaduais, por meio da Secretaria de Educação,
-   promoverão a “Semana de Proteção Animal”, que vai dar o start já na
-   próxima segunda. O secretário de Educação afirma que esse é um evento
-   para sensibilizar os de menor sobre a necessidade de proteção e
-   respeito aos direitos dos animal tudo.
+Veja Árvores Floríferas Que São Nativas Do Cerrado e Se Adaptam Perfeitamente
+Ao Clima
 
-   Coerência: As escolas estaduais, por meio da Secretaria de Educação,
-   promoverão a “Semana de Proteção Animal”, que começará na próxima
-   segunda-feira. O secretário de Educação afirma que esse é um evento
-   para sensibilizar as crianças e adolescentes sobre a necessidade de
-   proteção e respeito aos direitos de todas as espécies animais.
+     * Ipê amarelo cujo nome científico é tibouchina granulosa: possui
+       folhas decíduas e durante a primavera apresenta lindas flores
+       amarelas.
+     * Mulungu cujo nome científico é erythrina: possui folhas decíduas e
+       na primavera aparecem flores na cor vermelha.
+     * Pau ferro cujo nome científico é caessalpinea ferrea: é uma das
+       plantas mais bonitas para um projeto paisagístico, possui lindas
+       flores amarelas.
+     * Jacarandá de Minas cujo nome científico é jacaranda cuspidifolia: é
+       perfeita para ornamentação graças as suas flores azuis.
+     * Aleluia cujo nome científico é senna macranthera: apresenta lindas
+       flores amarelas que aparecem no verão.
+     * Quaresmeira cujo nome científico é tibouchina granulosa: suas
+       flores aparecem no outono.
+     * Palmeiras nativas do Brasil: babaçu cujo nome científico é orbignya
+       phalerata; buriti cujo nome científico é maurita flexuosa;
+       palmeira-juçara cujo nome científico é euterpe edulis; macaúba cujo
+       nome científico é acrocomia aculeata.
+     * Inclua no projeto árvores com frutos que atraiam a fauna local:
+       essas plantas servirão para alimentar passarinhos e deixar ainda
+       mais bonito o projeto paisagístico: ingá, goiabeira, araticum do
+       mato e araçá amarelo.
 
-   *
+   [63]arvores-floriferas-1
+   [64]arvores-floriferas-2
+   [65]arvores-floriferas-3
+   [66]arvores-floriferas-4
+   [67]arvores-floriferas-5
+   [68]arvores-floriferas-6
+   Gostou? Curta e Compartilhe!
+   [69]Tweet
+   [70]Compartilhar
+   [71][pinit_fg_en_rect_gray_20.png]
 
-   Quer aprofundar seus conhecimentos na língua portuguesa? Então,
-   continue seus estudos com a [49]Gramática On-line do Clube do
-   Português.
+   Categoria(s) do artigo:
+   [72]Informações
 
-   IFRAME: [50]about:blank
+Artigos Recentes
 
-   IFRAME: [51]https://clubedoportugues.substack.com/embed
+     * [73]Abelha [74]
 
-   Picture of Pedro Valadares Picture of Pedro Valadares
-   Pedro Valadares
-   Professor de português e revisor de texto com mais de 13 anos de
-   experiência. Consultor em revisão de texto da Câmara Legislativa do
-   Distrito Federal e aprovado em mais de 10 concursos públicos.
-   Licenciatura em letras, graduação em comunicação social e
-   especialização em revisão textual e significação da linguagem.
+Qual A Importância Das Abelhas Para A Polinização?
+       jun 13, 2022
+       [75]0
+     * [76]Lírio Asiático [77]
 
-Outros artigos relacionados ao tema
+Quais São os Tipos de Lírios?
+       jun 1, 2022
+       [78]0
+     * [79]Amor Perfeito [80]
 
+Qual É A Flor Amor Perfeito?
+       maio 18, 2022
+       [81]0
+     * [82]Cactos [83]
 
-   17 dezembro 2024
-   [52]
-   Clichês: conceito, exemplos e como evitar em provas discursivas
-   Se você está se preparando para concursos públicos, sabe que as provas
-   discursivas são uma oportunidade valiosa para mostrar seu conhecimento
-   e sua habilidade com a escrita. No entanto, o uso de clichês...
-   [53]Leia mais
+Quais Plantas Duram Mais?
+       maio 14, 2022
+       [84]0
+     * [85]Rosas [86]
 
-   11 dezembro 2024
-   [54]
-   Em anexo ou Anexo: quando usar cada um?
-   As formas anexo e em anexo estão corretas. A segunda, apesar de
-   condenada por alguns gramáticos, é aceita por diversos estudiosos do
-   Português e também pelas principais bancas de concurso público.
-   Neste...
-   [55]Leia mais
+Quais São os Tipos de Rosas Que Existem?
+       maio 6, 2022
+       [87]0
 
-   25 novembro 2024
-   [56]
-   Reportagem: aspectos relevantes, tipos e exemplos
-   No universo do jornalismo, existe um gênero textual que se destaca por
-   oferecer informações detalhadas e aprofundadas sobre um tema
-   específico: a reportagem. Diferente de uma notícia, que apresenta...
-   [57]Leia mais
+Artigos Relacionados
 
-   20 outubro 2024
-   [58]
-   Prosa: o que é, características e como fazer?
-   Podemos definir prosa como uma das formas mais versáteis de expressão e
-   liberdade de pensamento. Isso porque se trata de uma narrativa simples,
-   espontânea e sem amarras da métrica.  Em outras palavras,...
-   [59]Leia mais
+Artigos populares
 
-   26 agosto 2024
-   [60]
-   Biografia: características, estrutura, tipos e exemplos
-   A biografia é um gênero textual que conta a história da vida de alguém.
-   Em outras palavras, trata-se de um texto que relata as principais
-   ações, experiências e o legado de uma figura pública.  Os fatos...
-   [61]Leia mais
+     * [88]
 
-   24 julho 2024
-   [62]
-   Conto: estrutura, exemplos, tipos e elementos
-   Com um enredo curto e poucos personagens, o conto é um gênero que
-   centraliza em um único problema ou situação, explorada em uma breve
-   narrativa. Autores como Machado de Assis e Mário de Andrade são
-   considerados...
-   [63]Leia mais
+Florista para Casamento
+       jul 1, 2010
+       [89]37
+     * [90]
 
-   24 abril 2024
-   [64]
-   10 dicas de português para não errar na redação
-   Confira aqui 10 dicas certeiras para você não vacilar na hora da
-   redação. Entenda onde prestar atenção para garantir uma boa nota.
-   [65]Leia mais
+Plantas da Mata Atlântica
+       maio 31, 2011
+       [91]36
 
-   23 abril 2024
-   [66]
-   Carta argumentativa: estrutura, como fazer, exemplos e questões
-   A carta argumentativa é um gênero textual que visa convencer o
-   interlocutor sobre um determinado ponto de vista. Entenda mais aqui!
-   [67]Leia mais
+   Artigo anterior
 
-   15 abril 2024
-   [68]
-   Conclusão da redação do Enem: passo a passo para uma proposta de
-   intervenção nota 1000
-   A conclusão da redação do Enem, conhecida como proposta de intervenção
-   vale 20% da sua nota. Por isso, trouxemos para você um guia completo.
-   [69]Leia mais
+[92]A Flor Tumbérgia-Arbustiva: Thunbergia Erecta:
 
-   11 abril 2024
-   [70]
-   Introdução para a redação do Enem: 5 estratégias infalíveis
-   Como fazer introdução para a redação do Enem? Neste artigo, vamos te
-   mostrar o guia completo para iniciar seu texto com segurança.
-   [71]Leia mais
+   Próximo artigo
 
-   17 dezembro 2024
-   [72]
-   Clichês: conceito, exemplos e como evitar em provas discursivas
-   Se você está se preparando para concursos públicos, sabe que as provas
-   discursivas são uma oportunidade valiosa para mostrar seu conhecimento
-   e sua habilidade com a escrita. No entanto, o uso de clichês...
-   [73]Leia mais
+[93]Como Escolher o Vaso Ideal
 
-   11 dezembro 2024
-   [74]
-   Em anexo ou Anexo: quando usar cada um?
-   As formas anexo e em anexo estão corretas. A segunda, apesar de
-   condenada por alguns gramáticos, é aceita por diversos estudiosos do
-   Português e também pelas principais bancas de concurso público.
-   Neste...
-   [75]Leia mais
+Deixe um comentário [94]Cancelar resposta
 
-   25 novembro 2024
-   [76]
-   Reportagem: aspectos relevantes, tipos e exemplos
-   No universo do jornalismo, existe um gênero textual que se destaca por
-   oferecer informações detalhadas e aprofundadas sobre um tema
-   específico: a reportagem. Diferente de uma notícia, que apresenta...
-   [77]Leia mais
+   O seu endereço de e-mail não será publicado. Campos obrigatórios são
+   marcados com *
+   Comentário:*
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
 
-   20 outubro 2024
-   [78]
-   Prosa: o que é, características e como fazer?
-   Podemos definir prosa como uma das formas mais versáteis de expressão e
-   liberdade de pensamento. Isso porque se trata de uma narrativa simples,
-   espontânea e sem amarras da métrica.  Em outras palavras,...
-   [79]Leia mais
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Nome:* ______________________________
+   Email:* ______________________________
 
-   26 agosto 2024
-   [80]
-   Biografia: características, estrutura, tipos e exemplos
-   A biografia é um gênero textual que conta a história da vida de alguém.
-   Em outras palavras, trata-se de um texto que relata as principais
-   ações, experiências e o legado de uma figura pública.  Os fatos...
-   [81]Leia mais
+   __  ×  sete  =  63
 
-   24 julho 2024
-   [82]
-   Conto: estrutura, exemplos, tipos e elementos
-   Com um enredo curto e poucos personagens, o conto é um gênero que
-   centraliza em um único problema ou situação, explorada em uma breve
-   narrativa. Autores como Machado de Assis e Mário de Andrade são
-   considerados...
-   [83]Leia mais
+   Enviar comentário
 
-   24 abril 2024
-   [84]
-   10 dicas de português para não errar na redação
-   Confira aqui 10 dicas certeiras para você não vacilar na hora da
-   redação. Entenda onde prestar atenção para garantir uma boa nota.
-   [85]Leia mais
+Receba artigos exclusivos em seu e-mail
 
-   23 abril 2024
-   [86]
-   Carta argumentativa: estrutura, como fazer, exemplos e questões
-   A carta argumentativa é um gênero textual que visa convencer o
-   interlocutor sobre um determinado ponto de vista. Entenda mais aqui!
-   [87]Leia mais
+   Digite seu e-mail
 
-   15 abril 2024
-   [88]
-   Conclusão da redação do Enem: passo a passo para uma proposta de
-   intervenção nota 1000
-   A conclusão da redação do Enem, conhecida como proposta de intervenção
-   vale 20% da sua nota. Por isso, trouxemos para você um guia completo.
-   [89]Leia mais
+   ____________________ CADASTRAR
 
-   11 abril 2024
-   [90]
-   Introdução para a redação do Enem: 5 estratégias infalíveis
-   Como fazer introdução para a redação do Enem? Neste artigo, vamos te
-   mostrar o guia completo para iniciar seu texto com segurança.
-   [91]Leia mais
+Patrocinadores
 
-     * [92]Página inicial
-     * [93]Contato
-     * [94]Sobre Nós
-     * [95]Web Stories
-     * [96]Mapa do Site
-     * [97]Política de Privacidade
+Posts Populares nesta Categoria
 
-     * [98]Página inicial
-     * [99]Contato
-     * [100]Sobre Nós
-     * [101]Web Stories
-     * [102]Mapa do Site
-     * [103]Política de Privacidade
+     * [95]
 
-     * [104]Página inicial
-     * [105]Contato
-     * [106]Sobre Nós
-     * [107]Web Stories
-     * [108]Mapa do Site
-     * [109]Política de Privacidade
+Plantas da Mata Atlântica
+       maio 31, 2011
+       [96]36
+     * [97]
 
-     * [110]Página inicial
-     * [111]Contato
-     * [112]Sobre Nós
-     * [113]Web Stories
-     * [114]Mapa do Site
-     * [115]Política de Privacidade
+Regadores de Plástico
+       mar 26, 2011
+       [98]33
+     * [99]
 
-     * [116]Página inicial
-     * [117]Contato
-     * [118]Sobre Nós
-     * [119]Web Stories
-     * [120]Mapa do Site
-     * [121]Política de Privacidade
+Plantas Aquáticas e Terrestres
+       jun 22, 2012
+       [100]20
+     * [101]
 
-     * [122]Página inicial
-     * [123]Contato
-     * [124]Sobre Nós
-     * [125]Web Stories
-     * [126]Mapa do Site
-     * [127]Política de Privacidade
+Violetas
+       out 14, 2009
+       [102]16
+     * [103]
+
+A Função das Flores
+       ago 17, 2009
+       [104]16
+
+Posts Recentes nesta Categoria
+
+     * [105]
+
+Qual a Espécie de Orquídea Mais Rara do Mundo?
+       maio 20, 2021
+       [106]0
+     * [107]Melancia Densuke [108]
+
+Qual É A Fruta Mais Cara Do Mundo?
+       fev 25, 2021
+       [109]0
+     * [110]Polinização [111]
+
+Para Que Serve a Polinização das Plantas?
+       fev 24, 2021
+       [112]0
+     * [113]Suculentas [114]
+
+O Que Significa A Planta Suculenta?
+       fev 17, 2021
+       [115]0
+     * [116]Beija Flor [117]
+
+Por Que Alguns Animais São Importantes Para as Plantas?
+       jan 27, 2021
+       [118]0
+
+Categorias
+
+     * [119]Arranjos
+     * [120]Cestas
+     * [121]Datas Especiais
+     * [122]Decoração
+     * [123]Dicas
+     * [124]Flores
+     * [125]Fotos
+     * [126]Informações
+     * [127]Jardim
+     * [128]Presentes
+
+   Copyright © 2025 - Cultura Mix
 
 Références
 
    Liens visibles :
-   1. https://www.clubedoportugues.com.br/feed/
-   2. https://www.clubedoportugues.com.br/comments/feed/
-   3. https://www.clubedoportugues.com.br/coerencia-textual/feed/
-   4. https://www.clubedoportugues.com.br/web-stories/feed/
-   5. https://www.clubedoportugues.com.br/wp-json/wp/v2/posts/227184
-   6. https://www.clubedoportugues.com.br/wp-json/oembed/1.0/embed?url=https://www.clubedoportugues.com.br/coerencia-textual/
-   7. https://www.clubedoportugues.com.br/wp-json/oembed/1.0/embed?url=https://www.clubedoportugues.com.br/coerencia-textual/&format=xml
-   8. file:///tmp/lynxXXXXmS4qZR/L31153-6066TMP.html#content
-   9. file:///tmp/lynxXXXXmS4qZR/L31153-6066TMP.html
-  10. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/
-  11. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/artigos-sobre-alfabetizacao-inclusiva/
-  12. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/conceitos-alfabetizacao/
-  13. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/desenvolvimento-da-escrita/
-  14. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/letramentos/
-  15. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/artigos-sobre-literacia-familiar/
-  16. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/teoricos-alfabetizacao/
-  17. https://www.clubedoportugues.com.br/categoria/acessibilidade/
-  18. https://www.clubedoportugues.com.br/categoria/palavras-parecidas/
-  19. https://www.clubedoportugues.com.br/categoria/palavras-parecidas/coronavirus/
-  20. https://www.clubedoportugues.com.br/categoria/palavras-parecidas/variedades/
-  21. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/
-  22. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/linguagens-e-seus-codigos/
-  23. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/literatura/
-  24. https://www.clubedoportugues.com.br/categoria/tudo-sobre-o-enem/redacao/
-  25. https://www.clubedoportugues.com.br/categoria/glossario/
-  26. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/
-  27. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/concordancia-verbal-nominal/
-  28. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/crase/
-  29. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/estilistica-semantica/
-  30. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/filosofia-da-linguagem/
-  31. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/fonetica-e-fonologia/
-  32. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/hifen/
-  33. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/morfologia/
-  34. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/ortografia/
-  35. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/pontuacao/
-  36. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/reforma-ortografica/
-  37. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/regencia-verbal/
-  38. https://www.clubedoportugues.com.br/categoria/dicas-de-gramatica/sintaxe/
-  39. https://www.clubedoportugues.com.br/categoria/lingua-e-tecnologia/
-  40. https://www.clubedoportugues.com.br/categoria/para-professores/
-  41. https://www.clubedoportugues.com.br/sobre-nos/
-  42. https://www.clubedoportugues.com.br/
-  43. https://www.clubedoportugues.com.br/tag/sujeito-composto/
-  44. https://www.clubedoportugues.com.br/author/pedrovalad/
-  45. https://www.clubedoportugues.com.br/2021/10/06/
-  46. https://www.clubedoportugues.com.br/paragrafo-padrao-como-fazer/
-  47. https://www.clubedoportugues.com.br/tipologia-textual/
-  48. https://www.clubedoportugues.com.br/funcoes-da-linguagem-parte-1/
-  49. https://www.clubedoportugues.com.br/gramatica-on-line/
-  50. about:blank
-  51. https://clubedoportugues.substack.com/embed
-  52. https://www.clubedoportugues.com.br/cliches/
-  53. https://www.clubedoportugues.com.br/cliches/
-  54. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
-  55. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
-  56. https://www.clubedoportugues.com.br/reportagem/
-  57. https://www.clubedoportugues.com.br/reportagem/
-  58. https://www.clubedoportugues.com.br/prosa/
-  59. https://www.clubedoportugues.com.br/prosa/
-  60. https://www.clubedoportugues.com.br/biografia/
-  61. https://www.clubedoportugues.com.br/biografia/
-  62. https://www.clubedoportugues.com.br/conto/
-  63. https://www.clubedoportugues.com.br/conto/
-  64. https://www.clubedoportugues.com.br/dicas-para-redacao/
-  65. https://www.clubedoportugues.com.br/dicas-para-redacao/
-  66. https://www.clubedoportugues.com.br/carta-argumentativa/
-  67. https://www.clubedoportugues.com.br/carta-argumentativa/
-  68. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
-  69. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
-  70. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
-  71. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
-  72. https://www.clubedoportugues.com.br/cliches/
-  73. https://www.clubedoportugues.com.br/cliches/
-  74. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
-  75. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
-  76. https://www.clubedoportugues.com.br/reportagem/
-  77. https://www.clubedoportugues.com.br/reportagem/
-  78. https://www.clubedoportugues.com.br/prosa/
-  79. https://www.clubedoportugues.com.br/prosa/
-  80. https://www.clubedoportugues.com.br/biografia/
-  81. https://www.clubedoportugues.com.br/biografia/
-  82. https://www.clubedoportugues.com.br/conto/
-  83. https://www.clubedoportugues.com.br/conto/
-  84. https://www.clubedoportugues.com.br/dicas-para-redacao/
-  85. https://www.clubedoportugues.com.br/dicas-para-redacao/
-  86. https://www.clubedoportugues.com.br/carta-argumentativa/
-  87. https://www.clubedoportugues.com.br/carta-argumentativa/
-  88. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
-  89. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
-  90. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
-  91. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
-  92. https://www.clubedoportugues.com.br/
-  93. https://www.clubedoportugues.com.br/contato/
-  94. https://www.clubedoportugues.com.br/sobre-nos/
-  95. https://www.clubedoportugues.com.br/web-stories/
-  96. https://www.clubedoportugues.com.br/mapa-do-site/
-  97. https://www.clubedoportugues.com.br/politica-de-privacidade/
-  98. https://www.clubedoportugues.com.br/
-  99. https://www.clubedoportugues.com.br/contato/
- 100. https://www.clubedoportugues.com.br/sobre-nos/
- 101. https://www.clubedoportugues.com.br/web-stories/
- 102. https://www.clubedoportugues.com.br/mapa-do-site/
- 103. https://www.clubedoportugues.com.br/politica-de-privacidade/
- 104. https://www.clubedoportugues.com.br/
- 105. https://www.clubedoportugues.com.br/contato/
- 106. https://www.clubedoportugues.com.br/sobre-nos/
- 107. https://www.clubedoportugues.com.br/web-stories/
- 108. https://www.clubedoportugues.com.br/mapa-do-site/
- 109. https://www.clubedoportugues.com.br/politica-de-privacidade/
- 110. https://www.clubedoportugues.com.br/
- 111. https://www.clubedoportugues.com.br/contato/
- 112. https://www.clubedoportugues.com.br/sobre-nos/
- 113. https://www.clubedoportugues.com.br/web-stories/
- 114. https://www.clubedoportugues.com.br/mapa-do-site/
- 115. https://www.clubedoportugues.com.br/politica-de-privacidade/
- 116. https://www.clubedoportugues.com.br/
- 117. https://www.clubedoportugues.com.br/contato/
- 118. https://www.clubedoportugues.com.br/sobre-nos/
- 119. https://www.clubedoportugues.com.br/web-stories/
- 120. https://www.clubedoportugues.com.br/mapa-do-site/
- 121. https://www.clubedoportugues.com.br/politica-de-privacidade/
- 122. https://www.clubedoportugues.com.br/
- 123. https://www.clubedoportugues.com.br/contato/
- 124. https://www.clubedoportugues.com.br/sobre-nos/
- 125. https://www.clubedoportugues.com.br/web-stories/
- 126. https://www.clubedoportugues.com.br/mapa-do-site/
- 127. https://www.clubedoportugues.com.br/politica-de-privacidade/
+   1. https://flores.culturamix.com/feed
+   2. https://flores.culturamix.com/feed
+   3. https://flores.culturamix.com/comments/feed
+   4. https://flores.culturamix.com/informacoes/plantas-nativas-do-cerrado/feed
+   5. https://flores.culturamix.com/flores/a-flor-tumbergia-arbustiva-thunbergia-erecta
+   6. https://flores.culturamix.com/arranjos/vasos/como-escolher-o-vaso-ideal
+   7. https://flores.culturamix.com/wp-json/oembed/1.0/embed?url=http://flores.culturamix.com/informacoes/plantas-nativas-do-cerrado
+   8. https://flores.culturamix.com/wp-json/oembed/1.0/embed?url=http://flores.culturamix.com/informacoes/plantas-nativas-do-cerrado&format=xml
+   9. https://www.culturamix.com/
+  10. https://animais.culturamix.com/
+  11. https://artesanato.culturamix.com/
+  12. https://autos.culturamix.com/
+  13. https://beleza.culturamix.com/
+  14. https://casamento.culturamix.com/
+  15. https://culinaria.culturamix.com/
+  16. https://cultura.culturamix.com/
+  17. https://imoveis.culturamix.com/
+  18. https://economia.culturamix.com/
+  19. https://famosos.culturamix.com/
+  20. https://flores.culturamix.com/
+  21. https://meioambiente.culturamix.com/
+  22. https://mensagens.culturamix.com/
+  23. https://moda.culturamix.com/
+  24. https://musica.culturamix.com/
+  25. https://religiao.culturamix.com/
+  26. https://saude.culturamix.com/
+  27. https://tecnologia.culturamix.com/
+  28. https://turismo.culturamix.com/
+  29. https://flores.culturamix.com/
+  30. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  31. https://flores.culturamix.com/category/arranjos
+  32. https://flores.culturamix.com/category/arranjos/vasos
+  33. https://flores.culturamix.com/category/cestas
+  34. https://flores.culturamix.com/category/datas-especiais
+  35. https://flores.culturamix.com/category/decoracao
+  36. https://flores.culturamix.com/category/dicas
+  37. https://flores.culturamix.com/category/flores
+  38. https://flores.culturamix.com/category/flores/artificiais
+  39. https://flores.culturamix.com/category/flores/naturais
+  40. https://flores.culturamix.com/category/fotos
+  41. https://flores.culturamix.com/category/informacoes
+  42. https://flores.culturamix.com/category/jardim
+  43. https://flores.culturamix.com/category/presentes
+  44. https://www.culturamix.com/contato
+  45. https://www.culturamix.com/anuncie
+  46. https://flores.culturamix.com/category/informacoes
+  47. https://flores.culturamix.com/blog/wp-content/uploads/2013/08/O-Que-é-Cerrado.jpeg
+  48. https://flores.culturamix.com/blog/wp-content/uploads/2013/08/O-Que-é-Eficiência-Nutricional.jpeg
+  49. https://www.youtube.com/embed/GHYtrc595Sc?feature=oembed
+  50. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  51. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  52. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  53. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  54. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  55. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  56. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  57. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  58. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  59. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  60. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  61. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  62. http://www.youtube.com/watch?v=sss0MfdD-Fg
+  63. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  64. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  65. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  66. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  67. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  68. file:///tmp/lynxXXXX4iw5vP/L8527-7663TMP.html
+  69. https://twitter.com/share
+  70. http://www.facebook.com/sharer.php?u=//flores.culturamix.com/informacoes/plantas-nativas-do-cerrado&t=Plantas Nativas Do Cerrado
+  71. https://www.pinterest.com/pin/create/button/
+  72. https://flores.culturamix.com/category/informacoes
+  73. https://flores.culturamix.com/flores/qual-a-importancia-das-abelhas-para-a-polinizacao
+  74. https://flores.culturamix.com/flores/qual-a-importancia-das-abelhas-para-a-polinizacao
+  75. https://flores.culturamix.com/flores/qual-a-importancia-das-abelhas-para-a-polinizacao#respond
+  76. https://flores.culturamix.com/flores/quais-sao-os-tipos-de-lirios
+  77. https://flores.culturamix.com/flores/quais-sao-os-tipos-de-lirios
+  78. https://flores.culturamix.com/flores/quais-sao-os-tipos-de-lirios#respond
+  79. https://flores.culturamix.com/flores/qual-e-a-flor-amor-perfeito
+  80. https://flores.culturamix.com/flores/qual-e-a-flor-amor-perfeito
+  81. https://flores.culturamix.com/flores/qual-e-a-flor-amor-perfeito#respond
+  82. https://flores.culturamix.com/flores/quais-plantas-duram-mais
+  83. https://flores.culturamix.com/flores/quais-plantas-duram-mais
+  84. https://flores.culturamix.com/flores/quais-plantas-duram-mais#respond
+  85. https://flores.culturamix.com/flores/quais-sao-os-tipos-de-rosas-que-existem
+  86. https://flores.culturamix.com/flores/quais-sao-os-tipos-de-rosas-que-existem
+  87. https://flores.culturamix.com/flores/quais-sao-os-tipos-de-rosas-que-existem#respond
+  88. https://flores.culturamix.com/datas-especiais/florista-para-casamento
+  89. https://flores.culturamix.com/datas-especiais/florista-para-casamento#comments
+  90. https://flores.culturamix.com/informacoes/plantas-da-mata-atlantica
+  91. https://flores.culturamix.com/informacoes/plantas-da-mata-atlantica#comments
+  92. https://flores.culturamix.com/flores/a-flor-tumbergia-arbustiva-thunbergia-erecta
+  93. https://flores.culturamix.com/arranjos/vasos/como-escolher-o-vaso-ideal
+  94. https://flores.culturamix.com/informacoes/plantas-nativas-do-cerrado#respond
+  95. https://flores.culturamix.com/informacoes/plantas-da-mata-atlantica
+  96. https://flores.culturamix.com/informacoes/plantas-da-mata-atlantica#comments
+  97. https://flores.culturamix.com/informacoes/regadores-de-plastico
+  98. https://flores.culturamix.com/informacoes/regadores-de-plastico#comments
+  99. https://flores.culturamix.com/informacoes/plantas-aquaticas-e-terrestres
+ 100. https://flores.culturamix.com/informacoes/plantas-aquaticas-e-terrestres#comments
+ 101. https://flores.culturamix.com/informacoes/violetas
+ 102. https://flores.culturamix.com/informacoes/violetas#comments
+ 103. https://flores.culturamix.com/informacoes/a-funcao-das-flores
+ 104. https://flores.culturamix.com/informacoes/a-funcao-das-flores#comments
+ 105. https://flores.culturamix.com/informacoes/qual-a-especie-de-orquidea-mais-rara-do-mundo
+ 106. https://flores.culturamix.com/informacoes/qual-a-especie-de-orquidea-mais-rara-do-mundo#respond
+ 107. https://flores.culturamix.com/informacoes/qual-e-a-fruta-mais-cara-do-mundo
+ 108. https://flores.culturamix.com/informacoes/qual-e-a-fruta-mais-cara-do-mundo
+ 109. https://flores.culturamix.com/informacoes/qual-e-a-fruta-mais-cara-do-mundo#respond
+ 110. https://flores.culturamix.com/informacoes/para-que-serve-a-polinizacao-das-plantas
+ 111. https://flores.culturamix.com/informacoes/para-que-serve-a-polinizacao-das-plantas
+ 112. https://flores.culturamix.com/informacoes/para-que-serve-a-polinizacao-das-plantas#respond
+ 113. https://flores.culturamix.com/informacoes/o-que-significa-a-planta-suculenta
+ 114. https://flores.culturamix.com/informacoes/o-que-significa-a-planta-suculenta
+ 115. https://flores.culturamix.com/informacoes/o-que-significa-a-planta-suculenta#respond
+ 116. https://flores.culturamix.com/informacoes/por-que-alguns-animais-sao-importantes-para-as-plantas
+ 117. https://flores.culturamix.com/informacoes/por-que-alguns-animais-sao-importantes-para-as-plantas
+ 118. https://flores.culturamix.com/informacoes/por-que-alguns-animais-sao-importantes-para-as-plantas#respond
+ 119. https://flores.culturamix.com/category/arranjos
+ 120. https://flores.culturamix.com/category/cestas
+ 121. https://flores.culturamix.com/category/datas-especiais
+ 122. https://flores.culturamix.com/category/decoracao
+ 123. https://flores.culturamix.com/category/dicas
+ 124. https://flores.culturamix.com/category/flores
+ 125. https://flores.culturamix.com/category/fotos
+ 126. https://flores.culturamix.com/category/informacoes
+ 127. https://flores.culturamix.com/category/jardim
+ 128. https://flores.culturamix.com/category/presentes
 
    Liens cachés :
- 129. https://www.clubedoportugues.com.br/
- 130. https://www.clubedoportugues.com.br/cliches/
- 131. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
- 132. https://www.clubedoportugues.com.br/reportagem/
- 133. https://www.clubedoportugues.com.br/prosa/
- 134. https://www.clubedoportugues.com.br/biografia/
- 135. https://www.clubedoportugues.com.br/conto/
- 136. https://www.clubedoportugues.com.br/dicas-para-redacao/
- 137. https://www.clubedoportugues.com.br/carta-argumentativa/
- 138. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
- 139. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
- 140. https://www.clubedoportugues.com.br/cliches/
- 141. https://www.clubedoportugues.com.br/em-anexo-x-anexo-quando-usar-cada-um/
- 142. https://www.clubedoportugues.com.br/reportagem/
- 143. https://www.clubedoportugues.com.br/prosa/
- 144. https://www.clubedoportugues.com.br/biografia/
- 145. https://www.clubedoportugues.com.br/conto/
- 146. https://www.clubedoportugues.com.br/dicas-para-redacao/
- 147. https://www.clubedoportugues.com.br/carta-argumentativa/
- 148. https://www.clubedoportugues.com.br/conclusao-da-redacao-do-enem/
- 149. https://www.clubedoportugues.com.br/como-fazer-introducao-para-redacao-do-enem/
- 150. https://www.clubedoportugues.com.br/
- 151. https://www.linkedin.com/company/clube-do-portugu%C3%AAs
- 152. https://youtube.com/@pedrovaladares
- 153. https://www.instagram.com/clubedoportugues.com.br
+ 130. https://flores.culturamix.com/informacoes/
+ 131. https://flores.culturamix.com/datas-especiais/florista-para-casamento
+ 132. https://flores.culturamix.com/informacoes/plantas-da-mata-atlantica
+ 133. https://flores.culturamix.com/informacoes/plantas-da-mata-atlantica
+ 134. https://flores.culturamix.com/informacoes/regadores-de-plastico
+ 135. https://flores.culturamix.com/informacoes/plantas-aquaticas-e-terrestres
+ 136. https://flores.culturamix.com/informacoes/violetas
+ 137. https://flores.culturamix.com/informacoes/a-funcao-das-flores
+ 138. https://flores.culturamix.com/informacoes/qual-a-especie-de-orquidea-mais-rara-do-mundo
+ 139. file://localhost/tmp/lynxXXXX4iw5vP/L8527-7663TMP.html#top
