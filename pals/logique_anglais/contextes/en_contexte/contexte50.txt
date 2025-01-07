@@ -1,0 +1,99 @@
+
+Handbook of logic in artificial intelligence and logic programming /
+
+--
+   programming languages and artificial intelligence. There is a growing
+   need for an in-depth survey of the applications of logic in AI and
+   computer science. The Handbook of Logic in Artificial Intelligence and
+--
+   thumbnail of dbpedia resource
+   logicOrganisation
+   thumbnail of dbpedia resource
+--
+   has three parts. The first p... (BUTTON) Read more
+   When logic meets engineering: introduction to logical issues in the
+   history and philosophy of computer science
+--
+   that publishes refereed papers ... (BUTTON) Read more
+   The role of computational logic as a hinge paradigm among deduction,
+   problem solving, programming, and parallelism
+--
+   Computational Logic in the construction... (BUTTON) Read more
+   Special issue on logics and artificial intelligence
+     * Falomir, Zoe
+--
+   intelligence (AI) dealing with reas... (BUTTON) Read more
+   A survey of Indian logic from the point of view of computer science
+     * Sarma, V. V. S.
+--
+
+   Indian logic has a long history. It somewhat covers the domains of two
+   of the six schools (darsanas)... (BUTTON) Read more
+   A survey of indian logic from the point of view of computer science
+     * Sarma, VVS
+--
+
+   Indian logic has a long history. It somewhat covers the domains of two
+   of the six schools (darsanas)... (BUTTON) Read more
+--
+   of the now very large field kn... (BUTTON) Read more
+   A survey of indian logic from the point of\ud view of computer science
+     * Sarma, VVS
+--
+
+   Indian logic has a long history. It somewhat covers the domains of two
+   of the six schools (darsanas)... (BUTTON) Read more
+--
+   continuous, and growing interaction... (BUTTON) Read more
+   Philosophical incidence of logic programming
+     * Lúıs Moniz Pereira
+--
+
+   We address the import of AI for philosophical logic and examine the
+   requirements posed by knowledge ... (BUTTON) Read more
+--
+   has three parts. The first p... (BUTTON) Read more
+   When logic meets engineering: introduction to logical issues in the
+   history and philosophy of computer science
+--
+   that publishes refereed papers ... (BUTTON) Read more
+   The role of computational logic as a hinge paradigm among deduction,
+   problem solving, programming, and parallelism
+--
+   Computational Logic in the construction... (BUTTON) Read more
+   Special issue on logics and artificial intelligence
+     * Falomir, Zoe
+--
+   intelligence (AI) dealing with reas... (BUTTON) Read more
+   A survey of Indian logic from the point of view of computer science
+     * Sarma, V. V. S.
+--
+
+   Indian logic has a long history. It somewhat covers the domains of two
+   of the six schools (darsanas)... (BUTTON) Read more
+   A survey of indian logic from the point of view of computer science
+     * Sarma, VVS
+--
+
+   Indian logic has a long history. It somewhat covers the domains of two
+   of the six schools (darsanas)... (BUTTON) Read more
+--
+   of the now very large field kn... (BUTTON) Read more
+   A survey of indian logic from the point of\ud view of computer science
+     * Sarma, VVS
+--
+
+   Indian logic has a long history. It somewhat covers the domains of two
+   of the six schools (darsanas)... (BUTTON) Read more
+--
+   continuous, and growing interaction... (BUTTON) Read more
+   Philosophical incidence of logic programming
+     * Lúıs Moniz Pereira
+--
+
+   We address the import of AI for philosophical logic and examine the
+   requirements posed by knowledge ... (BUTTON) Read more
+--
+   has three parts. The first p... (BUTTON) Read more
+   When logic meets engineering: introduction to logical issues in the
+   history and philosophy of computer science

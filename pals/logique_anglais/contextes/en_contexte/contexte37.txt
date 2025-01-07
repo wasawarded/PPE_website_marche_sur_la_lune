@@ -1,0 +1,63 @@
+
+   A logic bomb is a piece of code intentionally inserted into a software
+   system that will set off a malicious function when specified conditions
+--
+   Software that is inherently malicious, such as viruses and worms, often
+   contain logic bombs that execute a certain payload at a pre-defined
+   time or when some other condition is met. This technique can be used by
+--
+
+   To be considered a logic bomb, the payload should be unwanted and
+   unknown to the user of the software. As an example, trial programs with
+   code that disables certain functionality after a set time are not
+   normally regarded as logic bombs.
+
+--
+     * In June 2006 Roger Duronio, a system administrator for UBS, was
+       charged with using a logic bomb to damage the company's computer
+       network, and with securities fraud for his failed plan to drive
+       down the company's stock with activation of the logic bomb.^[1]^[2]
+       Duronio was later convicted and sentenced to 8 years and 1 month in
+--
+     * On 20 March 2013, in an attack launched against South Korea, a
+       logic bomb struck machines and "wiped the hard drives and master
+       boot records of at least three banks and two media companies
+--
+     * On 19 July 2019, David Tinley, a contract employee, pleaded guilty
+       for programming logic bombs within the software he created for
+       Siemens Corporation.^[8] The software was intentionally made to
+       malfunction after a certain amount of time, requiring the company
+       to hire him to fix it for a fee. The logic bombs went undetected
+       for two years, but were then discovered while he was out of town
+--
+     * In February 2000, Tony Xiaotong Yu, indicted before a grand jury,
+       was accused of planting a logic bomb during his employment as a
+       programmer and securities trader at Deutsche Morgan Grenfell. The
+--
+       Jersey headquarters, where he was employed as a Unix administrator,
+       creating a logic bomb set to go off on his birthday in 2004. It
+       failed to work due to a programming error, so Lin corrected the
+--
+       years and a fine of US$250,000.^[13]^[14]
+     * On 29 October 2008 a logic bomb was discovered at American mortgage
+       giant Fannie Mae. The bomb was planted by Rajendrasinh Babubhai
+--
+       captured images of Duchak entering the facility after hours and
+       loading a logic bomb onto a CSOC server that stored data from the
+       U.S. Marshals. In January 2011, Duchak was sentenced to two years
+--
+       their second child. The judge at the sentencing mentioned that this
+       logic bomb planting "incident was an anomaly in an otherwise
+       untarnished work history."^[19]
+--
+   History of the Cold War that in 1982, a sabotage occurred on the
+   Trans-Siberian Pipeline because of a logic bomb. According to Reed, a
+   KGB operative stole the plans for a sophisticated control system and
+--
+   The Central Intelligence Agency (CIA) was tipped off by documents in
+   the Farewell Dossier, and had the company insert a logic bomb in the
+   program for sabotage purposes.^[20]^[21] Critics have contested the
+--
+    9. ^ Cimpanu, Catalin. "Siemens contractor pleads guilty to planting
+       logic bomb in company spreadsheets". ZDNet. Retrieved 9 September
+       2019.

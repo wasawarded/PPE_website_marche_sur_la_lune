@@ -1,0 +1,247 @@
+          + 4.2 Abductive
+          + 4.3 Analogical
+     * 5 Fallacies
+--
+   the sense that it aims to formulate correct arguments that any rational
+   person would find convincing. The main discipline studying logical
+   reasoning is logic.
+
+   Distinct types of logical reasoning differ from each other concerning
+   the norms they employ and the certainty of the conclusion they arrive
+--
+   of inference, such as modus ponens or modus tollens. Deductive
+   reasoning plays a central role in formal logic and mathematics.
+
+   For non-deductive logical reasoning, the premises make their conclusion
+   rationally convincing without ensuring its truth. This is often
+--
+   plays a central role in everyday life and in most sciences.
+   Often-discussed types are inductive, abductive, and analogical
+   reasoning. Inductive reasoning is a form of generalization that infers
+--
+   example is a doctor who examines the symptoms of their patient to make
+   a diagnosis of the underlying cause. Analogical reasoning compares two
+   similar systems. It observes that one of them has a feature and
+--
+
+   Arguments that fall short of the standards of logical reasoning are
+   called fallacies. For formal fallacies, like affirming the consequent,
+   the error lies in the logical form of the argument. For informal
+   fallacies, like false dilemmas, the source of the faulty reasoning is
+   usually found in the content or the context of the argument. Some
+   theorists understand logical reasoning in a wide sense that is roughly
+   equivalent to critical thinking. In this regard, it encompasses
+--
+   person would find the conclusion convincing based on the
+   premises.^[6]^[1] This way, logical reasoning plays a role in expanding
+   knowledge.^[7]
+
+   The main discipline studying logical reasoning is called logic. It is
+   divided into formal and informal logic, which study formal and informal
+   logical reasoning.^[8]^[9]^[10] Traditionally, logical reasoning was
+   primarily associated with deductive reasoning studied by formal
+   logic.^[11] But in a wider sense, it also includes forms of
+   non-deductive reasoning, such as inductive, abductive, and analogical
+   reasoning.^[12]^[13]^[14]
+
+   The forms of logical reasoning have in common that they use premises to
+   make inferences in a norm-governed way. As norm-governed practices,
+--
+   norms, i.e. agreement about whether and to what degree the premises
+   support their conclusion. The types of logical reasoning differ
+   concerning the exact norms they use as well as the certainty of the
+--
+   case for well-researched issues in the empirical sciences.^[1]^[16]
+   Some theorists give a very wide definition of logical reasoning that
+   includes its role as a cognitive skill responsible for high-quality
+--
+   A variety of basic concepts is used in the study and analysis of
+   logical reasoning. Logical reasoning happens by inferring a conclusion
+   from a set of premises.^[3] Premises and conclusions are normally seen
+--
+   the other hand, express no propositions since they are neither true nor
+   false.^[20]^[3] The propositions used as the starting point of logical
+   reasoning are called the premises. The proposition inferred from them
+--
+   the terms "argument" and "inference" are often used interchangeably in
+   logic. The purpose of arguments is to convince a person that something
+   is the case by providing reasons for this belief.^[25]^[26] Many
+--
+   probability: if the premises of a correct argument are true, it raises
+   the probability that its conclusion is also true. Forms of logical
+   reasoning can be distinguished based on how the premises support the
+--
+   inference is a scheme of drawing conclusions that depends only on the
+   logical form of the premises and the conclusion but not on their
+   specific content.^[39]^[40] The most-discussed rule of inference is the
+--
+   The rules governing deductive reasoning are often expressed formally as
+   logical systems for assessing the correctness of deductive arguments.
+   Aristotelian logic is one of the earliest systems and was treated as
+   the canon of logic in the Western world for over two thousand years. It
+   is based on syllogisms, like concluding that "Socrates is a mortal"
+--
+   mortal".^[44]^[45]^[46] The currently dominant system is known as
+   classical logic and covers many additional forms of inferences besides
+   syllogisms. So-called extended logics are based on classical logic and
+   introduce additional rules of inference for specific domains. For
+   example, modal logic can be used to reason about what is possible and
+   what is necessary. Temporal logic can be used to draw inferences about
+   what happened before, during, and after an event.^[47]^[48]^[49]
+   Classical logic and its extensions rest on a set of basic logical
+   intuitions accepted by most logicians. They include the law of excluded
+   middle, the double negation elimination, the principle of explosion,
+   and the bivalence of truth.^[50] So-called deviant logics reject some
+   of these basic intuitions and propose alternative rules governing the
+   validity of arguments.^[44]^[51]^[52] For example, intuitionistic
+   logics reject the law of excluded middle and the double negation
+   elimination while paraconsistent logics reject the principle of
+   explosion.^[52]^[53]^[54]
+
+   Deductive reasoning plays a central role in formal logic and
+   mathematics.^[1] In mathematics, it is used to prove mathematical
+--
+
+   Non-deductive reasoning is an important form of logical reasoning
+   besides deductive reasoning. It happens in the form of inferences drawn
+--
+   various types of non-deductive reasoning, like inductive, abductive,
+   and analogical reasoning.^[1]^[59] Non-deductive reasoning is more
+   common in everyday life than deductive reasoning.^[60]
+--
+
+Analogical
+
+   [edit]
+   Photo of a Zucker rat Analogical reasoning can be used to transfer
+   insights from animal experiments to humans, like in the case of
+--
+
+   Analogical reasoning involves the comparison of two systems in relation
+   to their similarity. It starts from information about one system and
+--
+   feature F; (3) therefore b probably also has feature F.^[89]^[90]
+   Analogical reasoning can be used, for example, to infer information
+   about humans from medical experiments on animals: (1) rats are similar
+--
+
+   Through analogical reasoning, knowledge can be transferred from one
+   situation or domain to another. Arguments from analogy provide support
+--
+
+   Analogical reasoning plays a central role in problem-solving,
+   decision-making, and learning. It can be used both for simple physical
+--
+   impression and thereby seduce people into accepting and using them. In
+   logic, the term "fallacy" does not mean that the conclusion is false.
+   Instead, it only means that some kind of error was committed on the way
+--
+   fortuitous accident, the conclusion is true. Outside the field of
+   logic, the term "fallacy" is sometimes used in a slightly different
+   sense for a false belief or theory and not for an
+--
+   Formal fallacies are expressed in a formal language and usually belong
+   to deductive reasoning. Their fault lies in the logical form of the
+   argument, i.e. that it does not follow a valid rule of
+--
+
+   Some theorists discuss logical reasoning in a very wide sense that
+   includes its role as a broad skill responsible for high-quality
+--
+   and includes the capacity to select and apply the appropriate rules of
+   logic to specific situations.^[110] It encompasses a great variety of
+   abilities besides drawing conclusions from premises. Examples are to
+--
+   careful evaluation and contrasts in this regard with uncritical snap
+   judgments and gut feelings.^[17] Other core skills linked to logical
+   reasoning are to assess reasons before accepting a claim and to search
+--
+   use common sense, and to avoid inconsistencies.^[111]^[112] The skills
+   responsible for logical reasoning can be learned, trained, and
+   improved.^[17]^[113]
+--
+   provided by other people instead of checking every single fact for
+   oneself. ^[116]^[117] This way, logical reasoning can help the person
+   avoid the effects of propaganda or being manipulated by
+--
+   better to suspend judgment than to jump to conclusions.^[118] In this
+   regard, logical reasoning should be skeptical and open-minded at the
+   same time.^[120]
+
+   On the practical level, logical reasoning concerns the issue of making
+   rational and effective decisions.^[114]^[115] For many real-life
+--
+   each possible action, there can be conflicting reasons, some in favor
+   of it and others opposed to it. In such cases, logical reasoning
+   includes weighing the potential benefits and drawbacks as well as
+--
+   runs out of drinking water in the middle of a hiking trip, they could
+   employ the skills associated with logical reasoning to decide whether
+   to boil and drink water from a stream that might contain dangerous
+--
+
+   Time also plays a central role in logical reasoning.^[124] If one lacks
+   important information, it is often better to delay a decision and look
+   for new information before coming to a conclusion.^[111] If the
+   decision is time-sensitive, on the other hand, logical reasoning may
+   imply making a fast decision based on the currently available evidence
+   even if it is very limited. For example, if a friend yells "Duck!"
+   during a baseball game the most logical response may be to blindly
+   trust them and duck instead of demanding an explanation or
+--
+     * Argumentation theory
+     * Dialogical logic
+     * Epilogism
+--
+    7. ^ Chang 2014, p. 37.
+    8. ^ Haack 1978, p. 1–10, 1. 'Philosophy of logics'.
+    9. ^ Dowden 2020, p. 355.
+   10. ^ Girod 2014, p. 13.
+   11. ^ Craig 1996, Formal and informal logic.
+   12. ^ Bronkhorst et al. 2020, p. 1674-6.
+--
+   17. ^ ^a ^b ^c Dowden 2020, p. 1.
+   18. ^ ^a ^b ^c ^d Audi 1999, Philosophy of logic.
+   19. ^ ^a ^b Honderich 2005, philosophical logic.
+   20. ^ Copi, Cohen & Rodych 2018, p. 4.
+--
+   43. ^ Church 1996, p. 104.
+   44. ^ ^a ^b Jacquette 2006, p. 1–12, Introduction: Philosophy of logic
+       today.
+--
+
+     Audi, Robert (1999). "Philosophy of logic". The Cambridge Dictionary
+   of Philosophy. Cambridge University Press. ISBN 9781107643796. Archived
+--
+
+     Bartha, Paul (2019). "Analogy and Analogical Reasoning". The Stanford
+   Encyclopedia of Philosophy. Metaphysics Research Lab, Stanford
+--
+
+     Bartha, Paul (2022). "Analogy and Analogical Reasoning: 2.4
+   Analogical inference rules?". The Stanford Encyclopedia of Philosophy.
+   Metaphysics Research Lab, Stanford University. Retrieved 19 January
+--
+
+     Craig, Edward (1996). "Formal and informal logic". Routledge
+   Encyclopedia of Philosophy. Routledge. ISBN 9780415073103. Archived
+--
+     Enyeart, Morris A.; Baker, Dale; Vanharlingen, Dave (May 1980).
+   "Correlation of inductive and deductive logical reasoning to college
+   physics achievement". Journal of Research in Science Teaching. 17 (3):
+--
+
+     Goswami, Usha (23 October 2013). Analogical Reasoning in Children.
+   Routledge. p. 86. ISBN 9781317775393.
+--
+
+     Honderich, Ted (2005). "philosophical logic". The Oxford Companion to
+   Philosophy. Oxford University Press. ISBN 9780199264797. Archived from
+--
+
+     Jacquette, Dale (2006). "Introduction: Philosophy of logic today".
+   Philosophy of Logic. North Holland. pp. 1–12. ISBN 9780444515414.
+--
+     * Reasoning
+     * Concepts in logic
+

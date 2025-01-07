@@ -1,0 +1,81 @@
+     This entry is an introduction to science maps and science mapping.
+     It focuses on the conceptual, theoretical, and methodological issues
+     of science mapping, rather than on the mathematical formulation of
+--
+     represented in science maps to investigate the dynamics of science.
+     We also discuss some epistemological and sociological topics that
+     can help in the interpretation, contextualization, and assessment of
+--
+   of science mapping to the humanities. In Section 7, some
+   epistemological topics, which bridge across science mapping, sociology
+   of science, and philosophy of science are discussed: the objectivity of
+--
+
+   This entry focuses on conceptual, theoretical, and methodological
+   issues of science mapping rather than on the rigorous mathematical
+--
+   can be traced back to Aristotle, and to the Isagoge, an introduction to
+   Aristotle’s logic written by Porphyry in the 3rd Century. In the 13th
+   Century, Ramon Llull depicted a tree of the sciences in his Arbor
+--
+   infrastructures (Sugimoto and Weingart 2015). As these systems serve
+   different purposes and are governed by different logics, frictions and
+   inconsistences between the classificatory schemes they produce are to
+--
+   l’innovation at the École des mines in Paris. They were designed to
+   study the interaction between scientific knowledge and technological
+   innovation, and, more generally, the relations between science and
+--
+   by documentation services to index the content of scientific and
+   technological publications (Callon, Courtial and Laville 1991). The
+   method of co-word analysis, then, consists first in collecting all the
+--
+   patents allows tracing the links between scientific knowledge and
+   technological applications (Meyer 2000), whereas, by studying the
+   scientists that are both authors of scientific publications and
+   inventors of patents, it is possible to map the overlap between
+   scientific and technological literature (Murray 2002). In the last
+   years, text-mining techniques (see Section 4.2.2: Co-word analysis
+--
+
+   In this section, we deal with some epistemological and sociological
+   topics related to science mapping. We start by asking in what sense
+--
+   In the previous sections, we saw how the creation of a science map
+   involves several methodological and technical decisions from the
+   science cartographer, such as the unit of analysis, the mapping
+--
+   “objective”. Rather, they result from a combination of the features of
+   the mapped field, on the one hand, and the methodological decisions of
+   the science cartographer on the other hand. However, we should
+--
+   allow reconstructing the terminology of a scientific field because they
+   reflect thousands of terminological micro-choices made by the
+   researchers when drafting the titles and abstracts of their papers. The
+   relations between the different terms are the results of these choices.
+   Idiosyncratic and non-standard terminological would again choices
+   cancel out when enough publications are considered.
+--
+   contribute to the justification of the paper’s claims (Gross et al.
+   2002). As sociological and anthropological studies have revealed, real
+   research practices can be a lot less smooth than the accounts we find
+--
+   The socio-constructivist approach to citations is grounded in the
+   socio-constructivist sociology of science, a sociological paradigm that
+   raised in different forms in the 1970s partly as a reaction to the
+--
+    4. “Hot areas” detection: What are the scientific areas that are
+       growing faster? What is their potential for technological transfer?
+
+--
+   as a Tool for Describing the Network of Interactions between Basic and
+   Technological Research: The Case of Polymer Chemsitry’. Scientometrics
+   22 no. 1: 155–205. https://doi.org/10.1007/BF02019280.
+--
+   Murray, Fiona. 2002. ‘Innovation as Co-Evolution of Scientific and
+   Technological Networks: Exploring Tissue Engineering’. Research Policy
+   31 no. 8–9: 1389–1403. https://doi.org/10.1016/S0048-7333(02)00070-7.
+--
+   Thijs, Bart. 2019. ‘Science Mapping and the Identification of Topics:
+   Theoretical and Methodological Considerations’. In Springer Handbook of
+   Science and Technology Indicators, edited by Wolfgang Glänzel, Henk F.

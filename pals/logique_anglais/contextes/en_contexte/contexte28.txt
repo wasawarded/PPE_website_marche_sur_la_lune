@@ -1,0 +1,192 @@
+
+Programmable logic device
+
+--
+   complemented inputs to the AND gates. These AND gates, also known as
+   product terms, are ORed together to form a sum-of-products logic array.
+
+   A programmable logic device (PLD) is an electronic component used to
+   build reconfigurable digital circuits. Unlike digital logic constructed
+   using discrete logic gates with fixed functions, the function of a PLD
+   is undefined at the time of manufacture. Before the PLD can be used in
+   a circuit it must be programmed to implement the desired function.^[1]
+   Compared to fixed logic devices, programmable logic devices simplify
+   the design of complex logic and may offer superior performance.^[2]
+   Unlike for microprocessors, programming a PLD changes the connections
+--
+   PLDs can broadly be categorised into, in increasing order of
+   complexity, simple programmable logic devices (SPLDs), comprising
+   programmable array logic, programmable logic array and generic array
+   logic; complex programmable logic devices (CPLDs); and
+   field-programmable gate arrays (FPGAs).
+--
+   IC. The TMS2000 had up to 17 inputs and 18 outputs with 8 JK flip-flops
+   for memory. TI coined the term programmable logic array (PLA) for this
+   device.^[4]
+--
+   In 1971, General Electric Company (GE) was developing a programmable
+   logic device based on the new programmable read-only memory (PROM)
+   technology. This experimental device improved on IBM's ROAM by allowing
+   multilevel logic. Intel had just introduced the floating-gate UV EPROM
+   so the researcher at GE incorporated that technology. The GE device was
+   the first erasable PLD ever developed, predating the Altera EPLD by
+   over a decade. GE obtained several early patents on programmable logic
+   devices.^[5]^[6]^[7]
+--
+   mask limited its use. The device is significant because it was the
+   basis for the field programmable logic array produced by Signetics in
+   1975, the 82S100. (Intersil actually beat Signetics to market but poor
+--
+   In 1974 GE entered into an agreement with Monolithic Memories (MMI) to
+   develop a mask-programmable logic device incorporating the GE
+   innovations. The device was named programmable associative logic array
+   or PALA. The MMI 5760 was completed in 1976 and could implement
+--
+   [edit]
+   Main article: Programmable logic array
+
+--
+   IC. The TMS2000 had up to 17 inputs and 18 outputs with 8 JK flip-flops
+   for memory. TI coined the term programmable logic array for this
+   device.^[4]
+
+   A programmable logic array (PLA) has a programmable AND gate array,
+   which links to a programmable OR gate array, which can then be
+--
+   [edit]
+   Main article: Programmable array logic
+
+--
+   programmable-AND" plane used to implement "sum-of-products" binary
+   logic equations for each of the outputs in terms of the inputs and
+   either synchronous or asynchronous feedback from the outputs.
+--
+   MMI introduced a breakthrough device in 1978, the programmable array
+   logic or PAL. The architecture was simpler than that of Signetics' FPLA
+   because it omitted the programmable OR array. This made the parts
+--
+   [edit]
+   Main article: Generic array logic
+   [220px-Lattice_GAL_16V8.jpg] Lattice GAL 16V8 and 20V8.  These are 35
+--
+
+   An improvement on the PAL was the generic array logic device, or GAL,
+   invented by Lattice Semiconductor in 1985. This device has the same
+   logical properties as the PAL but can be erased and reprogrammed. The
+   GAL is very useful in the prototyping stage of a design, when any bugs
+   in the logic can be corrected by reprogramming. GALs are programmed and
+   reprogrammed using a PAL programmer, or, in the case of chips that
+--
+   Lattice GALs combine CMOS and electrically erasable (E^2) floating gate
+   technology for a high-speed, low-power logic device. A similar device
+   called a PEEL (programmable electrically erasable logic) was introduced
+   by the International CMOS Technology (ICT) corporation.
+
+   Sometimes GAL chips are referred as simple programmable logic device
+   (SPLD), analogous to complex programmable logic device (CPLD) below.
+
+--
+   [edit]
+   Main article: Complex programmable logic device
+
+   PALs and GALs are available only in small sizes, equivalent to a few
+   hundred logic gates. For bigger logic circuits, complex PLDs or CPLDs
+   can be used. These contain the equivalent of several PALs linked by
+   programmable interconnections, all in one integrated circuit. CPLDs can
+   replace thousands, or even hundreds of thousands, of logic gates.
+
+--
+   CPLD contains a circuit that decodes the data stream and configures the
+   CPLD to perform its specified logic function. Some manufacturers, such
+   as Altera and Atmel (now Microchip), use JTAG to program CPLDs
+--
+
+   FPGAs use a grid of logic gates, and once stored, the data doesn't
+   change, similar to that of an ordinary gate array. The term
+--
+   The difference between FPGAs and CPLDs is that FPGAs are internally
+   based on look-up tables (LUTs), whereas CPLDs form the logic functions
+   with sea-of-gates (e.g. sum of products). CPLDs are meant for simpler
+   designs while FPGAs are meant for more complex designs. In general,
+   CPLDs are a good choice for wide combinational logic applications,
+   whereas FPGAs are more suitable for large state machines such as
+--
+
+   An erasable programmable logic device (EPLD) is an integrated circuit
+   that comprises an array of PLDs that do not come pre-connected; the
+--
+   PLDs are being sold now that contain a microprocessor with a fixed
+   function (the so-called core) surrounded by programmable logic. These
+   devices let designers concentrate on adding new features to designs
+--
+
+   A PLD is a combination of a logic device and a memory device. The
+   memory is used to store the pattern that was given to the chip during
+--
+   commonly referred to as 'JEDEC files'. They are analogous to software
+   compilers. The languages used as source code for logic compilers are
+   called hardware description languages, or HDLs.^[1]
+--
+
+   A device programmer is used to transfer the Boolean logic pattern into
+   the programmable device. In the early days of programmable logic, every
+   PLD manufacturer also produced a specialized device programmer for its
+   family of logic devices. Later, universal device programmers came onto
+   the market that supported several logic device families from different
+   manufacturers. Today's device programmers usually can program common
+   PLDs (mostly PAL/GAL equivalents) from all existing manufacturers.
+   Common file formats used to store the Boolean logic pattern (fuses) are
+   JEDEC, Altera POF (programmable object file), or Xilinx BITstream.^[17]
+--
+   [edit]
+     * Complex programmable logic device (CPLD)
+     * Field-programmable gate array (FPGA)
+     * Macrocell array
+     * Programmable array logic (PAL)
+
+--
+    4. ^ ^a ^b Andres, Kent (October 1970). A Texas Instruments
+       Application Report: MOS programmable logic arrays. Texas
+       Instruments. Bulletin CA-158. Report introduces the TMS2000 and
+--
+       Cahners Publishing: 66. July 20, 1975. Press release on Intersil
+       IM5200 field programmable logic array. Fourteen inputs pins and 48
+       product terms. Avalanched-induced-migration programming. Unit price
+       was $37.50
+    9. ^ "FPLA's give quick custom logic". EDN. 20 (13). Boston, MA:
+       Cahners Publishing: 61. July 20, 1975. Press release on Signetics
+       82S100 and 82S101 field programmable logic arrays. Fourteen inputs
+       pins, 8 output pins and 48 product terms. NiCr fuse link
+--
+
+   Wikimedia Commons has media related to Programmable logic devices.
+
+--
+
+   Programmable logic
+
+--
+     * Memory cell
+     * Combinational logic
+     * Sequential logic
+     * Logic gate
+--
+     * Three-dimensional integrated circuit (3D IC)
+     * Emitter-coupled logic (ECL)
+     * Erasable programmable logic device (EPLD)
+     * Macrocell array
+     * Programmable logic array (PLA)
+     * Programmable logic device (PLD)
+     * Programmable Array Logic (PAL)
+     * Generic Array Logic (GAL)
+     * Complex programmable logic device (CPLD)
+     * Field-programmable gate array (FPGA)
+--
+     * Formal equivalence checking
+     * Synchronous logic
+     * Asynchronous logic
+     * Finite-state machine
+--
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Programmable_logic_device&o
+   ldid=1264062025"

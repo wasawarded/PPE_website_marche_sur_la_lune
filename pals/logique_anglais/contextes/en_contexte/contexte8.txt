@@ -1,0 +1,21 @@
+   All the resolutions passed by the WG are collected in this page, in
+   reverse chronological order. However, the resolutions to accept minutes
+   as true records of meetings are not repeated here.
+--
+     * RESOLVED: Go with Axel's option C, that is using a special syntax
+       to distinguish evaluated functions/predicates from logical
+       functions/predicates
+--
+     * RESOLVED: close ISSUE-27 with the understanding that neither RIF
+       Core nor RIF BLD will have constraint logic programming.
+     * RESOLVED: close ISSUE-28 with the understanding that RIF Core (as
+--
+   Resolutions from Telecon 9 0ctober 2007
+     * RESOLVED: the name of the dialect is RIF basic logic dialect and
+       the short notation is RIF-BLD
+--
+     * RESOLVED: To better understand what RIF Core could be, create two
+       task forces in RIF, one focusing on a logical dialect and the other
+       one focusing on a production rules dialect
+     * RESOLVED: Rename the current "RIF Core" draft: "RIF basic logic
+       dialect"

@@ -1,0 +1,83 @@
+   agents to facilitate knowledge sharing and exchange; in content rating;
+   in describing collections of pages that represent a single logical
+   “document”; for describing intellectual property rights of Web pages
+--
+       Schemas, OWL, SKOS)
+     * For more complex cases, tools are available to define logical
+       relationships among resources and their relationships (for example,
+--
+
+Does one have to understand the theory of formal ontologies and logic to use
+the Semantic Web?
+--
+   this is done “under the hood”. What the developer needs to operate with
+   are usually simple logical patterns of the sort “Given that
+   (Flipper isA Dolphin) and (Dolphin isAlso Mammal), one can conclude
+--
+   for ontologies or rules), model theory (e.g., for the precise semantics
+   of RDF and RDF Schemas), or various types of logics (e.g., for rules).
+   However, it must be noted that Artificial Intelligence has a number of
+--
+   terms which are synonymous with terms it already knows, or related in
+   more complex and useful (but logically precise) ways.
+
+--
+   On the Semantic Web both ontologies and rules are used to express extra
+   constraints and logical relationships among resources. An example for
+   their usage is to help data integration when, for example, different
+--
+   Ontologies and rules refer to two different traditions stemming from
+   logic, as developed in the past decades. Whereas ontologies are more
+   closely related to classification systems, and particularly to
+   description logic, rules rely more on the advances of logic programming
+   and rule based systems.
+--
+   The term “rules” in the context of the Semantic Web refers to elements
+   of logic programming and rule based systems bound to Semantic Web data.
+   Rules offer a way to express, for example, constraints on the
+--
+   a precise definition of this “core” Rule language, on ways to extend
+   this rule language to various variants (production rules, logic
+   programming, etc), to exchange expression of rules among systems, and
+--
+   together on the same data set. It defines some sort of an interplay
+   between two different mechanisms: the, shall we say, logic programming
+   part and the knowledge representation part. Implementations doing both
+--
+
+   The substantive differences is that RIF (i.e., logic programming) and
+   OWL are designed to allow for optimizations of different sets of
+--
+   problems within an ontology specification (i.e., without the data), and
+   logic programs optimize for reasoning problems within the data (i.e.,
+   without the ontology). So a reasonable rule of thumb is, if one’s
+--
+   and/or rules includes a very simple ontology example. Some applications
+   may decide not to use even such small ontologies, and rely on the logic
+   of the application program. Some application may choose to use very
+--
+   of the terms. Some applications need an agreement on common
+   terminologies, without any rigor imposed by a logic system. Finally,
+   some applications may need more complex ontologies with complex
+--
+   necessarily distort what at least some people are really trying to
+   express; as a consequence, there will be ontological mismatches across
+   parts of the Web designed by different people. The issue is whether
+--
+
+Consequences of inconsistency in formal logic: doesn’t that ruin the Semantic
+Web?
+--
+   The problem referred to by this question is the fact that, in formal
+   logic, if there is an inconsitency somewhere, then it is possible to
+   draw all conclusions and their negations. The issue is whether this
+--
+   question). These inferences are mostly done within a restricted,
+   “guarded” subset of first order logic. Usually, reasoning on the
+   Semantic Web does not use the full power of first order (or higher
+   order) logic, and therefore avoids some of the dangerous issues that
+   can come from an inferred inconsistency. In other words, in practice,
+--
+   a bridging technology, providing the missing link between the rigorous
+   logical formalism of ontology languages such as OWL and the chaotic,
+   informal and weakly-structured world of social approaches to

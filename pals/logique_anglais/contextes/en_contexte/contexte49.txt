@@ -1,0 +1,163 @@
+
+   How to leverage logic programming to enhance data-driven development
+
+--
+   In a previous post we have seen how datalog language - and consequently
+   logic programming - can be convenient in the context of data querying
+   and exploration.
+
+   We will now see how logic programming can be helpful in the context of
+   data transformation. Let's first have a deeper look at logic
+   programming concepts.
+--
+   Logic programming is a programming paradigm that is based on formal
+   logic. In logic programming, programs are written in the form of
+   logical statements or rules, which define relationships and constraints
+   between different entities.
+--
+   object-oriented programming, which focus on how to achieve a specific
+   task, logic programming is concerned with representing and reasoning
+   about knowledge.
+
+   Programs written in a logic programming language mainly consist of a
+   set of facts, rules and queries.
+--
+   Logic programming is particularly suited to problems that can be
+   represented as logical relationships. For example, logic programming
+   can be used to solve inference, reasoning, and planning problems.
+--
+
+   Here are the key features of the logic programming paradigm.
+     * Declarative Style: Logic programming is declarative, meaning that
+       you specify what you want to achieve rather than how to achieve it.
+     * Logic Rules: Programs consist of a set of logical rules or clauses.
+       These rules are expressed in the form of predicates and facts,
+       which represent relationships between objects or conditions.
+     * Pattern Matching: The evaluation of logical statements often
+       involves pattern matching. The system matches the input against the
+       logical rules to determine if they apply.
+     * Knowledge Representation: Uses a formal language that is precise
+--
+       it valuable for applications that require a deep understanding of
+       data and the ability to make logical deductions.
+     * Backtracking: Logic programming often involves a mechanism called
+--
+
+   Here are some generic examples of how logic programming can be used:
+     * To represent knowledge about the real world, such as relationships
+--
+       problems or to draw conclusions.
+     * To generate code, for example to translate logical rules into
+       programming instructions.
+--
+
+When to use logic programming ?
+
+--
+
+   Being declarative means that logic programs focus on what the program
+   should do, rather than how it should do it, making them easier to
+--
+
+   Furthermore, logic programs are expressive, allowing them to represent
+   complex and abstract concepts in a concise and natural way.
+
+   Additionally, logic programs are flexible and can accommodate different
+   modes of execution, such as forward chaining or backward chaining which
+--
+   processing and analysis. Its ability to represent complex relationships
+   and perform logical reasoning can help extracting meaningful
+   information from vast amounts of data.
+
+   rsz_logic_model_resized.jpg
+
+--
+
+   We have seen logic programming offers a powerful approach for tasks
+   that require extensive knowledge representation, reasoning, and
+--
+
+   Functional programming and logic programming are both declarative
+   programming paradigms that offer unique strengths and applications.
+--
+
+   While functional programming and logic programming are two distinct
+   programming paradigms, there are areas of overlap and potential
+--
+
+   Despite the fact functional and logic programming have distinct design
+   principles, their combination or integration can lead to powerful and
+--
+   Therefore, librairies and frameworks of functional languages that
+   incorporate features from logic paradigm (pattern-matching,
+   logic-rules) such as datascript which is based on datalog and prolog
+   principles, continue to be developed and may be very good options to
+--
+
+   See below 3 libraries which incorporates features of logic programming.
+   Each of them offers a different level of abstraction.
+
+1. Core.logic
+
+   A low-level logic programming library for Clojure & ClojureScript.
+   core.logic offers Prolog-like relational programming, constraint logic
+   programming, and nominal logic programming for Clojure.
+ (run* [q]
+--
+   Meander is a declarative data manipulation toolset created as a library
+   in Clojure. Borrowing ideas from logic programming and term rewriting,
+   Meander allows declarative descriptions of arbitrarily complex data;
+--
+   These different implementations make it possible to incorporate
+   principles of logic programming into more global projects based on
+   versatile and commonly used programming languages.
+--
+
+   Let's now address the question of using logic programming concepts in a
+   concrete use-case.
+--
+   The approach based on the Meander library allows to pass all the
+   business logic in more a declarative form, for all the rules for
+   pattern-matching and transformation.
+--
+   which, once isolated from the rest of the code, represents a kind of
+   predicate-as-data for declaring all the business logic of the solution.
+
+--
+   In summary, today I take advantage of the joint use of the native
+   functionalities of Clojure and some features taken from the logical
+   programming paradigm ; The best of both worlds.
+--
+
+   While logic programming offers a unique and powerful approach to
+   problem-solving, it is not without its limitations and challenges. Here
+   are some of the caveats of logic programming that should be considered
+   when evaluating its suitability for a specific project:
+--
+       expensive, especially for complex problems with large knowledge
+       bases. The search for solutions through logical inference can
+       become time-consuming, particularly in cases where multiple
+--
+       large-scale applications.
+     * Debugging Complexity: Debugging logic programs can be challenging
+       due to their declarative nature and the non-deterministic execution
+--
+       time-consuming and may require a deep understanding of the
+       underlying logic and search strategies.
+
+--
+
+   Despite these caveats, logic programming remains a valuable tool for a
+   variety of applications, particularly those that require knowledge
+--
+   Careful consideration of these limitations and understanding the
+   strengths of logic programming are crucial for making informed
+   decisions about its suitability for specific projects.
+--
+
+   To date, the timely use of functionalities taken from logic programming
+   has made it possible to considerably improve the maintainability of my
+--
+
+     * What are the main characteristics and examples of logic programming
+       paradigms?

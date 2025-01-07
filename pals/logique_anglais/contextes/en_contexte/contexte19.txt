@@ -1,0 +1,9 @@
+   developed with real-world applications and their challenges in mind.
+   Active logic explicitly reasons in time, and incorporates a history of
+   its reasoning as it runs. This characteristic makes active logic more
+   flexible than traditional AI systems and therefore more suitable for
+--
+
+   One important strategy that we employ in active logic is metareasoning.
+   Because active logic tracks its reasoning, it is able to reason about
+   its own inferences, and thereby recognize and recover from errors.

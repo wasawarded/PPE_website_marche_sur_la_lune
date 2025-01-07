@@ -1,0 +1,19 @@
+   to provide probabilistic inference for targeted queries compiled from a
+   given logic program.
+
+--
+   For stable model counting, every model represented by the compiled
+   theory must be stable: a notion in logic programming that stipulates
+   that the truth of atoms cannot be self supporting given the logic
+   program’s rules [9]. To accommodate for stable models, DSHARP was
+--
+       Gutmann, B.; Thon, I.; Janssens, G.; and Raedt, L. D. 2015.
+       Inference and learning in probabilistic logic programs using
+       15(3):358–401.
+    7. Aziz, R. A.; Chu, G.; Muise, C.; and Stuckey, P. 2015. Stable model
+       counting and its application in probabilistic logic programming. In
+       The 29th AAAI Conference on Artificial Intelligence.
+--
+    9. Gelfond, M., and Lifschitz, V. 1988. The stable model semantics for
+       logic programming. In Logic Programming, Proceedings of the Fifth
+       International Conference and Symposium, Seattle, Washington, August

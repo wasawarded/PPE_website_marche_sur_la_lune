@@ -1,0 +1,220 @@
+          + Random Entry
+          + Chronological
+          + Archives
+--
+
+   Church’s type theory, aka simple type theory, is a formal logical
+   language which includes classical first-order and propositional logic,
+   but is more expressive in a practical sense. It is used, with some
+--
+   the formal semantics of natural language. And in particular, when used
+   as a metalogic to semantically embed expressive (quantified)
+   non-classical logics, it enables further topical applications in
+   artificial intelligence and philosophy.
+--
+   for verifying the correctness of mathematical proofs, and a range of
+   projects involving logic and artificial intelligence. Some examples and
+   further references are given in Sections 1.2.2 and 5 below.
+
+   Type theories are also called higher-order logics, since they allow
+   quantification not only over individual variables (as in first-order
+   logic), but also over function, predicate, and even higher-order
+   variables. Type theories characteristically assign types to entities,
+--
+          + 5.3 Computational Metaphysics and Artificial Intelligence
+          + 5.4. Metalogical Studies
+     * Bibliography
+--
+   properties, and relations may be regarded as particular kinds of
+   functions. Church’s type type theory is thus a logic of functions, and,
+   in this sense, it is in the tradition of the work of Frege’s
+--
+   The first is the symbol used for the type of individuals; the second is
+   the symbol used for a logical constant (see Section 1.2.1 below); the
+   third is the symbol used as a variable-binding operator that represents
+--
+     * In addition, there may be other constants of various types, which
+       will be called nonlogical constants or parameters. Each choice of
+       parameters determines a particular formulation of the system of
+--
+   the same if x and y have exactly the same properties. It is not
+   difficult to show that these two forms of the definition are logically
+   equivalent.
+--
+   Example 4 An example from philosophy is Gödel’s variant of the
+   ontological argument for the existence of God. This example illustrates
+   two interesting aspects:
+     * Church’s type theory can be employed as a meta-logic to concisely
+       embed expressive other logics such as the higher-order modal logic
+       assumed by Gödel. By exploiting the possible world semantics of
+       this target logic, its syntactic elements are defined in such a way
+       that the infrastructure of the meta-logic are reused as much as
+       possible. In this technique, called shallow semantical embedding,
+--
+       of \(\Pi'\) realizes a possibilist notion of quantification. By
+       introducing a binary “existence” predicate in the metalogic and by
+       utilizing this predicate as an additional guard in the definition
+--
+       where \(n_{\imath}\) is a nominal (constant symbol in the
+       meta-logic) denoting a particular possible world.
+     * The above technique can be exploited for a natural encoding and
+       automated assessment of Gödel’s ontological argument in
+       higher-order modal logic, which unfolds into formulas in Church’s
+       type theory such that higher-order theorem provers can be applied.
+--
+   shall sometimes refer to elementary type theory as \(\cT\). It embodies
+   the logic of propositional connectives, quantifiers, and λ-conversion
+   in the context of type theory.
+--
+   \(\atoi\) behaves like a variable-binding operator, but it is defined
+   in terms of λ with the aid of the logical constant
+   \(\iota_{\alpha({o}\alpha)}\). Thus, λ is still the only
+--
+
+   Tarski (1923) noted that in the context of higher-order logic, one can
+   define propositional connectives in terms of logical equivalence and
+   quantifiers. Quine (1956) showed how both quantifiers and connectives
+--
+       defined as in Section 1.2.1.
+     * The logical constants of \(\cQ_0\) are
+       \(\sfQ_{(({o}\alpha)\alpha)}\) and \(\iota_{(\imath({o}\imath))}\)
+--
+   It is natural to compare the semantics of type theory with the
+   semantics of first-order logic, where the theorems are precisely the
+   wffs which are valid in all interpretations. From an intuitive point of
+--
+   of type α to an appropriate element of \(\cD_{\alpha}\), which is
+   called the denotation of C. The logical constants are given their
+   standard denotations.
+--
+   then this requirement is obviously met due to the presence of the
+   logical constants \(\sfQ_{{o}\alpha \alpha}\) in the signature, which
+   by definition denote the respective identity relations on the objects
+--
+   Thus far, investigations of model theory for Church’s type theory have
+   been far less extensive than for first-order logic. Nevertheless, there
+   has been some work on methods of constructing nonstandard models of
+--
+   models for theories with arbitrary (possibly incomplete) sets of
+   logical constants, and on developing general methods of establishing
+   completeness of various systems of axioms with respect to various
+--
+   Smullyan 1995) as a tool for deriving a number of basic metatheorems
+   about first-order logic in a uniform way. The principle was extended to
+   elementary type theory by Andrews (1971) and to extensional type
+--
+   theory with primitive equality (e.g., system \(\cQ_0\) as in Section
+   1.4, or, alternatively, a system based on logical constants
+   \(\nsim_{({o}{o})}, \lor_{(({o}{o}){o})}\), and the
+   \(\Pi_{({o}({o}\alpha))}\)’s as in Section 1.2.1, but with additional
+   primitive logical constants \(=_{{o}\alpha\alpha}\) added).
+
+--
+       extensional type theory with primitive equality are presented in
+       Benzmüller 1999a (in this work primitive logical constants
+       \(=_{{o}\alpha\alpha}\) were used in addition to
+       \(\nsim_{({o}{o})}, \lor_{(({o}{o}){o})}\), and the
+       \(\Pi_{({o}({o}\alpha))}\)’s; such a redundant choice of logical
+       constants is not rare in higher-order theorem provers). One option
+--
+   An expansion proof is a generalization of the notion of a Herbrand
+   expansion of a theorem of first-order logic; it provides a very
+   elegant, concise, and nonredundant representation of the relationship
+--
+
+   Since type theory includes first-order logic, it is no surprise that
+   most systems of type theory are undecidable. However, one may look for
+--
+   Although the system \(\cT\) of elementary type theory is analogous to
+   first-order logic in certain respects, it is a considerably more
+   complex language, and special cases of the decision problem for
+--
+   unsolvable. (By contrast, the corresponding decision problem in
+   first-order logic with function symbols is known to be solvable (Maslov
+   1967).) Since irrelevant or vacuous quantifiers can always be
+--
+   below. The challenges are obviously much bigger than in first-order
+   logic. The practically way more expressive nature of the term-language
+   of Church’s type theory causes a larger, bushier and more difficult to
+   traverse proof search space than in first-order logic. Moreover,
+   remember that unification, which constitutes a very important control
+--
+   however, there is a chance to find significantly shorter proofs than in
+   first-order logic. This is well illustrated with a small, concrete
+   example in Boolos 1987, for which a fully automated proof seems now in
+--
+   Leo-III cooperates with first-order reasoning tools using translations
+   to many-sorted first-order logic. The prover accepts every common TPTP
+   syntax dialect and is thus very widely applicable. Recently, the prover
+   has also been extended to natively supports almost every normal
+   higher-order modal logic (Steen et al. 2023).
+
+--
+   Vampire (Bhayat & Reger 2020), which has dominated the TPTP
+   competitions in first-order logic for more than two decades, now also
+   supports the automation of Church's type theory using a
+--
+   component of Montague’s analysis of natural language is the definition
+   of a tensed intensional logic (Montague 1974: 256), which is an
+   enhancement of Church’s type theory. Montague Grammar had a huge
+   impact, and has since been developed in many further directions, not
+   least in Typelogical/Categorical Grammar. Further related work on
+   intensional and higher-order modal logic is presented in Gallin 1975
+   and Muskens 2006.
+--
+
+   Church’s type theory is a classical logic, but topical applications in
+   philosophy and artificial intelligence often require expressive
+   non-classical logics. In order to support such applications with
+   reasoning tools for Church’s type theory, the shallow semantical
+--
+   generalizes and extends the ideas underlying the well known standard
+   translation of modal logics to first-order logic. The technique was
+   applied for the assessment of modern variants of the ontological
+   argument with a range of higher-order theorem provers, including
+--
+   The semantical embedding approach has been adapted and further extended
+   for a range of other non-classical logics and related applications. In
+   philosophy this includes the encoding and formal assessment of
+   ambitious ethical and metaphysical theories, and in artificial
+   intelligence this includes the mechanization of deontic logics and
+   normative reasoning to control AI systems (Benzmüller et al. 2020) as
+   well as an automatic proof of the muddy children puzzle (see Appendix B
+   of dynamic epistemic logic), which is a famous puzzle in epistemic
+   reasoning, respectively dynamic epistemic reasoning.
+
+5.4. Metalogical Studies
+
+   Church’s type theory is also well suited to support metalogical
+   studies, including the encoding of other logical formalisms and
+   formalized soundness and completeness studies (see, e.g., Schlichtkrull
+--
+     * Benzmüller, Christoph and Bruno Woltzenlogel Paleo, 2014,
+       “Automating Gödel’s Ontological Proof of God’s Existence with
+       Higher-Order Automated Theorem Provers”, in Proceedings of the
+--
+     * Halkjær, Asta, Anders Schlichtkrull, Jørgen Villadsen, 2023, “A
+       sequent calculus for first-order logic formalized in Isabelle/HOL”,
+       Journal of Logic and Computation, 33(4):818-836. doi:
+--
+     * Schlichtkrull, Anders, 2023, “Soundness of the Q0 proof system for
+       higher-order logic”, Archive of Formal Proofs.
+       https://www.isa-afp.org/entries/Q0_Soundness.html
+--
+       59(4): 483–502. doi:10.1007/s10817-017-9407-7
+     * –––, 2023, “The logic languages of the TPTP world”, Logic Journal
+       of the IGPL, 31(6): 1153–1169. doi:10.1093/jigpal/jzac068
+--
+
+   artificial intelligence: logic-based | category theory | choice, axiom
+   of | descriptions | epsilon calculus | Frege, Gottlob | Gödel, Kurt:
+   incompleteness theorems | grammar: typelogical | lambda calculus, the |
+   logic, history of: first-order logic | logic: classical | logic:
+   deontic | logic: dynamic epistemic | logic: modal | logic: second-order
+   and higher-order | metaphysics | ontological arguments | paradox:
+   Skolem’s | paradoxes: and contemporary logic | possibilism-actualism
+   debate | possible worlds | Principia Mathematica | proof theory |
+--
+     * Random Entry
+     * Chronological
+     * Archives
