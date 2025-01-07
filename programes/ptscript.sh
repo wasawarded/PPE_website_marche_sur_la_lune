@@ -55,6 +55,8 @@ echo "<!DOCTYPE html>
                 <th>Compte</th>
                 <th>Contexte</th>
                 <th>Concordance</th>
+                <th>Aspiration</th>
+                <th>Dump Textuel</th>
             </tr>
         </thead>
         <tbody>" > "$OUTPUT_HTML"
@@ -168,16 +170,19 @@ echo "    </tbody>
 
 
     # Ajouter les résultats au tableau HTML
-    echo "        <tr>
-            <td>$COUNTER</td>
-            <td><a href=\"$url\" target=\"_blank\">$url</a></td>
-            <td>$HTTP_CODE</td>
-            <td>${ENCODING:-Inconnu}</td>
-            <td>$TOKENS</td>
-            <td>$COMPTE</td>
-            <td><a href=\"$CONTEXT_HTML\" target=\"_blank\">HTML</a></td>
-            <td><a href=\"$CONCORDANCE_HTML\" target=\"_blank\">HTML</a></td>
-        </tr>" >> "$OUTPUT_HTML"
+echo "        <tr>
+    <td>$COUNTER</td>
+    <td><a href=\"$url\" target=\"_blank\">$url</a></td>
+    <td>$HTTP_CODE</td>
+    <td>${ENCODING:-Inconnu}</td>
+    <td>$TOKENS</td>
+    <td>$COMPTE</td>
+    <td><a href=\"$CONTEXT_HTML\" target=\"_blank\">HTML</a></td>
+    <td><a href=\"$CONCORDANCE_HTML\" target=\"_blank\">HTML</a></td>
+    <td><a href=\"$ASPIRATION_FILE\" target=\"_blank\">HTML</a></td>
+    <td><a href=\"$DUMP_FILE\" target=\"_blank\">TXT</a></td>
+</tr>" >> "$OUTPUT_HTML"
+
 
     COUNTER=$((COUNTER + 1))
 done < "$INPUT_FILE"

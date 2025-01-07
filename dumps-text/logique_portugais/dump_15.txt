@@ -911,7 +911,7 @@ Références
   14. file:///newsletter.html
   15. file:///donativos.html
   16. file:///sobrenos.html
-  17. file:///tmp/lynxXXXXvVkQga/logica.html
+  17. file:///tmp/lynxXXXXxzzbco/logica.html
 
    Liens cachés :
   19. https://www.addtoany.com/share

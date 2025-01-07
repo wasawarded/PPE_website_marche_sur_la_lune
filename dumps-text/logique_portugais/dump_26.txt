@@ -391,8 +391,8 @@ Références
    5. https://www.clubedoportugues.com.br/wp-json/wp/v2/posts/227184
    6. https://www.clubedoportugues.com.br/wp-json/oembed/1.0/embed?url=https://www.clubedoportugues.com.br/coerencia-textual/
    7. https://www.clubedoportugues.com.br/wp-json/oembed/1.0/embed?url=https://www.clubedoportugues.com.br/coerencia-textual/&format=xml
-   8. file:///tmp/lynxXXXXuQDXZb/L11048-2960TMP.html#content
-   9. file:///tmp/lynxXXXXuQDXZb/L11048-2960TMP.html
+   8. file:///tmp/lynxXXXXqwWkYZ/L19066-66TMP.html#content
+   9. file:///tmp/lynxXXXXqwWkYZ/L19066-66TMP.html
   10. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/
   11. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/artigos-sobre-alfabetizacao-inclusiva/
   12. https://www.clubedoportugues.com.br/categoria/tudo-sobre-alfabetizacao/conceitos-alfabetizacao/

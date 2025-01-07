@@ -131,7 +131,7 @@ para o Município
 
           Categoria: [90]Sample Data-Articles
           Publicado em:
-          Visitas: 77598
+          Visitas: 77606
 
    [91]Tweet
 
@@ -238,11 +238,11 @@ Références
    1. https://www.cmt.cv/index.php/component/search/?Itemid=1220&catid=14&id=153&format=opensearch
    2. https://www.cmt.cv/index.php/revista-tarrafal
    3. https://www.cmt.cv/index.php/guia-turistico
-   4. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
-   5. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
-   6. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
-   7. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
-   8. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
+   4. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
+   5. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
+   6. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
+   7. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
+   8. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
    9. https://www.cmt.cv/images\stories\CAO\cao.swf
   10. https://www.cmt.cv/index.php/expediente
   11. https://www.cmt.cv/index.php/taxas
@@ -263,7 +263,7 @@ Références
   26. https://www.cmt.cv/index.php/concelho/estatistica/censo-2010
   27. https://www.cmt.cv/index.php/concelho/historia
   28. https://www.cmt.cv/index.php/concelho/historia/camara-municipal
-  29. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
+  29. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
   30. https://www.cmt.cv/index.php/concelho/caraterizacao
   31. https://www.cmt.cv/index.php/concelho/caraterizacao/localizacao
   32. https://www.cmt.cv/index.php/concelho/caraterizacao/caraterizacao
@@ -299,7 +299,7 @@ Références
   62. https://www.cmt.cv/index.php/atividade-municipal/juventude/associativismo
   63. https://www.cmt.cv/index.php/atividade-municipal/juventude/centro-de-juventude
   64. https://www.cmt.cv/index.php/atividade-municipal/juventude/equipamentos-desportivos
-  65. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
+  65. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
   66. https://www.cmt.cv/index.php/atividade-municipal/seguranca
   67. https://www.cmt.cv/index.php/atividade-municipal/seguranca/bombeiros-municipais
   68. https://www.cmt.cv/index.php/atividade-municipal/seguranca/unidades-de-saude
@@ -320,7 +320,7 @@ Références
   83. https://www.cmt.cv/index.php/orgaos-municipais/camara-municipal/deliberacoes
   84. https://www.cmt.cv/index.php/orgaos-municipais/camara-municipal/relatorio-de-atividades
   85. https://www.cmt.cv/index.php/galeria-de-imagenss
-  86. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html#ja-content
+  86. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html#ja-content
   87. https://www.cmt.cv/index.php/predil/14-sample-data-articles/153-turismo-tarrafal
   88. https://www.cmt.cv/index.php/predil/14-sample-data-articles/153-turismo-tarrafal?tmpl=component&print=1&page=
   89. https://www.cmt.cv/index.php/component/mailto/?tmpl=component&template=ja_social&link=624c509e858522f9c0cc05eb9e513c800a0c147a
@@ -339,11 +339,11 @@ Références
  102. https://www.cmt.cv/index.php/predil/14-sample-data-articles/88-aldeia-do-futuro
  103. http://www.facebook.com/pages/Município-do-Tarrafal-de-Santiago/115760201809051
  104. https://twitter.com/cmtarrafal
- 105. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html
+ 105. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html
  106. https://www.cmt.cv/
  107. https://www.cmt.cv/index.php/predil
  108. https://www.cmt.cv/index.php/predil/14-sample-data-articles
  109. javascript:scroll(0,0)
- 110. file:///tmp/lynxXXXXCHFVYs/L10593-6343TMP.html#ja-content
+ 110. file:///tmp/lynxXXXXEl0MYr/L18719-9646TMP.html#ja-content
  111. http://disqus.com/?ref_noscript=cmtarrafal
  112. http://disqus.com/

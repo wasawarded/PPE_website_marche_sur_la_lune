@@ -948,7 +948,7 @@ Références
    2. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit
    3. file:///w/rest.php/v1/search
    4. file:///w/index.php?title=Especial:Mudanças_recentes&feed=atom
-   5. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#bodyContent
+   5. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#bodyContent
    6. file:///wiki/Wikipédia:Página_principal
    7. file:///wiki/Portal:Conteúdo_destacado
    8. file:///wiki/Portal:Eventos_atuais
@@ -976,31 +976,31 @@ Références
   30. file:///wiki/Ajuda:Introduction
   31. file:///wiki/Especial:Minhas_contribuições
   32. file:///wiki/Especial:Minha_discussão
-  33. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html
-  34. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Introdução
-  35. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Coisas_Musicais
-  36. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Os_desafios_para_criar_coisas_musicais
-  37. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Possíveis_soluções_para_criar_coisas_musicais
-  38. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Campos_Relacionados
-  39. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Performance_musical_em_rede
-  40. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Arte_Interativa
-  41. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Música_ubíqua
-  42. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Web_Audio,_Computação_na_Nuvem_e_Computação_na_borda
-  43. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Tecnologias_vestíveis
-  44. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_da_IoMusT
-  45. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_Tecnológicos
-  46. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_Artísticos
-  47. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_legais,_privacidade_e_segurança
-  48. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_Sociais
-  49. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_Econômicos
-  50. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Desafios_Ambientais
-  51. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Possíveis_Cenários_de_Uso
-  52. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Cenário_1_-_Experiências_aumentadas_e_imersivas
-  53. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Cenário_2_-_Audiência_co-localizada_e_audiência_remota
-  54. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Cenário_3_-_Ensaios_remotos
-  55. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Cenário_4_-_Aprendizado_de_música
-  56. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Cenário_5_-_Sessão_de_improviso_com_instrumentos_eletroacústicos_e_coisas_musicais
-  57. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#Referências
+  33. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html
+  34. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Introdução
+  35. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Coisas_Musicais
+  36. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Os_desafios_para_criar_coisas_musicais
+  37. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Possíveis_soluções_para_criar_coisas_musicais
+  38. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Campos_Relacionados
+  39. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Performance_musical_em_rede
+  40. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Arte_Interativa
+  41. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Música_ubíqua
+  42. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Web_Audio,_Computação_na_Nuvem_e_Computação_na_borda
+  43. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Tecnologias_vestíveis
+  44. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_da_IoMusT
+  45. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Tecnológicos
+  46. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Artísticos
+  47. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_legais,_privacidade_e_segurança
+  48. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Sociais
+  49. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Econômicos
+  50. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Desafios_Ambientais
+  51. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Possíveis_Cenários_de_Uso
+  52. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_1_-_Experiências_aumentadas_e_imersivas
+  53. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_2_-_Audiência_co-localizada_e_audiência_remota
+  54. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_3_-_Ensaios_remotos
+  55. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_4_-_Aprendizado_de_música
+  56. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Cenário_5_-_Sessão_de_improviso_com_instrumentos_eletroacústicos_e_coisas_musicais
+  57. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#Referências
   58. https://en.wikipedia.org/wiki/Internet_of_Musical_Things
   59. https://www.wikidata.org/wiki/Special:EntityPage/Q109323154#sitelinks-wikipedia
   60. file:///wiki/Internet_das_Coisas_Musicais
@@ -1027,379 +1027,379 @@ Références
   81. file:///w/index.php?title=Internet_das_Coisas_Musicais&printable=yes
   82. https://www.wikidata.org/wiki/Special:EntityPage/Q109323154
   83. file:///wiki/Internet_das_coisas
-  84. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:0-1
-  85. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:1-2
-  86. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:2-3
+  84. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:0-1
+  85. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:1-2
+  86. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:2-3
   87. file:///wiki/Computação_musical
-  88. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:6-4
+  88. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:6-4
   89. file:///wiki/Interação_Humano-computador
-  90. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-5
-  91. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-6
+  90. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-5
+  91. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-6
   92. file:///wiki/Inteligência_artificial
-  93. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-7
+  93. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-7
   94. file:///wiki/Realidade_aumentada
   95. file:///wiki/Realidade_virtual
   96. file:///wiki/Jogo
-  97. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-8
-  98. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-9
-  99. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 100. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:7-11
+  97. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-8
+  98. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-9
+  99. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 100. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
  101. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=1
  102. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=1
- 103. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:0-1
- 104. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:1-2
- 105. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:2-3
- 106. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-12
+ 103. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:0-1
+ 104. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:1-2
+ 105. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:2-3
+ 106. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-12
  107. file:///wiki/Código_QR
- 108. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-13
- 109. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-14
- 110. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-15
+ 108. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-13
+ 109. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-14
+ 110. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-15
  111. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=2
  112. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=2
- 113. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 114. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-16
- 115. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-17
- 116. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
+ 113. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 114. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-16
+ 115. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-17
+ 116. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
  117. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=3
  118. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=3
  119. file:///wiki/Hardware
- 120. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
+ 120. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
  121. file:///wiki/Internet
  122. file:///wiki/Smartphone
  123. file:///wiki/Computador_pessoal
- 124. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
- 125. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-19
- 126. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-20
- 127. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
+ 124. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 125. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-19
+ 126. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-20
+ 127. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
  128. file:///wiki/Software
- 129. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
+ 129. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
  130. file:///wiki/Modulação_por_código_de_pulsos
  131. file:///wiki/WAV
  132. file:///wiki/MP3
  133. file:///wiki/FLAC
  134. file:///wiki/Ogg
- 135. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
+ 135. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
  136. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=4
  137. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=4
  138. file:///wiki/Pedal_de_guitarra
  139. file:///wiki/Sensor
- 140. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
- 141. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:4-18
+ 140. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
+ 141. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:4-18
  142. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=5
  143. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=5
  144. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=6
  145. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=6
- 146. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-21
- 147. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-22
- 148. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-23
- 149. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-24
+ 146. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-21
+ 147. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-22
+ 148. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-23
+ 149. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-24
  150. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=7
  151. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=7
- 152. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-25
- 153. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-26
- 154. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-27
+ 152. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-25
+ 153. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-26
+ 154. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-27
  155. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=8
  156. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=8
- 157. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:6-4
- 158. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-28
+ 157. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:6-4
+ 158. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-28
  159. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=9
  160. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=9
  161. file:///wiki/JavaScript
  162. file:///wiki/Digital_audio_workstation
- 163. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:5-29
- 164. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:5-29
- 165. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-30
- 166. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-31
- 167. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-32
- 168. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-33
- 169. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-34
- 170. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-35
+ 163. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:5-29
+ 164. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:5-29
+ 165. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-30
+ 166. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-31
+ 167. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-32
+ 168. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-33
+ 169. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-34
+ 170. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-35
  171. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=10
  172. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=10
  173. file:///wiki/Relógio_inteligente
- 174. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-36
- 175. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-37
- 176. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-38
+ 174. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-36
+ 175. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-37
+ 176. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-38
  177. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=11
  178. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=11
- 179. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:8-39
- 180. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-40
+ 179. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:8-39
+ 180. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-40
  181. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=12
  182. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=12
  183. file:///wiki/Largura_de_banda
  184. file:///wiki/Latência
  185. file:///wiki/Jitter
- 186. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 187. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-41
- 188. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:7-11
+ 186. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 187. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-41
+ 188. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
  189. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=13
  190. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=13
- 191. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 192. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 193. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:7-11
- 194. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-42
+ 191. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 192. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 193. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 194. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-42
  195. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=14
  196. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=14
  197. file:///wiki/Direito_autoral
- 198. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 199. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-43
+ 198. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 199. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-43
  200. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=15
  201. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=15
- 202. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:8-39
- 203. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:7-11
- 204. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-44
- 205. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:7-11
+ 202. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:8-39
+ 203. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
+ 204. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-44
+ 205. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
  206. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=16
  207. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=16
- 208. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:7-11
+ 208. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:7-11
  209. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=17
  210. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=17
- 211. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-45
- 212. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-46
+ 211. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-45
+ 212. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-46
  213. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=18
  214. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=18
- 215. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
+ 215. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
  216. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=19
  217. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=19
- 218. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
+ 218. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
  219. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=20
  220. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=20
- 221. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 222. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:9-47
- 223. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
- 224. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:9-47
+ 221. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 222. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 223. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
+ 224. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
  225. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=21
  226. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=21
- 227. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:9-47
- 228. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
+ 227. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 228. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
  229. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=22
  230. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=22
- 231. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:3-10
+ 231. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:3-10
  232. file:///w/index.php?title=Internet_das_Coisas_Musicais&veaction=edit&section=23
  233. file:///w/index.php?title=Internet_das_Coisas_Musicais&action=edit&section=23
- 234. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_note-:9-47
- 235. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:0_1-0
- 236. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:0_1-1
+ 234. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_note-:9-47
+ 235. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:0_1-0
+ 236. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:0_1-1
  237. https://www.sciencedirect.com/science/article/pii/S1389128610001568
  238. file:///wiki/International_Standard_Serial_Number
  239. file://www.worldcat.org/issn/1389-1286
  240. file:///wiki/Digital_object_identifier
  241. https://dx.doi.org/10.1016/j.comnet.2010.05.010
  242. file:///wiki/Wikipédia:Verificabilidade
- 243. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:1_2-0
- 244. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:1_2-1
+ 243. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:1_2-0
+ 244. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:1_2-1
  245. https://www.sciencedirect.com/science/article/pii/S0140366414003168
  246. file:///wiki/International_Standard_Serial_Number
  247. file://www.worldcat.org/issn/0140-3664
  248. file:///wiki/Digital_object_identifier
  249. https://dx.doi.org/10.1016/j.comcom.2014.09.008
  250. file:///wiki/Wikipédia:Verificabilidade
- 251. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:2_3-0
- 252. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:2_3-1
+ 251. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:2_3-0
+ 252. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:2_3-1
  253. https://www.sciencedirect.com/science/article/pii/S1570870512000674
  254. file:///wiki/International_Standard_Serial_Number
  255. file://www.worldcat.org/issn/1570-8705
  256. file:///wiki/Digital_object_identifier
  257. https://dx.doi.org/10.1016/j.adhoc.2012.02.016
  258. file:///wiki/Wikipédia:Verificabilidade
- 259. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:6_4-0
- 260. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:6_4-1
+ 259. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:6_4-0
+ 260. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:6_4-1
  261. http://link.springer.com/10.1007/978-3-319-11152-0
- 262. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-5
+ 262. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-5
  263. https://www.worldcat.org/oclc/904425795
  264. file:///wiki/OCLC
  265. file://www.worldcat.org/oclc/904425795
- 266. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-6
+ 266. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-6
  267. https://www.worldcat.org/oclc/909772560
  268. file:///wiki/OCLC
  269. file://www.worldcat.org/oclc/909772560
- 270. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-7
+ 270. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-7
  271. https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118680605.ch15
  272. file:///wiki/International_Standard_Book_Number
  273. file:///wiki/Especial:Fontes_de_livros/978-1-118-68060-5
  274. file:///wiki/Digital_object_identifier
  275. https://dx.doi.org/10.1002/9781118680605.ch15
- 276. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-8
+ 276. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-8
  277. https://dx.doi.org/10.1109/mmul.2017.19
  278. file:///wiki/International_Standard_Serial_Number
  279. file://www.worldcat.org/issn/1070-986X
  280. file:///wiki/Digital_object_identifier
  281. https://dx.doi.org/10.1109/mmul.2017.19
- 282. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-9
+ 282. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-9
  283. http://worldcat.org/oclc/981923724
  284. file:///wiki/OCLC
  285. file://www.worldcat.org/oclc/981923724
- 286. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-0
- 287. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-1
- 288. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-2
- 289. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-3
- 290. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-4
- 291. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-5
- 292. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-6
- 293. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-7
- 294. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-8
- 295. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-9
- 296. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-10
- 297. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-11
- 298. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:3_10-12
+ 286. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-0
+ 287. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-1
+ 288. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-2
+ 289. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-3
+ 290. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-4
+ 291. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-5
+ 292. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-6
+ 293. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-7
+ 294. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-8
+ 295. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-9
+ 296. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-10
+ 297. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-11
+ 298. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:3_10-12
  299. https://ieeexplore.ieee.org/document/8476543/
  300. file:///wiki/International_Standard_Serial_Number
  301. file://www.worldcat.org/issn/2169-3536
  302. file:///wiki/Digital_object_identifier
  303. https://dx.doi.org/10.1109/ACCESS.2018.2872625
- 304. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:7_11-0
- 305. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:7_11-1
- 306. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:7_11-2
- 307. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:7_11-3
- 308. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:7_11-4
- 309. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:7_11-5
+ 304. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-0
+ 305. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-1
+ 306. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-2
+ 307. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-3
+ 308. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-4
+ 309. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:7_11-5
  310. https://zenodo.org/record/4247759
  311. file:///wiki/Digital_object_identifier
  312. https://dx.doi.org/10.5281/zenodo.4247759
- 313. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-12
+ 313. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-12
  314. https://nottingham-repository.worktribe.com/output/998749/musical-intersections-across-the-digital-and-physical
- 315. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-13
+ 315. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-13
  316. https://dx.doi.org/10.1017/s1355771816000340
  317. file:///wiki/International_Standard_Serial_Number
  318. file://www.worldcat.org/issn/1355-7718
  319. file:///wiki/Digital_object_identifier
  320. https://dx.doi.org/10.1017/s1355771816000340
- 321. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-14
+ 321. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-14
  322. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
  323. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
- 324. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-15
+ 324. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-15
  325. https://ieeexplore.ieee.org/document/8476543/
  326. file:///wiki/International_Standard_Serial_Number
  327. file://www.worldcat.org/issn/2169-3536
  328. file:///wiki/Digital_object_identifier
  329. https://dx.doi.org/10.1109/ACCESS.2018.2872625
- 330. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-16
+ 330. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-16
  331. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
  332. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
- 333. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-17
+ 333. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-17
  334. https://link.springer.com/book/10.1007/978-3-030-01692-0
  335. file:///wiki/International_Standard_Serial_Number
  336. file://www.worldcat.org/issn/0302-9743
  337. file:///wiki/Digital_object_identifier
  338. https://dx.doi.org/10.1007/978-3-030-01692-0
- 339. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-0
- 340. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-1
- 341. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-2
- 342. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-3
- 343. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-4
- 344. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-5
- 345. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:4_18-6
+ 339. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-0
+ 340. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-1
+ 341. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-2
+ 342. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-3
+ 343. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-4
+ 344. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-5
+ 345. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:4_18-6
  346. https://ieeexplore.ieee.org/document/9277862/
  347. file:///wiki/International_Standard_Book_Number
  348. file:///wiki/Especial:Fontes_de_livros/978-1-7281-8286-5
  349. file:///wiki/Digital_object_identifier
  350. https://dx.doi.org/10.1109/SBESC51047.2020.9277862
- 351. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-19
+ 351. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-19
  352. http://ieeexplore.ieee.org/document/7905364/
  353. file:///wiki/International_Standard_Book_Number
  354. file:///wiki/Especial:Fontes_de_livros/978-1-5090-5715-3
  355. file:///wiki/Digital_object_identifier
  356. https://dx.doi.org/10.1109/INFOCOMMST.2016.7905364
- 357. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-20
+ 357. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-20
  358. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
  359. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
- 360. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-21
- 361. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-22
+ 360. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-21
+ 361. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-22
  362. http://portal.acm.org/citation.cfm?doid=378344.378367
  363. file:///wiki/International_Standard_Book_Number
  364. file:///wiki/Especial:Fontes_de_livros/978-1-58113-370-7
  365. file:///wiki/Digital_object_identifier
  366. https://dx.doi.org/10.1145/378344.378367
- 367. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-23
- 368. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-24
+ 367. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-23
+ 368. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-24
  369. http://ieeexplore.ieee.org/document/1417570/
  370. file:///wiki/International_Standard_Book_Number
  371. file:///wiki/Especial:Fontes_de_livros/978-0-7803-8798-0
  372. file:///wiki/Digital_object_identifier
  373. https://dx.doi.org/10.1109/GLOCOMW.2004.1417570
- 374. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-25
- 375. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-26
- 376. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-27
- 377. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-28
+ 374. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-25
+ 375. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-26
+ 376. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-27
+ 377. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-28
  378. https://www.tandfonline.com/doi/full/10.1080/09298215.2019.1659828
  379. file:///wiki/International_Standard_Serial_Number
  380. file://www.worldcat.org/issn/0929-8215
  381. file:///wiki/Digital_object_identifier
  382. https://dx.doi.org/10.1080/09298215.2019.1659828
- 383. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:5_29-0
- 384. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:5_29-1
+ 383. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:5_29-0
+ 384. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:5_29-1
  385. https://www.worldcat.org/oclc/848884051
  386. file:///wiki/OCLC
  387. file://www.worldcat.org/oclc/848884051
- 388. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-30
+ 388. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-30
  389. file:///wiki/Ajuda:Erros_nas_referências#accessdate_missing_url
  390. file:///wiki/Categoria:!CS1_manut:_Nomes_múltiplos:_lista_de_autores
- 391. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-31
+ 391. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-31
  392. https://ieeexplore.ieee.org/document/5474674/
  393. file:///wiki/Digital_object_identifier
  394. https://dx.doi.org/10.1109/AINA.2010.187
- 395. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-32
- 396. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-33
+ 395. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-32
+ 396. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-33
  397. https://linkinghub.elsevier.com/retrieve/pii/S0167739X18319903
  398. file:///wiki/Digital_object_identifier
  399. https://dx.doi.org/10.1016/j.future.2019.02.050
- 400. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-34
+ 400. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-34
  401. http://ieeexplore.ieee.org/document/7488250/
  402. file:///wiki/International_Standard_Serial_Number
  403. file://www.worldcat.org/issn/2327-4662
  404. file:///wiki/Digital_object_identifier
  405. https://dx.doi.org/10.1109/JIOT.2016.2579198
- 406. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-35
+ 406. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-35
  407. http://ieeexplore.ieee.org/document/8123913/
  408. file:///wiki/International_Standard_Serial_Number
  409. file://www.worldcat.org/issn/2169-3536
  410. file:///wiki/Digital_object_identifier
  411. https://dx.doi.org/10.1109/ACCESS.2017.2778504
- 412. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-36
+ 412. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-36
  413. http://ieeexplore.ieee.org/document/566147/
  414. file:///wiki/Digital_object_identifier
  415. https://dx.doi.org/10.1109/2.566147
- 416. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-37
+ 416. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-37
  417. http://ieeexplore.ieee.org/document/738305/
  418. file:///wiki/Digital_object_identifier
  419. https://dx.doi.org/10.1109/2.738305
- 420. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-38
+ 420. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-38
  421. http://ieeexplore.ieee.org/document/7993011/
  422. file:///wiki/International_Standard_Serial_Number
  423. file://www.worldcat.org/issn/1553-877X
  424. file:///wiki/Digital_object_identifier
  425. https://dx.doi.org/10.1109/COMST.2017.2731979
- 426. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:8_39-0
- 427. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:8_39-1
- 428. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-40
- 429. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-41
+ 426. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:8_39-0
+ 427. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:8_39-1
+ 428. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-40
+ 429. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-41
  430. http://ieeexplore.ieee.org/document/7769205/
  431. file:///wiki/International_Standard_Serial_Number
  432. file://www.worldcat.org/issn/2169-3536
  433. file:///wiki/Digital_object_identifier
  434. https://dx.doi.org/10.1109/ACCESS.2016.2628440
- 435. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-42
+ 435. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-42
  436. https://dl.acm.org/doi/10.1145/3290605.3300706
  437. file:///wiki/International_Standard_Book_Number
  438. file:///wiki/Especial:Fontes_de_livros/978-1-4503-5970-2
  439. file:///wiki/Digital_object_identifier
  440. https://dx.doi.org/10.1145/3290605.3300706
- 441. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-43
+ 441. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-43
  442. https://www.sciencedirect.com/science/article/pii/S0267364915001156
  443. file:///wiki/International_Standard_Serial_Number
  444. file://www.worldcat.org/issn/0267-3649
  445. file:///wiki/Digital_object_identifier
  446. https://dx.doi.org/10.1016/j.clsr.2015.07.002
- 447. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-44
- 448. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-45
+ 447. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-44
+ 448. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-45
  449. https://www.worldcat.org/oclc/952139233
  450. file:///wiki/OCLC
  451. file://www.worldcat.org/oclc/952139233
- 452. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-46
- 453. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:9_47-0
- 454. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:9_47-1
- 455. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:9_47-2
- 456. file:///tmp/lynxXXXXpkmbMy/L10881-2350TMP.html#cite_ref-:9_47-3
+ 452. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-46
+ 453. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-0
+ 454. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-1
+ 455. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-2
+ 456. file:///tmp/lynxXXXXAP9uzg/L18989-6525TMP.html#cite_ref-:9_47-3
  457. https://pt.wikipedia.org/w/index.php?title=Internet_das_Coisas_Musicais&oldid=64337994
  458. file:///wiki/Especial:Categorias
  459. file:///wiki/Categoria:Internet_das_coisas

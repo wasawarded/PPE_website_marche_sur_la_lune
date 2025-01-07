@@ -3293,8 +3293,8 @@ Références
    1. http://www.apologetica.pt/?feed=rss2
    2. http://www.apologetica.pt/?feed=comments-rss2
    3. http://www.apologetica.pt/
-   4. file:///tmp/lynxXXXXlTRYyf/L10385-6548TMP.html#content
-   5. file:///tmp/lynxXXXXlTRYyf/L10385-6548TMP.html#secondary
+   4. file:///tmp/lynxXXXXTOGhVh/L18529-7823TMP.html#content
+   5. file:///tmp/lynxXXXXTOGhVh/L18529-7823TMP.html#secondary
    6. http://www.apologetica.pt/
    7. http://www.apologetica.pt/?page_id=1167
    8. http://www.apologetica.pt/?page_id=196

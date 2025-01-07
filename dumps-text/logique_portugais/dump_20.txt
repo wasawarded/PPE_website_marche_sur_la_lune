@@ -173,8 +173,8 @@ Références
   11. http://patriciaferreiramatematica2.pbworks.com/w/session/login?edit=1
   12. http://patriciaferreiramatematica2.pbworks.com/w/page-revisions/30363869/Atividade 2
   13. javascript:alert('Please join this workspace to see more details about this user.');
-  14. file:///tmp/lynxXXXXV7FvnO/L10728-49TMP.html
-  15. file:///tmp/lynxXXXXV7FvnO/L10728-49TMP.html
+  14. file:///tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
+  15. file:///tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
   16. javascript:void(0);
   17. javascript:void(0);
   18. javascript:alert('Please join this workspace to see more details about this user.');
@@ -199,14 +199,14 @@ Références
   37. file:///w/page/Atividade-7
   38. file:///w/page/Atividade-8
   39. file:///w/page/Projeto-final
-  40. file:///tmp/lynxXXXXV7FvnO/L10728-49TMP.html
+  40. file:///tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
 
    Liens cachés :
   42. javascript:void(0);
-  43. file://localhost/tmp/lynxXXXXV7FvnO/L10728-49TMP.html
+  43. file://localhost/tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
   44. file://localhost/rename.php?renamepage=Atividade+2
   45. http://pbworks.com/?utm_campaign=wiki-link
-  46. file://localhost/tmp/lynxXXXXV7FvnO/L10728-49TMP.html
+  46. file://localhost/tmp/lynxXXXX1XlXzR/L18836-5408TMP.html
   47. javascript:void(0);
   48. javascript:void(0);
   49. javascript:void(0);
