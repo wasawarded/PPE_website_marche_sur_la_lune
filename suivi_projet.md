@@ -55,4 +55,8 @@
 ## 07/01/2025
 ### anglais
 - Réunion de groupe pour résoudre les problèmes de structure et discuter sur la philosophie de notre page groupe, les possible d'outils d'analyse de textométrie comme worldcloud.
-- Réger les liens absolus en relatifs. **attention** Pour utiliser les liens relatifs `..`, il faut assurer que le fichier ne se situe pas dans un sous dossier d'un dossier. Sinon il faut ajouter des `.` 
+- Réger les liens absolus en relatifs. **attention** Pour utiliser les liens relatifs `..`, il faut assurer que le fichier ne se situe pas dans un sous dossier d'un dossier. Sinon il faut ajouter des `.`
+
+## 08/01/2025
+### anglais
+- Création du dossier sites_groupe pour mettre les html et les css pour la page groupe
