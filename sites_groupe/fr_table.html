@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Tableau des résultats</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<style>
+		:root {
+    --primary-bg: #1d1d2b;
+    --secondary-bg: #2b2b3d;
+    --text-color: #e0e0e0;
+    --hover-bg: #4a4a4a;
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-color: var(--primary-bg);;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color); /* Texte par défaut blanc */
+    font-family: Arial, sans-serif; /* Police par défaut */
+}
+
+.title {
+    color: var(--text-color); /* Texte blanc */
+    text-align: center;
+    margin-bottom: 10px; /* Réduit l'espace sous le titre */
+}
+
+.navbar.is-custom,
+.footer.is-custom {
+    background-color: var(--primary-bg);
+    color: var(--text-color);
+    box-shadow: var(--box-shadow);
+}
+
+.hero.is-custom {
+    background: linear-gradient(135deg, var(--secondary-bg), var(--primary-bg));
+}
+
+.hero-body {
+    padding: 5rem 1.5rem;
+}
+
+.section {
+    background: linear-gradient(135deg, #232331, var(--primary-bg));
+    color: var(--text-color);
+}
+
+.box.is-custom {
+    background: var(--secondary-bg); /* Couleur de fond */
+    border: 1px solid #3d3d56; /* Bordure */
+    color: var(--text-color); /* Couleur du texte */
+    box-shadow: var(--box-shadow); /* Ombre */
+    padding: 20px; /* Ajoute un espacement interne pour le contenu */
+    overflow-x: auto; /* Permet le défilement horizontal si le tableau est trop large */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    margin: 20px auto; /* Centre la boîte avec un espace autour */
+    width: 90%; /* Largeur du conteneur */
+}
+
+.title {
+    color: var(--text-color) !important;
+}
+
+.navbar-item {
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar-item:hover {
+    color: var(--text-color) !important;
+    background-color: var(--secondary-bg) !important;
+}
+
+.navbar-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #363636;
+    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-left: -50px;
+}
+
+.has-dropdown:hover .navbar-dropdown {
+    display: block;
+}
+
+.navbar-dropdown a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.navbar-dropdown a:hover {
+    background-color: var(--hover-bg);
+}
+
+ .table-container {
+            margin: 20px auto;
+            max-width: 95%; /* Limite la largeur du tableau */
+            background-color: var(--primary-bg); /* Fond identique */
+            border-radius: 8px; /* Coins arrondis */
+            overflow-x: auto; /* Barre de défilement horizontale si nécessaire */
+            padding: 10px; /* Espacement autour du tableau */
+            box-shadow: var(--box-shadow); /* Ombre autour du conteneur */
+        }
+
+table {
+    border-collapse: collapse;
+    width: 100%; /* Occupe toute la largeur du conteneur */
+    height: auto; /* Facultatif si vous voulez que le tableau occupe toute la hauteur */
+    margin: 0; /* Supprime les marges externes */
+    padding: 0; /* Supprime les paddings */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu*/
+    overflow-x:  auto et max-width: 95%
+}
+
+th, td {
+    border: 1px solid #ffffff; /* Bordure blanche pour le tableau */
+    padding: 10px; /* Ajoute de l'espace dans les cellules */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+th {
+    background-color: light
+    color: var(--text-color); /* Couleur du texte */
+    text-align: center;
+    vertical-align: middle
+    padding: 10px;
+    border: 1px solid #ffffff;
+}
+
+    .box-shadow-table {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Ajoute une ombre identique à celle du conteneur */
+    margin-right: 20px; /* Décale le tableau du bord droit */
+}
+.footer.is-custom {
+			background: #1d1d2b;
+			padding: 1.5rem;
+			color: #a8a8b3;
+            text-align: center; /* Centrage du texte */
+            display: flex; /* Permet d'utiliser flexbox */
+            justify-content: center; /* Centre horizontalement */
+            align-items: center; /* Centre verticalement */
+            flex-direction: column; /* Organise les enfants en colonne */
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+}
+
+
+	</style>
+
+</head>
+
+<body>
+	<!-- Navigation -->
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <i class="fas fa-brain"></i>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="../../index.html\" target=\"_blank\">Accueil</a> <!--doit contenir présentationdu projet+définition-->
+                <a class="navbar-item" href=\"fr_table.html\" target=\"_blank\">Tableaux</a>
+                <a class="navbar-item" href="../../sites_groupe/analyse_linguistique_fr.html\" target=\"_blank\">Analyse</a>
+                <a class="navbar-item" href="../../programes/script_Ihsane.sh\" target=\"_blank\">Script</a>
+                <a class="navbar-item" href="../../sites_groupe/Logique_à_propos_du_projet.html\" target=\"_blank\">À propos</a>
+            </div>
+            <div class="navbar-end">
+                <div class="navbar-item has-dropdown">
+                    <a class="navbar-item" href="#script">Langues</a>
+                    <div class="navbar-dropdown">
+                        <a href="../../sites_groupe/en_table.html">English</a>
+                        <a href="#script-fr">Français</a>
+                        <a href="#script-pt">Português</a>
+                        <a href="#script-ar">العربية</a>
+                        <a href="#script-ch">中文</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+ <section class="section has-background-light">
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+                    <h3 class="title has-text-centered"><center> Résultat tabelau français<h3></center>
+</section>
+
+<section class="section has-background-light">
+		 <div class="container">
+            <div class="columns is-multiline">
+                <div class="column is-full">
+                    <div class="box is-custom">
+                        <table>
+                        <thead>
+
+                            <tr>
+                            <th class="has-text-centered">Numéro</th>
+                            <th class="has-text-centered">URL</th>
+                            <th class="has-text-centered">Code HTTP</th>
+                            <th class="has-text-centered">Encodage HTML</th>
+                            <th class="has-text-centered">Nombre de Tokens</th>
+                            <th class="has-text-centered">Occurences</th>
+                            <th class="has-text-centered">Aspirations</th>
+                            <th class="has-text-centered">Dumps</th>
+                            <th class="has-text-centered">Contexte</th>
+                            <th class="has-text-centered">Concordance</th>
+        </tr>
+    </thead>
+
+                    <tbody>
+<tr>
+                        <td class="has-text-centered">2</td>
+                        <td><a href="https://fr.wikipedia.org/wiki/Logique" target="_blank">https://fr.wikipedia.org/wiki/Logique</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">5590</td>
+                        <td class="has-text-centered">170</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_2.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_2.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_2.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_2.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">3</td>
+                        <td><a href="https://magoerevision.com/nosCours/fiches/single/?id=1514" target="_blank">https://magoerevision.com/nosCours/fiches/single/?id=1514</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">927</td>
+                        <td class="has-text-centered">18</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_3.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_3.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_3.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_3.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">4</td>
+                        <td><a href="https://conceptoit.net/logique/" target="_blank">https://conceptoit.net/logique/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1560</td>
+                        <td class="has-text-centered">54</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_4.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_4.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_4.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_4.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">5</td>
+                        <td><a href="https://www.parisnanterre.fr/medias/fichier/llphi133_introduction_a_la_logique__logique_propositionnelle_b_1242226965343.pdf" target="_blank">https://www.parisnanterre.fr/medias/fichier/llphi133_introduction_a_la_logique__logique_propositionnelle_b_1242226965343.pdf</a></td>
+                        <td class="has-text-centered">PDF</td>
+                        <td></td>
+                        <td class="has-text-centered">15000</td>
+                        <td class="has-text-centered">108</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_pdf/fr_5.pdf" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_5.txt" target="_blank">dupm</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_5.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_5.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">7</td>
+                        <td><a href="https://shs.hal.science/halshs-00791628" target="_blank">https://shs.hal.science/halshs-00791628</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1049</td>
+                        <td class="has-text-centered">8</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_7.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_7.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_7.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_7.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">8</td>
+                        <td><a href="https://philopsis.fr/wp-content/uploads/2008/04/pdf_logique_connaissance_des_choses_kirsch.pdf" target="_blank">https://philopsis.fr/wp-content/uploads/2008/04/pdf_logique_connaissance_des_choses_kirsch.pdf</a></td>
+                        <td class="has-text-centered">PDF</td>
+                        <td></td>
+                        <td class="has-text-centered">2699</td>
+                        <td class="has-text-centered">3</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_pdf/fr_8.pdf" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_8.txt" target="_blank">dupm</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_8.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_8.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">9</td>
+                        <td><a href="https://www.techniques-ingenieur.fr/base-documentaire/sciences-fondamentales-th8/mathematiques-fondamentales-algebre-42104210/logique-et-metalogique-af88/lois-de-la-pensee-et-principes-de-la-logique-af88niv10004.html" target="_blank">https://www.techniques-ingenieur.fr/base-documentaire/sciences-fondamentales-th8/mathematiques-fondamentales-algebre-42104210/logique-et-metalogique-af88/lois-de-la-pensee-et-principes-de-la-logique-af88niv10004.html</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td>UTF-8</td>
+                        <td>3132</td>
+                        <td>63</td>
+                        <td><a href="../../aspirations/fr_html/fr_9.html" target="_blank">aspiration</a></td>
+                        <td><a href="../../dumps-text/fr_logique/fr_9.txt" target="_blank">dump</a></td>
+                        <td><a href="../../contextes/fr_contexte/fr_9.txt" target="_blank">Contexte</a></td>
+                        <td><a href="../../concordances/fr_concordances/fr_9.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">10</td>
+                        <td><a href="https://durkheim.uchicago.edu/Texts/1884a/38.html" target="_blank">https://durkheim.uchicago.edu/Texts/1884a/38.html</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">1069</td>
+                        <td class="has-text-centered">43</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_10.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_10.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_10.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_10.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">13</td>
+                        <td><a href="https://www.ptb.be/actualites/sattaquer-abcd-pour-faire-baisser-le-prix-du-pain" target="_blank">https://www.ptb.be/actualites/sattaquer-abcd-pour-faire-baisser-le-prix-du-pain</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">2634</td>
+                        <td class="has-text-centered">3</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_13.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_13.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_13.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_13.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">14</td>
+                        <td><a href="https://www.nwx.fr/apprentissage-les-formations-numeriques-eligibles-aux-aides-de-letat/" target="_blank">https://www.nwx.fr/apprentissage-les-formations-numeriques-eligibles-aux-aides-de-letat/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1260</td>
+                        <td class="has-text-centered">1</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_14.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_14.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_14.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_14.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">15</td>
+                        <td><a href="https://ozp.fr/spip.php?article26210" target="_blank">https://ozp.fr/spip.php?article26210</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">8102</td>
+                        <td class="has-text-centered">3</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_15.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_15.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_15.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_15.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">18</td>
+                        <td class="has-text-centered"><a href="https://f.hypotheses.org/wp-content/blogs.dir/3195/files/2019/10/Cl.-Champeyrache-MafiaTraiteHumains.pdf" target="_blank">https://f.hypotheses.org/wp-content/blogs.dir/3195/files/2019/10/Cl.-Champeyrache-MafiaTraiteHumains.pdf</a></td>
+                        <td class="has-text-centered">PDF</td>
+                        <td class="has-text-centered"></td>
+                        <td class="has-text-centered">939</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_pdf/fr_18.pdf" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_18.txt" target="_blank">dupm</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_18.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_18.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">20</td>
+                        <td ><a href="https://www.universalis.fr/encyclopedie/logique/5-la-logique-symbolique-moderne/" target="_blank">https://www.universalis.fr/encyclopedie/logique/5-la-logique-symbolique-moderne/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">345</td>
+                        <td class="has-text-centered">0</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_20.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_20.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_20.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_20.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">23</td>
+                        <td><a href="https://www.ama.be/notre-information-est-en-jeu/" target="_blank">https://www.ama.be/notre-information-est-en-jeu/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">2796</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_23.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_23.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_23.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_23.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">24</td>
+                        <td><a href="http://www1.rfi.fr/actufr/articles/072/article_40443.asp" target="_blank">http://www1.rfi.fr/actufr/articles/072/article_40443.asp</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered"></td>
+                        <td class="has-text-centered">1176</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_24.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_24.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_24.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_24.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">25</td>
+                        <td><a href="http://chl.be/glmf/www.linuxmag-france.org/old/lm7/initgtk.html" target="_blank">http://chl.be/glmf/www.linuxmag-france.org/old/lm7/initgtk.html</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered"></td>
+                        <td class="has-text-centered">2047</td>
+                        <td class="has-text-centered">1</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_25.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_25.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_25.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_25.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">26</td>
+                        <td class="has-text-centered"><a href="https://www.cao.fr/rubrique-toutes/actu/7784/Avec-VRX-2018-OPTIS-met-l-eclairage-au-coeur-de-la-simulation-de-conduite.html" target="_blank">https://www.cao.fr/rubrique-toutes/actu/7784/Avec-VRX-2018-OPTIS-met-l-eclairage-au-coeur-de-la-simulation-de-conduite.html</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1155</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_26.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_26.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_26.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_26.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">27</td>
+                        <td><a href="https://www.budo.fr/blog/15_shiatsu.html" target="_blank">https://www.budo.fr/blog/15_shiatsu.html</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">1258</td>
+                        <td class="has-text-centered">1</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_27.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_27.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_27.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_27.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">28</td>
+                        <td><a href="https://bepo.fr/wiki/Discussion_utilisateur:Flavien21?title=Discussion_utilisateur:Flavien21" target="_blank">https://bepo.fr/wiki/Discussion_utilisateur:Flavien21?title=Discussion_utilisateur:Flavien21</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1304</td>
+                        <td class="has-text-centered">7</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_28.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_28.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_28.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_28.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">29</td>
+                        <td><a href="https://345d.fr/dis-laurent-comment-tu-captes-et-canalises/" target="_blank">https://345d.fr/dis-laurent-comment-tu-captes-et-canalises/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered"></td>
+                        <td class="has-text-centered">4870</td>
+                        <td class="has-text-centered">5</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_29.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_29.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_29.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_29.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">31</td>
+                        <td><a href="https://www.mcba.ch/nouveau-musee/le-projet" target="_blank">https://www.mcba.ch/nouveau-musee/le-projet</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">905</td>
+                        <td class="has-text-centered">1</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_31.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_31.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_31.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_31.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">32</td>
+                        <td><a href="https://flte.fr/temoignage-de-david-diplome-de-la-promotion-2021/" target="_blank">https://flte.fr/temoignage-de-david-diplome-de-la-promotion-2021/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1202</td>
+                        <td class="has-text-centered">3</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_32.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_32.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_32.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_32.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">33</td>
+                        <td><a href="https://ieri.be/print/965" target="_blank">https://ieri.be/print/965</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">7304</td>
+                        <td class="has-text-centered">12</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_33.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_33.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_33.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_33.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">34</td>
+                        <td><a href="https://adbu.fr/actualites/politiques-de-site-ist-et-charte-de-l039open-science-premiers-retours-sur-le-congres-2014?utm_content=bufferccf4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">https://adbu.fr/actualites/politiques-de-site-ist-et-charte-de-l039open-science-premiers-retours-sur-le-congres-2014?utm_content=bufferccf4e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">3113</td>
+                        <td class="has-text-centered">1</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_34.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_34.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_34.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_34.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">35</td>
+                        <td><a href="https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/" target="_blank">https://www.udap.fr/comment-valoriser-lapport-et-les-atouts-des-seniors-dans-lentreprise-compte-rendu-du-petit-dejeuner-udap-du-3-mars-2020/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">2559</td>
+                        <td class="has-text-centered">5</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_35.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_35.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_35.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_35.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">37</td>
+                        <td ><a href="https://dsih.fr/articles/2641/sebastien-dallais-nomme-directeur-commercial-et-marketing-france-de-medasys" target="_blank">https://dsih.fr/articles/2641/sebastien-dallais-nomme-directeur-commercial-et-marketing-france-de-medasys</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">842</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_37.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_37.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_37.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_37.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">38</td>
+                        <td><a href="https://ctas.ch/agressions-sexuelles/consequences/" target="_blank">https://ctas.ch/agressions-sexuelles/consequences/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">2219</td>
+                        <td class="has-text-centered">7</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_38.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_38.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_38.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_38.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">39</td>
+                        <td><a href="https://oip.org/analyse/une-question-qui-releve-de-la-psychiatrie/" target="_blank">https://oip.org/analyse/une-question-qui-releve-de-la-psychiatrie/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">1721</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_39.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_39.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_39.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_39.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">40</td>
+                        <td><a href="https://s3.eu-west-3.amazonaws.com/nova-pur-production/upload/documents_1/7cb040c7-6cb5-40fa-a0b4-da690e84bd61.pdf" target="_blank">https://s3.eu-west-3.amazonaws.com/nova-pur-production/upload/documents_1/7cb040c7-6cb5-40fa-a0b4-da690e84bd61.pdf</a></td>
+                        <td class="has-text-centered">PDF</td>
+                        <td class="has-text-centered"></td>
+                        <td class="has-text-centered">418</td>
+                        <td class="has-text-centered">7</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_pdf/fr_40.pdf" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_40.txt" target="_blank">dupm</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_40.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_40.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">43</td>
+                        <td><a href="https://www.ewag.fr/articles/stephane-dumais-ecofip-guyane/" target="_blank">https://www.ewag.fr/articles/stephane-dumais-ecofip-guyane/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">868</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_43.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_43.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_43.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_43.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">44</td>
+                        <td><a href="https://ires.fr/publications/la-revue-de-l-ires/n-42/a-propos-des-normes-du-temps-de-travail-de-l-erosion-de-la-norme-fordienne-aux-normes-emergentes/" target="_blank">https://ires.fr/publications/la-revue-de-l-ires/n-42/a-propos-des-normes-du-temps-de-travail-de-l-erosion-de-la-norme-fordienne-aux-normes-emergentes/</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">626</td>
+                        <td class="has-text-centered">1</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_44.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_44.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_44.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_44.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">45</td>
+                        <td><a href="https://www.sas.com/fr_ch/insights/articles/risk-fraud/fraud-detection-machine-learning.html" target="_blank">https://www.sas.com/fr_ch/insights/articles/risk-fraud/fraud-detection-machine-learning.html</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">utf-8</td>
+                        <td class="has-text-centered">3255</td>
+                        <td class="has-text-centered">2</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_45.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_45.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_45.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_45.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">49</td>
+                        <td><a href="https://journals.openedition.org/sdt/26043" target="_blank">https://journals.openedition.org/sdt/26043</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered">UTF-8</td>
+                        <td class="has-text-centered">9678</td>
+                        <td class="has-text-centered">73</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_49.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_49.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_49.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_49.html" target="_blank">Concordances</a></td>
+                    </tr>
+<tr>
+                        <td class="has-text-centered">50</td>
+                        <td><a href="http://www.cfdrm.fr/These_Apprendre-le-toucher-Du-toucher-a-la-perception-par-Arnaud-Choplin-Juin-2011.htm" target="_blank">http://www.cfdrm.fr/These_Apprendre-le-toucher-Du-toucher-a-la-perception-par-Arnaud-Choplin-Juin-2011.htm</a></td>
+                        <td class="has-text-centered">200</td>
+                        <td class="has-text-centered"></td>
+                        <td class="has-text-centered">42921</td>
+                        <td class="has-text-centered">47</td>
+                        <td class="has-text-centered"><a href="../../aspirations/fr_html/fr_50.html" target="_blank">aspiration</a></td>
+                        <td class="has-text-centered"><a href="../../dumps-text/fr_logique/fr_50.txt" target="_blank">dump</a></td>
+                        <td class="has-text-centered"><a href="../../contextes/fr_contexte/fr_50.txt" target="_blank">Contexte</a></td>
+                        <td class="has-text-centered"><a href="../../concordances/fr_concordances/fr_50.html" target="_blank">Concordances</a></td>
+                    </tr>
+    </tbody>
+</table>
+</div>
+</section>
+<section class="content has-text-centered">
+    <footer class="footer is-custom has-text-white">
+        <div class="content has-text-centered">
+            <p>© Tous droits réservés 2024</p>
+        </div>
+    </footer>
+</section>
+</body>
+</html>
