@@ -8,6 +8,52 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 	<link rel="stylesheet" href="./sites_groupe/style.css">
+	<style>
+            body {
+			background-color: #2a2a2a;
+		}
+		.footer.is-custom {
+			background: #1d1d2b;
+			padding: 1.5rem;
+			color: #a8a8b3;
+            text-align: center; /* Centrage du texte */
+            display: flex; /* Permet d'utiliser flexbox */
+            justify-content: center; /* Centre horizontalement */
+            align-items: center; /* Centre verticalement */
+            flex-direction: column; /* Organise les enfants en colonne */
+}
+
+	        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 2em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 1.5em;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        em {
+            color: lightblue;
+            font-style: italic;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+
+	</style>
 
 </head>
 
@@ -26,6 +72,7 @@
                 <a class="navbar-item" href="./sites_groupe/analyse_linguistique_fr.html">Analyse</a>
                 <a class="navbar-item" href="./programes/script_Ihsane.sh">Script</a>
                 <a class="navbar-item" href="./sites_groupe/Logique_à_propos_du_projet.html">À propos</a>
+                <a class="navbar-item" href="suivi_projet.md">Journal</a>
             </div>
             <div class="navbar-end">
                 <div class="navbar-item has-dropdown">
@@ -98,11 +145,14 @@
 		</div>
 	</section>
 
-	<footer class="footer is-custom has-text-white">
-		<div class="content has-text-centered">
-			<p>© 2024 Tous droits réservés</p>
-		</div>
-	</footer>
+	<section class="content has-text-centered">
+    <footer class="footer is-custom has-text-white">
+        <div class="content has-text-centered">
+            <p>© Tous droits réservés 2024</p>
+        </div>
+    </footer>
+</section>
 </body>
 
 </html>
+
