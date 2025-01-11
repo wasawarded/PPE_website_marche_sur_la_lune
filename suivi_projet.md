@@ -60,3 +60,7 @@
 ## 08/01/2025
 ### anglais
 - Création du dossier sites_groupe pour mettre les html et les css pour la page groupe
+
+## 11/01/2025
+### anglais
+- fini des html ainsi les redirections. Pour notre page chaque langue a un index.html qui propose de naviguer dans les langues différentes à travers la navigation langues, et si l'utilisateur clique Acceuil, il va être redirigé vers la page de la langue correspondante, par défaut, notre site affiche la langue française. Cette séparation de langue a le but de faciliter les travaux et d'éviter des conflits de chemins.
