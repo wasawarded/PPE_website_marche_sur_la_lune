@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Logic</title>
+	<title>Analyse lingustique</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 	<style>
@@ -55,6 +55,13 @@
 			background: #1d1d2b;
 			padding: 1.5rem;
 			color: #a8a8b3;
+            text-align: center; /* Centrage du texte */
+            display: flex; /* Permet d'utiliser flexbox */
+            justify-content: center; /* Centre horizontalement */
+            align-items: center; /* Centre verticalement */
+            flex-direction: column; /* Organise les enfants en colonne */
+}
+
 		}
 
 		.navbar-dropdown {
@@ -81,11 +88,42 @@
 		.navbar-dropdown a:hover {
 			background-color: #4a4a4a;
 		}
-        
-        mark {
-            background-color: lightblue; 
-            color: black;
-       }
+
+			font-family: Arial, sans-serif;{
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 2em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 1.5em;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        em {
+            color: lightblue;
+            font-style: italic;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
 
 	</style>
 </head>
@@ -94,17 +132,17 @@
 	<!-- Navigation -->
     <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
-            <a class="navbar-item">
+            <a class="navbar-item" href="#">
                 <i class="fas fa-brain"></i>
             </a>
         </div>
         <div class="navbar-menu">
             <div class="navbar-start">
-                <a class="navbar-item" href="index.html">Accueil</a> <!--doit contenir présentationdu projet+définition-->
-                <a class="navbar-item" href="#tableaux">Tableaux</a>
-                <a class="navbar-item" href="#analyse">Analyse</a>
-                <a class="navbar-item" href="#script">Script</a>
-                <a class="navbar-item" href="#apropos">À propos</a>
+                <a class="navbar-item" href="../index.html\" target=\"_blank\">Accueil</a> <!--doit contenir présentationdu projet+définition-->
+                <a class="navbar-item" href="../tableaux/fr_tableaux/fr_table.html\" target=\"_blank\">Tableaux</a>
+                <a class="navbar-item" href="analyse_linguistique_fr.html\" target=\"_blank\">Analyse</a>
+                <a class="navbar-item" href="../programes/script_Ihsane.sh" target=\"_blank\">Script</a>
+                <a class="navbar-item" href="Logique_à_propos_du_projet.html" target=\"_blank\">À propos</a>
             </div>
             <div class="navbar-end">
                 <div class="navbar-item has-dropdown">
@@ -136,34 +174,120 @@
 		</div>
 	</section>
 
-	<section class="section has-background-light">
-		<div class="container">
-			<div class="columns is-multiline">
-				<div class="column is-full">
-					<div class="box is-custom">
-						<h3 class="title">Détails du Projet</h3>
-						<p>
-							Ce projet a pour but d'étudier le mot "logique" dans cinq langues différentes.
-						</p>
-                        <p><h2>Ce projet a été réalisé dans le cadre du cours projet encadré en premier semestre de master traitement automatique des langues (TAL)</h2></p><br>
-                        <h2>Pourquoi le mot Logique ?</h2><br>
-                        <p><h2>
-                        Initialement, nous avions prévu de nous concentrer uniquement sur l'étude des modèles computationnels appliqués aux données linguistiques. Cependant, en explorant les concepts      
-                        théoriques sous-jacents, nous nous sommes rendu compte que le mot <mark>“Logique”</mark> joue un rôle fondamental dans la formalisation des structures <mark>linguistiques, 
-                        notamment en lien avec la sémantique, la syntaxe et la pragmatique.<</mark> Cette découverte nous a conduits à réorienter notre projet afin d’analyser plus en détail l’utilisation et la 
-                        conceptualisation du mot <mark>“Logique”</mark>dans les corpus linguistiques, tout en établissant des corrélations avec les méthodes du traitement automatique des langues (TAL).
-                        <h2></p>
+	 <section class="section has-background-light">
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+                    <h3 class="title has-text-centered"> <h1>"Logique : le miroir du raisonnement humain à travers les langues"</h1>
+</section>
+
+<section class="section has-background-light">
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+    <p><em>« La logique est la science qui détermine les règles que doit suivre l’esprit pour arriver à la vérité. »</em><br>
+    — Aristote, <em>Organon</em></p>
+
+    <p class="has-text-left has-text-justified">
+        Depuis les prémices de la pensée humaine, la logique a fasciné les philosophes et les scientifiques. Instrument d’analyse, outil de persuasion ou cadre pour structurer la pensée, la logique traverse les époques et les disciplines, des syllogismes d’Aristote à la logique mathématique de Leibniz, jusqu'aux algorithmes modernes de l’intelligence artificielle.
+        Mais comment ce concept universel se manifeste-t-il dans différentes langues et cultures ? Cet article se penche sur l’utilisation du terme "logique" dans deux corpus contrastés : l’arabe et le français, pour explorer ses usages, ses contextes et son rôle dans le raisonnement humain.
+    </p>
+
+    <h2>L'exploration des analyses textométriques</h2>
+
+    <h3 class="has-text-left has-text-justified">Dans le corpus arabe utilisé dans ce projet</h3>
+    <p class="has-text-left has-text-justified">Le terme "منطق" manṭiq  et ses flexions est recensé 157 fois, principalement dans les contextes suivants :</p>
+    <ul>
+        <li><em>Philosophiques :</em> Par exemple, "منطق اللامعقول" explore les frontières du rationnel dans les récits littéraires.</li>
+        <li><em>Technologiques :</em> "منطق AND" apparaît dans des discussions liées aux outils informatiques, comme Excel.</li>
+        <li><em>Religieux et sociaux :</em> Le concept de "منطق الحقوق" reflète une structuration rationnelle des droits humains.</li>
+    </ul>
+
+    <h3 class="has-text-left has-text-justified">Par ailleurs le corpus français étudié</h3>
+    <pclass="has-text-left has-text-justified">Avec 685 occurrences, le terme "logique" occupe une place centrale. Il est omniprésent dans les écrits académiques, mais aussi dans des discussions quotidiennes :</p>
+    <ul>
+        <li><em>Scientifiques :</em> "Logique mathématique" et "logique formelle" rappellent son rôle fondateur dans les systèmes axiomatiques.</li>
+        <li><em>Philosophiques :</em> "Logique aristotélicienne" est une référence incontournable pour le raisonnement classique.</li>
+        <li><em>Usages pratiques :</em> Des expressions comme "logique des événements" montrent une application dans la vie courante.</li>
+    </ul>
+
+    <h2 class="has-text-left has-text-justified">Contextes et collocations significatives</h2>
+
+    <h3 class="has-text-left has-text-justified">En langue arabe</h3>
+    <p class="has-text-left has-text-justified">Les expressions associées révèlent des thématiques variées :</p>
+    <ul>
+        <li><em>منطق صوري (logique formelle) :</em> Structuration des arguments selon des règles fixes.</li>
+        <li><em>منطق استقرائي (logique inductive) :</em> Exploration des généralisations à partir d’observations.</li>
+    </ul>
+
+    <h3 class="has-text-left has-text-justified">Quant au français</h3>
+    <p class="has-text-left has-text-justified">Le mot "logique" se combine souvent avec des termes spécifiques :</p>
+    <ul>
+        <li><em>Logique propositionnelle :</em> Fondement des raisonnements mathématiques.</li>
+        <li><em>Logique sociale :</em> Compréhension des phénomènes humains complexes.</li>
+    </ul>
+
+    <h2 class="has-text-left has-text-justified">Thèmes récurrents</h2>
+    <h3>Corpus arabe</h3>
+    <ul>
+        <li>L’accent est mis sur les <em>lois universelles</em>, le <em>raisonnement critique</em> et les <em>relations causales</em>.</li>
+        <li>Usage équilibré entre le quotidien, la philosophie et la technologie.</li>
+    </ul>
+
+    <h3 class="has-text-left has-text-justified">Corpus français</h3>
+    <ul>
+        <li>La logique est un outil intellectuel clé, notamment dans les sciences et la philosophie.</li>
+        <li>Les domaines académiques prédominent, bien que les usages pratiques soient également présents.</li>
+    </ul>
+
+    <h2 class="has-text-left has-text-justified">Une passerelle universelle</h2>
+    <p>
+        L’étude des occurrences de "logique" et "منطق" montre que ce concept est à la fois ancré dans les traditions culturelles et adaptable aux nouvelles disciplines. Dans les corpus arabes, il sert à relier des idées philosophiques, sociales et technologiques, tandis que dans les textes français, il structure des raisonnements académiques complexes.
+    </p>
+    <p class="has-text-left has-text-justified">
+        La logique reste une <em>passerelle universelle</em> pour comprendre le monde, reliant les langues, les cultures et les disciplines.
+    </p>
+
+    <h2>Vers de nouveaux horizons</h2>
+    <p class="has-text-left has-text-justified">
+        À l’ère de l’intelligence artificielle, où les algorithmes reposent sur des principes logiques, il est crucial d’explorer comment la logique s’intègre dans d’autres langues et contextes culturels. Une comparaison avec des corpus en anglais, chinois ou japonais pourrait offrir des perspectives fascinantes. Enfin, relier la logique aux neurosciences ou à la linguistique computationnelle permettrait d'approfondir notre compréhension de la manière dont les humains structurent leur pensée et leur langage.
+    </p>
+    <p class="has-text-left has-text-justified">
+        Ainsi, la logique, en tant qu’art et science, continue d’éclairer les chemins de l’innovation et de la réflexion critique.
+    </p>
+                        <h4><p class="has-text-left has-text-justified">Pour aller plus loin explorez nos analyses linguistiques approfondies du mot "Logique" dans différentes langues.</p></h4>
+                        <p>Accédez aux analyses interactives avec Voyant Tools :</p>
+<div class="has-text-centered">
+    <h4 class="subtitle mt-4 has-text-white">Pals: collocations</h4>
+    <pre>
+        <img src="../DATA/collocations_corpus_fr.png" alt="Collocations corpus français" style="display: inline-block;">
+    </pre>
+    <p></p>
+    <br>
+    <h4 class="subtitle mt-4 has-text-white">Voyant Tools</h4>
+    <iframe style='width: 584px; height: 476px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=3768b2b11d9f1e1b82e90d36c2c39ed3'></iframe>
+    <iframe style="width: 584px; height: 476px; display: inline-block;" src="https://voyant-tools.org/tool/Trends/?view=Trends&query=logiques*&query=logique&query=logiquement*&query=Logique&chartType=stacked&corpus=3768b2b11d9f1e1b82e90d36c2c39ed3"></iframe>
+</div>
+<br>
+
+
+
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>
-
-	<footer class="footer is-custom has-text-white">
-		<div class="content has-text-centered">
-			<p>© 2024 Tous droits réservés</p>
-		</div>
-	</footer>
+        </section>
+ <section class="content has-text-centered">
+    <footer class="footer is-custom has-text-white">
+        <div class="content has-text-centered">
+            <p>© Tous droits réservés 2024</p>
+        </div>
+    </footer>
+</section>
 </body>
 
 </html>
+
+

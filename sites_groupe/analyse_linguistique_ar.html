@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>تحليلاتنا اللغوية</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+	<style>
+		:root {
+    --primary-bg: #1d1d2b;
+    --secondary-bg: #2b2b3d;
+    --text-color: #e0e0e0;
+    --hover-bg: #4a4a4a;
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-color: var(--primary-bg);;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color); /* Texte par défaut blanc */
+    font-family: Arial, sans-serif; /* Police par défaut */
+}
+
+.title {
+    color: var(--text-color); /* Texte blanc */
+    text-align: center;
+    margin-bottom: 10px; /* Réduit l'espace sous le titre */
+}
+
+.navbar.is-custom,
+.footer.is-custom {
+    background-color: var(--primary-bg);
+    color: var(--text-color);
+    box-shadow: var(--box-shadow);
+}
+
+.hero.is-custom {
+    background: linear-gradient(135deg, var(--secondary-bg), var(--primary-bg));
+}
+
+.hero-body {
+    padding: 5rem 1.5rem;
+}
+
+.section {
+    background: linear-gradient(135deg, #232331, var(--primary-bg));
+    color: var(--text-color);
+}
+
+.box.is-custom {
+    background: var(--secondary-bg); /* Couleur de fond */
+    border: 1px solid #3d3d56; /* Bordure */
+    color: var(--text-color); /* Couleur du texte */
+    box-shadow: var(--box-shadow); /* Ombre */
+    padding: 20px; /* Ajoute un espacement interne pour le contenu */
+    overflow-x: auto; /* Permet le défilement horizontal si le tableau est trop large */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    margin: 20px auto; /* Centre la boîte avec un espace autour */
+    width: 90%; /* Largeur du conteneur */
+}
+
+.title {
+    color: var(--text-color) !important;
+}
+
+.navbar-item {
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar-item:hover {
+    color: var(--text-color) !important;
+    background-color: var(--secondary-bg) !important;
+}
+
+.navbar-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #363636;
+    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-left: -50px;
+}
+
+.has-dropdown:hover .navbar-dropdown {
+    display: block;
+}
+
+.navbar-dropdown a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.navbar-dropdown a:hover {
+    background-color: var(--hover-bg);
+}
+
+	</style>
+</head>
+
+<body class="arabic-text" dir="rtl has-text-justified"" >
+	<!-- Navigation -->
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <i class="fas fa-brain"></i>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="ar_index.html" target=\"_blank\">الصفحة الرئيسية</a> <!--doit contenir présentationdu projet+définition-->
+                <a class="navbar-item" href="../tableaux/ar_tableaux/ar_table.html\" target=\"_blank\">الجداول</a>
+                <a class="navbar-item" href="analyse_linguistique_ar.html\" target=\"_blank\">التحليل اللّغوي</a>
+                <a class="navbar-item" href="../programes/script_Ihsane.sh" target=\"_blank\">البرامج النصيّة</a>
+                <a class="navbar-item" href="Logique_à_propos_du_projet.html" target=\"_blank\">تعرّف علينا</a>
+            </div>
+            <div class="navbar-end">
+                <div class="navbar-item has-dropdown">
+                    <a class="navbar-item" href=>اللغات</a>
+                    <div class="navbar-dropdown">
+                        <a href="analyse_linguistique_en.html\" target=\"_blank\"">الإنجليزية</a>
+                        <a href="analyse_linguistique_fr.html\" target=\"_blank\">الفرنسية</a>
+                        <a href="analyse_linguistique_pt.html\" target=\"_blank\"">البرتغالية</a>
+                        <a href="analyse_linguistique_ar.html\" target=\"_blank\">العربية</a>
+                        <a href="analyse_linguistique_ch.html\" target=\"_blank\"">الصينية</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+	<!-- Hero Section -->
+	<section class="hero is-custom is-medium" class="arabic-text" dir="rtl">
+		<div class="hero-body">
+			<div class="container">
+				<h1 class="title is-1 has-text-centered has-text-white">
+					"Logique" dans cinq langues
+				</h1>
+				<h2 class="subtitle has-text-centered mt-4 has-text-white">
+					Logic • Logique • Lógica • منطق • 逻辑
+				</h2>
+			</div>
+		</div>
+	</section>
+
+
+	 <section class="section has-background-light" class="arabic-text" dir="rtl">
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+                    <h3 class="title has-text-centered" dir="rtl"><center>"المنطق: مرآة التفكير البشري من خلال اللغات"</h1>
+</section>
+
+<section class="section has-background-light" class="arabic-text" dir="rtl">
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+    <p><em>« المنطق هو العلم الذي يحدد القواعد التي يجب على العقل اتباعها للوصول إلى الحقيقة. »</em><br>
+    — أرسطو ، <em>أورغانو</em></p>
+    <br>
+
+    <p class="arabic-text" dir="rtl has-text-justified">
+       منذ بدايات الفكر البشري ، فتن المنطق الفلاسفة والعلماء. أداة تحليلية ، أداة مقنعة أو إطار لهيكلة التفكير ، المنطق يعبر العصور والتخصصات ، من القياس المنطقي لأرسطو إلى منطق لايبنيز الرياضي ، حتى خوارزميات الذكاء الاصطناعي الحديثة. ولكن كيف يتجلى هذا المفهوم العالمي في لغات وثقافات مختلفة? تتناول هذه المقالة استخدام مصطلح "المنطق" في مجموعتين متناقضتين: العربية والفرنسية ، لاستكشاف استخداماته وسياقاته ودوره في التفكير البشري.
+    </p>
+
+    <h2 class="arabic-text" dir="rtl has-text-justified">استكشاف التحليلات النصية</h2><br>
+
+    <h3 class="arabic-text" dir="rtl has-text-justified"">في المتن العربية المستخدمة في هذا المشروع</h3>
+    <p class="arabic-text" dir="rtl has-text-justified">يتم سرد مصطلح" منطق  ك وانعكاساته 157 مرة ، بشكل رئيسي في السياقات التالية :</p>
+    <ul>
+        <li><em>فلسفي :</em>" على سبيل المثال ، "منطق اللامعقول يستكشف حدود العقلانية في الروايات الأدبية.</li><br>
+         "منطق  و AND" يظهر في المناقشات المتعلقة بأدوات<li><em>البرمجة و الحوسبة </li></em> مثل إكسل.Excel)
+        <li><em>الدينية والاجتماعية:</em> مفهوم "منطق الحقوق" يعكس بنية عقلانية لحقوق الإنسان.</li>
+	</li>
+    </ul>
+	<br>
+    <h3 class="arabic-text" dir="rtl has-text-justified">وإلى جانب ذلك تحتوي المتن الفرنسيّة المدروسة</h3>
+    <p class="arabic-text" dir="rtl has-text-justified">على 685 مرّة كلمة منطق، و يحتل مصطلح "المنطق" مكانا مركزيا. بما إنه موجود  في الكتابات الأكاديمية ، ولكن أيضا في المناقشات اليومية :</p>
+    <ul>
+        <li><em>العلمي: :</em> "المنطق الرياضي "و" المنطق الرسمي " يتذكران دورهما التأسيسي في الأنظمة البديهية.</li>
+        <li><em>الفلسفي :</em> "المنطق الأرسطي " هو مرجع أساسي للتفكير الكلاسيكي.</li>
+        <li><em> الاستخدامات العملية: :</em> تعبيرات مثل" منطق الأحداث " تظهر تطبيقا في الحياة اليومية.</li>
+    </ul>
+ <br>
+    <h2 class="arabic-text" dir="rtl has-text-justified">سياقات و مصاحبة لفظية مهمّة</h2>
+
+    <h3 class="arabic-text" dir="rtl has-text-justified">باللغة العربية</h3>
+    <p class="arabic-text" dir="rtl has-text-justified"">تكشف التعبيرات المرتبطة عن مواضيع مختلفة :</p>
+    <ul>
+        <li><em>منطق صوري (المنطق الرسمي) :</em> هيكلة الحجج وفقا لقواعد ثابتة</li>
+        <li><em>منطق استقرائي (lالمنطق الاستقرائي) :</em> استكشاف التعميمات من الملاحظات</li>
+    </ul>
+	 <br>
+    <h3 class="arabic-text" dir="rtl has-text-justified">/h3> أما بالنسبة للفرنسيية</h3>
+>أما بالنسبة للفرنسيية</h3>
+    <p class="arabic-text" dir="rtl has-text-justified">غالبا ما يتم دمج كلمة "منطق" مع مصطلحات محددة :
+</p>
+    <ul>
+        <li><em> المنطق الافتراضي:</em> أساس التفكير الرياضي.</li>
+        <li><em>المنطق الاجتماعي:</em> فهم الظواهر البشرية المعقدة.</li>
+    </ul>
+
+"المواضيع المتكررة</h2>
+    <h3>متن العربيّة</h3>
+    <ul>
+        <li>ينصب التركيز على  <em>القوانين العالمية </em>,<em>والتفكير النقدي</em><em>والعلاقات السببية</em>.</li>
+        <li>الاستخدام المتوازن بين الحياة اليومية والفلسفة والتكنولوجيا.</li>
+    </ul>
+
+    <h3 class="arabic-text" dir="rtl has-text-justified">متن الفرنسيّة</h3>
+    <ul>
+        <li>المنطق هو أداة فكرية رئيسية ، خاصة في العلوم والفلسفة.</li>
+        <li> تسود المجالات الأكاديمية ، على الرغم من وجود استخدامات عملية أيضا.
+</li>
+    </ul>
+
+    <h2 class="arabic-text" dir="rtl has-text-justified">بوابة عالمية</h2>
+    <p>
+        تظهر دراسة أحداث "المنطق" و "logique" أن هذا المفهوم متجذر في التقاليد الثقافية وقابل للتكيف مع التخصصات الجديدة. في المجاميع العربية ، يتم استخدامه لربط الأفكار الفلسفية والاجتماعية والتكنولوجية ، بينما في النصوص الفرنسية ، فإنه يبني التفكير الأكاديمي المعقد..
+    </p>
+    <p class="arabic-text" dir="rtl has-text-justified">
+        يظل المنطق  <em>بوابة عالمية</em> لفهم العالم ، وربط اللغات والثقافات والتخصصات.
+    </p>
+
+    <h2>وابة عالمية</h2>
+    <p class="arabic-text" dir="rtl has-text-justified">
+        في عصر الذكاء الاصطناعي ، حيث تستند الخوارزميات إلى مبادئ منطقية ، من الأهمية بمكان استكشاف كيف يتناسب المنطق مع اللغات والسياقات الثقافية الأخرى. يمكن أن تقدم المقارنة مع المجاميع باللغة الإنجليزية أو الصينية أو اليابانية وجهات نظر رائعة. أخيرا ، سيسمح لنا ربط المنطق بعلم الأعصاب أو اللغويات الحاسوبية بتعميق فهمنا للطريقة التي يبني بها البشر تفكيرهم ولغتهم.
+    </p>
+    <p class="arabic-text" dir="rtl has-text-justified">
+        وهكذا ، يستمر المنطق ، كفن وعلم ، في إلقاء الضوء على مسارات الابتكار والتفكير النقدي.
+    </p>
+                        <h4><p class="arabic-text" dir="rtl has-text-justified">لمعرفة المزيد ، استكشف تحليلاتنا اللغوية المتعمقة لكلمة "منطق" بلغات مختلفة.</p></h4>
+                        <p>تجد هنا التحليلات التفاعلية باستخدام أدوات فويانتولز:</p>
+<div class="has-text-centered">
+    <h4 class="subtitle mt-4 has-text-white">المعالجة النّصيّة ببايثون: مصاحبة لفظية</h4>
+    <pre>
+        <img src="../DATA/collocations_ar.png" alt="Collocations corpus français" style="display: inline-block;">
+    </pre>
+    <p></p>
+    <br>
+    <h4 class="subtitle mt-4 has-text-white">فويانتولز</h4>
+    <iframe style='width: 584px; height: 476px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=1abf9da180bdb8731492bebc7a648d07'></iframe>
+    <iframe style='width: 584px; height: 476px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82&query=%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D9%8A%D8%A9&query=%D9%85%D9%86%D8%B7%D9%82&chartType=stacked&corpus=1abf9da180bdb8731492bebc7a648d07'></iframe>
+</div>
+<br>
+
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+        </section>
+
+	<footer class="footer is-custom has-text-white">
+		<div class="content has-text-centered">
+			<p>© 2040-2024 جميع الحقوق محفوظة</p>
+		</div>
+	</footer>
+</body>
+
+</html>
