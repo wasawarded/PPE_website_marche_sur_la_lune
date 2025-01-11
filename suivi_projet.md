@@ -64,3 +64,6 @@
 ## 11/01/2025
 ### anglais
 - fini des html ainsi les redirections. Pour notre page chaque langue a un index.html qui propose de naviguer dans les langues différentes à travers la navigation langues, et si l'utilisateur clique Acceuil, il va être redirigé vers la page de la langue correspondante, par défaut, notre site affiche la langue française. Cette séparation de langue a le but de faciliter les travaux et d'éviter des conflits de chemins.
+### Git Strucutre
+- La conversion de notre git en page web a echoué et stucked la main branche, donc j'ai créé une nouvelle branche nommée new_main pour les futurs travaux. Pour la documentation :  https://github.com/orgs/community/discussions/49074
+- Pas de dossier contenant un environement virtuel dans dans git si on veut le convertir en une page web
