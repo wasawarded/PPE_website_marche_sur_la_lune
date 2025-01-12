@@ -146,43 +146,30 @@ def lafon_specificity(T: int, t: int, F: int, f: int, tool_emulation: str = 'Non
 
     return specif
 
+
 def source_count(
     source: list[str | Path],
-    word_partition: str = 'lógica',  # Palavra usada para dividir o corpus
     punctuations: str = 'ignore',
     case_sensitivity: str = 'sensitive'
 ) -> Counter:
+
     ignore_punctuations = punctuations == 'ignore'
     do_fold = case_sensitivity in ('i', 'insensitive')
     result = Counter()
 
     for file in source:
         with open(file, 'r', encoding='utf-8') as input_stream:
-            part = []  # Lista para armazenar a partição
             for line in input_stream:
                 line = line.strip()
                 if not line:
                     continue
-                if ignore_punctuations:
-                    line = __punctuations.sub('', line)
+                if ignore_punctuations and __punctuations.fullmatch(line):
+                    continue
                 if do_fold:
                     line = line.casefold()
-
-                words = line.split()  # Divide a linha em palavras
-                for word in words:
-                    if word == word_partition:  # Quando encontra a palavra de partição
-                        if part:  # Conta as palavras da partição anterior
-                            result.update(part)
-                        part = []  # Inicia uma nova partição
-                    else:
-                        part.append(word)  # Adiciona a palavra à partição atual
-
-            # Não esquecer de contar a última partição
-            if part:
-                result.update(part)
+                result[line] += 1
 
     return result
-
 
 
 def get_counts(
