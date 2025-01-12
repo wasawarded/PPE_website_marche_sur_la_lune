@@ -64,3 +64,52 @@
 ## 11/01/2025
 ### anglais
 - fini des html ainsi les redirections. Pour notre page chaque langue a un index.html qui propose de naviguer dans les langues différentes à travers la navigation langues, et si l'utilisateur clique Acceuil, il va être redirigé vers la page de la langue correspondante, par défaut, notre site affiche la langue française. Cette séparation de langue a le but de faciliter les travaux et d'éviter des conflits de chemins.
+
+
+** 29/12 au 12/01/25
+
+## Travail accompli
+
+### 1. Création et structuration des fichiers et dossiers
+- Mise en place de l'arborescence de projet conformément aux exigences du projet :
+  - Dossiers : `aspirations`, `dumps-text`, `contextes`, `programmes`, `tableaux`, etc.
+  - 
+### 2. Développement des sites web
+- Création de deux sites web en **HTML** avec une interface en **CSS**.
+- Implémentation d'une navigation intuitive et d'un design adapté aux cinq langues : **anglais** **arabe**  **chinois** **français** et **portugais**
+- Collaboration avec les autres groupes pour discuter et harmoniser la mise en forme des sites.
+
+### 3. Gestion des scripts Bash
+- Écriture de scripts Bash pour :
+  - Aspirer les pages HTML à partir des URL fournies.
+  - Extraire et traiter les dumps textuels avec `lynx`.
+  - Automatiser le formatage des fichiers pour l'analyse textométrique.
+- **Refonte du script Bash** : Le premier script ne respectait pas les consignes des exercices, j'ai donc dû tout refaire en respectant les attentes précisées.
+
+### 4. Analyse linguistique
+- Analyse approfondie des corpus en **arabe** et **français** à l'aide de VoyantTools :
+  - Extraction et comptage des occurrences des termes étudiés.
+  - Récupération des contextes d’apparition avec `grep`.
+  - Création de concordanciers en HTML via `sed`, avec un tableau structuré en trois colonnes.
+
+### 5. Collaboration et résolution de problèmes
+- **Gestion des chemins de fichiers :** Avec l’aide de notre camarade **Xingyu CHEN**, qui a su garder son calme face aux conflits sur notre dépôt Git, nous avons résolu les problèmes liés aux chemins relatifs et absolus dans le projet.
+- **Discussions en groupe :** Organisation d'appels avec les autres membres du groupes pour coordonner la mise en forme du site et résoudre des problèmes techniques.
+
+### 6. Textométrie avec PALS
+- Prétraitement des données pour les adapter au format attendu par PALS.
+- Création et exécution de scripts Bash dédiés (`make_pals_corpus.sh`) pour générer les fichiers nécessaires (dumps et contextes) dans les deux langues.
+
+---
+
+## Problèmes rencontrés et solutions
+- **Encodage des fichiers en arabe :** Conversion en UTF-8 pour éviter les erreurs d’affichage.
+- **URLs non valides :** Ajout de messages d'erreur pour les requêtes échouées et exclusion automatique des pages invalides.
+- **Tokenisation :** Adaptation manuelle des méthodes pour respecter les spécificités des deux langues.
+- **Conflits Git :** Résolution efficace des conflits grâce à des discussions d'équipe et une bonne gestion des rôles.
+
+---
+
+## Étapes suivantes
+1. Finaliser , paufiner et amélioer les analyses lingustiques de la langue arabe et du français.
+2. Tester et valider les chemins à nouveau.
