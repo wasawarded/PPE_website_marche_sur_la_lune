@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>جدول العربيّة</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<style>
+		:root {
+    --primary-bg: #1d1d2b;
+    --secondary-bg: #2b2b3d;
+    --text-color: #e0e0e0;
+    --hover-bg: #4a4a4a;
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-color: var(--primary-bg);;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color); /* Texte par défaut blanc */
+    font-family: Arial, sans-serif; /* Police par défaut */
+}
+
+.title {
+    color: var(--text-color); /* Texte blanc */
+    text-align: center;
+    margin-bottom: 10px; /* Réduit l'espace sous le titre */
+}
+
+.navbar.is-custom,
+.footer.is-custom {
+    background-color: var(--primary-bg);
+    color: var(--text-color);
+    box-shadow: var(--box-shadow);
+}
+
+.hero.is-custom {
+    background: linear-gradient(135deg, var(--secondary-bg), var(--primary-bg));
+}
+
+.hero-body {
+    padding: 5rem 1.5rem;
+}
+
+.section {
+    background: linear-gradient(135deg, #232331, var(--primary-bg));
+    color: var(--text-color);
+}
+
+.box.is-custom {
+    background: var(--secondary-bg); /* Couleur de fond */
+    border: 1px solid #3d3d56; /* Bordure */
+    color: var(--text-color); /* Couleur du texte */
+    box-shadow: var(--box-shadow); /* Ombre */
+    padding: 20px; /* Ajoute un espacement interne pour le contenu */
+    overflow-x: auto; /* Permet le défilement horizontal si le tableau est trop large */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    margin: 20px auto; /* Centre la boîte avec un espace autour */
+    width: 90%; /* Largeur du conteneur */
+}
+
+.title {
+    color: var(--text-color) !important;
+}
+
+.navbar-item {
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar-item:hover {
+    color: var(--text-color) !important;
+    background-color: var(--secondary-bg) !important;
+}
+
+.navbar-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #363636;
+    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-left: -50px;
+}
+
+.has-dropdown:hover .navbar-dropdown {
+    display: block;
+}
+
+.navbar-dropdown a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.navbar-dropdown a:hover {
+    background-color: var(--hover-bg);
+}
+
+ .table-container {
+            margin: 20px auto;
+            max-width: 95%; /* Limite la largeur du tableau */
+            background-color: var(--primary-bg); /* Fond identique */
+            border-radius: 8px; /* Coins arrondis */
+            overflow-x: auto; /* Barre de défilement horizontale si nécessaire */
+            padding: 10px; /* Espacement autour du tableau */
+            box-shadow: var(--box-shadow); /* Ombre autour du conteneur */
+        }
+
+table {
+    border-collapse: collapse;
+    width: 100%; /* Occupe toute la largeur du conteneur */
+    height: auto; /* Facultatif si vous voulez que le tableau occupe toute la hauteur */
+    margin: 0; /* Supprime les marges externes */
+    padding: 0; /* Supprime les paddings */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu*/
+    overflow-x:  auto et max-width: 95%
+}
+
+th, td {
+    border: 1px solid #ffffff; /* Bordure blanche pour le tableau */
+    padding: 10px; /* Ajoute de l'espace dans les cellules */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+th {
+    background-color: light
+    color: var(--text-color); /* Couleur du texte */
+    text-align: center;
+    vertical-align: middle
+    padding: 10px;
+    border: 1px solid #ffffff;
+}
+
+    .box-shadow-table {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Ajoute une ombre identique à celle du conteneur */
+    margin-right: 20px; /* Décale le tableau du bord droit */
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+}
+
+
+	</style>
+
+</head>
+
+<body>
+	<!-- Navigation -->
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <i class="fas fa-brain"></i>
+            </a>
+        </div>
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="./ar_index.html">الصفحة الرئيسية</a> <!--doit contenir présentationdu projet+définition-->
+                <a class="navbar-item" href="ar_table.html" target=\"_blank\">الجداول</a>
+                <a class="navbar-item" href="analyse_linguistique_ar.html" target=\"_blank\">التحليل اللّغوي</a>
+                <a class="navbar-item" href="../programes/script_Ihsane.sh/" target=\"_blank\">البرامج النصيّة</a>
+                <a class="navbar-item" href="Logique_à_propos_du_projet.html" target=\"_blank\">تعرّف علينا</a>
+                <a class="navbar-item" href="../suivi_projet.md">السجل</a>
+            </div>
+
+            <div class="navbar-end">
+                <div class="navbar-item has-dropdown">
+                    <a class="navbar-item" href="#script">اللغات</a>
+                    <div class="navbar-dropdown">
+                        <a href="index_en.html" target=\"_blank\">الإنجليزية</a>
+                        <a href="../index.html" target=\"_blank\>الفرنسية</a>
+                        <a href="ptt_index.html" target=\"_blank\">البرتغالية</a>
+                        <a href="ar_index.html">العربية</a>
+                        <a href="ch_index.html" target=\"_blank\>الصينية</a>
+                    </div>
+                </div>
+            </div>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+ <section class="section has-background-light">
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+                    <h3 class="title has-text-centered" dir="rtl"><center> نتيجة معالجة النّصّ<h3></center>
+</section>
+
+<section class="section has-background-light">
+		 <div class="container">
+            <div class="columns is-multiline">
+                <div class="column is-full">
+                    <div class="box is-custom">
+                        <table>
+                        <thead>
+        <tr>
+
+            <th>تطابق الكلمة</th>
+            <th>سياق الكلام</th>
+            <th>محتوى الرّابط</th>
+            <th>امتصاص الصفحة</th>
+            <th>تكرار الكلمة</th>
+            <th>عدد الكلمات الكلي</th>
+            <th>ترميز</th>
+            <th>رمز جواب الصفحة</th>
+            <th>الرابط</th>
+            <th>رقم الرّابط</th>
+        </tr>
+    </thead>
+    <tbody class="arabic-text" dir="rtl">
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_1.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_1.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_1.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_1.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>1</td>
+                        <td>1047</td>
+                        <td>cp1256</td>
+                        <td>200</td>
+                        <td><a href="http://www.fz.ma/news383.html" target="_blank">http://www.fz.ma/news383.html</a></td>
+                        <td>1</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_2.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_2.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_2.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_2.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>1317</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://mk.iq/view.php?id=2905&ids=1" target="_blank">https://mk.iq/view.php?id=2905&ids=1</a></td>
+                        <td>2</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_3.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_3.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_3.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_3.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>3</td>
+                        <td>2916</td>
+                        <td>cp1256</td>
+                        <td>200</td>
+                        <td><a href="http://fz.ma/news274.html" target="_blank">http://fz.ma/news274.html</a></td>
+                        <td>3</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_4.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_4.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_4.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_4.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>33</td>
+                        <td>1083</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.mosoah.com/people-and-society/philosophy/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82/" target="_blank">https://www.mosoah.com/people-and-society/philosophy/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82/</a></td>
+                        <td>4</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_5.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_5.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_5.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_5.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>3</td>
+                        <td>1245</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.alloschool.com/element/80044" target="_blank">https://www.alloschool.com/element/80044</a></td>
+                        <td>5</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_6.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_6.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_6.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_6.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>1862</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://learningaboutlearningar.wordpress.com/2019/11/28/learning-resistance/" target="_blank">https://learningaboutlearningar.wordpress.com/2019/11/28/learning-resistance/</a></td>
+                        <td>6</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_7.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_7.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_7.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_7.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>1182</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://io.hsoub.com/books/149339-%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D8%AC%D8%B4%D8%B9-%D9%88-%D8%A7%D9%84%D8%B1%D8%BA%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9" target="_blank">https://io.hsoub.com/books/149339-%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D8%AC%D8%B4%D8%B9-%D9%88-%D8%A7%D9%84%D8%B1%D8%BA%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9</a></td>
+                        <td>7</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_8.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_8.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_8.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_8.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>21</td>
+                        <td>5363</td>
+                        <td></td>
+                        <td>200</td>
+                        <td><a href="https://fastercapital.com/arabpreneur/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84%D8%A9--%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%84--%D8%AA%D8%AD%D9%88%D8%B7%D8%A7%D8%AA-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D9%88%D9%81%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84%D8%A9.html" target="_blank">https://fastercapital.com/arabpreneur/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84%D8%A9--%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D9%84--%D8%AA%D8%AD%D9%88%D8%B7%D8%A7%D8%AA-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84-%D9%88%D9%81%D9%86-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%88%D9%84%D8%A9.html</a></td>
+                        <td>8</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_9.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_9.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_9.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_9.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>54</td>
+                        <td>1091</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://afid.me/logic/" target="_blank">https://afid.me/logic/</a></td>
+                        <td>9</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_10.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_10.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_10.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_10.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>28</td>
+                        <td>830</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://maktaba-amma.com/?p=25191&utm" target="_blank">https://maktaba-amma.com/?p=25191&utm</a></td>
+                        <td>10</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_12.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_12.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_12.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_12.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>16</td>
+                        <td>7585</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.mohamah.net/law/%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D9%88%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87%D8%A7-%D9%81/" target="_blank">https://www.mohamah.net/law/%D9%85%D9%86%D9%87%D8%AC%D9%8A%D8%A9-%D9%88%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87%D8%A7-%D9%81/</a></td>
+                        <td>12</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_13.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_13.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_13.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_13.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>16</td>
+                        <td>2102</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://ar.extendoffice.com/excel/formulas/excel-countif-multiple-criteria-or-logic.html" target="_blank">https://ar.extendoffice.com/excel/formulas/excel-countif-multiple-criteria-or-logic.html</a></td>
+                        <td>13</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_15.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_15.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_15.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_15.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>64</td>
+                        <td>4609</td>
+                        <td></td>
+                        <td>200</td>
+                        <td><a href="https://www.ahewar.org/debat/show.art.asp?aid=811715" target="_blank">https://www.ahewar.org/debat/show.art.asp?aid=811715</a></td>
+                        <td>15</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_16.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_16.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_16.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_16.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>740</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://u.ae/ar-AE/participate/blogs/blog?id=437" target="_blank">https://u.ae/ar-AE/participate/blogs/blog?id=437</a></td>
+                        <td>16</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_17.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_17.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_17.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_17.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>4</td>
+                        <td>1378</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://cws.ae/%d8%af%d9%84%d9%8a%d9%84-%d8%ae%d8%b7%d9%88%d8%a9-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9-%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-ios-%d9%85%d9%86-xcode-%d8%a5%d9%84/" target="_blank">https://cws.ae/%d8%af%d9%84%d9%8a%d9%84-%d8%ae%d8%b7%d9%88%d8%a9-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9-%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-ios-%d9%85%d9%86-xcode-%d8%a5%d9%84/</a></td>
+                        <td>17</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_18.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_18.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_18.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_18.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>1</td>
+                        <td>638</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.dw.com/ar/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D8%A9/a-19225643" target="_blank">https://www.dw.com/ar/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AA%D8%B9%D8%B1%D8%B6-%D9%84%D9%84%D8%AE%D9%8A%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D8%A9/a-19225643</a></td>
+                        <td>18</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_19.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_19.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_19.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_19.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>1</td>
+                        <td>6262</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.hindawi.org/books/30427513/4/" target="_blank">https://www.hindawi.org/books/30427513/4/</a></td>
+                        <td>19</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_21.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_21.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_21.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_21.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>130</td>
+                        <td>1967</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.wikiwand.com/ar/articles/%D9%85%D9%86%D8%B7%D9%82" target="_blank">https://www.wikiwand.com/ar/articles/%D9%85%D9%86%D8%B7%D9%82</a></td>
+                        <td>21</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_22.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_22.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_22.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_22.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>11</td>
+                        <td>1325</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://surahquran.com/quran-search/search/%D9%85%D9%86%D8%B7%D9%82" target="_blank">https://surahquran.com/quran-search/search/%D9%85%D9%86%D8%B7%D9%82</a></td>
+                        <td>22</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_23.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_23.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_23.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_23.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>4</td>
+                        <td>1009</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="http://thawra.sy/?p=156744" target="_blank">http://thawra.sy/?p=156744</a></td>
+                        <td>23</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_24.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_24.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_24.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_24.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>4</td>
+                        <td>997</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.ya.tn/article/1554" target="_blank">https://www.ya.tn/article/1554</a></td>
+                        <td>24</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_25.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_25.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_25.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_25.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>4</td>
+                        <td>1116</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://arsco.org/articles/article-detail-15037/" target="_blank">https://arsco.org/articles/article-detail-15037/</a></td>
+                        <td>25</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_26.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_26.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_26.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_26.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>708</td>
+                        <td>windows-1256</td>
+                        <td>200</td>
+                        <td><a href="http://www.66n.com/forums/showthread.php?s=45e9161575bdeb7ed0d0c24465537afa&t=14951&goto=nextnewest" target="_blank">http://www.66n.com/forums/showthread.php?s=45e9161575bdeb7ed0d0c24465537afa&t=14951&goto=nextnewest</a></td>
+                        <td>26</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_27.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_27.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_27.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_27.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>1</td>
+                        <td>702</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.marefa.org/w/index.php?title=%D8%AF%D9%8A%D9%85%D8%A7%D8%AC%D9%88%D8%AC%D9%8A%D8%A9&oldid=3317441" target="_blank">https://www.marefa.org/w/index.php?title=%D8%AF%D9%8A%D9%85%D8%A7%D8%AC%D9%88%D8%AC%D9%8A%D8%A9&oldid=3317441</a></td>
+                        <td>27</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_28.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_28.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_28.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_28.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>97</td>
+                        <td>5136</td>
+                        <td>windows-1256</td>
+                        <td>200</td>
+                        <td><a href="https://aslein.net/showthread.php?t=8111&goto=nextnewest" target="_blank">https://aslein.net/showthread.php?t=8111&goto=nextnewest</a></td>
+                        <td>28</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_29.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_29.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_29.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_29.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>296</td>
+                        <td>16813</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://hekmah.org/%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%BA%D8%A9/" target="_blank">https://hekmah.org/%D8%A7%D9%84%D9%81%D9%84%D8%B3%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%BA%D8%A9/</a></td>
+                        <td>29</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_30.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_30.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_30.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_30.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>69</td>
+                        <td>3423</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://shazaraaat.blogspot.com/2013/06/blog-post_18.html" target="_blank">https://shazaraaat.blogspot.com/2013/06/blog-post_18.html</a></td>
+                        <td>30</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_31.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_31.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_31.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_31.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>2067</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.alukah.net/literature_language/0/46663/%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D8%BA%D9%88%D9%8A-%D9%81%D9%83%D8%B1%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9%D8%8C-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82/" target="_blank">https://www.alukah.net/literature_language/0/46663/%D8%A7%D9%84%D8%AA%D8%AD%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%84%D8%BA%D9%88%D9%8A-%D9%81%D9%83%D8%B1%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9%D8%8C-%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82/</a></td>
+                        <td>31</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_32.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_32.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_32.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_32.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>18</td>
+                        <td>1778</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://shamela.ws/book/1122/76" target="_blank">https://shamela.ws/book/1122/76</a></td>
+                        <td>32</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_33.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_33.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_33.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_33.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>2</td>
+                        <td>551</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://upr.tn/single.php?id_news=119" target="_blank">https://upr.tn/single.php?id_news=119</a></td>
+                        <td>33</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_34.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_34.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_34.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_34.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>7</td>
+                        <td>6831</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://marxy.com/?p=574" target="_blank">https://marxy.com/?p=574</a></td>
+                        <td>34</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_35.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_35.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_35.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_35.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>1</td>
+                        <td>4602</td>
+                        <td></td>
+                        <td>200</td>
+                        <td><a href="https://www.ahewar.org/debat/show.art.asp?aid=210632" target="_blank">https://www.ahewar.org/debat/show.art.asp?aid=210632</a></td>
+                        <td>35</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_36.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_36.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_36.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_36.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>13</td>
+                        <td>1179</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://jfafu.journals.ekb.eg/article_129122.html" target="_blank">https://jfafu.journals.ekb.eg/article_129122.html</a></td>
+                        <td>36</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_37.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_37.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_37.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_37.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>26</td>
+                        <td>550</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://buhuth.journals.ekb.eg/article_191848.html" target="_blank">https://buhuth.journals.ekb.eg/article_191848.html</a></td>
+                        <td>37</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_38.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_38.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_38.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_38.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>7</td>
+                        <td>636</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://jafd.journals.ekb.eg/article_277746.html" target="_blank">https://jafd.journals.ekb.eg/article_277746.html</a></td>
+                        <td>38</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_39.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_39.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_39.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_39.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>3</td>
+                        <td>1601</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.pjd.ma/160137-83425.html" target="_blank">https://www.pjd.ma/160137-83425.html</a></td>
+                        <td>39</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_40.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_40.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_40.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_40.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>178</td>
+                        <td>12706</td>
+                        <td>utf-8</td>
+                        <td>200</td>
+                        <td><a href="https://www.hindawi.org/books/79483974/8/" target="_blank">https://www.hindawi.org/books/79483974/8/</a></td>
+                        <td>40</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_41.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_41.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_41.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_41.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>55</td>
+                        <td>5067</td>
+                        <td></td>
+                        <td>200</td>
+                        <td><a href="https://fastercapital.com/arabpreneur/%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%BA%D8%A9--%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D9%84%D8%BA%D8%A9--%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-%D8%AA%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%AA%D9%83-%D9%81%D9%8A-Excel.html" target="_blank">https://fastercapital.com/arabpreneur/%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D8%BA%D8%A9--%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D9%84%D8%BA%D8%A9--%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5-%D8%AA%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%AA%D9%83-%D9%81%D9%8A-Excel.html</a></td>
+                        <td>41</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_42.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_42.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_42.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_42.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>276</td>
+                        <td>6094</td>
+                        <td></td>
+                        <td>200</td>
+                        <td><a href="https://fastercapital.com/arabpreneur/%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1--%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D9%82%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1.html" target="_blank">https://fastercapital.com/arabpreneur/%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1--%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%81%D9%83%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D9%82%D9%84-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1.html</a></td>
+                        <td>42</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_43.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_43.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_43.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_43.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>4</td>
+                        <td>2914</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://thakafamag.com/%D8%AC%D8%AF%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D9%85%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB/" target="_blank">https://thakafamag.com/%D8%AC%D8%AF%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D9%85%D9%86%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB/</a></td>
+                        <td>43</td>
+                    </tr>
+<tr>
+                        <td><a href="../../concordances/ar_concordances/ar_46.html" target="_blank">تطابق الكلمة</a></td>
+                        <td><a href="../../contextes/ar_contexte/ar_46.txt" target="_blank">سياق الكلام</a></td>
+                        <td><a href="../../dumps-text/ar_logique/ar_46.txt" target="_blank">محتوى الرّابط</a></td>
+                        <td><a href="../../aspirations/ar_html/ar_46.html" target="_blank">امتصاص الصفحة</a></td>
+                        <td>7</td>
+                        <td>1378</td>
+                        <td>UTF-8</td>
+                        <td>200</td>
+                        <td><a href="https://ourouba22.com/article/4197-%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B1%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%88%D9%86%D8%B2%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%8A%D9%85%D9%86%D8%A9" target="_blank">https://ourouba22.com/article/4197-%D8%A7%D9%84%D8%AA%D9%83%D8%AA%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B1%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%88%D9%86%D8%B2%D9%88%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%8A%D9%85%D9%86%D8%A9</a></td>
+                        <td>46</td>
+                    </tr>
+    </tbody>
+</table>
+</div>
+<footer class="footer is-custom has-text-white">
+		<div class="content has-text-centered" class="arabic-text" dir="rtl">
+			<p>© 2040-2024 جميع الحقوق محفوظة</p>
+		</div>
+	</footer>
+</body>
+</html>

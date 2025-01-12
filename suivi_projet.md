@@ -1,4 +1,5 @@
-# Ce fichier est consacré aux suivis du projet
+
+# **Ce fichier est consacré aux suivis du projet**
 ## 18/12/2024
 ### text anglais
 - Transformer les textes dumps non utf-8 en utf-8 : curl permet de récupérer à la fois les métadonnées et les textes, avec l'option -o on peut les enregistrer dans notre ordinateur, puis utiliser lynx to récupérer les informations qui nous intéressent avec les html récupérés, au lieu de naviguer encore une fois avec les urls
@@ -8,6 +9,7 @@
 - n'oublie pas de mettre les suffixes après les file html, sinon navigateur comme lynx ne peut pas reconnaitre qu'il s'agit d'un fichier html
 - pour 18/12/2024 : fini de script pour lire les url, récupère les codes http  et enregistre les dump files en anglais
 - en dump 80, ce fichier est en forma pdf
+
 ## 24/12/2024
 ### anglais
 - Pour le tableau, j'ai pas compris quelle sera sa structure 
@@ -23,7 +25,6 @@
 
 ## Du 23/12/2024 au 28/12/2024
 ### Arabe et Français
-
     - Récupération des URLs et uniformisation des contenus des pages en arabe et en français.
     - Création de scripts Bash pour le traitement des deux langues.
     - Analyse textométrique des fichiers dumps à l'aide de Voyant Tools (génération de nuages de mots, graphes, collocations, etc.), avec tentative d'intégration de ces résultats dans les sections dédiées à l'arabe et au français.
@@ -37,6 +38,13 @@
 - Réogranisatioin du dépôt afin de respecter l'aoborescence demandé dans les exercices;
 - Verification de l'exactitude de mon travail;
 - Gestion de conflis git; ce que je trouve le plus dificile à faire algré la simplicité de la tâche; 
+
+## Du 26/12/2024 au 31/12/2024
+### Portugais
+- recuperation des URLS
+- uniformization des pages web (aspirations aussi)
+- creation du script pour génerer le tableaux (il génere directement les concordances et les contextes et les dumps)
+- en bref j 'ai fait la premier feuille d'exercices pendant cette semaine , le script m'a pris beaucoup de temps à tout génerer bien.  
 
 ## 30/12/2024
 ### anglais
@@ -52,6 +60,13 @@
 - Développement d’un script pour établir des concordances 
 - Implémentation d’un script pour la PALS (Pattern Analysis and Linguistic Search) 
 
+## Du 02/01/2024 au 07/01/2025
+### portugais
+- j'ai commencé à faire la feuille d'exercices 2:
+- j'ai fais des scripts pour mettre les concordances et les dumps tous dans un seul fichier pour chaque.
+- j'ai nettoyé le fichier dumps pour retirer choses inutiles (links ...).
+- j'ai fais le nuage, les coocurrents et les partitions en adaptent le script python de Yifan MIAO pour le portugais et mes besoins.
+
 ## 07/01/2025
 ### anglais
 - Réunion de groupe pour résoudre les problèmes de structure et discuter sur la philosophie de notre page groupe, les possible d'outils d'analyse de textométrie comme worldcloud.
@@ -66,4 +81,9 @@
 - fini des html ainsi les redirections. Pour notre page chaque langue a un index.html qui propose de naviguer dans les langues différentes à travers la navigation langues, et si l'utilisateur clique Acceuil, il va être redirigé vers la page de la langue correspondante, par défaut, notre site affiche la langue française. Cette séparation de langue a le but de faciliter les travaux et d'éviter des conflits de chemins.
 ### Git Strucutre
 - La conversion de notre git en page web a echoué et stucked la main branche, donc j'ai créé une nouvelle branche nommée new_main pour les futurs travaux. Pour la documentation :  https://github.com/orgs/community/discussions/49074
-- Pas de dossier contenant un environement virtuel dans dans git si on veut le convertir en une page web
+- Pas de dossier contenant un environement virtuel dans dans git si on veut le convertir en une page web.
+
+## Du 08/01/2025 au 11/01/2025
+### portugais
+- j'ai commencé à travailler sur le site web du portugais (j'ai fais tous les pages : accueil, tableaux, script, analyse et à propos).
+

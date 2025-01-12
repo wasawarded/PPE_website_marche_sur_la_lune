@@ -7,34 +7,172 @@
 	<title>Lógica</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-	<link rel="stylesheet" href="./sites_groupe/style.css">
+	<style>
+		:root {
+    --primary-bg: #1d1d2b;
+    --secondary-bg: #2b2b3d;
+    --text-color: #e0e0e0;
+    --hover-bg: #4a4a4a;
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-color: var(--primary-bg);;
+    margin: 0;
+    padding: 0;
+    color: var(--text-color); /* Texte par défaut blanc */
+    font-family: Arial, sans-serif; /* Police par défaut */
+}
+
+.title {
+    color: var(--text-color); /* Texte blanc */
+    text-align: center;
+    margin-bottom: 10px; /* Réduit l'espace sous le titre */
+}
+
+.navbar.is-custom,
+.footer.is-custom {
+    background-color: var(--primary-bg);
+    color: var(--text-color);
+    box-shadow: var(--box-shadow);
+}
+
+.hero.is-custom {
+    background: linear-gradient(135deg, var(--secondary-bg), var(--primary-bg));
+}
+
+.hero-body {
+    padding: 5rem 1.5rem;
+}
+
+.section {
+    background: linear-gradient(135deg, #232331, var(--primary-bg));
+    color: var(--text-color);
+}
+
+.box.is-custom {
+    background: var(--secondary-bg); /* Couleur de fond */
+    border: 1px solid #3d3d56; /* Bordure */
+    color: var(--text-color); /* Couleur du texte */
+    box-shadow: var(--box-shadow); /* Ombre */
+    padding: 20px; /* Ajoute un espacement interne pour le contenu */
+    overflow-x: auto; /* Permet le défilement horizontal si le tableau est trop large */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    margin: 20px auto; /* Centre la boîte avec un espace autour */
+    width: 90%; /* Largeur du conteneur */
+}
+
+.title {
+    color: var(--text-color) !important;
+}
+
+.navbar-item {
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar-item:hover {
+    color: var(--text-color) !important;
+    background-color: var(--secondary-bg) !important;
+}
+
+.navbar-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #363636;
+    min-width: 120px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-left: -50px;
+}
+
+.has-dropdown:hover .navbar-dropdown {
+    display: block;
+}
+
+.navbar-dropdown a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+
+.navbar-dropdown a:hover {
+    background-color: var(--hover-bg);
+}
+
+ .table-container {
+            margin: 20px auto;
+            max-width: 95%; /* Limite la largeur du tableau */
+            background-color: var(--primary-bg); /* Fond identique */
+            border-radius: 8px; /* Coins arrondis */
+            overflow-x: auto; /* Barre de défilement horizontale si nécessaire */
+            padding: 10px; /* Espacement autour du tableau */
+            box-shadow: var(--box-shadow); /* Ombre autour du conteneur */
+        }
+
+table {
+    border-collapse: collapse;
+    width: 100%; /* Occupe toute la largeur du conteneur */
+    height: auto; /* Facultatif si vous voulez que le tableau occupe toute la hauteur */
+    margin: 0; /* Supprime les marges externes */
+    padding: 0; /* Supprime les paddings */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu*/
+    overflow-x:  auto et max-width: 95%
+}
+
+th, td {
+    padding: 10px; /* Ajoute de l'espace dans les cellules */
+    text-align: center; /* Centre horizontalement le contenu */
+    vertical-align: middle; /* Centre verticalement le contenu */
+    color: #a8a8b3 !important;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+th {
+    background-color: light
+    color: var(--text-color); /* Couleur du texte */
+    text-align: center;
+    vertical-align: middle
+    padding: 10px;
+}
+
+    .box-shadow-table {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Ajoute une ombre identique à celle du conteneur */
+    margin-right: 20px; /* Décale le tableau du bord droit */
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+}
+
+
+	</style>
 </head>
 
 <body>
 	<!-- Navigation -->
     <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
-            <a class="navbar-item">
+            <a class="navbar-item" href="#">
                 <i class="fas fa-brain"></i>
             </a>
         </div>
         <div class="navbar-menu">
             <div class="navbar-start">
-                <a class="navbar-item" href="./ptt_index.html">Início</a> <!--doit contenir présentationdu projet+définition-->
+                <a class="navbar-item" href="./ptt_index.html">Início</a> 
                 <a class="navbar-item" href=./pt_tableux.html>Tabela</a>
-                <a class="navbar-item" href="#analyse">Análise</a>
-                <a class="navbar-item" href="#script">Script</a>
-                <a class="navbar-item" href="Logique_à_propos_du_projet.html">Sobre nós</a>
+                <a class="navbar-item" href="./pt_analyse.html">Análise</a>
+                <a class="navbar-item" href="./pt_script.html">Script</a>
+                <a class="navbar-item" href="./pt_à_propos.html">Sobre nós</a>
             </div>
-            <div class="navbar-end">
-                <div class="navbar-item has-dropdown">
-                    <a class="navbar-item" href="#script">Idioma</a>
-                    <div class="navbar-dropdown">
-                        <a href="#1-re page site-en">English</a>
-                        <a href="#script-fr">Français</a>
-                        <a href="#script-pt">Português</a>
-                        <a href="#script-ar">العربية</a>
-                        <a href="#script-ch">中文</a>
+
                     </div>
                 </div>
             </div>
@@ -43,55 +181,63 @@
 
 
 	<section class="section has-background-light">
-		<div class="container">
-			<div class="columns is-multiline"><h3>Sobre nós</h3></div>
-				<div class="column is-full">
-					<div class="box is-custom"><p>Algumas informações sobre nós:</p></div>
-						<table class="table is-bordered is-striped is-fullwidth">
-							<thead>
+		 <div class="container">
+        <div class="columns is-multiline">
+            <div class="column is-full">
+                <div class="box is-custom">
+                    <h3 class="title has-text-centered"><center>Quem somos?<h3></center>
+                    </section>
+
+<section class="section has-background-light">
+		 <div class="container">
+            <div class="columns is-multiline">
+                <div class="column is-full">
+                    <div class="box is-custom">
+                        <table>
+                        <thead>
 								<tr>
-									<th>Xingyu CHEN</th>
 									<th>Inês BARREIROS</th>
+									<th> CHEN</th>
 									<th>Ihsane GHAMMATT</th>
 									<th>Yifan MIAO</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td><img src="" alt="" style="max-width: 100px;"></td>
-									<td><img src="avatar_ines.jpeg" alt="Inês" style="max-width: 100px;"></td>
-									<td><img src="avatar_Ihsane.jpg" alt="Ihsane" style="max-width: 100px;"></td>
+									<td><img src="avatar_ines.jpeg" alt="Inês" style="max-width: 240px;"></td>
+									<td><img src="avatar_Xingyu.jpg" alt="Xingyu" style="max-width: 275px;"></td>
+									<td><img class="img has-text-centered" src="avatar_Ihsane.jpg" alt="Ihsane" style="max-width: 500px;"></td>
 									<td><img src="" alt="Yifan" style="max-width: 100px;"></td>
 								</tr>
 								<tr>
-									<td>Xingyu.</td>
-									<td>Sou licenciada em línguas literaturas e culturas na Faculdade de letras da Universidade de Lisboa. Trabalhei durante 1 ano como assistente de língua portuguesa em França. Atualmente estou a fazer um mestrado em TAL para expandir os meus conhecimentos línguisticos e ter bases de informática.</td>
-									<td>Sou licenciada em árabe e hébreu na Universidade de Inalco, e trabalhei como professora de línguas durante 3 anos. Atualmente  estou a fazer um mestrado em TAL para me reconectar com a informática.</td>
-									<td>Yifan.</td>
+									<td class="has-text-left has-text-justified">Sou licenciada em línguas literaturas e culturas na Faculdade de letras da Universidade de Lisboa. Trabalhei durante 1 ano como assistente de língua portuguesa em França. Atualmente estou a fazer um mestrado em TAL para expandir os meus conhecimentos línguisticos e ter bases de informática..</td>
+									<td class="has-text-left has-text-justified">Sou apaixonado por video-jogos e pela línguistica generativa , não tenho muito tempo livre pois tenho bastantes t.p.c's neste mestrado :(.</td>
+									<td class="has-text-left has-text-justified">Sou licenciada em árabe e hébreu na Universidade Inalco. <br>Trabalhei como professora de línguas durante 3 anos. <br> De momento estou a fazer um mestrado em TAL para aprender mais sobre informática.</td><br>
+									<td class="has-text-left">Yifan.</td>
 								</tr>
 								<tr>
-									<td><strong>Hobbies</strong>: , , , , , .</td>
-									<td><strong>Hobbies</strong>: leitura, crochet, viagens, cinema.</td>
-									<td><strong>Hobbies</strong>: documentários, leitura, cozinha, viagens.</td>
-									<td><strong>Hobbies</strong>: </td>
+									<td class="has-text-left has-text-justified">Hobbies: leitura, crochet, viagens, cinema.</td>
+									<td class="has-text-left has-text-justified">Hobbies: video-jogos</td>
+									<td class="has-text-left has-text-justified">Hobbies: documentários, leitura, cozinhar, viagens.</td><br>
+									<td class="has-text-left has-text-justified">Hobbies: , , , , , .</td>
 								</tr>
 								<tr>
-									<td><strong>Línguas </strong>: .</td>
-									<td><strong>Línguas</strong>: português,inglês,francês e espanhol.</td>
-									<td><strong>Línguas</strong>: árabe, francês, espahnol e hébreu.</td>
-									<td><strong>Línguas</strong>: .</td>
+									<td class="has-text-left has-text-justified">Línguas: português,inglês,francês e espanhol. .</td>
+									<td class="has-text-left has-text-justified">Línguas: francês, inglês, chinês, italiano .</td>
+									<td class="has-text-left has-text-justified">Línguas: árabe, francês, espanhol e hébreu.</td>
+									<td class="has-text-left">Línguas: .</td>
 								</tr>
 								<tr>
-									<td><a href="https://github.com/Yixian-ch/">Github</a></td>
-									<td><a href="https://github.com/ines-02/">Github</a></td>
-									<td><a href="https://github.com/Ihsane39/">Github</a></td>
-									<td><a href="https://github.com/IvanMiao">Github</a></td>
+									<td><a class="img has-text-centered" href= "https://github.com/ines-02/">Github</a></td>
+									<td><a class="img has-text-centered"href="https://github.com/Yixian-ch/">Github</a></td>
+									<td><a class="img has-text-centered"href="https://github.com/Ihsane39/">Github</a></td>
+									<td><a class="img has-text-centered"href="https://github.com/IvanMiao">Github</a></td>
 								</tr>
 							</tbody>
 						</table>
-					</div>
-				</div>
-			</section>
+</div>
+</section>
+
 
 
 
