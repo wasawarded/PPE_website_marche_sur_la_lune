@@ -1,4 +1,5 @@
-# Ce fichier est consacré aux suivis du projet
+
+# **Ce fichier est consacré aux suivis du projet**
 ## 18/12/2024
 ### text anglais
 - Transformer les textes dumps non utf-8 en utf-8 : curl permet de récupérer à la fois les métadonnées et les textes, avec l'option -o on peut les enregistrer dans notre ordinateur, puis utiliser lynx to récupérer les informations qui nous intéressent avec les html récupérés, au lieu de naviguer encore une fois avec les urls
